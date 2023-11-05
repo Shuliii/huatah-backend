@@ -1,5 +1,6 @@
 const express = require("express");
 const path = require("path");
+const connection = require("./util/db");
 
 const { readFile, writeFile } = require("./util/util");
 const { checkDuplicate } = require("./util/auth");
@@ -12,7 +13,15 @@ app.use(bodyParser.urlencoded({ extended: false }));
 const PORT = 3030;
 
 app.get("/test", (req, res) => {
-  res.json({ message: "Hello World!" });
+  const queryString1 = "SELECT * from userlist";
+
+  connection.query(queryString1, (err, result) => {
+    const data = result.map((item) => item.Username);
+    res.json({
+      message: "successful",
+      data,
+    });
+  });
 });
 
 app.get("/test/more", (req, res) => {
