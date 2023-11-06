@@ -1,0 +1,105 @@
+[
+  {
+    "type": "csgo_logo",
+    "time": "2023-07-26 20:30:00+0800",
+    "match_name": "Mouz vs ITB Match",
+    "team1": "Mouz",
+    "team2": "ITB",
+    "bet_list": [
+      { "name": "Mouz Winner", "odds": 1.16 },
+      { "name": "ITB Winner", "odds": 4.84 },
+      { "name": "Mouz -5.5", "odds": 1.62 },
+      { "name": "ITB +5.5", "odds": 2.16 },
+      { "name": "Mouz -6.5", "odds": 1.82 },
+      { "name": "ITB +6.5", "odds": 1.94 },
+      { "name": "Mouz -7.5", "odds": 2.02 },
+      { "name": "ITB +7.5", "odds": 1.74 },
+      { "name": "Over 25.5", "odds": 1.97 },
+      { "name": "Under 25.5", "odds": 1.79 },
+      { "name": "Odd", "odds": 2.04 },
+      { "name": "Even", "odds": 1.74 }
+    ]
+  },
+  {
+    "type": "csgo_logo",
+    "time": "2023-10-22 15:30:00+0800",
+    "match_name": "Faze vs COL Match",
+    "team1": "Faze",
+    "team2": "COL",
+    "bet_list": [
+      { "name": "Faze Winner", "odds": 1.48 },
+      { "name": "COL Winner", "odds": 2.61 },
+      { "name": "Faze -1.5", "odds": 2.29 },
+      { "name": "COL +1.5", "odds": 1.61 },
+      { "name": "Over 2.5", "odds": 1.94 },
+      { "name": "Under 2.5", "odds": 1.82 },
+      { "name": "Map score 2-0", "odds": 2.29 },
+      { "name": "Map score 2-1", "odds": 3.32 },
+      { "name": "Map score 0-2", "odds": 4.33 },
+      { "name": "Map score 1-2", "odds": 4.12 }
+    ]
+  },
+  {
+    "type": "csgo_logo",
+    "time": "2023-10-22 15:30:00+0800",
+    "match_name": "Faze vs COL Map1",
+    "team1": "Faze",
+    "team2": "COL",
+    "bet_list": [
+      { "name": "Faze Winner", "odds": 1.56 },
+      { "name": "COL Winner", "odds": 2.38 },
+      { "name": "Faze -2.5", "odds": 1.85 },
+      { "name": "COL +2.5", "odds": 1.91 },
+      { "name": "Faze -3.5", "odds": 2.05 },
+      { "name": "COL +3.5", "odds": 1.71 },
+      { "name": "Faze -4.5", "odds": 2.33 },
+      { "name": "COL +4.5", "odds": 1.51 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.86 },
+      { "name": "Odd", "odds": 1.96 },
+      { "name": "Even", "odds": 1.8 }
+    ]
+  },
+  {
+    "type": "csgo_logo",
+    "time": "2023-10-22 15:30:00+0800",
+    "match_name": "Faze vs COL Map2",
+    "team1": "Faze",
+    "team2": "COL",
+    "bet_list": [
+      { "name": "Faze Winner", "odds": 1.56 },
+      { "name": "COL Winner", "odds": 2.38 },
+      { "name": "Faze -2.5", "odds": 1.85 },
+      { "name": "COL +2.5", "odds": 1.91 },
+      { "name": "Faze -3.5", "odds": 2.05 },
+      { "name": "COL +3.5", "odds": 1.71 },
+      { "name": "Faze -4.5", "odds": 2.33 },
+      { "name": "COL +4.5", "odds": 1.51 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.86 },
+      { "name": "Odd", "odds": 1.96 },
+      { "name": "Even", "odds": 1.8 }
+    ]
+  },
+  {
+    "type": "csgo_logo",
+    "time": "2023-10-22 15:30:00+0800",
+    "match_name": "Faze vs COL Map3",
+    "team1": "Faze",
+    "team2": "COL",
+    "bet_list": [
+      { "name": "Faze Winner", "odds": 1.56 },
+      { "name": "COL Winner", "odds": 2.38 },
+      { "name": "Faze -2.5", "odds": 1.85 },
+      { "name": "COL +2.5", "odds": 1.91 },
+      { "name": "Faze -3.5", "odds": 2.05 },
+      { "name": "COL +3.5", "odds": 1.71 },
+      { "name": "Faze -4.5", "odds": 2.33 },
+      { "name": "COL +4.5", "odds": 1.51 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.86 },
+      { "name": "Odd", "odds": 1.96 },
+      { "name": "Even", "odds": 1.8 }
+    ]
+  }
+]

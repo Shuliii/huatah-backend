@@ -24,8 +24,34 @@ app.get("/test", (req, res) => {
   });
 });
 
-app.get("/test/more", (req, res) => {
-  res.json({ message: "This is another test case!" });
+app.get("/Dota2", async (req, res) => {
+  const result = path.join(__dirname, "/data/dota2.json");
+  const data = await readFile(result);
+  res.json({ data });
+});
+
+app.get("/Counter-strike", async (req, res) => {
+  const result = path.join(__dirname, "/data/Counter-strike.json");
+  const data = await readFile(result);
+  res.json({ data });
+});
+
+app.get("/NBA", async (req, res) => {
+  const result = path.join(__dirname, "/data/NBA.json");
+  const data = await readFile(result);
+  res.json({ data });
+});
+
+app.get("/Soccer", async (req, res) => {
+  const result = path.join(__dirname, "/data/Soccer.json");
+  const data = await readFile(result);
+  res.json({ data });
+});
+
+app.get("/Valorant", async (req, res) => {
+  const result = path.join(__dirname, "/data/Valorant.json");
+  const data = await readFile(result);
+  res.json({ data });
 });
 
 app.get("/users", async (req, res) => {
