@@ -25,7 +25,7 @@ app.get("/test", (req, res) => {
 });
 
 app.get("/Dota2", async (req, res) => {
-  const result = path.join(__dirname, "/data/dota2.json");
+  const result = path.join(__dirname, "/data/Dota2.json");
   const data = await readFile(result);
   res.json({ data });
 });
