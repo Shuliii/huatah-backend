@@ -24,6 +24,22 @@ app.get("/test", (req, res) => {
   });
 });
 
+app.get("/user/:name", (req, res) => {
+  const queryString = "SELECT * FROM userlist WHERE Username = ?";
+  connection.query(queryString, [req.params.name], (err, result) => {
+    if (result.length === 0) {
+      res.json({
+        message: "User does not exist",
+      });
+    } else {
+      res.json({
+        message: "successful",
+        data: result,
+      });
+    }
+  });
+});
+
 app.get("/Dota2", async (req, res) => {
   const result = path.join(__dirname, "/data/Dota2.json");
   const data = await readFile(result);
