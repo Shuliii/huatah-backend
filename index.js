@@ -1,6 +1,7 @@
 const express = require("express");
 const path = require("path");
 const connection = require("./util/db");
+const cors = require("cors");
 
 const { readFile, writeFile } = require("./util/util");
 const { checkDuplicate } = require("./util/auth");
@@ -11,6 +12,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 const PORT = 3030;
+app.use(cors());
 
 app.get("/test", (req, res) => {
   const queryString1 = "SELECT * from userlist";
