@@ -48,7 +48,7 @@ app.get("/Dota2", async (req, res) => {
   res.json({ data });
 });
 
-app.get("/Counter-strike", async (req, res) => {
+app.get("/CS", async (req, res) => {
   const result = path.join(__dirname, "/data/Counter-strike.json");
   const data = await readFile(result);
   res.json({ data });
