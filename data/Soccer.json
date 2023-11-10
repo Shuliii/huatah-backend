@@ -5,10 +5,12 @@
     "match_name": "Tottenham vs Chelsea",
     "team1": "Tottenham",
     "team2": "Chelsea",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Tottenham Winner", "odds": 2.21 },
       { "name": "Chelsea Winner", "odds": 3.1 },
-      { "name": "Draw", "odds": 3.65 },
+      { "name": "Draw", "odds": 3.65 }
+    ],
+    "more_bet_list": [
       { "name": "Tottenham -0", "odds": 1.64 },
       { "name": "Chelsea +0", "odds": 2.28 },
       { "name": "Tottenham -0.25", "odds": 1.95 },
@@ -33,10 +35,12 @@
     "match_name": "Luton vs Liverpool",
     "team1": "Luton",
     "team2": "Liverpool",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Luton Winner", "odds": 12.0 },
       { "name": "Liverpool Winner", "odds": 1.2 },
-      { "name": "Draw", "odds": 7.4 },
+      { "name": "Draw", "odds": 7.4 }
+    ],
+    "more_bet_list": [
       { "name": "Luton +1.5", "odds": 2.33 },
       { "name": "Liverpool -1.5", "odds": 1.6 },
       { "name": "Luton +1.75", "odds": 2.21 },
@@ -61,10 +65,12 @@
     "match_name": "Fulham vs Man United",
     "team1": "Fulham",
     "team2": "Man United",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Fulham Winner", "odds": 3.25 },
       { "name": "Man United Winner", "odds": 2.13 },
-      { "name": "Draw", "odds": 3.65 },
+      { "name": "Draw", "odds": 3.65 }
+    ],
+    "more_bet_list": [
       { "name": "Fulham +0", "odds": 2.3 },
       { "name": "Man United -0", "odds": 1.59 },
       { "name": "Fulham +0.25", "odds": 2.03 },
@@ -89,10 +95,12 @@
     "match_name": "Brentford vs West Ham",
     "team1": "Brentford",
     "team2": "West Ham",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Brentford Winner", "odds": 2.11 },
       { "name": "West Ham Winner", "odds": 3.3 },
-      { "name": "Draw", "odds": 3.7 },
+      { "name": "Draw", "odds": 3.7 }
+    ],
+    "more_bet_list": [
       { "name": "Brentford -0", "odds": 1.51 },
       { "name": "West Ham +0", "odds": 2.38 },
       { "name": "Brentford -0.25", "odds": 1.79 },
@@ -117,10 +125,12 @@
     "match_name": "Man City vs Bournemouth",
     "team1": "Man City",
     "team2": "Bournemouth",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Man City Winner", "odds": 1.08 },
       { "name": "Bournemouth Winner", "odds": 30.0 },
-      { "name": "Draw", "odds": 12.0 },
+      { "name": "Draw", "odds": 12.0 }
+    ],
+    "more_bet_list": [
       { "name": "Man City -2.25", "odds": 1.59 },
       { "name": "Bournemouth +2.25", "odds": 2.3 },
       { "name": "Man City -2.5", "odds": 1.77 },
@@ -141,10 +151,12 @@
     "match_name": "Sheffield vs Wolves",
     "team1": "Sheffield",
     "team2": "Wolves",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Sheffield Winner", "odds": 3.75 },
       { "name": "Wolves Winner", "odds": 2.0 },
-      { "name": "Draw", "odds": 3.55 },
+      { "name": "Draw", "odds": 3.55 }
+    ],
+    "more_bet_list": [
       { "name": "Sheffield +0", "odds": 2.42 },
       { "name": "Wolves -0", "odds": 1.47 },
       { "name": "Sheffield +0.25", "odds": 2.18 },
@@ -169,10 +181,12 @@
     "match_name": "Burnley vs Crystal Palace",
     "team1": "Burnley",
     "team2": "Crystal Palace",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Burnley Winner", "odds": 2.87 },
       { "name": "Crystal Palace Winner", "odds": 2.53 },
-      { "name": "Draw", "odds": 3.25 },
+      { "name": "Draw", "odds": 3.25 }
+    ],
+    "more_bet_list": [
       { "name": "Burnley -0", "odds": 2.12 },
       { "name": "Crystal Palace +0", "odds": 1.77 },
       { "name": "Burnley -0.25", "odds": 2.31 },
@@ -197,10 +211,12 @@
     "match_name": "Everton vs Brighton",
     "team1": "Everton",
     "team2": "Brighton",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Everton Winner", "odds": 3.1 },
       { "name": "Brighton Winner", "odds": 2.17 },
-      { "name": "Draw", "odds": 3.75 },
+      { "name": "Draw", "odds": 3.75 }
+    ],
+    "more_bet_list": [
       { "name": "Everton +0", "odds": 2.24 },
       { "name": "Brighton -0", "odds": 1.65 },
       { "name": "Everton +0.25", "odds": 1.93 },
@@ -225,10 +241,12 @@
     "match_name": "Newcastle vs Arsenal",
     "team1": "Newcastle",
     "team2": "Arsenal",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Newcastle Winner", "odds": 2.82 },
       { "name": "Arsenal Winner", "odds": 2.42 },
-      { "name": "Draw", "odds": 3.55 },
+      { "name": "Draw", "odds": 3.55 }
+    ],
+    "more_bet_list": [
       { "name": "Newcastle -0", "odds": 2.07 },
       { "name": "Arsenal +0", "odds": 1.82 },
       { "name": "Newcastle -0.25", "odds": 2.29 },
@@ -253,10 +271,12 @@
     "match_name": "Union Berlin vs Eintracht Frankfurt",
     "team1": "Union Berlin",
     "team2": "Eintracht Frankfurt",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Union Berlin Winner", "odds": 2.51 },
       { "name": "Eintracht Frankfurt Winner", "odds": 2.81 },
-      { "name": "Draw", "odds": 3.4 },
+      { "name": "Draw", "odds": 3.4 }
+    ],
+    "more_bet_list": [
       { "name": "Union Berlin +0", "odds": 1.89 },
       { "name": "Eintracht Frankfurt +0", "odds": 2.03 },
       { "name": "Union Berlin +0.25", "odds": 1.58 },
@@ -281,10 +301,12 @@
     "match_name": "SC Freiburg vs Monchengladbach",
     "team1": "SC Freiburg",
     "team2": "Monchengladbach",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "SC Freiburg Winner", "odds": 2.13 },
       { "name": "Monchengladbach Winner", "odds": 3.2 },
-      { "name": "Draw", "odds": 3.7 },
+      { "name": "Draw", "odds": 3.7 }
+    ],
+    "more_bet_list": [
       { "name": "SC Freiburg -0", "odds": 1.62 },
       { "name": "Monchengladbach +0", "odds": 2.3 },
       { "name": "SC Freiburg -0.25", "odds": 1.87 },
@@ -309,10 +331,12 @@
     "match_name": "Hoffenheim vs Leverkusen",
     "team1": "Hoffenheim",
     "team2": "Leverkusen",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Hoffenheim Winner", "odds": 5.2 },
       { "name": "Leverkusen Winner", "odds": 1.54 },
-      { "name": "Draw", "odds": 4.8 },
+      { "name": "Draw", "odds": 4.8 }
+    ],
+    "more_bet_list": [
       { "name": "Hoffenheim +0.75", "odds": 2.25 },
       { "name": "Leverkusen -0.75", "odds": 1.67 },
       { "name": "Hoffenheim +1", "odds": 2.09 },
@@ -337,10 +361,12 @@
     "match_name": "Mainz vs RB Leipzig",
     "team1": "Mainz",
     "team2": "RB Leipzig",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Mainz Winner", "odds": 4.95 },
       { "name": "RB Leipzig Winner", "odds": 1.64 },
-      { "name": "Draw", "odds": 4.2 },
+      { "name": "Draw", "odds": 4.2 }
+    ],
+    "more_bet_list": [
       { "name": "Mainz +0.5", "odds": 2.28 },
       { "name": "RB Leipzig -0.5", "odds": 1.64 },
       { "name": "Mainz +0.75", "odds": 2.12 },
@@ -365,10 +391,12 @@
     "match_name": "Koln vs Augsburg",
     "team1": "Koln",
     "team2": "Augsburg",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Koln Winner", "odds": 2.25 },
       { "name": "Augsburg Winner", "odds": 2.99 },
-      { "name": "Draw", "odds": 3.7 },
+      { "name": "Draw", "odds": 3.7 }
+    ],
+    "more_bet_list": [
       { "name": "Koln -0", "odds": 1.67 },
       { "name": "Augsburg +0", "odds": 2.25 },
       { "name": "Koln -0.25", "odds": 1.96 },
@@ -394,10 +422,12 @@
     "match_name": "Dortmund vs Bayern",
     "team1": "Dortmund",
     "team2": "Bayern",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Dortmund Winner", "odds": 3.4 },
       { "name": "Bayern Winner", "odds": 1.93 },
-      { "name": "Draw", "odds": 4.25 },
+      { "name": "Draw", "odds": 4.25 }
+    ],
+    "more_bet_list": [
       { "name": "Dortmund +0.25", "odds": 2.22 },
       { "name": "Bayern -0.25", "odds": 1.7 },
       { "name": "Dortmund +0.5", "odds": 1.99 },
@@ -422,10 +452,12 @@
     "match_name": "Genoa vs Roma",
     "team1": "Genoa",
     "team2": "Roma",
-    "bet_list": [
+    "main_bet_list": [
       { "name": "Genoa Winner", "odds": 4.1 },
       { "name": "Roma Winner", "odds": 2.05 },
-      { "name": "Draw", "odds": 3.15 },
+      { "name": "Draw", "odds": 3.15 }
+    ],
+    "more_bet_list": [
       { "name": "Genoa -0", "odds": 2.47 },
       { "name": "Roma +0", "odds": 1.45 },
       { "name": "Genoa +0.25", "odds": 2.13 },
