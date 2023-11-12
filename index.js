@@ -42,36 +42,6 @@ app.get("/user/:name", (req, res) => {
   });
 });
 
-app.get("/Dota2", async (req, res) => {
-  const result = path.join(__dirname, "/data/Dota2.json");
-  const data = await readFile(result);
-  res.json({ data });
-});
-
-app.get("/CS", async (req, res) => {
-  const result = path.join(__dirname, "/data/Counter-strike.json");
-  const data = await readFile(result);
-  res.json({ data });
-});
-
-app.get("/NBA", async (req, res) => {
-  const result = path.join(__dirname, "/data/NBA.json");
-  const data = await readFile(result);
-  res.json({ data });
-});
-
-app.get("/Soccer", async (req, res) => {
-  const result = path.join(__dirname, "/data/Soccer.json");
-  const data = await readFile(result);
-  res.json({ data });
-});
-
-app.get("/Valorant", async (req, res) => {
-  const result = path.join(__dirname, "/data/Valorant.json");
-  const data = await readFile(result);
-  res.json({ data });
-});
-
 app.get("/users", async (req, res) => {
   const result = path.join(__dirname, "/auth.json");
   const data = await readFile(result);
@@ -115,6 +85,41 @@ app.post("/users", async (req, res) => {
   } catch (error) {
     return error;
   }
+});
+
+app.post("/postbet", (req, res) => {
+  console.log(req.body);
+  res.json({ message: "successful" });
+});
+
+app.get("/Dota2", async (req, res) => {
+  const result = path.join(__dirname, "/data/Dota2.json");
+  const data = await readFile(result);
+  res.json({ data });
+});
+
+app.get("/CS", async (req, res) => {
+  const result = path.join(__dirname, "/data/CS.json");
+  const data = await readFile(result);
+  res.json({ data });
+});
+
+app.get("/NBA", async (req, res) => {
+  const result = path.join(__dirname, "/data/NBA.json");
+  const data = await readFile(result);
+  res.json({ data });
+});
+
+app.get("/Soccer", async (req, res) => {
+  const result = path.join(__dirname, "/data/Soccer.json");
+  const data = await readFile(result);
+  res.json({ data });
+});
+
+app.get("/Valorant", async (req, res) => {
+  const result = path.join(__dirname, "/data/Valorant.json");
+  const data = await readFile(result);
+  res.json({ data });
 });
 
 app.listen(PORT, () => {
