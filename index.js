@@ -88,7 +88,8 @@ app.post("/users", async (req, res) => {
 });
 
 app.post("/postbet", (req, res) => {
-  console.log(req.body);
+  const data = req.body;
+
   res.json({ message: "successful" });
 });
 
