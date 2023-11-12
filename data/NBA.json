@@ -10,8 +10,6 @@
       { "name": "Warriors Winner", "odds": 1.31 }
     ],
     "more_bet_list": [
-      { "name": "Pistons Winner", "odds": 2.96 },
-      { "name": "Warriors Winner", "odds": 1.31 },
       { "name": "Pistons +5", "odds": 2.06 },
       { "name": "Warriors -5", "odds": 1.82 },
       { "name": "Pistons +5.5", "odds": 1.99 },
@@ -37,8 +35,6 @@
       { "name": "Spurs Winner", "odds": 1.63 }
     ],
     "more_bet_list": [
-      { "name": "Pacers Winner", "odds": 2.2 },
-      { "name": "Spurs Winner", "odds": 1.63 },
       { "name": "Pacers -2.5", "odds": 2.01 },
       { "name": "Spurs +2.5", "odds": 1.87 },
       { "name": "Pacers -3", "odds": 1.94 },
@@ -64,8 +60,6 @@
       { "name": "Wizards Winner", "odds": 1.9 }
     ],
     "more_bet_list": [
-      { "name": "76ers Winner", "odds": 1.9 },
-      { "name": "Wizards Winner", "odds": 1.9 },
       { "name": "76ers -1", "odds": 1.93 },
       { "name": "Wizards +1", "odds": 1.95 },
       { "name": "76ers -1.5", "odds": 2.0 },
@@ -91,8 +85,6 @@
       { "name": "Mavericks Winner", "odds": 3.63 }
     ],
     "more_bet_list": [
-      { "name": "Magic Winner", "odds": 1.18 },
-      { "name": "Mavericks Winner", "odds": 3.63 },
       { "name": "Magic -11", "odds": 1.87 },
       { "name": "Mavericks +11", "odds": 2.01 },
       { "name": "Magic -11.5", "odds": 1.94 },
@@ -118,8 +110,6 @@
       { "name": "Clippers Winner", "odds": 1.68 }
     ],
     "more_bet_list": [
-      { "name": "Knicks Winner", "odds": 2.13 },
-      { "name": "Clippers Winner", "odds": 1.68 },
       { "name": "Knicks +2", "odds": 2.04 },
       { "name": "Clippers -2", "odds": 1.84 },
       { "name": "Knicks +2.5", "odds": 1.97 },
@@ -145,8 +135,6 @@
       { "name": "Lakers Winner", "odds": 3.12 }
     ],
     "more_bet_list": [
-      { "name": "Heat Winner", "odds": 1.27 },
-      { "name": "Lakers Winner", "odds": 3.12 },
       { "name": "Heat -7.5", "odds": 1.83 },
       { "name": "Lakers +7.5", "odds": 2.05 },
       { "name": "Heat -8", "odds": 1.9 },
@@ -172,8 +160,6 @@
       { "name": "Bucks Winner", "odds": 1.66 }
     ],
     "more_bet_list": [
-      { "name": "Nets Winner", "odds": 2.16 },
-      { "name": "Bucks Winner", "odds": 1.66 },
       { "name": "Nets +2", "odds": 2.04 },
       { "name": "Bucks -2", "odds": 1.84 },
       { "name": "Nets +2.5", "odds": 1.97 },
@@ -199,8 +185,6 @@
       { "name": "Celtics Winner", "odds": 3.08 }
     ],
     "more_bet_list": [
-      { "name": "Timberwolves Winner", "odds": 1.28 },
-      { "name": "Celtics Winner", "odds": 3.08 },
       { "name": "Timberwolves -8", "odds": 1.83 },
       { "name": "Celtics +8", "odds": 1.98 },
       { "name": "Timberwolves -8.5", "odds": 1.9 },
@@ -226,8 +210,6 @@
       { "name": "Jazz Winner", "odds": 1.64 }
     ],
     "more_bet_list": [
-      { "name": "Bulls Winner", "odds": 2.19 },
-      { "name": "Jazz Winner", "odds": 1.64 },
       { "name": "Bulls +2.5", "odds": 1.97 },
       { "name": "Jazz -2.5", "odds": 1.91 },
       { "name": "Bulls +3", "odds": 1.9 },
@@ -253,8 +235,6 @@
       { "name": "Kings Winner", "odds": 2.42 }
     ],
     "more_bet_list": [
-      { "name": "Rockets Winner", "odds": 1.5 },
-      { "name": "Kings Winner", "odds": 2.42 },
       { "name": "Rockets -4.5", "odds": 1.85 },
       { "name": "Kings +4.5", "odds": 2.03 },
       { "name": "Rockets -5", "odds": 1.92 },
@@ -280,8 +260,6 @@
       { "name": "Hawks Winner", "odds": 2.03 }
     ],
     "more_bet_list": [
-      { "name": "Thunder Winner", "odds": 1.77 },
-      { "name": "Hawks Winner", "odds": 2.03 },
       { "name": "Thunder -1.5", "odds": 1.87 },
       { "name": "Hawks +1.5", "odds": 2.01 },
       { "name": "Thunder -2", "odds": 1.94 },
@@ -307,8 +285,6 @@
       { "name": "Pelicans Winner", "odds": 2.51 }
     ],
     "more_bet_list": [
-      { "name": "Nuggets Winner", "odds": 1.46 },
-      { "name": "Pelicans Winner", "odds": 2.51 },
       { "name": "Nuggets -5", "odds": 1.83 },
       { "name": "Pelicans +5", "odds": 2.05 },
       { "name": "Nuggets -5.5", "odds": 1.9 },
@@ -334,8 +310,6 @@
       { "name": "Kings Winner", "odds": 2.81 }
     ],
     "more_bet_list": [
-      { "name": "Warriors Winner", "odds": 1.35 },
-      { "name": "Kings Winner", "odds": 2.81 },
       { "name": "Warriors -6.5", "odds": 1.83 },
       { "name": "Kings +6.5", "odds": 2.05 },
       { "name": "Warriors -7", "odds": 1.9 },
