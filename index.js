@@ -85,44 +85,22 @@ app.post("/users", async (req, res) => {
   }
 });
 
-// app.post("/postbet", (req, res) => {
-//   const data = req.body;
-//   let response = [];
-//   data.forEach(async (item) => {
-//     //get match time
-//     const filePath = path.join(__dirname, `/data/${item.Type}.json`);
-//     const matchTime = await getTime(filePath, item.Match_Name);
-//     console.log(matchTime);
-
-//     //get bet time and format bet time
-//     const currentDate = new Date();
-//     const formattedDate = formatDate(currentDate);
-//     console.log(formattedDate);
-
-//     //check if bet time > match time
-//     const formattedMatchTime = new Date(matchTime);
-
-//     if (formattedMatchTime - currentDate > 0) {
-//       const queryString = `INSERT INTO BETLIST (ID, Username, Bet_Time, Match_Name, Bet_Name, Amount, Odds) values (NULL, '${item.Username}', '${formattedDate}','${item.Match_Name}', '${item.Bet_Name}', ${item.Amount}, ${item.Odds})`;
-//       connection.query(queryString, (err, result) => {
-//         if (err) {
-//           console.log(err);
-//           response.push({ message: "unsuccessful" });
-//         } else {
-//           console.log("successful");
-//           response.push({ message: "successful" });
-//         }
-//       });
-//     } else {
-//       response.push({ message: "unsuccessful" });
-//     }
-
-//     if (response.length === data.length) {
-//       console.log(response);
-//       res.status(204).json({ response });
-//     }
-//   });
-// });
+app.get("/active/:name", (req, res) => {
+  const queryString =
+    "SELECT * FROM betlist WHERE Username = ? and Bet_Result is NULL";
+  connection.query(queryString, [req.params.name], (err, result) => {
+    if (result.length === 0) {
+      res.json({
+        message: "No Active Bets",
+      });
+    } else {
+      res.json({
+        message: "successful",
+        data: result,
+      });
+    }
+  });
+});
 
 app.post("/postbet", async (req, res) => {
   const data = req.body;
