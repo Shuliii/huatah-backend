@@ -3,7 +3,7 @@ const path = require("path");
 const connection = require("./util/db");
 const cors = require("cors");
 
-const { readFile, writeFile } = require("./util/util");
+const { readFile, writeFile, getTime } = require("./util/util");
 const { checkDuplicate } = require("./util/auth");
 
 const app = express();
@@ -55,8 +55,6 @@ app.get("/users", async (req, res) => {
 app.post("/users", async (req, res) => {
   const result = path.join(__dirname, "/auth.json");
   const toBeAdded = req.body;
-  console.log(toBeAdded);
-
   //do server side validation
 
   if (toBeAdded.username.trim().length === 0) {
@@ -89,7 +87,28 @@ app.post("/users", async (req, res) => {
 
 app.post("/postbet", (req, res) => {
   const data = req.body;
+  data.forEach(async (item) => {
+    const filePath = path.join(__dirname, `/${item.type}.json`);
+    console.log(filePath);
+    const matchTime = await getTime(filePath, item.Match_Name);
+    console.log(matchTime);
+    //get time for the placed bets
+    const currentDate = new Date();
+    const utcTime = currentDate.getTime();
+    const timeZoneOffset = 8 * 60 * 60 * 1000;
+    const localtime = utcTime + timeZoneOffset;
+    const localDate = new Date(localtime);
+    const formattedDate = localDate
+      .toISOString()
+      .replace(/T/, " ")
+      .replace(/\..+/, "");
 
+    // const queryString = `INSERT INTO BETLIST (ID, Username, Bet_Time, Match_Name, Bet_Name, Amount, Odds) values (NULL, '${item.Username}', '${formattedDate}','${item.Match_Name}', '${item.Bet_Name}', ${item.Amount}, ${item.Odds})`;
+    // connection.query(queryString, (err, result) => {
+    //   err ? console.log(err) : console.log("successful");
+    //   res.status(204);
+    // });
+  });
   res.json({ message: "successful" });
 });
 

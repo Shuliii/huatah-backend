@@ -1,6 +1,6 @@
 [
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-30 01:00:00+0800",
     "match_name": "LGD vs GG Match",
     "team1": "LGD",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 08:30:00+0800",
     "match_name": "Spirit vs GG Map4",
     "team1": "Spirit",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 09:30:00+0800",
     "match_name": "Spirit vs GG Map5",
     "team1": "Spirit",
@@ -59,7 +59,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-30 01:30:00+0800",
     "match_name": "LGD vs GG Map3",
     "team1": "LGD",
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 04:00:00+0800",
     "match_name": "Azure Ray vs BB Match",
     "team1": "Azure Ray",
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 04:00:00+0800",
     "match_name": "Azure Ray vs BB Map1",
     "team1": "Azure Ray",
@@ -118,7 +118,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 04:00:00+0800",
     "match_name": "Azure Ray vs BB Map2",
     "team1": "Azure Ray",
@@ -137,7 +137,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 04:00:00+0800",
     "match_name": "Azure Ray vs BB Map3",
     "team1": "Azure Ray",
@@ -157,7 +157,7 @@
   },
 
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 07:00:00+0800",
     "match_name": "Spirit vs LGD Match",
     "team1": "Spirit",
@@ -178,7 +178,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 07:00:00+0800",
     "match_name": "Spirit vs LGD Map1",
     "team1": "Spirit",
@@ -197,7 +197,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 10:58:00+0800",
     "match_name": "Spirit vs LGD Map2",
     "team1": "Spirit",
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 07:15:00+0800",
     "match_name": "Spirit vs LGD Map3",
     "team1": "Spirit",
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 12:00:00+0800",
     "match_name": "GG vs Azure Ray Match",
     "team1": "GG",
@@ -256,7 +256,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 12:00:00+0800",
     "match_name": "GG vs Azure Ray Map1",
     "team1": "GG",
@@ -275,7 +275,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 12:45:00+0800",
     "match_name": "GG vs Azure Ray Map2",
     "team1": "GG",
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "type": "dota_logo",
+    "type": "Dota2",
     "time": "2023-10-29 13:30:00+0800",
     "match_name": "GG vs Azure Ray Map3",
     "team1": "GG",

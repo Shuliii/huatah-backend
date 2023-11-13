@@ -1,6 +1,6 @@
 [
   {
-    "type": "csgo_logo",
+    "type": "CS",
     "time": "2023-07-26 20:30:00+0800",
     "match_name": "Mouz vs ITB Match",
     "team1": "Mouz",
@@ -24,7 +24,7 @@
     ]
   },
   {
-    "type": "csgo_logo",
+    "type": "CS",
     "time": "2023-10-22 15:30:00+0800",
     "match_name": "Faze vs COL Match",
     "team1": "Faze",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "type": "csgo_logo",
+    "type": "CS",
     "time": "2023-10-22 15:30:00+0800",
     "match_name": "Faze vs COL Map1",
     "team1": "Faze",
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "type": "csgo_logo",
+    "type": "CS",
     "time": "2023-10-22 15:30:00+0800",
     "match_name": "Faze vs COL Map2",
     "team1": "Faze",
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "type": "csgo_logo",
+    "type": "CS",
     "time": "2023-10-22 15:30:00+0800",
     "match_name": "Faze vs COL Map3",
     "team1": "Faze",
