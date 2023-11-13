@@ -19,16 +19,31 @@ async function writeFile(filePath, data) {
 
 async function getTime(filePath, Match_Name) {
   try {
-    const data = await fs.readFile(filePath, "utf8");
-    const filteredData = await data
+    const fileContent = await fs.readFile(filePath, "utf8");
+    const jsonData = JSON.parse(fileContent);
+    const filteredData = jsonData
       .filter((item) => item.match_name === Match_Name)
       .map((item) => item.time);
-    return JSON.parse(filteredData);
+    return filteredData[0];
   } catch (error) {
     console.error("Error occured when trying to extract time");
   }
 }
 
+function formatDate(datetime) {
+  const utcTime = datetime.getTime();
+  const timeZoneOffset = 8 * 60 * 60 * 1000;
+  const localtime = utcTime + timeZoneOffset;
+  const localDate = new Date(localtime);
+  const formattedDate = localDate
+    .toISOString()
+    .replace(/T/, " ")
+    .replace(/\..+/, "");
+
+  return formattedDate;
+}
+
+exports.formatDate = formatDate;
 exports.getTime = getTime;
 exports.readFile = readFile;
 exports.writeFile = writeFile;

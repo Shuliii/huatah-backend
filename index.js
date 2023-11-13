@@ -3,7 +3,7 @@ const path = require("path");
 const connection = require("./util/db");
 const cors = require("cors");
 
-const { readFile, writeFile, getTime } = require("./util/util");
+const { readFile, writeFile, getTime, formatDate } = require("./util/util");
 const { checkDuplicate } = require("./util/auth");
 
 const app = express();
@@ -85,31 +85,97 @@ app.post("/users", async (req, res) => {
   }
 });
 
-app.post("/postbet", (req, res) => {
-  const data = req.body;
-  data.forEach(async (item) => {
-    const filePath = path.join(__dirname, `/${item.type}.json`);
-    console.log(filePath);
-    const matchTime = await getTime(filePath, item.Match_Name);
-    console.log(matchTime);
-    //get time for the placed bets
-    const currentDate = new Date();
-    const utcTime = currentDate.getTime();
-    const timeZoneOffset = 8 * 60 * 60 * 1000;
-    const localtime = utcTime + timeZoneOffset;
-    const localDate = new Date(localtime);
-    const formattedDate = localDate
-      .toISOString()
-      .replace(/T/, " ")
-      .replace(/\..+/, "");
+// app.post("/postbet", (req, res) => {
+//   const data = req.body;
+//   let response = [];
+//   data.forEach(async (item) => {
+//     //get match time
+//     const filePath = path.join(__dirname, `/data/${item.Type}.json`);
+//     const matchTime = await getTime(filePath, item.Match_Name);
+//     console.log(matchTime);
 
-    // const queryString = `INSERT INTO BETLIST (ID, Username, Bet_Time, Match_Name, Bet_Name, Amount, Odds) values (NULL, '${item.Username}', '${formattedDate}','${item.Match_Name}', '${item.Bet_Name}', ${item.Amount}, ${item.Odds})`;
-    // connection.query(queryString, (err, result) => {
-    //   err ? console.log(err) : console.log("successful");
-    //   res.status(204);
-    // });
-  });
-  res.json({ message: "successful" });
+//     //get bet time and format bet time
+//     const currentDate = new Date();
+//     const formattedDate = formatDate(currentDate);
+//     console.log(formattedDate);
+
+//     //check if bet time > match time
+//     const formattedMatchTime = new Date(matchTime);
+
+//     if (formattedMatchTime - currentDate > 0) {
+//       const queryString = `INSERT INTO BETLIST (ID, Username, Bet_Time, Match_Name, Bet_Name, Amount, Odds) values (NULL, '${item.Username}', '${formattedDate}','${item.Match_Name}', '${item.Bet_Name}', ${item.Amount}, ${item.Odds})`;
+//       connection.query(queryString, (err, result) => {
+//         if (err) {
+//           console.log(err);
+//           response.push({ message: "unsuccessful" });
+//         } else {
+//           console.log("successful");
+//           response.push({ message: "successful" });
+//         }
+//       });
+//     } else {
+//       response.push({ message: "unsuccessful" });
+//     }
+
+//     if (response.length === data.length) {
+//       console.log(response);
+//       res.status(204).json({ response });
+//     }
+//   });
+// });
+
+app.post("/postbet", async (req, res) => {
+  const data = req.body;
+  let response = [];
+
+  try {
+    await Promise.all(
+      data.map(async (item) => {
+        // get match time
+        const filePath = path.join(__dirname, `/data/${item.Type}.json`);
+        const matchTime = await getTime(filePath, item.Match_Name);
+        console.log(matchTime);
+
+        // get bet time and format bet time
+        const currentDate = new Date();
+        const formattedDate = formatDate(currentDate);
+        console.log(formattedDate);
+
+        // check if bet time > match time
+        const formattedMatchTime = new Date(matchTime);
+
+        if (formattedMatchTime - currentDate > 0) {
+          const queryString = `INSERT INTO BETLIST (ID, Username, Bet_Time, Match_Name, Bet_Name, Amount, Odds) values (NULL, '${item.Username}', '${formattedDate}','${item.Match_Name}', '${item.Bet_Name}', ${item.Amount}, ${item.Odds})`;
+
+          // Use a promise wrapper for the query
+          const queryPromise = new Promise((resolve, reject) => {
+            connection.query(queryString, (err, result) => {
+              if (err) {
+                console.log(err);
+                response.push({ message: "unsuccessful" });
+                reject(err);
+              } else {
+                console.log("successful");
+                response.push({ message: "successful" });
+                resolve(result);
+              }
+            });
+          });
+
+          // Wait for the query to complete
+          await queryPromise;
+        } else {
+          response.push({ message: "unsuccessful" });
+        }
+      })
+    );
+
+    console.log(response);
+    res.json({ response });
+  } catch (error) {
+    console.error("Error processing requests:", error);
+    res.status(500).json({ error: "Internal Server Error" });
+  }
 });
 
 app.get("/Dota2", async (req, res) => {
