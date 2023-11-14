@@ -43,6 +43,17 @@ function formatDate(datetime) {
   return formattedDate;
 }
 
+function filterData(data) {
+  const now = new Date();
+  const filteredData = data.filter((item) => {
+    const matchTime = new Date(item.time);
+    return matchTime - now > 0;
+  });
+
+  return filteredData;
+}
+
+exports.filterData = filterData;
 exports.formatDate = formatDate;
 exports.getTime = getTime;
 exports.readFile = readFile;

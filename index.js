@@ -3,7 +3,13 @@ const path = require("path");
 const connection = require("./util/db");
 const cors = require("cors");
 
-const { readFile, writeFile, getTime, formatDate } = require("./util/util");
+const {
+  readFile,
+  writeFile,
+  getTime,
+  formatDate,
+  filterData,
+} = require("./util/util");
 const { checkDuplicate } = require("./util/auth");
 
 const app = express();
@@ -193,31 +199,36 @@ app.post("/postbet", async (req, res) => {
 app.get("/Dota2", async (req, res) => {
   const result = path.join(__dirname, "/data/Dota2.json");
   const data = await readFile(result);
-  res.json({ data });
+  const filteredData = filterData(data);
+  res.json({ data: filteredData });
 });
 
 app.get("/CS", async (req, res) => {
   const result = path.join(__dirname, "/data/CS.json");
   const data = await readFile(result);
-  res.json({ data });
+  const filteredData = filterData(data);
+  res.json({ data: filteredData });
 });
 
 app.get("/NBA", async (req, res) => {
   const result = path.join(__dirname, "/data/NBA.json");
   const data = await readFile(result);
-  res.json({ data });
+  const filteredData = filterData(data);
+  res.json({ data: filteredData });
 });
 
 app.get("/Soccer", async (req, res) => {
   const result = path.join(__dirname, "/data/Soccer.json");
   const data = await readFile(result);
-  res.json({ data });
+  const filteredData = filterData(data);
+  res.json({ data: filteredData });
 });
 
 app.get("/Valorant", async (req, res) => {
   const result = path.join(__dirname, "/data/Valorant.json");
   const data = await readFile(result);
-  res.json({ data });
+  const filteredData = filterData(data);
+  res.json({ data: filteredData });
 });
 
 app.listen(PORT, () => {
