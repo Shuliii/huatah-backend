@@ -102,6 +102,40 @@ app.get("/active/:name", (req, res) => {
   });
 });
 
+app.get("/summary/:name", (req, res) => {
+  const queryString =
+    "SELECT * FROM betlist where Username = ? and Bet_Result is not NULL order by id desc limit ?;";
+  connection.query(queryString, [req.params.name, 25], (err, result) => {
+    if (result.length === 0) {
+      res.json({
+        message: "No History Bets",
+      });
+    } else {
+      res.json({
+        message: "successful",
+        data: result,
+      });
+    }
+  });
+});
+
+app.get("/balance/:name", (req, res) => {
+  const queryString =
+    "SELECT SUM(Balance) as balance FROM betlist WHERE Username = ?";
+  connection.query(queryString, [req.params.name], (err, result) => {
+    if (result.length === 0) {
+      res.json({
+        message: "No History Bets",
+      });
+    } else {
+      res.json({
+        message: "successful",
+        data: result,
+      });
+    }
+  });
+});
+
 app.post("/postbet", async (req, res) => {
   const data = req.body;
   let response = [];
