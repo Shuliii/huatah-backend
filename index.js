@@ -93,7 +93,7 @@ app.post("/users", async (req, res) => {
 
 app.get("/active/:name", (req, res) => {
   const queryString =
-    "SELECT * FROM betlist WHERE Username = ? and Bet_Result is NULL";
+    "SELECT * FROM betlist WHERE Username = ? and Balance is NULL";
   connection.query(queryString, [req.params.name], (err, result) => {
     if (result.length === 0) {
       res.json({
@@ -110,7 +110,7 @@ app.get("/active/:name", (req, res) => {
 
 app.get("/summary/:name", (req, res) => {
   const queryString =
-    "SELECT * FROM betlist where Username = ? and Bet_Result is not NULL order by id desc limit ?;";
+    "SELECT * FROM betlist where Username = ? and Balance is not NULL order by id desc limit ?;";
   connection.query(queryString, [req.params.name, 25], (err, result) => {
     if (result.length === 0) {
       res.json({
