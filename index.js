@@ -201,6 +201,7 @@ app.get("/Dota2", async (req, res) => {
   const data = await readFile(result);
   const filteredData = filterData(data);
   res.json({ data: filteredData });
+  // res.json({ data });
 });
 
 app.get("/CS", async (req, res) => {
@@ -208,6 +209,7 @@ app.get("/CS", async (req, res) => {
   const data = await readFile(result);
   const filteredData = filterData(data);
   res.json({ data: filteredData });
+  // res.json({ data });
 });
 
 app.get("/NBA", async (req, res) => {
@@ -215,6 +217,7 @@ app.get("/NBA", async (req, res) => {
   const data = await readFile(result);
   const filteredData = filterData(data);
   res.json({ data: filteredData });
+  // res.json({ data });
 });
 
 app.get("/Soccer", async (req, res) => {
@@ -222,6 +225,7 @@ app.get("/Soccer", async (req, res) => {
   const data = await readFile(result);
   const filteredData = filterData(data);
   res.json({ data: filteredData });
+  // res.json({ data });
 });
 
 app.get("/Valorant", async (req, res) => {
@@ -229,6 +233,7 @@ app.get("/Valorant", async (req, res) => {
   const data = await readFile(result);
   const filteredData = filterData(data);
   res.json({ data: filteredData });
+  // res.json({ data });
 });
 
 app.listen(PORT, () => {

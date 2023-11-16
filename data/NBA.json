@@ -1,52 +1,52 @@
 [
   {
     "type": "NBA",
-    "time": "2023-11-16 08:30:00+0800",
+    "time": "2023-11-17 08:30:00+0800",
     "match_name": "Heat vs Nets",
     "team1": "Heat",
     "team2": "Nets",
     "main_bet_list": [
-      { "name": "Heat Winner", "odds": 2.84 },
-      { "name": "Nets Winner", "odds": 1.33 }
+      { "name": "Heat Winner", "odds": 1.53 },
+      { "name": "Nets Winner", "odds": 2.34 }
     ],
     "more_bet_list": [
-      { "name": "Heat +5", "odds": 2.1 },
-      { "name": "Nets -5", "odds": 1.76 },
-      { "name": "Heat +5.5", "odds": 2.03 },
-      { "name": "Nets -5.5", "odds": 1.83 },
-      { "name": "Heat +6", "odds": 1.96 },
-      { "name": "Nets -6", "odds": 1.9 },
-      { "name": "Over 242.5", "odds": 1.87 },
-      { "name": "Under 242.5", "odds": 1.97 },
-      { "name": "Over 243", "odds": 1.92 },
-      { "name": "Under 243", "odds": 1.92 },
-      { "name": "Over 243.5", "odds": 1.97 },
-      { "name": "Under 243.5", "odds": 1.87 }
+      { "name": "Heat -3.5", "odds": 1.8 },
+      { "name": "Nets +3.5", "odds": 2.06 },
+      { "name": "Heat -4", "odds": 1.87 },
+      { "name": "Nets +4", "odds": 1.99 },
+      { "name": "Heat -4.5", "odds": 1.94 },
+      { "name": "Nets +4.5", "odds": 1.92 },
+      { "name": "Over 217", "odds": 1.87 },
+      { "name": "Under 217", "odds": 1.97 },
+      { "name": "Over 217.5", "odds": 1.92 },
+      { "name": "Under 217.5", "odds": 1.92 },
+      { "name": "Over 218", "odds": 1.97 },
+      { "name": "Under 218", "odds": 1.87 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2023-11-16 11:00:00+0800",
+    "time": "2023-11-17 11:00:00+0800",
     "match_name": "Warriors vs Thunder",
     "team1": "Warriors",
     "team2": "Thunder",
     "main_bet_list": [
-      { "name": "Warriors Winner", "odds": 2.2 },
-      { "name": "Thunder Winner", "odds": 1.63 }
+      { "name": "Warriors Winner", "odds": 2.19 },
+      { "name": "Thunder Winner", "odds": 1.62 }
     ],
     "more_bet_list": [
-      { "name": "Warriors +2.5", "odds": 2.08 },
-      { "name": "Thunder -2.5", "odds": 1.78 },
-      { "name": "Warriors +3", "odds": 2.01 },
-      { "name": "Thunder -3", "odds": 1.85 },
-      { "name": "Warriors +3.5", "odds": 1.94 },
-      { "name": "Thunder -3.5", "odds": 1.92 },
-      { "name": "Over 224", "odds": 1.85 },
-      { "name": "Under 224", "odds": 1.99 },
-      { "name": "Over 224.5", "odds": 1.9 },
-      { "name": "Under 224.5", "odds": 1.94 },
-      { "name": "Over 225", "odds": 1.95 },
-      { "name": "Under 225", "odds": 1.89 }
+      { "name": "Warriors +2", "odds": 2.16 },
+      { "name": "Thunder -2", "odds": 1.7 },
+      { "name": "Warriors +2.5", "odds": 2.09 },
+      { "name": "Thunder -2.5", "odds": 1.77 },
+      { "name": "Warriors +3", "odds": 2.02 },
+      { "name": "Thunder -3", "odds": 1.84 },
+      { "name": "Over 227", "odds": 1.86 },
+      { "name": "Under 227", "odds": 1.98 },
+      { "name": "Over 227.5", "odds": 1.91 },
+      { "name": "Under 227.5", "odds": 1.93 },
+      { "name": "Over 228", "odds": 1.96 },
+      { "name": "Under 228", "odds": 1.88 }
     ]
   },
   {
