@@ -1,126 +1,126 @@
 [
   {
     "type": "Soccer",
-    "time": "2023-11-17 01:00:00+0800",
-    "match_name": "Azerbaijan vs Sweden",
-    "team1": "Azerbaijan",
-    "team2": "Sweden",
+    "time": "2023-11-17 23:00:00+0800",
+    "match_name": "Kazakhstan vs San Marino",
+    "team1": "Kazakhstan",
+    "team2": "San Marino",
     "main_bet_list": [
-      { "name": "Azerbaijan Winner", "odds": 7.89 },
-      { "name": "Draw", "odds": 4.59 },
-      { "name": "Sweden Winner", "odds": 1.42 }
+      { "name": "Kazakhstan Winner", "odds": 1.02 },
+      { "name": "Draw", "odds": 13.0 },
+      { "name": "San Marino Winner", "odds": 31.0 }
     ],
     "more_bet_list": [
-      { "name": "Azerbaijan +1", "odds": 2.19 },
-      { "name": "Sweden -1", "odds": 1.71 },
-      { "name": "Azerbaijan +1.25", "odds": 1.89 },
-      { "name": "Sweden -1.25", "odds": 2.01 },
-      { "name": "Azerbaijan +1.5", "odds": 1.67 },
-      { "name": "Sweden -1.5", "odds": 2.23 },
-      { "name": "Over 2.25", "odds": 1.62 },
-      { "name": "Under 2.25", "odds": 2.26 },
-      { "name": "Over 2.5", "odds": 1.83 },
-      { "name": "Under 2.5", "odds": 1.05 },
-      { "name": "Over 2.75", "odds": 2.09 },
-      { "name": "Under 2.75", "odds": 1.79 }
+      { "name": "Kazakhstan -2.75", "odds": 1.67 },
+      { "name": "San Marino +2.75", "odds": 2.15 },
+      { "name": "Kazakhstan -3", "odds": 1.81 },
+      { "name": "San Marino +3", "odds": 2.01 },
+      { "name": "Kazakhstan -3.25", "odds": 2.06 },
+      { "name": "San Marino +3.25", "odds": 1.76 },
+      { "name": "Over 3.25", "odds": 1.67 },
+      { "name": "Under 3.25", "odds": 2.13 },
+      { "name": "Over 3.5", "odds": 1.87 },
+      { "name": "Under 3.5", "odds": 1.93 },
+      { "name": "Over 3.75", "odds": 2.08 },
+      { "name": "Under 3.75", "odds": 1.72 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2023-11-18 01:00:00+0800",
+    "match_name": "Finland vs Northern Ireland",
+    "team1": "Finland",
+    "team2": "Northern Ireland",
+    "main_bet_list": [
+      { "name": "Finland Winner", "odds": 2.07 },
+      { "name": "Draw", "odds": 3.14 },
+      { "name": "Northern Ireland Winner", "odds": 4.04 }
+    ],
+    "more_bet_list": [
+      { "name": "Finland -0.25", "odds": 1.78 },
+      { "name": "Northern Ireland +0.25", "odds": 2.13 },
+      { "name": "Finland -0.5", "odds": 2.06 },
+      { "name": "Northern Ireland +0.5", "odds": 1.84 },
+      { "name": "Finland -0.75", "odds": 2.3 },
+      { "name": "Northern Ireland +0.75", "odds": 1.6 },
+      { "name": "Over 1.75", "odds": 1.69 },
+      { "name": "Under 1.75", "odds": 2.19 },
+      { "name": "Over 2", "odds": 2.0 },
+      { "name": "Under 2", "odds": 1.88 },
+      { "name": "Over 2.25", "odds": 2.22 },
+      { "name": "Under 2.25", "odds": 1.66 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2023-11-18 01:00:00+0800",
+    "match_name": "Moldova vs Albania",
+    "team1": "Moldova",
+    "team2": "Albania",
+    "main_bet_list": [
+      { "name": "Moldova Winner", "odds": 4.39 },
+      { "name": "Draw", "odds": 3.24 },
+      { "name": "Albania Winner", "odds": 1.93 }
+    ],
+    "more_bet_list": [
+      { "name": "Moldova +0.25", "odds": 2.28 },
+      { "name": "Albania -0.25", "odds": 1.62 },
+      { "name": "Moldova +0.5", "odds": 1.97 },
+      { "name": "Albania -0.5", "odds": 1.93 },
+      { "name": "Moldova +0.75", "odds": 1.74 },
+      { "name": "Albania -0.75", "odds": 2.16 },
+      { "name": "Over 1.75", "odds": 1.64 },
+      { "name": "Under 1.75", "odds": 2.24 },
+      { "name": "Over 2", "odds": 1.95 },
+      { "name": "Under 2", "odds": 1.93 },
+      { "name": "Over 2.25", "odds": 2.17 },
+      { "name": "Under 2.25", "odds": 1.71 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2023-11-18 03:45:00+0800",
+    "match_name": "Italy vs N Macedonia",
+    "team1": "Italy",
+    "team2": "N Macedonia",
+    "main_bet_list": [
+      { "name": "Italy Winner", "odds": 1.15 },
+      { "name": "Draw", "odds": 7.5 },
+      { "name": "N Macedonia Winner", "odds": 19.0 }
+    ],
+    "more_bet_list": [
+      { "name": "Italy +1.75", "odds": 2.28 },
+      { "name": "N Macedonia -1.75", "odds": 1.62 },
+      { "name": "Italy +2", "odds": 2.0 },
+      { "name": "N Macedonia -2", "odds": 1.9 },
+      { "name": "Italy +2.25", "odds": 1.79 },
+      { "name": "N Macedonia -2.25", "odds": 2.11 },
+      { "name": "Over 2.75", "odds": 1.69 },
+      { "name": "Under 2.75", "odds": 2.19 },
+      { "name": "Over 3", "odds": 1.91 },
+      { "name": "Under 3", "odds": 1.97 },
+      { "name": "Over 3.25", "odds": 2.16 },
+      { "name": "Under 3.25", "odds": 1.72 }
     ]
   },
   {
     "type": "Soccer",
     "time": "2023-11-17 01:00:00+0800",
-    "match_name": "Bulgaria vs Hungary",
-    "team1": "Bulgaria",
-    "team2": "Hungary",
+    "match_name": "England vs Malta",
+    "team1": "England",
+    "team2": "Malta",
     "main_bet_list": [
-      { "name": "Bulgaria Winner", "odds": 5.29 },
-      { "name": "Draw", "odds": 3.69 },
-      { "name": "Hungary Winner", "odds": 1.69 }
-    ],
-    "more_bet_list": [
-      { "name": "Bulgaria +0.5", "odds": 2.21 },
-      { "name": "Hungary -0.5", "odds": 1.69 },
-      { "name": "Bulgaria +0.75", "odds": 2.0 },
-      { "name": "Hungary -0.75", "odds": 1.9 },
-      { "name": "Bulgaria +1", "odds": 1.69 },
-      { "name": "Hungary -1", "odds": 2.21 },
-      { "name": "Over 2", "odds": 1.59 },
-      { "name": "Under 2", "odds": 2.29 },
-      { "name": "Over 2.25", "odds": 1.91 },
-      { "name": "Under 2.25", "odds": 1.97 },
-      { "name": "Over 2.5", "odds": 2.15 },
-      { "name": "Under 2.5", "odds": 1.73 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2023-11-17 01:00:00+0800",
-    "match_name": "Georgia vs Scotland",
-    "team1": "Georgia",
-    "team2": "Scotland",
-    "main_bet_list": [
-      { "name": "Georgia Winner", "odds": 3.24 },
-      { "name": "Draw", "odds": 3.34 },
-      { "name": "Scotland Winner", "odds": 2.25 }
-    ],
-    "more_bet_list": [
-      { "name": "Georgia +0", "odds": 2.26 },
-      { "name": "Scotland -0", "odds": 1.64 },
-      { "name": "Georgia +0.25", "odds": 1.92 },
-      { "name": "Scotland -0.25", "odds": 1.98 },
-      { "name": "Georgia +0.5", "odds": 1.7 },
-      { "name": "Scotland -0.5", "odds": 2.2 },
-      { "name": "Over 2.25", "odds": 1.8 },
-      { "name": "Under 2.25", "odds": 2.08 },
-      { "name": "Over 2.5", "odds": 2.03 },
-      { "name": "Under 2.5", "odds": 1.85 },
-      { "name": "Over 2.75", "odds": 2.25 },
-      { "name": "Under 2.75", "odds": 1.63 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2023-11-17 01:00:00+0800",
-    "match_name": "Estonia vs Austria",
-    "team1": "Estonia",
-    "team2": "Austria",
-    "main_bet_list": [
-      { "name": "Estonia Winner", "odds": 10.99 },
-      { "name": "Draw", "odds": 5.39 },
-      { "name": "Austria Winner", "odds": 1.27 }
-    ],
-    "more_bet_list": [
-      { "name": "Estonia +1.25", "odds": 2.28 },
-      { "name": "Austria -1.25", "odds": 1.62 },
-      { "name": "Estonia +1.5", "odds": 2.0 },
-      { "name": "Austria -1.5", "odds": 1.9 },
-      { "name": "Estonia +1.75", "odds": 1.79 },
-      { "name": "Austria -1.75", "odds": 2.11 },
-      { "name": "Over 2.5", "odds": 1.77 },
-      { "name": "Under 2.5", "odds": 2.11 },
-      { "name": "Over 2.75", "odds": 2.0 },
-      { "name": "Under 2.75", "odds": 1.88 },
-      { "name": "Over 3", "odds": 2.21 },
-      { "name": "Under 3", "odds": 1.67 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2023-11-17 01:00:00+0800",
-    "match_name": "Cyprus vs Spain",
-    "team1": "Cyprus",
-    "team2": "Spain",
-    "main_bet_list": [
-      { "name": "Cyprus Winner", "odds": 36.0 },
+      { "name": "England Winner", "odds": 36.0 },
       { "name": "Draw", "odds": 16.0 },
-      { "name": "Spain Winner", "odds": 1.04 }
+      { "name": "Malta Winner", "odds": 1.04 }
     ],
     "more_bet_list": [
-      { "name": "Cyprus +3", "odds": 2.22 },
-      { "name": "Spain -3", "odds": 1.6 },
-      { "name": "Cyprus +3.25", "odds": 1.98 },
-      { "name": "Spain -3.25", "odds": 1.84 },
-      { "name": "Cyprus +3.5", "odds": 1.78 },
-      { "name": "Spain -3.5", "odds": 2.04 },
+      { "name": "England +3", "odds": 2.22 },
+      { "name": "Malta -3", "odds": 1.6 },
+      { "name": "England +3.25", "odds": 1.98 },
+      { "name": "Malta -3.25", "odds": 1.84 },
+      { "name": "England +3.5", "odds": 1.78 },
+      { "name": "Malta -3.5", "odds": 2.04 },
       { "name": "Over 3.75", "odds": 1.71 },
       { "name": "Under 3.75", "odds": 2.09 },
       { "name": "Over 4", "odds": 1.88 },
@@ -131,54 +131,54 @@
   },
   {
     "type": "Soccer",
-    "time": "2023-11-17 03:45:00+0800",
-    "match_name": "Montenegro vs Lithuania",
-    "team1": "Montenegro",
-    "team2": "Lithuania",
+    "time": "2023-11-18 03:45:00+0800",
+    "match_name": "Poland vs Czechia",
+    "team1": "Poland",
+    "team2": "Czechia",
     "main_bet_list": [
-      { "name": "Montenegro Winner", "odds": 1.34 },
-      { "name": "Draw", "odds": 4.79 },
-      { "name": "Lithuania Winner", "odds": 9.79 }
+      { "name": "Poland Winner", "odds": 2.52 },
+      { "name": "Draw", "odds": 3.19 },
+      { "name": "Czechia Winner", "odds": 2.9 }
     ],
     "more_bet_list": [
-      { "name": "Montenegro -1.25", "odds": 1.83 },
-      { "name": "Lithuania +1.25", "odds": 2.07 },
-      { "name": "Montenegro -1.5", "odds": 2.09 },
-      { "name": "Lithuania +1.5", "odds": 1.81 },
-      { "name": "Montenegro -1.75", "odds": 2.31 },
-      { "name": "Lithuania +1.75", "odds": 1.59 },
-      { "name": "Over 2.25", "odds": 1.72 },
-      { "name": "Under 2.25", "odds": 2.16 },
-      { "name": "Over 2.5", "odds": 1.92 },
-      { "name": "Under 2.5", "odds": 1.96 },
-      { "name": "Over 2.75", "odds": 2.17 },
-      { "name": "Under 2.75", "odds": 1.71 }
+      { "name": "Poland -0", "odds": 1.74 },
+      { "name": "Czechia +0", "odds": 2.16 },
+      { "name": "Poland -0.25", "odds": 2.13 },
+      { "name": "Czechia +0.25", "odds": 1.77 },
+      { "name": "Poland -0.5", "odds": 2.34 },
+      { "name": "Czechia +0.5", "odds": 1.56 },
+      { "name": "Over 2", "odds": 1.71 },
+      { "name": "Under 2", "odds": 2.17 },
+      { "name": "Over 2.25", "odds": 2.04 },
+      { "name": "Under 2.25", "odds": 1.84 },
+      { "name": "Over 2.5", "odds": 2.23 },
+      { "name": "Under 2.5", "odds": 1.65 }
     ]
   },
   {
     "type": "Soccer",
-    "time": "2023-11-04 03:45:00+0800",
-    "match_name": "Liechtenstein vs Portugal",
-    "team1": "Liechtenstein",
-    "team2": "Portugal",
+    "time": "2023-11-18 03:45:00+0800",
+    "match_name": "Denmark vs Slovenia",
+    "team1": "Denmark",
+    "team2": "Slovenia",
     "main_bet_list": [
-      { "name": "Liechtenstein Winner", "odds": 2.87 },
-      { "name": "Draw", "odds": 3.25 },
-      { "name": "Portugal Winner", "odds": 2.53 }
+      { "name": "Denmark Winner", "odds": 1.57 },
+      { "name": "Draw", "odds": 3.84 },
+      { "name": "Slovenia Winner", "odds": 6.29 }
     ],
     "more_bet_list": [
-      { "name": "Liechtenstein +0", "odds": 2.12 },
-      { "name": "Portugal -0", "odds": 1.77 },
-      { "name": "Liechtenstein +0.25", "odds": 2.31 },
-      { "name": "Portugal -0.25", "odds": 1.58 },
-      { "name": "Liechtenstein +0.25", "odds": 1.73 },
-      { "name": "Portugal -0.25", "odds": 2.16 },
-      { "name": "Over 2", "odds": 1.67 },
-      { "name": "Under 2", "odds": 2.2 },
-      { "name": "Over 2.25", "odds": 1.97 },
-      { "name": "Under 2.25", "odds": 1.9 },
-      { "name": "Over 2.5", "odds": 2.2 },
-      { "name": "Under 2.5", "odds": 1.67 }
+      { "name": "Denmark -0.75", "odds": 1.75 },
+      { "name": "Slovenia +0.75", "odds": 2.15 },
+      { "name": "Denmark -1", "odds": 2.09 },
+      { "name": "Slovenia +1", "odds": 1.81 },
+      { "name": "Denmark -1.25", "odds": 2.31 },
+      { "name": "Slovenia +1.25", "odds": 1.59 },
+      { "name": "Over 2", "odds": 1.63 },
+      { "name": "Under 2", "odds": 2.25 },
+      { "name": "Over 2.25", "odds": 1.88 },
+      { "name": "Under 2.25", "odds": 2.0 },
+      { "name": "Over 2.5", "odds": 2.15 },
+      { "name": "Under 2.5", "odds": 1.73 }
     ]
   },
   {
