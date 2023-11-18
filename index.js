@@ -221,9 +221,9 @@ app.get("/NBA", async (req, res) => {
 app.get("/Soccer", async (req, res) => {
   const result = path.join(__dirname, "/data/Soccer.json");
   const data = await readFile(result);
-  // const filteredData = filterData(data);
-  // res.json({ data: filteredData });
-  res.json({ data });
+  const filteredData = filterData(data);
+  res.json({ data: filteredData });
+  // res.json({ data });
 });
 
 app.get("/Valorant", async (req, res) => {
