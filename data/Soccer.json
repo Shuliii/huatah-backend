@@ -147,54 +147,58 @@
   },
   {
     "type": "Soccer",
-    "time": "2023-11-18 03:45:00+0800",
+    "time": "2023-11-19 03:45:00+0800",
     "match_name": "Switzerland vs Kosovo",
     "team1": "Switzerland",
     "team2": "Kosovo",
     "main_bet_list": [
-      { "name": "Switzerland Winner", "odds": 2.52 },
-      { "name": "Draw", "odds": 3.19 },
-      { "name": "Kosovo Winner", "odds": 2.9 }
+      { "name": "Switzerland Winner", "odds": 1.26 },
+      { "name": "Draw", "odds": 5.79 },
+      { "name": "Kosovo Winner", "odds": 11.0 }
     ],
     "more_bet_list": [
-      { "name": "Switzerland -0", "odds": 1.74 },
-      { "name": "Kosovo +0", "odds": 2.16 },
-      { "name": "Switzerland -0.25", "odds": 2.13 },
-      { "name": "Kosovo +0.25", "odds": 1.77 },
-      { "name": "Switzerland -0.5", "odds": 2.34 },
-      { "name": "Kosovo +0.5", "odds": 1.56 },
-      { "name": "Over 2", "odds": 1.71 },
-      { "name": "Under 2", "odds": 2.17 },
-      { "name": "Over 2.25", "odds": 2.04 },
-      { "name": "Under 2.25", "odds": 1.84 },
-      { "name": "Over 2.5", "odds": 2.23 },
-      { "name": "Under 2.5", "odds": 1.65 }
+      { "name": "Switzerland -1.25", "odds": 1.62 },
+      { "name": "Kosovo +1.25", "odds": 2.28 },
+      { "name": "Switzerland -1.5", "odds": 1.79 },
+      { "name": "Kosovo +1.5", "odds": 2.11 },
+      { "name": "Switzerland -1.75", "odds": 2.01 },
+      { "name": "Kosovo +1.75", "odds": 1.89 },
+      { "name": "Switzerland -1.75", "odds": 2.24 },
+      { "name": "Kosovo +1.75", "odds": 1.66 },
+      { "name": "Over 2.5", "odds": 1.6 },
+      { "name": "Under 2.5", "odds": 2.28 },
+      { "name": "Over 2.75", "odds": 1.78 },
+      { "name": "Under 2.75", "odds": 2.1 },
+      { "name": "Over 3", "odds": 2.01 },
+      { "name": "Under 3", "odds": 1.87 },
+      { "name": "Over 3.25", "odds": 2.22 },
+      { "name": "Under 3.25", "odds": 1.66 }
     ]
   },
   {
     "type": "Soccer",
-    "time": "2023-11-18 03:45:00+0800",
+    "time": "2023-11-19 03:45:00+0800",
     "match_name": "Israel vs Romania",
     "team1": "Israel",
     "team2": "Romania",
     "main_bet_list": [
-      { "name": "Israel Winner", "odds": 1.57 },
-      { "name": "Draw", "odds": 3.84 },
-      { "name": "Romania Winner", "odds": 6.29 }
+      { "name": "Israel Winner", "odds": 2.74 },
+      { "name": "Draw", "odds": 3.34 },
+      { "name": "Romania Winner", "odds": 2.57 }
     ],
     "more_bet_list": [
-      { "name": "Israel -0.75", "odds": 1.75 },
-      { "name": "Romania +0.75", "odds": 2.15 },
-      { "name": "Israel -1", "odds": 2.09 },
-      { "name": "Romania +1", "odds": 1.81 },
-      { "name": "Israel -1.25", "odds": 2.31 },
-      { "name": "Romania +1.25", "odds": 1.59 },
-      { "name": "Over 2", "odds": 1.63 },
-      { "name": "Under 2", "odds": 2.25 },
-      { "name": "Over 2.25", "odds": 1.88 },
-      { "name": "Under 2.25", "odds": 2.0 },
-      { "name": "Over 2.5", "odds": 2.15 },
-      { "name": "Under 2.5", "odds": 1.73 }
+      { "name": "Israel -0", "odds": 2.0 },
+      { "name": "Romania +0", "odds": 1.92 },
+      { "name": "Israel -0.25", "odds": 2.26 },
+      { "name": "Romania +0.25", "odds": 1.64 },
+      { "name": "Israel +0.25", "odds": 1.69 },
+      { "name": "Romania -0.25", "odds": 2.21 },
+      { "name": "Over 2.25", "odds": 1.81 },
+      { "name": "Under 2.25", "odds": 2.07 },
+      { "name": "Over 2.5", "odds": 2.07 },
+      { "name": "Under 2.5", "odds": 1.81 },
+      { "name": "Over 2.75", "odds": 2.27 },
+      { "name": "Under 2.75", "odds": 1.61 }
     ]
   },
   {
