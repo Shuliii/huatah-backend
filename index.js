@@ -144,6 +144,7 @@ app.get("/balance/:name", (req, res) => {
 
 app.post("/postbet", async (req, res) => {
   const data = req.body;
+  console.log(data);
   let response = [];
 
   try {
@@ -152,18 +153,17 @@ app.post("/postbet", async (req, res) => {
         // get match time
         const filePath = path.join(__dirname, `/data/${item.Type}.json`);
         const matchTime = await getTime(filePath, item.Match_Name);
-        console.log(matchTime);
 
         // get bet time and format bet time
         const currentDate = new Date();
         const formattedDate = formatDate(currentDate);
-        console.log(formattedDate);
 
         // check if bet time > match time
         const formattedMatchTime = new Date(matchTime);
+        const sqlFormatMatchTime = formatDate(formattedMatchTime);
 
         if (formattedMatchTime - currentDate > 0) {
-          const queryString = `INSERT INTO BETLIST (ID, Username, Bet_Time, Match_Name, Bet_Name, Amount, Odds) values (NULL, '${item.Username}', '${formattedDate}','${item.Match_Name}', '${item.Bet_Name}', ${item.Amount}, ${item.Odds})`;
+          const queryString = `INSERT INTO BETLIST (ID, Username, Bet_Time, Match_Time, Match_Name, Bet_Name, Amount, Odds) values (NULL, '${item.Username}', '${formattedDate}','${sqlFormatMatchTime}','${item.Match_Name}', '${item.Bet_Name}', ${item.Amount}, ${item.Odds})`;
 
           // Use a promise wrapper for the query
           const queryPromise = new Promise((resolve, reject) => {
@@ -173,7 +173,6 @@ app.post("/postbet", async (req, res) => {
                 response.push({ message: "unsuccessful" });
                 reject(err);
               } else {
-                console.log("successful");
                 response.push({ message: "successful" });
                 resolve(result);
               }
@@ -188,7 +187,6 @@ app.post("/postbet", async (req, res) => {
       })
     );
 
-    console.log(response);
     res.json({ response });
   } catch (error) {
     console.error("Error processing requests:", error);
@@ -223,9 +221,9 @@ app.get("/NBA", async (req, res) => {
 app.get("/Soccer", async (req, res) => {
   const result = path.join(__dirname, "/data/Soccer.json");
   const data = await readFile(result);
-  const filteredData = filterData(data);
-  res.json({ data: filteredData });
-  // res.json({ data });
+  // const filteredData = filterData(data);
+  // res.json({ data: filteredData });
+  res.json({ data });
 });
 
 app.get("/Valorant", async (req, res) => {
@@ -234,6 +232,77 @@ app.get("/Valorant", async (req, res) => {
   const filteredData = filterData(data);
   res.json({ data: filteredData });
   // res.json({ data });
+});
+
+// app.delete("/delete/:id", (req, res) => {
+//   console.log(req.params.id);
+//   const queryString = `SELECT * FROM betlist WHERE id = ${req.params.id}`;
+//   let data;
+//   connection.query(queryString, (err, result) => {
+//     if (result.length === 0) {
+//       res.json({
+//         message: "Bet List does not exist",
+//       });
+//     } else {
+//       data = result;
+//     }
+//   });
+
+//   console.log(data);
+
+//   const currentDate = new Date();
+//   const matchDate = new Date(data.Match_Time);
+
+//   if (matchDate - currentDate > 0) {
+//     const deleteQueryString = `DELETE FROM betlist where id = ${req.params.id}`;
+//     connection.query(deleteQueryString, (err, result) => {
+//       if (err) throw err;
+//       res.json({
+//         message: "Successfully delete the bet",
+//       });
+//     });
+//   }
+// });
+
+app.delete("/delete/:id", (req, res) => {
+  console.log(req.params.id);
+  const queryString = `SELECT * FROM betlist WHERE id = ${req.params.id}`;
+
+  connection.query(queryString, (err, result) => {
+    if (err) {
+      console.error(err);
+      res.status(500).json({ message: "Internal Server Error" });
+      return;
+    }
+
+    if (result.length === 0) {
+      res.json({
+        message: "Bet List does not exist",
+      });
+    } else {
+      const data = result;
+
+      const currentDate = new Date();
+      const matchDate = new Date(data[0].Match_Time); // Assuming Match_Time is a property in the result
+
+      if (matchDate - currentDate > 0) {
+        const deleteQueryString = `DELETE FROM betlist where id = ${req.params.id}`;
+        connection.query(deleteQueryString, (err, result) => {
+          if (err) {
+            res.status(500).json({ message: "Internal Server Error" });
+            return;
+          }
+          res.json({
+            message: "Successfully deleted the bet",
+          });
+        });
+      } else {
+        res.json({
+          message: "Cannot delete bet, match has already started",
+        });
+      }
+    }
+  });
 });
 
 app.listen(PORT, () => {
