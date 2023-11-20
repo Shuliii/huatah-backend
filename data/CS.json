@@ -80,5 +80,87 @@
       { "name": "Odd", "odds": 1.96 },
       { "name": "Even", "odds": 1.8 }
     ]
+  },
+  {
+    "type": "CS",
+    "time": "2023-11-19 15:00:00+0800",
+    "match_name": "Greyhound vs Rooster Match",
+    "team1": "Greyhound",
+    "team2": "Rooster",
+    "main_bet_list": [
+      { "name": "Greyhound Winner", "odds": 1.52 },
+      { "name": "Rooster Winner", "odds": 2.42 }
+    ],
+
+    "more_bet_list": [
+      { "name": "Greyhound -1.5", "odds": 2.36 },
+      { "name": "Rooster +1.5", "odds": 1.55 },
+      { "name": "Over 2.5", "odds": 2.14 },
+      { "name": "Under 2.5", "odds": 1.67 },
+      { "name": "Map score 2-0", "odds": 2.2 },
+      { "name": "Map score 2-1", "odds": 3.32 },
+      { "name": "Map score 0-2", "odds": 4.84 },
+      { "name": "Map score 1-2", "odds": 4.22 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2023-11-20 17:30:00+0800",
+    "match_name": "Vertex vs Vantage Map1",
+    "team1": "Vertex",
+    "team2": "Vantage",
+    "main_bet_list": [
+      { "name": "Vertex Winner", "odds": 1.22 },
+      { "name": "Vantage Winner", "odds": 3.94 }
+    ],
+
+    "more_bet_list": [
+      { "name": "Vertex -4.5", "odds": 1.8 },
+      { "name": "Vantage +4.5", "odds": 1.96 },
+      { "name": "Over 20.5", "odds": 1.88 },
+      { "name": "Under 20.5", "odds": 1.88 },
+      { "name": "Odd", "odds": 1.96 },
+      { "name": "Even", "odds": 1.8 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2023-11-20 18:00:00+0800",
+    "match_name": "Vertex vs Vantage Map2",
+    "team1": "Vertex",
+    "team2": "Vantage",
+    "main_bet_list": [
+      { "name": "Vertex Winner", "odds": 1.22 },
+      { "name": "Vantage Winner", "odds": 3.94 }
+    ],
+
+    "more_bet_list": [
+      { "name": "Vertex -4.5", "odds": 1.8 },
+      { "name": "Vantage +4.5", "odds": 1.96 },
+      { "name": "Over 20.5", "odds": 1.88 },
+      { "name": "Under 20.5", "odds": 1.88 },
+      { "name": "Odd", "odds": 1.96 },
+      { "name": "Even", "odds": 1.8 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2023-11-20 18:30:00+0800",
+    "match_name": "Vertex vs Vantage Map3",
+    "team1": "Vertex",
+    "team2": "Vantage",
+    "main_bet_list": [
+      { "name": "Vertex Winner", "odds": 1.22 },
+      { "name": "Vantage Winner", "odds": 3.94 }
+    ],
+
+    "more_bet_list": [
+      { "name": "Vertex -4.5", "odds": 1.8 },
+      { "name": "Vantage +4.5", "odds": 1.96 },
+      { "name": "Over 20.5", "odds": 1.88 },
+      { "name": "Under 20.5", "odds": 1.88 },
+      { "name": "Odd", "odds": 1.96 },
+      { "name": "Even", "odds": 1.8 }
+    ]
   }
 ]
