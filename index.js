@@ -293,12 +293,12 @@ app.delete("/delete/:id", (req, res) => {
             return;
           }
           res.json({
-            message: "Successfully deleted the bet",
+            message: "Successfully deleted the bet!",
           });
         });
       } else {
         res.json({
-          message: "Cannot delete bet, match has already started",
+          message: "Cannot delete bet, match has already started!",
         });
       }
     }
