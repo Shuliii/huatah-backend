@@ -1,82 +1,82 @@
 [
   {
     "type": "CS",
-    "time": "2023-11-20 15:00:00+0800",
-    "match_name": "Greyhound vs Rooster Match",
-    "team1": "Greyhound",
-    "team2": "Rooster",
+    "time": "2023-11-21 15:00:00+0800",
+    "match_name": "Rooster vs Vertex Match",
+    "team1": "Rooster",
+    "team2": "Vertex",
     "main_bet_list": [
-      { "name": "Greyhound Winner", "odds": 1.52 },
-      { "name": "Rooster Winner", "odds": 2.42 }
+      { "name": "Rooster Winner", "odds": 1.35 },
+      { "name": "Vertex Winner", "odds": 3.04 }
     ],
 
     "more_bet_list": [
-      { "name": "Greyhound -1.5", "odds": 2.36 },
-      { "name": "Rooster +1.5", "odds": 1.55 },
-      { "name": "Over 2.5", "odds": 2.14 },
-      { "name": "Under 2.5", "odds": 1.67 },
-      { "name": "Map score 2-0", "odds": 2.2 },
+      { "name": "Rooster -1.5", "odds": 2.02 },
+      { "name": "Vertex +1.5", "odds": 1.78 },
+      { "name": "Over 2.5", "odds": 2.2 },
+      { "name": "Under 2.5", "odds": 1.63 },
+      { "name": "Map score 2-0", "odds": 2.09 },
       { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 4.84 },
-      { "name": "Map score 1-2", "odds": 4.22 }
+      { "name": "Map score 0-2", "odds": 5.54 },
+      { "name": "Map score 1-2", "odds": 4.84 }
     ]
   },
   {
     "type": "CS",
-    "time": "2023-11-20 15:00:00+0800",
-    "match_name": "Greyhound vs Rooster Map1",
-    "team1": "Greyhound",
-    "team2": "Rooster",
+    "time": "2023-11-21 15:00:00+0800",
+    "match_name": "Rooster vs Vertex Map1",
+    "team1": "Rooster",
+    "team2": "Vertex",
     "main_bet_list": [
-      { "name": "Greyhound Winner", "odds": 1.6 },
-      { "name": "Rooster Winner", "odds": 2.25 }
+      { "name": "Rooster Winner", "odds": 1.45 },
+      { "name": "Vertex Winner", "odds": 2.63 }
     ],
 
     "more_bet_list": [
-      { "name": "Greyhound -2.5", "odds": 1.85 },
-      { "name": "Rooster +2.5", "odds": 1.91 },
-      { "name": "Over 21.5", "odds": 1.95 },
-      { "name": "Under 21.5", "odds": 1.81 },
+      { "name": "Rooster -3.5", "odds": 1.93 },
+      { "name": "Vertex +3.5", "odds": 1.83 },
+      { "name": "Over 21.5", "odds": 2.0 },
+      { "name": "Under 21.5", "odds": 1.76 },
       { "name": "Odd", "odds": 1.96 },
       { "name": "Even", "odds": 1.8 }
     ]
   },
   {
     "type": "CS",
-    "time": "2023-11-20 15:30:00+0800",
-    "match_name": "Greyhound vs Rooster Map2",
-    "team1": "Greyhound",
-    "team2": "Rooster",
+    "time": "2023-11-21 15:30:00+0800",
+    "match_name": "Rooster vs Vertex Map2",
+    "team1": "Rooster",
+    "team2": "Vertex",
     "main_bet_list": [
-      { "name": "Greyhound Winner", "odds": 1.6 },
-      { "name": "Rooster Winner", "odds": 2.25 }
+      { "name": "Rooster Winner", "odds": 1.45 },
+      { "name": "Vertex Winner", "odds": 2.63 }
     ],
 
     "more_bet_list": [
-      { "name": "Greyhound -2.5", "odds": 1.85 },
-      { "name": "Rooster +2.5", "odds": 1.91 },
-      { "name": "Over 21.5", "odds": 1.95 },
-      { "name": "Under 21.5", "odds": 1.81 },
+      { "name": "Rooster -3.5", "odds": 1.93 },
+      { "name": "Vertex +3.5", "odds": 1.83 },
+      { "name": "Over 21.5", "odds": 2.0 },
+      { "name": "Under 21.5", "odds": 1.76 },
       { "name": "Odd", "odds": 1.96 },
       { "name": "Even", "odds": 1.8 }
     ]
   },
   {
     "type": "CS",
-    "time": "2023-11-20 16:00:00+0800",
-    "match_name": "Greyhound vs Rooster Map3",
-    "team1": "Greyhound",
-    "team2": "Rooster",
+    "time": "2023-11-21 16:00:00+0800",
+    "match_name": "Rooster vs Vertex Map3",
+    "team1": "Rooster",
+    "team2": "Vertex",
     "main_bet_list": [
-      { "name": "Greyhound Winner", "odds": 1.6 },
-      { "name": "Rooster Winner", "odds": 2.25 }
+      { "name": "Rooster Winner", "odds": 1.45 },
+      { "name": "Vertex Winner", "odds": 2.63 }
     ],
 
     "more_bet_list": [
-      { "name": "Greyhound -2.5", "odds": 1.85 },
-      { "name": "Rooster +2.5", "odds": 1.91 },
-      { "name": "Over 21.5", "odds": 1.95 },
-      { "name": "Under 21.5", "odds": 1.81 },
+      { "name": "Rooster -3.5", "odds": 1.93 },
+      { "name": "Vertex +3.5", "odds": 1.83 },
+      { "name": "Over 21.5", "odds": 2.0 },
+      { "name": "Under 21.5", "odds": 1.76 },
       { "name": "Odd", "odds": 1.96 },
       { "name": "Even", "odds": 1.8 }
     ]
