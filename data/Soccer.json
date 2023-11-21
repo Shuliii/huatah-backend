@@ -209,110 +209,106 @@
   },
   {
     "type": "Soccer",
-    "time": "2023-11-20 03:45:00+0800",
-    "match_name": "Scotland vs Norway",
-    "team1": "Scotland",
-    "team2": "Norway",
+    "time": "2023-11-22 07:00:00+0800",
+    "match_name": "Paraguay vs Colombia",
+    "team1": "Paraguay",
+    "team2": "Colombia",
     "main_bet_list": [
-      { "name": "Scotland Winner", "odds": 2.3 },
-      { "name": "Draw", "odds": 3.19 },
-      { "name": "Norway Winner", "odds": 3.24 }
+      { "name": "Paraguay Winner", "odds": 3.25 },
+      { "name": "Draw", "odds": 3.1 },
+      { "name": "Colombia Winner", "odds": 2.36 }
     ],
     "more_bet_list": [
-      { "name": "Scotland -0", "odds": 1.6 },
-      { "name": "Norway +0", "odds": 2.3 },
-      { "name": "Scotland -0.25", "odds": 2.03 },
-      { "name": "Norway +0.25", "odds": 1.87 },
-      { "name": "Scotland -0.5", "odds": 2.23 },
-      { "name": "Norway +0.5", "odds": 1.67 },
-      { "name": "Scotland -0.75", "odds": 2.43 },
-      { "name": "Norway +0.75", "odds": 1.47 },
-      { "name": "Over 1.75", "odds": 1.54 },
-      { "name": "Under 1.75", "odds": 2.34 },
-      { "name": "Over 2", "odds": 1.72 },
-      { "name": "Under 2", "odds": 2.16 },
-      { "name": "Over 2.25", "odds": 2.04 },
-      { "name": "Under 2.25", "odds": 1.84 },
-      { "name": "Over 2.5", "odds": 2.24 },
-      { "name": "Under 2.5", "odds": 1.64 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2023-11-17 04:00:00+0800",
-    "match_name": "Bolivia vs Peru",
-    "team1": "Bolivia",
-    "team2": "Peru",
-    "main_bet_list": [
-      { "name": "Bolivia Winner", "odds": 2.25 },
-      { "name": "Draw", "odds": 3.09 },
-      { "name": "Peru Winner", "odds": 3.49 }
-    ],
-    "more_bet_list": [
-      { "name": "Bolivia +0", "odds": 1.57 },
-      { "name": "Peru +0", "odds": 2.33 },
-      { "name": "Bolivia -0.25", "odds": 1.97 },
-      { "name": "Peru +0.25", "odds": 1.93 },
-      { "name": "Bolivia -0.5", "odds": 2.2 },
-      { "name": "Peru +0.5", "odds": 1.7 },
-      { "name": "Over 1.75", "odds": 1.67 },
-      { "name": "Under 1.75", "odds": 2.21 },
-      { "name": "Over 2", "odds": 1.96 },
-      { "name": "Under 2", "odds": 1.92 },
-      { "name": "Over 2.25", "odds": 2.18 },
-      { "name": "Under 2.25", "odds": 1.7 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2023-11-17 06:00:00+0800",
-    "match_name": "Venezuela vs Ecuador",
-    "team1": "Venezuela",
-    "team2": "Ecuador",
-    "main_bet_list": [
-      { "name": "Venezuela Winner", "odds": 2.96 },
-      { "name": "Draw", "odds": 2.94 },
-      { "name": "Ecuador Winner", "odds": 2.66 }
-    ],
-    "more_bet_list": [
-      { "name": "Venezuela -0", "odds": 2.05 },
-      { "name": "Ecuador +0", "odds": 1.85 },
-      { "name": "Venezuela -0.25", "odds": 2.34 },
-      { "name": "Ecuador +0.25", "odds": 1.56 },
-      { "name": "Venezuela +0.25", "odds": 1.68 },
-      { "name": "Ecuador -025", "odds": 2.22 },
-      { "name": "Over 1.75", "odds": 1.78 },
-      { "name": "Under 1.75", "odds": 2.1 },
-      { "name": "Over 2", "odds": 2.14 },
-      { "name": "Under 2", "odds": 1.24 },
-      { "name": "Over 2.25", "odds": 2.28 },
-      { "name": "Under 2.25", "odds": 1.6 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2023-11-17 08:00:00+0800",
-    "match_name": "Colombia vs Brazil",
-    "team1": "Colombia",
-    "team2": "Brazil",
-    "main_bet_list": [
-      { "name": "Colombia Winner", "odds": 3.39 },
-      { "name": "Draw", "odds": 3.14 },
-      { "name": "Brazil Winner", "odds": 2.28 }
-    ],
-    "more_bet_list": [
-      { "name": "Colombia +0", "odds": 2.28 },
-      { "name": "Brazil -0", "odds": 1.62 },
-      { "name": "Colombia +0.25", "odds": 1.95 },
-      { "name": "Brazil -0.25", "odds": 1.95 },
-      { "name": "Colombia +0.5", "odds": 1.68 },
-      { "name": "Brazil -0.5", "odds": 2.22 },
+      { "name": "Paraguay +0", "odds": 2.22 },
+      { "name": "Colombia -0", "odds": 1.7 },
+      { "name": "Paraguay +0.25", "odds": 1.85 },
+      { "name": "Colombia -0.25", "odds": 2.07 },
+      { "name": "Paraguay +0.5", "odds": 1.65 },
+      { "name": "Colombia -0.5", "odds": 2.27 },
       { "name": "Over 1.75", "odds": 1.62 },
-      { "name": "Under 1.75", "odds": 2.27 },
-      { "name": "Over 2", "odds": 1.91 },
-      { "name": "Under 2", "odds": 1.97 },
+      { "name": "Under 1.75", "odds": 2.28 },
+      { "name": "Over 2", "odds": 1.92 },
+      { "name": "Under 2", "odds": 1.98 },
       { "name": "Over 2.25", "odds": 2.18 },
-      { "name": "Under 2.25", "odds": 1.7 }
+      { "name": "Under 2.25", "odds": 1.72 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2023-11-22 07:30:00+0800",
+    "match_name": "Ecuador vs Chile",
+    "team1": "Ecuador",
+    "team2": "Chile",
+    "main_bet_list": [
+      { "name": "Ecuador Winner", "odds": 1.6 },
+      { "name": "Draw", "odds": 3.65 },
+      { "name": "Chile Winner", "odds": 6.6 }
+    ],
+    "more_bet_list": [
+      { "name": "Ecuador -0.25", "odds": 1.83 },
+      { "name": "Chile +0.25", "odds": 2.09 },
+      { "name": "Ecuador -0.5", "odds": 1.6 },
+      { "name": "Chile +0.5", "odds": 2.32 },
+      { "name": "Ecuador -0.75", "odds": 1.83 },
+      { "name": "Chile +0.75", "odds": 2.09 },
+      { "name": "Over 1.75", "odds": 1.6 },
+      { "name": "Under 1.75", "odds": 2.3 },
+      { "name": "Over 2", "odds": 1.84 },
+      { "name": "Under 2", "odds": 2.06 },
+      { "name": "Over 2.25", "odds": 2.11 },
+      { "name": "Under 2.25", "odds": 1.79 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2023-11-22 07:30:00+0800",
+    "match_name": "Uruguay vs Bolivia",
+    "team1": "Uruguay",
+    "team2": "Bolivia",
+    "main_bet_list": [
+      { "name": "Uruguay Winner", "odds": 1.11 },
+      { "name": "Draw", "odds": 9.8 },
+      { "name": "Bolivia Winner", "odds": 23.0 }
+    ],
+    "more_bet_list": [
+      { "name": "Uruguay -2.25", "odds": 1.77 },
+      { "name": "Bolivia +2.25", "odds": 2.15 },
+      { "name": "Uruguay -2.5", "odds": 2.05 },
+      { "name": "Bolivia +2.5", "odds": 1.87 },
+      { "name": "Uruguay -2.75", "odds": 2.24 },
+      { "name": "Bolivia +2.75", "odds": 1.68 },
+      { "name": "Over 3", "odds": 1.74 },
+      { "name": "Under 3", "odds": 2.16 },
+      { "name": "Over 3.25", "odds": 1.97 },
+      { "name": "Under 3.25", "odds": 1.93 },
+      { "name": "Over 3.5", "odds": 2.22 },
+      { "name": "Under 3.5", "odds": 1.68 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2023-11-22 08:30:00+0800",
+    "match_name": "Brazil vs Argentina",
+    "team1": "Brazil",
+    "team2": "Argentina",
+    "main_bet_list": [
+      { "name": "Brazil Winner", "odds": 2.49 },
+      { "name": "Draw", "odds": 3.05 },
+      { "name": "Argentina Winner", "odds": 3.15 }
+    ],
+    "more_bet_list": [
+      { "name": "Brazil -0", "odds": 1.73 },
+      { "name": "Argentina +0", "odds": 2.19 },
+      { "name": "Brazil -0.25", "odds": 2.09 },
+      { "name": "Argentina +0.25", "odds": 1.83 },
+      { "name": "Brazil -0.5", "odds": 2.33 },
+      { "name": "Argentina +0.5", "odds": 1.59 },
+      { "name": "Over 1.75", "odds": 1.65 },
+      { "name": "Under 1.75", "odds": 2.25 },
+      { "name": "Over 2", "odds": 1.89 },
+      { "name": "Under 2", "odds": 2.01 },
+      { "name": "Over 2.25", "odds": 2.21 },
+      { "name": "Under 2.25", "odds": 1.69 }
     ]
   },
   {
