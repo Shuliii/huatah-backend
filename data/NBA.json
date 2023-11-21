@@ -1,12 +1,12 @@
 [
   {
     "type": "NBA",
-    "time": "2022-11-22 08:00:00+0800",
+    "time": "2023-11-22 08:00:00+0800",
     "match_name": "Magic vs Raptors",
     "team1": "Magic",
     "team2": "Raptors",
     "main_bet_list": [
-      { "name": "Magic Winner", "odds": 4.11 },
+      { "name": "Magic Winner", "odds": 4.09 },
       { "name": "Raptors Winner", "odds": 1.11 }
     ],
     "more_bet_list": [
@@ -26,7 +26,7 @@
   },
   {
     "type": "NBA",
-    "time": "2022-11-22 08:30:00+0800",
+    "time": "2023-11-22 08:30:00+0800",
     "match_name": "76ers vs Cavaliers",
     "team1": "76ers",
     "team2": "Cavaliers",
@@ -51,7 +51,7 @@
   },
   {
     "type": "NBA",
-    "time": "2022-11-22 08:30:00+0800",
+    "time": "2023-11-22 08:30:00+0800",
     "match_name": "Hawks vs Pacers",
     "team1": "Hawks",
     "team2": "Pacers",
@@ -76,8 +76,7 @@
   },
   {
     "type": "NBA",
-<<<<<<< HEAD
-    "time": "2022-11-22 10:00:00+0800",
+    "time": "2023-11-22 10:00:00+0800",
     "match_name": "Suns vs Trail Blazers",
     "team1": "Suns",
     "team2": "Trail Blazers",
@@ -98,35 +97,11 @@
       { "name": "Under 216.5", "odds": 1.92 },
       { "name": "Over 217", "odds": 1.97 },
       { "name": "Under 217", "odds": 1.87 }
-=======
-    "time": "2023-11-21 09:00:00+0800",
-    "match_name": "Spurs vs Clippers",
-    "team1": "Spurs",
-    "team2": "Clippers",
-    "main_bet_list": [
-      { "name": "Spurs Winner", "odds": 3.76 },
-      { "name": "Clippers Winner", "odds": 1.15 }
-    ],
-    "more_bet_list": [
-      { "name": "Spurs +8", "odds": 1.94 },
-      { "name": "Clippers -8", "odds": 1.92 },
-      { "name": "Spurs +8.5", "odds": 1.87 },
-      { "name": "Clippers -8.5", "odds": 1.99 },
-      { "name": "Spurs +9", "odds": 1.8 },
-      { "name": "Clippers -9", "odds": 2.06 },
-      { "name": "Over 230", "odds": 1.87 },
-      { "name": "Under 230", "odds": 1.97 },
-      { "name": "Over 230.5", "odds": 1.92 },
-      { "name": "Under 230.5", "odds": 1.92 },
-      { "name": "Over 231", "odds": 1.97 },
-      { "name": "Under 231", "odds": 1.87 }
->>>>>>> 327bc15c75f866ea4edb0c1980e88c408b6d04d0
     ]
   },
   {
     "type": "NBA",
-<<<<<<< HEAD
-    "time": "2022-11-22 11:00:00+0800",
+    "time": "2023-11-22 11:00:00+0800",
     "match_name": "Lakers vs Jazz",
     "team1": "Lakers",
     "team2": "Jazz",
@@ -147,29 +122,6 @@
       { "name": "Under 245.5", "odds": 1.97 },
       { "name": "Over 246", "odds": 1.95 },
       { "name": "Under 246", "odds": 1.89 }
-=======
-    "time": "2023-11-21 09:00:00+0800",
-    "match_name": "Pelicans vs Kings",
-    "team1": "Pelicans",
-    "team2": "Kings",
-    "main_bet_list": [
-      { "name": "Pelicans Winner", "odds": 1.96 },
-      { "name": "Kings Winner", "odds": 1.82 }
-    ],
-    "more_bet_list": [
-      { "name": "Pelicans +1", "odds": 1.95 },
-      { "name": "Kings -1", "odds": 1.91 },
-      { "name": "Pelicans +1.5", "odds": 1.88 },
-      { "name": "Kings -1.5", "odds": 1.98 },
-      { "name": "Pelicans +2", "odds": 1.81 },
-      { "name": "Kings -2", "odds": 2.05 },
-      { "name": "Over 236.5", "odds": 1.87 },
-      { "name": "Under 236.5", "odds": 1.97 },
-      { "name": "Over 237", "odds": 1.92 },
-      { "name": "Under 237", "odds": 1.92 },
-      { "name": "Over 237.5", "odds": 1.97 },
-      { "name": "Under 237.5", "odds": 1.87 }
->>>>>>> 327bc15c75f866ea4edb0c1980e88c408b6d04d0
     ]
   },
   {
