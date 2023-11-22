@@ -1,54 +1,54 @@
 [
   {
     "type": "Soccer",
-    "time": "2023-11-22 06:00:00+0800",
+    "time": "2023-11-23 06:00:00+0800",
     "match_name": "Cruzeiro vs Vasco da Gama",
     "team1": "Cruzeiro",
     "team2": "Vasco da Gama",
     "main_bet_list": [
-      { "name": "Cruzeiro Winner", "odds": 5.7 },
-      { "name": "Draw", "odds": 3.94 },
-      { "name": "Vasco da Gama Winner", "odds": 1.6 }
+      { "name": "Cruzeiro Winner", "odds": 2.26 },
+      { "name": "Draw", "odds": 3.05 },
+      { "name": "Vasco da Gama Winner", "odds": 3.25 }
     ],
     "more_bet_list": [
-      { "name": "Cruzeiro +0.5", "odds": 2.3 },
-      { "name": "Vasco da Gama -0.5", "odds": 1.6 },
-      { "name": "Cruzeiro +0.75", "odds": 2.1 },
-      { "name": "Vasco da Gama -0.75", "odds": 1.82 },
-      { "name": "Cruzeiro +1", "odds": 1.8 },
-      { "name": "Vasco da Gama -1", "odds": 2.12 },
-      { "name": "Over 2.25", "odds": 1.81 },
-      { "name": "Under 2.25", "odds": 2.09 },
-      { "name": "Over 2.5", "odds": 2.07 },
-      { "name": "Under 2.5", "odds": 1.83 },
-      { "name": "Over 2.75", "odds": 2.27 },
-      { "name": "Under 2.75", "odds": 1.63 }
+      { "name": "Cruzeiro -0", "odds": 1.58 },
+      { "name": "Vasco da Gama +0", "odds": 2.34 },
+      { "name": "Cruzeiro -0.25", "odds": 1.94 },
+      { "name": "Vasco da Gama +0.25", "odds": 1.98 },
+      { "name": "Cruzeiro -0.5", "odds": 2.21 },
+      { "name": "Vasco da Gama +0.5", "odds": 1.71 },
+      { "name": "Over 1.75", "odds": 1.6 },
+      { "name": "Under 1.75", "odds": 2.3 },
+      { "name": "Over 2", "odds": 1.9 },
+      { "name": "Under 2", "odds": 2.0 },
+      { "name": "Over 2.25", "odds": 2.14 },
+      { "name": "Under 2.25", "odds": 1.76 }
     ]
   },
   {
     "type": "Soccer",
-    "time": "2023-11-22 08:30:00+0800",
+    "time": "2023-11-23 08:30:00+0800",
     "match_name": "Fluminense vs Sao Paulo",
     "team1": "Fluminense",
     "team2": "Sao Paulo",
     "main_bet_list": [
-      { "name": "Fluminense Winner", "odds": 9.89 },
-      { "name": "Draw", "odds": 4.54 },
-      { "name": "Sao Paulo Winner", "odds": 1.36 }
+      { "name": "Fluminense Winner", "odds": 2.25 },
+      { "name": "Draw", "odds": 3.1 },
+      { "name": "Sao Paulo Winner", "odds": 3.2 }
     ],
     "more_bet_list": [
-      { "name": "Fluminense +1", "odds": 2.26 },
-      { "name": "Sao Paulo -1", "odds": 1.64 },
-      { "name": "Fluminense +1.25", "odds": 1.99 },
-      { "name": "Sao Paulo -1.25", "odds": 1.91 },
-      { "name": "Fluminense +1.5", "odds": 1.77 },
-      { "name": "Sao Paulo -1.5", "odds": 2.13 },
-      { "name": "Over 2.25", "odds": 1.78 },
-      { "name": "Under 2.25", "odds": 2.1 },
-      { "name": "Over 2.5", "odds": 2.06 },
-      { "name": "Under 2.5", "odds": 1.82 },
-      { "name": "Over 2.75", "odds": 2.26 },
-      { "name": "Under 2.75", "odds": 1.62 }
+      { "name": "Fluminense -0", "odds": 1.57 },
+      { "name": "Sao Paulo +0", "odds": 2.35 },
+      { "name": "Fluminense -0.25", "odds": 1.92 },
+      { "name": "Sao Paulo +0.25", "odds": 2.0 },
+      { "name": "Fluminense -0.5", "odds": 2.2 },
+      { "name": "Sao Paulo +0.5", "odds": 1.72 },
+      { "name": "Over 1.75", "odds": 1.61 },
+      { "name": "Under 1.75", "odds": 2.29 },
+      { "name": "Over 2", "odds": 1.87 },
+      { "name": "Under 2", "odds": 2.03 },
+      { "name": "Over 2.25", "odds": 2.13 },
+      { "name": "Under 2.25", "odds": 1.77 }
     ]
   },
   {
