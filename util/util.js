@@ -30,11 +30,23 @@ async function getTime(filePath, Match_Name) {
   }
 }
 
+// function formatDate(datetime) {
+//   const utcTime = datetime.getTime();
+//   const timeZoneOffset = 8 * 60 * 60 * 1000;
+//   const localtime = utcTime + timeZoneOffset;
+//   const localDate = new Date(localtime);
+//   const formattedDate = localDate
+//     .toISOString()
+//     .replace(/T/, " ")
+//     .replace(/\..+/, "");
+
+//   return formattedDate;
+// }
+
 function formatDate(datetime) {
-  const utcTime = datetime.getTime();
-  const timeZoneOffset = 8 * 60 * 60 * 1000;
-  const localtime = utcTime + timeZoneOffset;
-  const localDate = new Date(localtime);
+  const localDate = new Date(datetime);
+  localDate.setUTCHours(localDate.getUTCHours() + 8);
+
   const formattedDate = localDate
     .toISOString()
     .replace(/T/, " ")
