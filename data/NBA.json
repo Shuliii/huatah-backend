@@ -1,7 +1,7 @@
 [
   {
     "type": "NBA",
-    "time": "2023-11-24 03:30:00+0800",
+    "time": "2023-11-25 03:30:00+0800",
     "match_name": "Magic vs Celtics",
     "team1": "Magic",
     "team2": "Celtics",
@@ -26,7 +26,7 @@
   },
   {
     "type": "NBA",
-    "time": "2023-11-24 06:00:00+0800",
+    "time": "2023-11-25 06:00:00+0800",
     "match_name": "Grizzlies vs Suns",
     "team1": "Grizzlies",
     "team2": "Suns",
@@ -51,7 +51,7 @@
   },
   {
     "type": "NBA",
-    "time": "2023-11-24 08:30:00+0800",
+    "time": "2023-11-25 08:30:00+0800",
     "match_name": "Knicks vs Heat",
     "team1": "Knicks",
     "team2": "Heat",
@@ -76,7 +76,7 @@
   },
   {
     "type": "NBA",
-    "time": "2023-11-24 08:30:00+0800",
+    "time": "2023-11-25 08:30:00+0800",
     "match_name": "Raptors vs Bulls",
     "team1": "Raptors",
     "team2": "Bulls",
@@ -101,7 +101,7 @@
   },
   {
     "type": "NBA",
-    "time": "2023-11-24 09:00:00+0800",
+    "time": "2023-11-25 09:00:00+0800",
     "match_name": "Timberwolves vs Kings",
     "team1": "Timberwolves",
     "team2": "Kings",
@@ -126,7 +126,7 @@
   },
   {
     "type": "NBA",
-    "time": "2023-11-24 09:00:00+0800",
+    "time": "2023-11-25 09:00:00+0800",
     "match_name": "Rockets vs Nuggets",
     "team1": "Rockets",
     "team2": "Nuggets",
@@ -151,7 +151,7 @@
   },
   {
     "type": "NBA",
-    "time": "2023-11-24 09:00:00+0800",
+    "time": "2023-11-25 09:00:00+0800",
     "match_name": "Bucks vs Wizards",
     "team1": "Bucks",
     "team2": "Wizards",
@@ -176,7 +176,7 @@
   },
   {
     "type": "NBA",
-    "time": "2023-11-24 09:00:00+0800",
+    "time": "2023-11-25 09:00:00+0800",
     "match_name": "Pacers vs Pistons",
     "team1": "Pacers",
     "team2": "Pistons",
@@ -201,7 +201,7 @@
   },
   {
     "type": "NBA",
-    "time": "2023-11-24 11:00:00+0800",
+    "time": "2023-11-25 11:00:00+0800",
     "match_name": "Warriors vs Spurs",
     "team1": "Warriors",
     "team2": "Spurs",
@@ -226,7 +226,7 @@
   },
   {
     "type": "NBA",
-    "time": "2023-11-24 11:30:00+0800",
+    "time": "2023-11-25 11:30:00+0800",
     "match_name": "Clippers vs Pelicans",
     "team1": "Clippers",
     "team2": "Pelicans",
