@@ -2,15 +2,15 @@
   {
     "type": "Valorant",
     "time": "2023-11-23 17:08:00+0800",
-    "match_name": "Rare Atom vs EDG Match",
-    "team1": "Rare Atom",
+    "match_name": "NKT vs EDG Match",
+    "team1": "NKT",
     "team2": "EDG",
     "main_bet_list": [
-      { "name": "Rare Atom Winner", "odds": 1.16 },
+      { "name": "NKT Winner", "odds": 1.16 },
       { "name": "EDG Winner", "odds": 4.84 }
     ],
     "more_bet_list": [
-      { "name": "Rare Atom -1.5", "odds": 1.66 },
+      { "name": "NKT -1.5", "odds": 1.66 },
       { "name": "EDG +1.5", "odds": 2.16 },
       { "name": "Over 2.5", "odds": 2.47 },
       { "name": "Under 2.5", "odds": 1.5 },
@@ -23,57 +23,57 @@
   {
     "type": "Valorant",
     "time": "2023-11-24 17:08:00+0800",
-    "match_name": "Rare Atom vs EDG Map1",
-    "team1": "Rare Atom",
+    "match_name": "NKT vs EDG Map1",
+    "team1": "NKT",
     "team2": "EDG",
     "main_bet_list": [
-      { "name": "Rare Atom Winner", "odds": 4.12 },
+      { "name": "NKT Winner", "odds": 4.12 },
       { "name": "EDG Winner", "odds": 1.2 }
     ],
     "more_bet_list": [
-      { "name": "Rare Atom +4.5", "odds": 1.81 },
+      { "name": "NKT +4.5", "odds": 1.81 },
       { "name": "EDG -4.5", "odds": 1.95 },
       { "name": "Over 20.5", "odds": 1.93 },
       { "name": "Under 20.5", "odds": 1.83 },
-      { "name": "Rare Atom Pistol Winner", "odds": 2.25 },
+      { "name": "NKT Pistol Winner", "odds": 2.25 },
       { "name": "EDG Pistol Winner", "odds": 1.6 }
     ]
   },
   {
     "type": "Valorant",
     "time": "2023-11-24 17:30:00+0800",
-    "match_name": "Rare Atom vs EDG Map2",
-    "team1": "Rare Atom",
+    "match_name": "NKT vs EDG Map2",
+    "team1": "NKT",
     "team2": "EDG",
     "main_bet_list": [
-      { "name": "Rare Atom Winner", "odds": 4.12 },
+      { "name": "NKT Winner", "odds": 4.12 },
       { "name": "EDG Winner", "odds": 1.2 }
     ],
     "more_bet_list": [
-      { "name": "Rare Atom +4.5", "odds": 1.81 },
+      { "name": "NKT +4.5", "odds": 1.81 },
       { "name": "EDG -4.5", "odds": 1.95 },
       { "name": "Over 20.5", "odds": 1.93 },
       { "name": "Under 20.5", "odds": 1.83 },
-      { "name": "Rare Atom Pistol Winner", "odds": 2.25 },
+      { "name": "NKT Pistol Winner", "odds": 2.25 },
       { "name": "EDG Pistol Winner", "odds": 1.6 }
     ]
   },
   {
     "type": "Valorant",
     "time": "2023-11-24 18:00:00+0800",
-    "match_name": "Rare Atom vs EDG Map3",
-    "team1": "Rare Atom",
+    "match_name": "NKT vs EDG Map3",
+    "team1": "NKT",
     "team2": "EDG",
     "main_bet_list": [
-      { "name": "Rare Atom Winner", "odds": 4.12 },
+      { "name": "NKT Winner", "odds": 4.12 },
       { "name": "EDG Winner", "odds": 1.2 }
     ],
     "more_bet_list": [
-      { "name": "Rare Atom +4.5", "odds": 1.81 },
+      { "name": "NKT +4.5", "odds": 1.81 },
       { "name": "EDG -4.5", "odds": 1.95 },
       { "name": "Over 20.5", "odds": 1.93 },
       { "name": "Under 20.5", "odds": 1.83 },
-      { "name": "Rare Atom Pistol Winner", "odds": 2.25 },
+      { "name": "NKT Pistol Winner", "odds": 2.25 },
       { "name": "EDG Pistol Winner", "odds": 1.6 }
     ]
   },
