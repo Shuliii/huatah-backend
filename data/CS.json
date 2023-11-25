@@ -1,7 +1,7 @@
 [
   {
     "type": "CS",
-    "time": "2023-11-25 22:30:00+0800",
+    "time": "2023-11-26 22:30:00+0800",
     "match_name": "Vitality vs C9 Match",
     "team1": "Vitality",
     "team2": "C9",
@@ -23,7 +23,7 @@
   },
   {
     "type": "CS",
-    "time": "2023-11-25 22:30:00+0800",
+    "time": "2023-11-26 22:30:00+0800",
     "match_name": "Vitality vs C9 Map1",
     "team1": "Vitality",
     "team2": "C9",
@@ -51,7 +51,7 @@
   },
   {
     "type": "CS",
-    "time": "2023-11-25 23:10:00+0800",
+    "time": "2023-11-26 23:10:00+0800",
     "match_name": "Vitality vs C9 Map2",
     "team1": "Vitality",
     "team2": "C9",
@@ -79,7 +79,7 @@
   },
   {
     "type": "CS",
-    "time": "2023-11-25 23:40:00+0800",
+    "time": "2023-11-26 23:40:00+0800",
     "match_name": "Vitality vs C9 Map3",
     "team1": "Vitality",
     "team2": "C9",
@@ -107,7 +107,7 @@
   },
   {
     "type": "CS",
-    "time": "2023-11-25 01:00:00+0800",
+    "time": "2023-11-26 01:00:00+0800",
     "match_name": "Faze vs Complexity Match",
     "team1": "Faze",
     "team2": "Complexity",
@@ -131,7 +131,7 @@
   },
   {
     "type": "CS",
-    "time": "2023-11-25 01:00:00+0800",
+    "time": "2023-11-26 01:00:00+0800",
     "match_name": "Faze vs Complexity Map1",
     "team1": "Faze",
     "team2": "Complexity",
@@ -159,7 +159,7 @@
   },
   {
     "type": "CS",
-    "time": "2023-11-25 01:00:00+0800",
+    "time": "2023-11-26 01:00:00+0800",
     "match_name": "Faze vs Complexity Map2",
     "team1": "Faze",
     "team2": "Complexity",
@@ -187,7 +187,7 @@
   },
   {
     "type": "CS",
-    "time": "2023-11-25 01:30:00+0800",
+    "time": "2023-11-26 01:30:00+0800",
     "match_name": "Faze vs Complexity Map3",
     "team1": "Faze",
     "team2": "Complexity",
