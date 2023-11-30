@@ -1,44 +1,40 @@
 [
   {
     "type": "CS",
-    "time": "2023-11-25 22:30:00+0800",
-    "match_name": "Vitality vs C9 Match",
-    "team1": "Vitality",
-    "team2": "C9",
+    "time": "2023-11-30 20:00:00+0800",
+    "match_name": "Complex vs Furia Match",
+    "team1": "Complex",
+    "team2": "Furia",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.54 },
-      { "name": "C9 Winner", "odds": 2.38 }
+      { "name": "Complex Winner", "odds": 1.55 },
+      { "name": "Furia Winner", "odds": 2.36 }
     ],
 
     "more_bet_list": [
-      { "name": "Vitality -1.5", "odds": 2.66 },
-      { "name": "C9 +1.5", "odds": 1.46 },
-      { "name": "Over 2.5", "odds": 1.92 },
-      { "name": "Under 2.5", "odds": 1.84 },
-      { "name": "Map score 2-0", "odds": 2.78 },
-      { "name": "Map score 2-1", "odds": 3.22 },
-      { "name": "Map score 0-2", "odds": 4.03 },
-      { "name": "Map score 1-2", "odds": 4.12 }
+      { "name": "Complex -2.5", "odds": 1.87 },
+      { "name": "Furia +1.5", "odds": 1.89 },
+      { "name": "Over 21.5", "odds": 1.98 },
+      { "name": "Under 21.5", "odds": 1.78 }
     ]
   },
   {
     "type": "CS",
     "time": "2023-11-25 22:30:00+0800",
-    "match_name": "Vitality vs C9 Map1",
-    "team1": "Vitality",
-    "team2": "C9",
+    "match_name": "Complex vs Furia Map1",
+    "team1": "Complex",
+    "team2": "Furia",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.65 },
-      { "name": "C9 Winner", "odds": 2.2 }
+      { "name": "Complex Winner", "odds": 1.65 },
+      { "name": "Furia Winner", "odds": 2.2 }
     ],
 
     "more_bet_list": [
-      { "name": "Vitality +2.5", "odds": 1.65 },
-      { "name": "C9 -2.5", "odds": 2.2 },
-      { "name": "Vitality -2.5", "odds": 1.5 },
-      { "name": "C9 +2.5", "odds": 2.35 },
-      { "name": "Vitality -3.5", "odds": 1.95 },
-      { "name": "C9 +3.5", "odds": 1.81 },
+      { "name": "Complex +2.5", "odds": 1.65 },
+      { "name": "Furia -2.5", "odds": 2.2 },
+      { "name": "Complex -2.5", "odds": 1.5 },
+      { "name": "Furia +2.5", "odds": 2.35 },
+      { "name": "Complex -3.5", "odds": 1.95 },
+      { "name": "Furia +3.5", "odds": 1.81 },
       { "name": "Over 20.5", "odds": 1.63 },
       { "name": "Under 20.5", "odds": 2.14 },
       { "name": "Over 21.5", "odds": 1.88 },
@@ -52,21 +48,21 @@
   {
     "type": "CS",
     "time": "2023-11-25 23:10:00+0800",
-    "match_name": "Vitality vs C9 Map2",
-    "team1": "Vitality",
-    "team2": "C9",
+    "match_name": "Complex vs Furia Map2",
+    "team1": "Complex",
+    "team2": "Furia",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.65 },
-      { "name": "C9 Winner", "odds": 2.2 }
+      { "name": "Complex Winner", "odds": 1.65 },
+      { "name": "Furia Winner", "odds": 2.2 }
     ],
 
     "more_bet_list": [
-      { "name": "Vitality +2.5", "odds": 1.65 },
-      { "name": "C9 -2.5", "odds": 2.2 },
-      { "name": "Vitality -2.5", "odds": 1.5 },
-      { "name": "C9 +2.5", "odds": 2.35 },
-      { "name": "Vitality -3.5", "odds": 1.95 },
-      { "name": "C9 +3.5", "odds": 1.81 },
+      { "name": "Complex +2.5", "odds": 1.65 },
+      { "name": "Furia -2.5", "odds": 2.2 },
+      { "name": "Complex -2.5", "odds": 1.5 },
+      { "name": "Furia +2.5", "odds": 2.35 },
+      { "name": "Complex -3.5", "odds": 1.95 },
+      { "name": "Furia +3.5", "odds": 1.81 },
       { "name": "Over 20.5", "odds": 1.63 },
       { "name": "Under 20.5", "odds": 2.14 },
       { "name": "Over 21.5", "odds": 1.88 },
@@ -80,21 +76,21 @@
   {
     "type": "CS",
     "time": "2023-11-25 23:40:00+0800",
-    "match_name": "Vitality vs C9 Map3",
-    "team1": "Vitality",
-    "team2": "C9",
+    "match_name": "Complex vs Furia Map3",
+    "team1": "Complex",
+    "team2": "Furia",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.65 },
-      { "name": "C9 Winner", "odds": 2.2 }
+      { "name": "Complex Winner", "odds": 1.65 },
+      { "name": "Furia Winner", "odds": 2.2 }
     ],
 
     "more_bet_list": [
-      { "name": "Vitality +2.5", "odds": 1.65 },
-      { "name": "C9 -2.5", "odds": 2.2 },
-      { "name": "Vitality -2.5", "odds": 1.5 },
-      { "name": "C9 +2.5", "odds": 2.35 },
-      { "name": "Vitality -3.5", "odds": 1.95 },
-      { "name": "C9 +3.5", "odds": 1.81 },
+      { "name": "Complex +2.5", "odds": 1.65 },
+      { "name": "Furia -2.5", "odds": 2.2 },
+      { "name": "Complex -2.5", "odds": 1.5 },
+      { "name": "Furia +2.5", "odds": 2.35 },
+      { "name": "Complex -3.5", "odds": 1.95 },
+      { "name": "Furia +3.5", "odds": 1.81 },
       { "name": "Over 20.5", "odds": 1.63 },
       { "name": "Under 20.5", "odds": 2.14 },
       { "name": "Over 21.5", "odds": 1.88 },

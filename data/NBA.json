@@ -1,227 +1,227 @@
 [
   {
     "type": "NBA",
-    "time": "2023-11-30 08:00:00+0800",
-    "match_name": "Pistons vs Lakers",
-    "team1": "Pistons",
-    "team2": "Lakers",
+    "time": "2023-12-01 08:00:00+0800",
+    "match_name": "Cavaliers vs Trail Blazers",
+    "team1": "Cavaliers",
+    "team2": "Trail Blazers",
     "main_bet_list": [
-      { "name": "Pistons Winner", "odds": 3.27 },
-      { "name": "Lakers Winner", "odds": 1.24 }
+      { "name": "Cavaliers Winner", "odds": 1.2 },
+      { "name": "Trail Blazers Winner", "odds": 3.5 }
     ],
     "more_bet_list": [
-      { "name": "Pistons +7", "odds": 2.01 },
-      { "name": "Lakers -7", "odds": 1.87 },
-      { "name": "Pistons +7.5", "odds": 1.94 },
-      { "name": "Lakers -7.5", "odds": 1.94 },
-      { "name": "Pistons +8", "odds": 1.87 },
-      { "name": "Lakers -8", "odds": 2.01 },
-      { "name": "Over 230", "odds": 1.91 },
-      { "name": "Under 230", "odds": 1.95 },
-      { "name": "Over 230.5", "odds": 1.96 },
-      { "name": "Under 230.5", "odds": 1.9 },
-      { "name": "Over 231", "odds": 2.01 },
-      { "name": "Under 231", "odds": 1.85 }
+      { "name": "Cavaliers -11", "odds": 1.86 },
+      { "name": "Trail Blazers +11", "odds": 2.02 },
+      { "name": "Cavaliers -11.5", "odds": 1.93 },
+      { "name": "Trail Blazers +11.5", "odds": 1.95 },
+      { "name": "Cavaliers -12", "odds": 2.0 },
+      { "name": "Trail Blazers +12", "odds": 1.88 },
+      { "name": "Over 219", "odds": 1.93 },
+      { "name": "Under 219", "odds": 1.93 },
+      { "name": "Over 219.5", "odds": 1.98 },
+      { "name": "Under 219.5", "odds": 1.88 },
+      { "name": "Over 220", "odds": 2.03 },
+      { "name": "Under 220", "odds": 1.83 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2023-11-30 08:00:00+0800",
-    "match_name": "Magic vs Wizards",
-    "team1": "Magic",
-    "team2": "Wizards",
+    "time": "2023-12-01 08:30:00+0800",
+    "match_name": "Knicks vs Pistons",
+    "team1": "Knicks",
+    "team2": "Pistons",
     "main_bet_list": [
-      { "name": "Magic Winner", "odds": 1.19 },
-      { "name": "Wizards Winner", "odds": 3.56 }
+      { "name": "Knicks Winner", "odds": 1.11 },
+      { "name": "Pistons Winner", "odds": 4.22 }
     ],
     "more_bet_list": [
-      { "name": "Magic -10.5", "odds": 1.93 },
-      { "name": "Wizards +10.5", "odds": 1.95 },
-      { "name": "Magic -11", "odds": 2.0 },
-      { "name": "Wizards +11", "odds": 1.88 },
-      { "name": "Magic -11.5", "odds": 2.07 },
-      { "name": "Wizards +11.5", "odds": 1.81 },
-      { "name": "Over 233.5", "odds": 1.89 },
-      { "name": "Under 233.5", "odds": 1.97 },
-      { "name": "Over 234", "odds": 1.94 },
-      { "name": "Under 234", "odds": 1.92 },
-      { "name": "Over 234.5", "odds": 1.99 },
-      { "name": "Under 234.5", "odds": 1.87 }
+      { "name": "Knicks -13", "odds": 1.81 },
+      { "name": "Pistons +13", "odds": 2.07 },
+      { "name": "Knicks -13.5", "odds": 1.88 },
+      { "name": "Pistons +13.5", "odds": 2.0 },
+      { "name": "Knicks -14", "odds": 1.95 },
+      { "name": "Pistons +14", "odds": 1.93 },
+      { "name": "Over 218", "odds": 1.93 },
+      { "name": "Under 218", "odds": 1.93 },
+      { "name": "Over 218.5", "odds": 1.98 },
+      { "name": "Under 218.5", "odds": 1.88 },
+      { "name": "Over 219", "odds": 2.03 },
+      { "name": "Under 219", "odds": 1.83 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2023-11-30 08:30:00+0800",
-    "match_name": "Raptors vs Suns",
-    "team1": "Raptors",
-    "team2": "Suns",
+    "time": "2023-12-01 08:30:00+0800",
+    "match_name": "Heat vs Pacers",
+    "team1": "Heat",
+    "team2": "Pacers",
     "main_bet_list": [
-      { "name": "Raptors Winner", "odds": 2.19 },
-      { "name": "Suns Winner", "odds": 1.64 }
+      { "name": "Heat Winner", "odds": 1.7 },
+      { "name": "Pacers Winner", "odds": 2.11 }
     ],
     "more_bet_list": [
-      { "name": "Raptors +2", "odds": 2.05 },
-      { "name": "Suns -2", "odds": 1.83 },
-      { "name": "Raptors +2.5", "odds": 1.98 },
-      { "name": "Suns -2.5", "odds": 1.9 },
-      { "name": "Raptors +3", "odds": 1.91 },
-      { "name": "Suns -3", "odds": 1.97 },
-      { "name": "Over 225", "odds": 1.91 },
-      { "name": "Under 225", "odds": 1.95 },
-      { "name": "Over 225.5", "odds": 1.96 },
-      { "name": "Under 225.5", "odds": 1.9 },
-      { "name": "Over 226", "odds": 2.01 },
-      { "name": "Under 226", "odds": 1.85 }
+      { "name": "Heat -2", "odds": 1.87 },
+      { "name": "Pacers +2", "odds": 2.01 },
+      { "name": "Heat -2.5", "odds": 1.94 },
+      { "name": "Pacers +2.5", "odds": 1.94 },
+      { "name": "Heat -3", "odds": 2.01 },
+      { "name": "Pacers +3", "odds": 1.87 },
+      { "name": "Over 239", "odds": 1.96 },
+      { "name": "Under 239", "odds": 1.9 },
+      { "name": "Over 239.5", "odds": 2.01 },
+      { "name": "Under 239.5", "odds": 1.85 },
+      { "name": "Over 240", "odds": 2.06 },
+      { "name": "Under 240", "odds": 1.8 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2023-11-30 09:00:00+0800",
-    "match_name": "Pelicans vs 76ers",
-    "team1": "Pelicans",
-    "team2": "76ers",
+    "time": "2023-12-01 08:30:00+0800",
+    "match_name": "Nets vs Hornets",
+    "team1": "Nets",
+    "team2": "Hornets",
     "main_bet_list": [
-      { "name": "Pelicans Winner", "odds": 2.06 },
-      { "name": "76ers Winner", "odds": 1.74 }
+      { "name": "Nets Winner", "odds": 1.29 },
+      { "name": "Hornets Winner", "odds": 3.04 }
     ],
     "more_bet_list": [
-      { "name": "Pelicans +1", "odds": 2.05 },
-      { "name": "76ers -1", "odds": 1.83 },
-      { "name": "Pelicans +1.5", "odds": 1.98 },
-      { "name": "76ers -1.5", "odds": 1.9 },
-      { "name": "Pelicans +2", "odds": 1.91 },
-      { "name": "76ers -2", "odds": 1.97 },
-      { "name": "Over 229.5", "odds": 1.88 },
-      { "name": "Under 229.5", "odds": 1.98 },
-      { "name": "Over 230", "odds": 1.93 },
-      { "name": "Under 230", "odds": 1.93 },
-      { "name": "Over 230.5", "odds": 1.98 },
-      { "name": "Under 230.5", "odds": 1.88 }
+      { "name": "Nets -7.5", "odds": 1.87 },
+      { "name": "Hornets +7.5", "odds": 2.01 },
+      { "name": "Nets -8", "odds": 1.94 },
+      { "name": "Hornets +8", "odds": 1.94 },
+      { "name": "Nets -8.5", "odds": 2.01 },
+      { "name": "Hornets +8.5", "odds": 1.87 },
+      { "name": "Over 226", "odds": 1.94 },
+      { "name": "Under 226", "odds": 1.92 },
+      { "name": "Over 226.5", "odds": 1.99 },
+      { "name": "Under 226.5", "odds": 1.87 },
+      { "name": "Over 227", "odds": 2.04 },
+      { "name": "Under 227", "odds": 1.82 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2023-11-30 09:00:00+0800",
-    "match_name": "Grizzlies vs Jazz",
-    "team1": "Grizzlies",
+    "time": "2023-12-01 09:00:00+0800",
+    "match_name": "Timberwolves vs Jazz",
+    "team1": "Timberwolves",
     "team2": "Jazz",
     "main_bet_list": [
-      { "name": "Grizzlies Winner", "odds": 1.62 },
-      { "name": "Jazz Winner", "odds": 2.21 }
+      { "name": "Timberwolves Winner", "odds": 1.2 },
+      { "name": "Jazz Winner", "odds": 3.5 }
     ],
     "more_bet_list": [
-      { "name": "Grizzlies -3.5", "odds": 1.91 },
-      { "name": "Jazz +3.5", "odds": 1.97 },
-      { "name": "Grizzlies -4", "odds": 1.98 },
-      { "name": "Jazz +4", "odds": 1.9 },
-      { "name": "Grizzlies -4.5", "odds": 2.05 },
-      { "name": "Jazz +4.5", "odds": 1.83 },
-      { "name": "Over 223", "odds": 1.88 },
-      { "name": "Under 223", "odds": 1.98 },
-      { "name": "Over 223.5", "odds": 1.93 },
-      { "name": "Under 223.5", "odds": 1.93 },
-      { "name": "Over 224", "odds": 1.98 },
-      { "name": "Under 224", "odds": 1.88 }
+      { "name": "Timberwolves -10", "odds": 1.85 },
+      { "name": "Jazz +10", "odds": 2.03 },
+      { "name": "Timberwolves -10.5", "odds": 1.92 },
+      { "name": "Jazz +10.5", "odds": 1.96 },
+      { "name": "Timberwolves -11", "odds": 1.99 },
+      { "name": "Jazz +11", "odds": 1.89 },
+      { "name": "Over 221", "odds": 1.84 },
+      { "name": "Under 221", "odds": 2.02 },
+      { "name": "Over 221.5", "odds": 1.89 },
+      { "name": "Under 221.5", "odds": 1.97 },
+      { "name": "Over 222", "odds": 1.94 },
+      { "name": "Under 222", "odds": 1.92 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2023-11-30 10:00:00+0800",
-    "match_name": "Nuggets vs Rockets",
-    "team1": "Nuggets",
-    "team2": "Rockets",
+    "time": "2023-12-01 09:00:00+0800",
+    "match_name": "Thunder vs Lakers",
+    "team1": "Thunder",
+    "team2": "Lakers",
     "main_bet_list": [
-      { "name": "Nuggets Winner", "odds": 1.37 },
-      { "name": "Rockets Winner", "odds": 2.75 }
+      { "name": "Thunder Winner", "odds": 1.44 },
+      { "name": "Lakers Winner", "odds": 2.56 }
     ],
     "more_bet_list": [
-      { "name": "Nuggets -6.5", "odds": 1.87 },
-      { "name": "Rockets +6.5", "odds": 2.01 },
-      { "name": "Nuggets -7", "odds": 1.94 },
-      { "name": "Rockets +7", "odds": 1.94 },
-      { "name": "Nuggets -7.5", "odds": 2.01 },
-      { "name": "Rockets +7.5", "odds": 1.87 },
-      { "name": "Over 216.5", "odds": 1.88 },
-      { "name": "Under 216.5", "odds": 1.98 },
-      { "name": "Over 217", "odds": 1.93 },
-      { "name": "Under 217", "odds": 1.93 },
-      { "name": "Over 217.5", "odds": 1.98 },
-      { "name": "Under 217.5", "odds": 1.88 }
+      { "name": "Thunder -6", "odds": 1.89 },
+      { "name": "Lakers +6", "odds": 1.99 },
+      { "name": "Thunder -6.5", "odds": 1.96 },
+      { "name": "Lakers +6.5", "odds": 1.92 },
+      { "name": "Thunder -7", "odds": 2.03 },
+      { "name": "Lakers +7", "odds": 1.85 },
+      { "name": "Over 230", "odds": 1.88 },
+      { "name": "Under 230", "odds": 1.98 },
+      { "name": "Over 230.5", "odds": 1.93 },
+      { "name": "Under 230.5", "odds": 1.93 },
+      { "name": "Over 231", "odds": 1.98 },
+      { "name": "Under 231", "odds": 1.88 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2023-11-30 11:30:00+0800",
-    "match_name": "Kings vs Clippers",
-    "team1": "Kings",
+    "time": "2023-12-01 09:00:00+0800",
+    "match_name": "Bulls vs Bucks",
+    "team1": "Bulls",
+    "team2": "Bucks",
+    "main_bet_list": [
+      { "name": "Bulls Winner", "odds": 3.56 },
+      { "name": "Bucks Winner", "odds": 1.19 }
+    ],
+    "more_bet_list": [
+      { "name": "Bulls +7.5", "odds": 2.03 },
+      { "name": "Bucks -7.5", "odds": 1.85 },
+      { "name": "Bulls +8", "odds": 1.96 },
+      { "name": "Bucks -8", "odds": 1.92 },
+      { "name": "Bulls +8.5", "odds": 1.89 },
+      { "name": "Bucks -8.5", "odds": 1.99 },
+      { "name": "Over 227", "odds": 1.95 },
+      { "name": "Under 227", "odds": 1.91 },
+      { "name": "Over 227.5", "odds": 2.0 },
+      { "name": "Under 227.5", "odds": 1.86 },
+      { "name": "Over 228", "odds": 2.05 },
+      { "name": "Under 228", "odds": 1.81 }
+    ]
+  },
+  {
+    "type": "NBA",
+    "time": "2023-12-01 09:00:00+0800",
+    "match_name": "Spurs vs Hawks",
+    "team1": "Spurs",
+    "team2": "Hawks",
+    "main_bet_list": [
+      { "name": "Spurs Winner", "odds": 3.17 },
+      { "name": "Hawks Winner", "odds": 1.26 }
+    ],
+    "more_bet_list": [
+      { "name": "Spurs +7", "odds": 2.01 },
+      { "name": "Hawks -7", "odds": 1.87 },
+      { "name": "Spurs +7.5", "odds": 1.94 },
+      { "name": "Hawks -7.5", "odds": 1.94 },
+      { "name": "Spurs +8", "odds": 1.87 },
+      { "name": "Hawks -8", "odds": 2.01 },
+      { "name": "Over 245", "odds": 1.85 },
+      { "name": "Under 245", "odds": 2.01 },
+      { "name": "Over 245.5", "odds": 1.9 },
+      { "name": "Under 245.5", "odds": 1.96 },
+      { "name": "Over 246", "odds": 1.95 },
+      { "name": "Under 246", "odds": 1.91 }
+    ]
+  },
+  {
+    "type": "NBA",
+    "time": "2023-12-01 11:00:00+0800",
+    "match_name": "Warriors vs Clippers",
+    "team1": "Warriors",
     "team2": "Clippers",
     "main_bet_list": [
-      { "name": "Kings Winner", "odds": 1.99 },
-      { "name": "Clippers Winner", "odds": 1.81 }
+      { "name": "Warriors Winner", "odds": 1.5 },
+      { "name": "Clippers Winner", "odds": 2.42 }
     ],
     "more_bet_list": [
-      { "name": "Kings +1", "odds": 2.01 },
-      { "name": "Clippers -1", "odds": 1.87 },
-      { "name": "Kings +1.5", "odds": 1.94 },
-      { "name": "Clippers -1.5", "odds": 1.94 },
-      { "name": "Kings +2", "odds": 1.87 },
-      { "name": "Clippers -2", "odds": 2.01 },
-      { "name": "Over 230.5", "odds": 1.88 },
-      { "name": "Under 230.5", "odds": 1.98 },
-      { "name": "Over 231", "odds": 1.93 },
-      { "name": "Under 231", "odds": 1.93 },
-      { "name": "Over 231.5", "odds": 1.98 },
-      { "name": "Under 231.5", "odds": 1.88 }
-    ]
-  },
-  {
-    "type": "NBA",
-    "time": "2023-11-28 11:00:00+0800",
-    "match_name": "Kings vs Warriors",
-    "team1": "Kings",
-    "team2": "Warriors",
-    "main_bet_list": [
-      { "name": "Kings Winner", "odds": 1.46 },
-      { "name": "Warriors Winner", "odds": 2.51 }
-    ],
-    "more_bet_list": [
-      { "name": "Kings -4.5", "odds": 1.83 },
-      { "name": "Warriors +4.5", "odds": 2.05 },
-      { "name": "Kings -5", "odds": 1.9 },
-      { "name": "Warriors +5", "odds": 1.98 },
-      { "name": "Kings -5.5", "odds": 1.97 },
-      { "name": "Warriors +5.5", "odds": 1.91 },
-      { "name": "Over 236", "odds": 1.88 },
-      { "name": "Under 236", "odds": 1.98 },
-      { "name": "Over 236.5", "odds": 1.93 },
-      { "name": "Under 236.5", "odds": 1.93 },
-      { "name": "Over 237", "odds": 1.98 },
-      { "name": "Under 237", "odds": 1.88 }
-    ]
-  },
-  {
-    "type": "NBA",
-    "time": "2023-11-25 11:00:00+0800",
-    "match_name": "Warriors vs Spurs",
-    "team1": "Warriors",
-    "team2": "Spurs",
-    "main_bet_list": [
-      { "name": "Warriors Winner", "odds": 1.2 },
-      { "name": "Spurs Winner", "odds": 3.5 }
-    ],
-    "more_bet_list": [
-      { "name": "Warriors -10", "odds": 1.84 },
-      { "name": "Spurs +10", "odds": 2.04 },
-      { "name": "Warriors -10.5", "odds": 1.91 },
-      { "name": "Spurs +10.5", "odds": 1.97 },
-      { "name": "Warriors -11", "odds": 1.98 },
-      { "name": "Spurs +11", "odds": 1.9 },
-      { "name": "Over 233", "odds": 1.83 },
-      { "name": "Under 233", "odds": 2.03 },
-      { "name": "Over 233.5", "odds": 1.88 },
-      { "name": "Under 233.5", "odds": 1.98 },
-      { "name": "Over 234", "odds": 1.93 },
-      { "name": "Under 234", "odds": 1.93 }
+      { "name": "Warriors -4.5", "odds": 1.87 },
+      { "name": "Clippers +4.5", "odds": 2.01 },
+      { "name": "Warriors -5", "odds": 1.94 },
+      { "name": "Clippers +5", "odds": 1.94 },
+      { "name": "Warriors -5.5", "odds": 2.01 },
+      { "name": "Clippers +5.5", "odds": 1.87 },
+      { "name": "Over 227", "odds": 1.96 },
+      { "name": "Under 227", "odds": 1.9 },
+      { "name": "Over 227.5", "odds": 2.01 },
+      { "name": "Under 227.5", "odds": 1.85 },
+      { "name": "Over 228", "odds": 2.06 },
+      { "name": "Under 228", "odds": 1.8 }
     ]
   },
   {
