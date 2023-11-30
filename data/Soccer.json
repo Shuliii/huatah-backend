@@ -1,7 +1,7 @@
 [
   {
     "type": "Soccer",
-    "time": "2023-11-30 01:45:00+0800",
+    "time": "2023-11-29 01:45:00+0800",
     "match_name": "Galatasaray vs Man United",
     "team1": "Galatasaray",
     "team2": "Man United",
@@ -31,7 +31,7 @@
   },
   {
     "type": "Soccer",
-    "time": "2023-11-30 01:45:00+0800",
+    "time": "2023-11-29 01:45:00+0800",
     "match_name": "Sevilla vs PSV",
     "team1": "Sevilla",
     "team2": "PSV",
@@ -61,7 +61,7 @@
   },
   {
     "type": "Soccer",
-    "time": "2023-11-30 04:00:00+0800",
+    "time": "2023-11-29 04:00:00+0800",
     "match_name": "Bayern vs Copenhagen",
     "team1": "Bayern",
     "team2": "Copenhagen",
@@ -91,7 +91,7 @@
   },
   {
     "type": "Soccer",
-    "time": "2023-11-30 04:00:00+0800",
+    "time": "2023-11-29 04:00:00+0800",
     "match_name": "Real Madrid vs Napoli",
     "team1": "Real Madrid",
     "team2": "Napoli",
@@ -121,7 +121,7 @@
   },
   {
     "type": "Soccer",
-    "time": "2023-11-30 04:00:00+0800",
+    "time": "2023-11-29 04:00:00+0800",
     "match_name": "Real Sociedad vs RB Salzburg",
     "team1": "Real Sociedad",
     "team2": "RB Salzburg",
@@ -151,7 +151,7 @@
   },
   {
     "type": "Soccer",
-    "time": "2023-11-30 04:00:00+0800",
+    "time": "2023-11-29 04:00:00+0800",
     "match_name": "Braga vs Union Berlin",
     "team1": "Braga",
     "team2": "Union Berlin",
@@ -181,7 +181,7 @@
   },
   {
     "type": "Soccer",
-    "time": "2023-11-30 04:00:00+0800",
+    "time": "2023-11-29 04:00:00+0800",
     "match_name": "Arsenal vs Lens",
     "team1": "Arsenal",
     "team2": "Lens",
@@ -211,7 +211,7 @@
   },
   {
     "type": "Soccer",
-    "time": "2023-11-30 04:00:00+0800",
+    "time": "2023-11-29 04:00:00+0800",
     "match_name": "Benfica vs Inter",
     "team1": "Benfica",
     "team2": "Inter",
