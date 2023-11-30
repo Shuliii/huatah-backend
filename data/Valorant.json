@@ -1,238 +1,240 @@
 [
   {
     "type": "Valorant",
-    "time": "2023-11-28 01:08:00+0800",
-    "match_name": "EDG vs SR Match",
-    "team1": "EDG",
-    "team2": "SR",
+    "time": "2023-12-01 01:08:00+0800",
+    "match_name": "EG vs Liquid Match",
+    "team1": "EG",
+    "team2": "Liquid",
     "main_bet_list": [
-      { "name": "EDG Winner", "odds": 1.57 },
-      { "name": "SR Winner", "odds": 2.33 }
+      { "name": "EG Winner", "odds": 2.0 },
+      { "name": "Liquid Winner", "odds": 1.78 }
     ],
     "more_bet_list": [
-      { "name": "EDG -1.5", "odds": 2.69 },
-      { "name": "SR +1.5", "odds": 1.43 },
-      { "name": "Over 2.5", "odds": 1.96 },
-      { "name": "Under 2.5", "odds": 1.8 },
-      { "name": "Map score 2-0", "odds": 2.63 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 4.03 },
-      { "name": "Map score 1-2", "odds": 3.5 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2023-11-30 01:08:00+0800",
-    "match_name": "EDG vs SR Map1",
-    "team1": "EDG",
-    "team2": "SR",
-    "main_bet_list": [
-      { "name": "EDG Winner", "odds": 5.16 },
-      { "name": "SR Winner", "odds": 1.14 }
-    ],
-    "more_bet_list": [
-      { "name": "EDG +6.5", "odds": 1.76 },
-      { "name": "SR -6.5", "odds": 2.0 },
-      { "name": "Over 20.5", "odds": 1.96 },
-      { "name": "Under 20.5", "odds": 1.8 },
-      { "name": "EDG Pistol Winner", "odds": 2.36 },
-      { "name": "SR Pistol Winner", "odds": 1.55 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2023-11-30 01:48:00+0800",
-    "match_name": "EDG vs SR Map2",
-    "team1": "EDG",
-    "team2": "SR",
-    "main_bet_list": [
-      { "name": "EDG Winner", "odds": 5.16 },
-      { "name": "SR Winner", "odds": 1.14 }
-    ],
-    "more_bet_list": [
-      { "name": "EDG +6.5", "odds": 1.76 },
-      { "name": "SR -6.5", "odds": 2.0 },
-      { "name": "Over 20.5", "odds": 1.96 },
-      { "name": "Under 20.5", "odds": 1.8 },
-      { "name": "EDG Pistol Winner", "odds": 2.36 },
-      { "name": "SR Pistol Winner", "odds": 1.55 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2023-11-30 02:20:00+0800",
-    "match_name": "EDG vs SR Map3",
-    "team1": "EDG",
-    "team2": "SR",
-    "main_bet_list": [
-      { "name": "EDG Winner", "odds": 5.16 },
-      { "name": "SR Winner", "odds": 1.14 }
-    ],
-    "more_bet_list": [
-      { "name": "EDG +6.5", "odds": 1.76 },
-      { "name": "SR -6.5", "odds": 2.0 },
-      { "name": "Over 20.5", "odds": 1.96 },
-      { "name": "Under 20.5", "odds": 1.8 },
-      { "name": "EDG Pistol Winner", "odds": 2.36 },
-      { "name": "SR Pistol Winner", "odds": 1.55 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2023-11-28 04:00:00+0800",
-    "match_name": "BBL vs Kru Match",
-    "team1": "BBL",
-    "team2": "Kru",
-    "main_bet_list": [
-      { "name": "BBL Winner", "odds": 2.17 },
-      { "name": "Kru Winner", "odds": 1.65 }
-    ],
-    "more_bet_list": [
-      { "name": "BBL +1.5", "odds": 1.4 },
-      { "name": "Kru -1.5", "odds": 2.78 },
-      { "name": "Over 2.5", "odds": 1.96 },
-      { "name": "Under 2.5", "odds": 1.8 },
-      { "name": "Map score 2-0", "odds": 4.03 },
-      { "name": "Map score 2-1", "odds": 3.5 },
-      { "name": "Map score 0-2", "odds": 2.78 },
+      { "name": "EG -1.5", "odds": 3.63 },
+      { "name": "Liquid +1.5", "odds": 1.26 },
+      { "name": "EG +1.5", "odds": 1.33 },
+      { "name": "Liquid -1.5", "odds": 3.12 },
+      { "name": "Over 2.5", "odds": 1.91 },
+      { "name": "Under 2.5", "odds": 1.85 },
+      { "name": "Map score 2-0", "odds": 3.56 },
+      { "name": "Map score 2-1", "odds": 3.63 },
+      { "name": "Map score 0-2", "odds": 3.12 },
       { "name": "Map score 1-2", "odds": 3.32 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2023-11-30 04:00:00+0800",
-    "match_name": "BBL vs Kru Map1",
-    "team1": "BBL",
-    "team2": "Kru",
+    "time": "2023-12-01 01:08:00+0800",
+    "match_name": "EG vs Liquid Map1",
+    "team1": "EG",
+    "team2": "Liquid",
     "main_bet_list": [
-      { "name": "BBL Winner", "odds": 1.14 },
-      { "name": "Kru Winner", "odds": 5.16 }
+      { "name": "EG Winner", "odds": 1.88 },
+      { "name": "Liquid Winner", "odds": 1.88 }
     ],
     "more_bet_list": [
-      { "name": "BBL -5.5", "odds": 1.8 },
-      { "name": "Kru +5.5", "odds": 1.96 },
-      { "name": "Over 19.5", "odds": 1.76 },
-      { "name": "Under 19.5", "odds": 2.0 },
-      { "name": "BBL Pistol Winner", "odds": 1.55 },
-      { "name": "Kru Pistol Winner", "odds": 2.36 }
+      { "name": "EG +2.5", "odds": 1.65 },
+      { "name": "Liquid -2.5", "odds": 2.12 },
+      { "name": "Over 21.5", "odds": 1.7 },
+      { "name": "Under 21.5", "odds": 2.06 },
+      { "name": "EG Pistol Winner", "odds": 1.88 },
+      { "name": "Liquid Pistol Winner", "odds": 1.88 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2023-11-30 04:30:00+0800",
-    "match_name": "BBL vs Kru Map2",
-    "team1": "BBL",
-    "team2": "Kru",
+    "time": "2023-12-01 01:48:00+0800",
+    "match_name": "EG vs Liquid Map2",
+    "team1": "EG",
+    "team2": "Liquid",
     "main_bet_list": [
-      { "name": "BBL Winner", "odds": 1.14 },
-      { "name": "Kru Winner", "odds": 5.16 }
+      { "name": "EG Winner", "odds": 1.88 },
+      { "name": "Liquid Winner", "odds": 1.88 }
     ],
     "more_bet_list": [
-      { "name": "BBL -5.5", "odds": 1.8 },
-      { "name": "Kru +5.5", "odds": 1.96 },
-      { "name": "Over 19.5", "odds": 1.76 },
-      { "name": "Under 19.5", "odds": 2.0 },
-      { "name": "BBL Pistol Winner", "odds": 1.55 },
-      { "name": "Kru Pistol Winner", "odds": 2.36 }
+      { "name": "EG +2.5", "odds": 1.65 },
+      { "name": "Liquid -2.5", "odds": 2.12 },
+      { "name": "Over 21.5", "odds": 1.7 },
+      { "name": "Under 21.5", "odds": 2.06 },
+      { "name": "EG Pistol Winner", "odds": 1.88 },
+      { "name": "Liquid Pistol Winner", "odds": 1.88 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2023-11-30 05:00:00+0800",
-    "match_name": "BBL vs Kru Map3",
-    "team1": "BBL",
-    "team2": "Kru",
+    "time": "2023-12-01 02:20:00+0800",
+    "match_name": "EG vs Liquid Map3",
+    "team1": "EG",
+    "team2": "Liquid",
     "main_bet_list": [
-      { "name": "BBL Winner", "odds": 1.14 },
-      { "name": "Kru Winner", "odds": 5.16 }
+      { "name": "EG Winner", "odds": 1.88 },
+      { "name": "Liquid Winner", "odds": 1.88 }
     ],
     "more_bet_list": [
-      { "name": "BBL -5.5", "odds": 1.8 },
-      { "name": "Kru +5.5", "odds": 1.96 },
-      { "name": "Over 19.5", "odds": 1.76 },
-      { "name": "Under 19.5", "odds": 2.0 },
-      { "name": "BBL Pistol Winner", "odds": 1.55 },
-      { "name": "Kru Pistol Winner", "odds": 2.36 }
+      { "name": "EG +2.5", "odds": 1.65 },
+      { "name": "Liquid -2.5", "odds": 2.12 },
+      { "name": "Over 21.5", "odds": 1.7 },
+      { "name": "Under 21.5", "odds": 2.06 },
+      { "name": "EG Pistol Winner", "odds": 1.88 },
+      { "name": "Liquid Pistol Winner", "odds": 1.88 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2023-11-24 19:30:00+0800",
-    "match_name": "Full Sense vs Talon Match",
-    "team1": "Full Sense",
-    "team2": "Talon",
+    "time": "2023-12-01 04:00:00+0800",
+    "match_name": "Kru vs EDG Match",
+    "team1": "Kru",
+    "team2": "EDG",
     "main_bet_list": [
-      { "name": "Full Sense Winner", "odds": 2.05 },
-      { "name": "Talon Winner", "odds": 1.73 }
+      { "name": "Kru Winner", "odds": 1.25 },
+      { "name": "EDG Winner", "odds": 3.7 }
     ],
     "more_bet_list": [
-      { "name": "Full Sense -1.5", "odds": 3.7 },
-      { "name": "Talon +1.5", "odds": 1.25 },
-      { "name": "Full Sense +1.5", "odds": 1.36 },
-      { "name": "Talon -1.5", "odds": 3.0 },
-      { "name": "Over 2.5", "odds": 1.96 },
-      { "name": "Under 2.5", "odds": 1.8 },
-      { "name": "Map score 2-0", "odds": 3.77 },
-      { "name": "Map score 2-1", "odds": 3.5 },
-      { "name": "Map score 0-2", "odds": 2.96 },
+      { "name": "Kru -1.5", "odds": 1.8 },
+      { "name": "EDG +1.5", "odds": 1.96 },
+      { "name": "Over 2.5", "odds": 2.25 },
+      { "name": "Under 2.5", "odds": 1.6 },
+      { "name": "Map score 2-0", "odds": 1.8 },
+      { "name": "Map score 2-1", "odds": 3.38 },
+      { "name": "Map score 0-2", "odds": 5.0 },
+      { "name": "Map score 1-2", "odds": 4.22 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2023-12-01 04:00:00+0800",
+    "match_name": "Kru vs EDG Map1",
+    "team1": "Kru",
+    "team2": "EDG",
+    "main_bet_list": [
+      { "name": "Kru Winner", "odds": 1.35 },
+      { "name": "EDG Winner", "odds": 3.04 }
+    ],
+    "more_bet_list": [
+      { "name": "Kru -3.5", "odds": 1.8 },
+      { "name": "EDG +3.5", "odds": 1.96 },
+      { "name": "Over 21.5", "odds": 1.98 },
+      { "name": "Under 21.5", "odds": 1.78 },
+      { "name": "Kru Pistol Winner", "odds": 1.7 },
+      { "name": "EDG Pistol Winner", "odds": 2.08 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2023-12-01 04:30:00+0800",
+    "match_name": "Kru vs EDG Map2",
+    "team1": "Kru",
+    "team2": "EDG",
+    "main_bet_list": [
+      { "name": "Kru Winner", "odds": 1.35 },
+      { "name": "EDG Winner", "odds": 3.04 }
+    ],
+    "more_bet_list": [
+      { "name": "Kru -3.5", "odds": 1.8 },
+      { "name": "EDG +3.5", "odds": 1.96 },
+      { "name": "Over 21.5", "odds": 1.98 },
+      { "name": "Under 21.5", "odds": 1.78 },
+      { "name": "Kru Pistol Winner", "odds": 1.7 },
+      { "name": "EDG Pistol Winner", "odds": 2.08 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2023-12-01 05:00:00+0800",
+    "match_name": "Kru vs EDG Map3",
+    "team1": "Kru",
+    "team2": "EDG",
+    "main_bet_list": [
+      { "name": "Kru Winner", "odds": 1.35 },
+      { "name": "EDG Winner", "odds": 3.04 }
+    ],
+    "more_bet_list": [
+      { "name": "Kru -3.5", "odds": 1.8 },
+      { "name": "EDG +3.5", "odds": 1.96 },
+      { "name": "Over 21.5", "odds": 1.98 },
+      { "name": "Under 21.5", "odds": 1.78 },
+      { "name": "Kru Pistol Winner", "odds": 1.7 },
+      { "name": "EDG Pistol Winner", "odds": 2.08 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2023-12-01 06:00:00+0800",
+    "match_name": "BBL vs SR Match",
+    "team1": "BBL",
+    "team2": "SR",
+    "main_bet_list": [
+      { "name": "BBL Winner", "odds": 2.75 },
+      { "name": "SR Winner", "odds": 1.41 }
+    ],
+    "more_bet_list": [
+      { "name": "BBL -1.5", "odds": 5.34 },
+      { "name": "SR +1.5", "odds": 1.13 },
+      { "name": "BBL +1.5", "odds": 1.6 },
+      { "name": "SR -1.5", "odds": 2.25 },
+      { "name": "Over 2.5", "odds": 2.05 },
+      { "name": "Under 2.5", "odds": 1.73 },
+      { "name": "Map score 2-0", "odds": 4.33 },
+      { "name": "Map score 2-1", "odds": 4.12 },
+      { "name": "Map score 0-2", "odds": 2.25 },
       { "name": "Map score 1-2", "odds": 3.32 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2023-11-24 19:00:00+0800",
-    "match_name": "Full Sense vs Talon Map1",
-    "team1": "Full Sense",
-    "team2": "Talon",
+    "time": "2023-12-01 06:00:00+0800",
+    "match_name": "BBL vs SR Map1",
+    "team1": "BBL",
+    "team2": "SR",
     "main_bet_list": [
-      { "name": "Full Sense Winner", "odds": 2.03 },
-      { "name": "Talon Winner", "odds": 1.75 }
+      { "name": "BBL Winner", "odds": 2.44 },
+      { "name": "SR Winner", "odds": 1.51 }
     ],
     "more_bet_list": [
-      { "name": "Full Sense +2.5", "odds": 1.71 },
-      { "name": "Talon -2.5", "odds": 2.05 },
-      { "name": "Over 21.5", "odds": 1.81 },
-      { "name": "Under 21.5", "odds": 1.95 },
-      { "name": "Full Sense Pistol Winner", "odds": 1.88 },
-      { "name": "Talon Pistol Winner", "odds": 1.88 }
+      { "name": "BBL -2.5", "odds": 1.94 },
+      { "name": "SR +2.5", "odds": 1.82 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.86 },
+      { "name": "BBL Pistol Winner", "odds": 1.96 },
+      { "name": "SR Pistol Winner", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2023-11-24 19:30:00+0800",
-    "match_name": "Full Sense vs Talon Map2",
-    "team1": "Full Sense",
-    "team2": "Talon",
+    "time": "2023-12-01 06:00:00+0800",
+    "match_name": "BBL vs SR Map2",
+    "team1": "BBL",
+    "team2": "SR",
     "main_bet_list": [
-      { "name": "Full Sense Winner", "odds": 2.03 },
-      { "name": "Talon Winner", "odds": 1.75 }
+      { "name": "BBL Winner", "odds": 2.44 },
+      { "name": "SR Winner", "odds": 1.51 }
     ],
     "more_bet_list": [
-      { "name": "Full Sense +2.5", "odds": 1.71 },
-      { "name": "Talon -2.5", "odds": 2.05 },
-      { "name": "Over 21.5", "odds": 1.81 },
-      { "name": "Under 21.5", "odds": 1.95 },
-      { "name": "Full Sense Pistol Winner", "odds": 1.88 },
-      { "name": "Talon Pistol Winner", "odds": 1.88 }
+      { "name": "BBL -2.5", "odds": 1.94 },
+      { "name": "SR +2.5", "odds": 1.82 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.86 },
+      { "name": "BBL Pistol Winner", "odds": 1.96 },
+      { "name": "SR Pistol Winner", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2023-11-24 20:00:00+0800",
-    "match_name": "Full Sense vs Talon Map3",
-    "team1": "Full Sense",
-    "team2": "Talon",
+    "time": "2023-12-01 06:00:00+0800",
+    "match_name": "BBL vs SR Map3",
+    "team1": "BBL",
+    "team2": "SR",
     "main_bet_list": [
-      { "name": "Full Sense Winner", "odds": 2.03 },
-      { "name": "Talon Winner", "odds": 1.75 }
+      { "name": "BBL Winner", "odds": 2.44 },
+      { "name": "SR Winner", "odds": 1.51 }
     ],
     "more_bet_list": [
-      { "name": "Full Sense +2.5", "odds": 1.71 },
-      { "name": "Talon -2.5", "odds": 2.05 },
-      { "name": "Over 21.5", "odds": 1.81 },
-      { "name": "Under 21.5", "odds": 1.95 },
-      { "name": "Full Sense Pistol Winner", "odds": 1.88 },
-      { "name": "Talon Pistol Winner", "odds": 1.88 }
+      { "name": "BBL -2.5", "odds": 1.94 },
+      { "name": "SR +2.5", "odds": 1.82 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.86 },
+      { "name": "BBL Pistol Winner", "odds": 1.96 },
+      { "name": "SR Pistol Winner", "odds": 1.8 }
     ]
   }
 ]
