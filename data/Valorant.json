@@ -58,7 +58,7 @@
   },
   {
     "type": "Valorant",
-    "time": "2023-12-02 01:08:00+0800",
+    "time": "2023-12-03 01:08:00+0800",
     "match_name": "SR vs Liquid Match",
     "team1": "SR",
     "team2": "Liquid",
@@ -79,59 +79,87 @@
   },
   {
     "type": "Valorant",
-    "time": "2023-12-02 01:08:00+0800",
+    "time": "2023-12-04 01:08:00+0800",
     "match_name": "SR vs Liquid Map1",
     "team1": "SR",
     "team2": "Liquid",
     "main_bet_list": [
-      { "name": "SR Winner", "odds": 1.28 },
-      { "name": "Liquid Winner", "odds": 3.5 }
+      { "name": "SR Winner", "odds": 1.35 },
+      { "name": "Liquid Winner", "odds": 3.04 }
     ],
     "more_bet_list": [
       { "name": "SR -4.5", "odds": 1.85 },
       { "name": "Liquid +4.5", "odds": 1.91 },
-      { "name": "Over 20.5", "odds": 1.86 },
-      { "name": "Under 20.5", "odds": 1.9 },
-      { "name": "SR Pistol Winner", "odds": 1.6 },
-      { "name": "Liquid Pistol Winner", "odds": 2.25 }
+      { "name": "SR Pistol Winner", "odds": 1.65 },
+      { "name": "Liquid Pistol Winner", "odds": 2.17 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2023-12-02 01:48:00+0800",
+    "time": "2023-12-04 01:48:00+0800",
     "match_name": "SR vs Liquid Map2",
     "team1": "SR",
     "team2": "Liquid",
     "main_bet_list": [
-      { "name": "SR Winner", "odds": 1.28 },
-      { "name": "Liquid Winner", "odds": 3.5 }
+      { "name": "SR Winner", "odds": 1.35 },
+      { "name": "Liquid Winner", "odds": 3.04 }
     ],
     "more_bet_list": [
       { "name": "SR -4.5", "odds": 1.85 },
       { "name": "Liquid +4.5", "odds": 1.91 },
-      { "name": "Over 20.5", "odds": 1.86 },
-      { "name": "Under 20.5", "odds": 1.9 },
-      { "name": "SR Pistol Winner", "odds": 1.6 },
-      { "name": "Liquid Pistol Winner", "odds": 2.25 }
+      { "name": "SR Pistol Winner", "odds": 1.65 },
+      { "name": "Liquid Pistol Winner", "odds": 2.17 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2023-12-02 02:20:00+0800",
+    "time": "2023-12-04 02:20:00+0800",
     "match_name": "SR vs Liquid Map3",
     "team1": "SR",
     "team2": "Liquid",
     "main_bet_list": [
-      { "name": "SR Winner", "odds": 1.28 },
-      { "name": "Liquid Winner", "odds": 3.5 }
+      { "name": "SR Winner", "odds": 1.35 },
+      { "name": "Liquid Winner", "odds": 3.04 }
     ],
     "more_bet_list": [
       { "name": "SR -4.5", "odds": 1.85 },
       { "name": "Liquid +4.5", "odds": 1.91 },
-      { "name": "Over 20.5", "odds": 1.86 },
-      { "name": "Under 20.5", "odds": 1.9 },
-      { "name": "SR Pistol Winner", "odds": 1.6 },
-      { "name": "Liquid Pistol Winner", "odds": 2.25 }
+      { "name": "SR Pistol Winner", "odds": 1.65 },
+      { "name": "Liquid Pistol Winner", "odds": 2.17 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2023-12-04 03:00:00+0800",
+    "match_name": "SR vs Liquid Map4",
+    "team1": "SR",
+    "team2": "Liquid",
+    "main_bet_list": [
+      { "name": "SR Winner", "odds": 1.35 },
+      { "name": "Liquid Winner", "odds": 3.04 }
+    ],
+    "more_bet_list": [
+      { "name": "SR -4.5", "odds": 1.85 },
+      { "name": "Liquid +4.5", "odds": 1.91 },
+      { "name": "SR Pistol Winner", "odds": 1.65 },
+      { "name": "Liquid Pistol Winner", "odds": 2.17 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2023-12-04 03:30:00+0800",
+    "match_name": "SR vs Liquid Map5",
+    "team1": "SR",
+    "team2": "Liquid",
+    "main_bet_list": [
+      { "name": "SR Winner", "odds": 1.35 },
+      { "name": "Liquid Winner", "odds": 3.04 }
+    ],
+    "more_bet_list": [
+      { "name": "SR -4.5", "odds": 1.85 },
+      { "name": "Liquid +4.5", "odds": 1.91 },
+      { "name": "SR Pistol Winner", "odds": 1.65 },
+      { "name": "Liquid Pistol Winner", "odds": 2.17 }
     ]
   },
   {
