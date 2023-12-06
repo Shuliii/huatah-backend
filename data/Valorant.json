@@ -2,16 +2,16 @@
   {
     "type": "Valorant",
     "time": "2023-12-05 16:08:00+0800",
-    "match_name": "Sentinels vs PRX Match",
-    "team1": "Sentinels",
-    "team2": "PRX",
+    "match_name": "Fancy vs Liquid Match",
+    "team1": "Fancy",
+    "team2": "Liquid",
     "main_bet_list": [
-      { "name": "Sentinels Winner", "odds": 2.78 },
-      { "name": "PRX Winner", "odds": 1.4 }
+      { "name": "Fancy Winner", "odds": 2.78 },
+      { "name": "Liquid Winner", "odds": 1.4 }
     ],
     "more_bet_list": [
-      { "name": "Sentinels +1.5", "odds": 1.6 },
-      { "name": "PRX -1.5", "odds": 2.25 },
+      { "name": "Fancy +1.5", "odds": 1.6 },
+      { "name": "Liquid -1.5", "odds": 2.25 },
       { "name": "Over 2.5", "odds": 2.08 },
       { "name": "Under 2.5", "odds": 1.7 },
       { "name": "Map score 2-0", "odds": 4.22 },
@@ -23,73 +23,73 @@
   {
     "type": "Valorant",
     "time": "2023-12-05 16:08:00+0800",
-    "match_name": "Sentinels vs PRX Map1",
-    "team1": "Sentinels",
-    "team2": "PRX",
+    "match_name": "Fancy vs Liquid Map1",
+    "team1": "Fancy",
+    "team2": "Liquid",
     "main_bet_list": [
-      { "name": "Sentinels Winner", "odds": 2.47 },
-      { "name": "PRX Winner", "odds": 1.5 }
+      { "name": "Fancy Winner", "odds": 2.47 },
+      { "name": "Liquid Winner", "odds": 1.5 }
     ],
     "more_bet_list": [
-      { "name": "Sentinels +2.5", "odds": 1.93 },
-      { "name": "PRX -2.5", "odds": 1.83 },
+      { "name": "Fancy +2.5", "odds": 1.93 },
+      { "name": "Liquid -2.5", "odds": 1.83 },
       { "name": "Over 21.5", "odds": 1.91 },
       { "name": "Under 21.5", "odds": 1.85 },
-      { "name": "Sentinels Pistol Winner", "odds": 2.0 },
-      { "name": "PRX Pistol Winner", "odds": 1.78 }
+      { "name": "Fancy Pistol Winner", "odds": 2.0 },
+      { "name": "Liquid Pistol Winner", "odds": 1.78 }
     ]
   },
   {
     "type": "Valorant",
     "time": "2023-12-05 16:48:00+0800",
-    "match_name": "Sentinels vs PRX Map2",
-    "team1": "Sentinels",
-    "team2": "PRX",
+    "match_name": "Fancy vs Liquid Map2",
+    "team1": "Fancy",
+    "team2": "Liquid",
     "main_bet_list": [
-      { "name": "Sentinels Winner", "odds": 2.47 },
-      { "name": "PRX Winner", "odds": 1.5 }
+      { "name": "Fancy Winner", "odds": 2.47 },
+      { "name": "Liquid Winner", "odds": 1.5 }
     ],
     "more_bet_list": [
-      { "name": "Sentinels +2.5", "odds": 1.93 },
-      { "name": "PRX -2.5", "odds": 1.83 },
+      { "name": "Fancy +2.5", "odds": 1.93 },
+      { "name": "Liquid -2.5", "odds": 1.83 },
       { "name": "Over 21.5", "odds": 1.91 },
       { "name": "Under 21.5", "odds": 1.85 },
-      { "name": "Sentinels Pistol Winner", "odds": 2.0 },
-      { "name": "PRX Pistol Winner", "odds": 1.78 }
+      { "name": "Fancy Pistol Winner", "odds": 2.0 },
+      { "name": "Liquid Pistol Winner", "odds": 1.78 }
     ]
   },
   {
     "type": "Valorant",
     "time": "2023-12-05 18:00:00+0800",
-    "match_name": "Sentinels vs PRX Map3",
-    "team1": "Sentinels",
-    "team2": "PRX",
+    "match_name": "Fancy vs Liquid Map3",
+    "team1": "Fancy",
+    "team2": "Liquid",
     "main_bet_list": [
-      { "name": "Sentinels Winner", "odds": 2.47 },
-      { "name": "PRX Winner", "odds": 1.5 }
+      { "name": "Fancy Winner", "odds": 2.47 },
+      { "name": "Liquid Winner", "odds": 1.5 }
     ],
     "more_bet_list": [
-      { "name": "Sentinels +2.5", "odds": 1.93 },
-      { "name": "PRX -2.5", "odds": 1.83 },
+      { "name": "Fancy +2.5", "odds": 1.93 },
+      { "name": "Liquid -2.5", "odds": 1.83 },
       { "name": "Over 21.5", "odds": 1.91 },
       { "name": "Under 21.5", "odds": 1.85 },
-      { "name": "Sentinels Pistol Winner", "odds": 2.0 },
-      { "name": "PRX Pistol Winner", "odds": 1.78 }
+      { "name": "Fancy Pistol Winner", "odds": 2.0 },
+      { "name": "Liquid Pistol Winner", "odds": 1.78 }
     ]
   },
   {
     "type": "Valorant",
     "time": "2023-12-04 19:00:00+0800",
-    "match_name": "FS vs DRX Match",
-    "team1": "FS",
-    "team2": "DRX",
+    "match_name": "T1 vs EDG Match",
+    "team1": "T1",
+    "team2": "EDG",
     "main_bet_list": [
-      { "name": "FS Winner", "odds": 1.66 },
-      { "name": "DRX Winner", "odds": 2.16 }
+      { "name": "T1 Winner", "odds": 1.66 },
+      { "name": "EDG Winner", "odds": 2.16 }
     ],
     "more_bet_list": [
-      { "name": "FS -1.5", "odds": 2.78 },
-      { "name": "DRX +1.5", "odds": 1.4 },
+      { "name": "T1 -1.5", "odds": 2.78 },
+      { "name": "EDG +1.5", "odds": 1.4 },
       { "name": "Over 2.5", "odds": 1.96 },
       { "name": "Under 2.5", "odds": 1.8 },
       { "name": "Map score 2-0", "odds": 2.78 },
@@ -101,58 +101,58 @@
   {
     "type": "Valorant",
     "time": "2023-12-05 19:00:00+0800",
-    "match_name": "FS vs DRX Map1",
-    "team1": "FS",
-    "team2": "DRX",
+    "match_name": "T1 vs EDG Map1",
+    "team1": "T1",
+    "team2": "EDG",
     "main_bet_list": [
-      { "name": "FS Winner", "odds": 4.44 },
-      { "name": "DRX Winner", "odds": 1.19 }
+      { "name": "T1 Winner", "odds": 4.44 },
+      { "name": "EDG Winner", "odds": 1.19 }
     ],
     "more_bet_list": [
-      { "name": "FS +4.5", "odds": 1.98 },
-      { "name": "DRX -4.5", "odds": 1.78 },
+      { "name": "T1 +4.5", "odds": 1.98 },
+      { "name": "EDG -4.5", "odds": 1.78 },
       { "name": "Over 20.5", "odds": 1.83 },
       { "name": "Under 20.5", "odds": 1.93 },
-      { "name": "FS Pistol Winner", "odds": 2.25 },
-      { "name": "DRX Pistol Winner", "odds": 1.6 }
+      { "name": "T1 Pistol Winner", "odds": 2.25 },
+      { "name": "EDG Pistol Winner", "odds": 1.6 }
     ]
   },
   {
     "type": "Valorant",
     "time": "2023-12-05 19:00:00+0800",
-    "match_name": "FS vs DRX Map2",
-    "team1": "FS",
-    "team2": "DRX",
+    "match_name": "T1 vs EDG Map2",
+    "team1": "T1",
+    "team2": "EDG",
     "main_bet_list": [
-      { "name": "FS Winner", "odds": 4.44 },
-      { "name": "DRX Winner", "odds": 1.19 }
+      { "name": "T1 Winner", "odds": 4.44 },
+      { "name": "EDG Winner", "odds": 1.19 }
     ],
     "more_bet_list": [
-      { "name": "FS +4.5", "odds": 1.98 },
-      { "name": "DRX -4.5", "odds": 1.78 },
+      { "name": "T1 +4.5", "odds": 1.98 },
+      { "name": "EDG -4.5", "odds": 1.78 },
       { "name": "Over 20.5", "odds": 1.83 },
       { "name": "Under 20.5", "odds": 1.93 },
-      { "name": "FS Pistol Winner", "odds": 2.25 },
-      { "name": "DRX Pistol Winner", "odds": 1.6 }
+      { "name": "T1 Pistol Winner", "odds": 2.25 },
+      { "name": "EDG Pistol Winner", "odds": 1.6 }
     ]
   },
   {
     "type": "Valorant",
     "time": "2023-12-05 19:30:00+0800",
-    "match_name": "FS vs DRX Map3",
-    "team1": "FS",
-    "team2": "DRX",
+    "match_name": "T1 vs EDG Map3",
+    "team1": "T1",
+    "team2": "EDG",
     "main_bet_list": [
-      { "name": "FS Winner", "odds": 4.44 },
-      { "name": "DRX Winner", "odds": 1.19 }
+      { "name": "T1 Winner", "odds": 4.44 },
+      { "name": "EDG Winner", "odds": 1.19 }
     ],
     "more_bet_list": [
-      { "name": "FS +4.5", "odds": 1.98 },
-      { "name": "DRX -4.5", "odds": 1.78 },
+      { "name": "T1 +4.5", "odds": 1.98 },
+      { "name": "EDG -4.5", "odds": 1.78 },
       { "name": "Over 20.5", "odds": 1.83 },
       { "name": "Under 20.5", "odds": 1.93 },
-      { "name": "FS Pistol Winner", "odds": 2.25 },
-      { "name": "DRX Pistol Winner", "odds": 1.6 }
+      { "name": "T1 Pistol Winner", "odds": 2.25 },
+      { "name": "EDG Pistol Winner", "odds": 1.6 }
     ]
   },
   {
