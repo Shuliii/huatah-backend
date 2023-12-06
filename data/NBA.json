@@ -35,12 +35,12 @@
       { "name": "76ers Winner", "odds": 1.09 }
     ],
     "more_bet_list": [
-      { "name": "Wizards -9.5", "odds": 1.97 },
-      { "name": "76ers +9.5", "odds": 1.91 },
-      { "name": "Wizards -10", "odds": 1.9 },
-      { "name": "76ers +10", "odds": 1.98 },
-      { "name": "Wizards -10.5", "odds": 1.83 },
-      { "name": "76ers +10.5", "odds": 2.05 },
+      { "name": "Wizards +9.5", "odds": 1.97 },
+      { "name": "76ers -9.5", "odds": 1.91 },
+      { "name": "Wizards +10", "odds": 1.9 },
+      { "name": "76ers -10", "odds": 1.98 },
+      { "name": "Wizards +10.5", "odds": 1.83 },
+      { "name": "76ers -10.5", "odds": 2.05 },
       { "name": "Over 238.5", "odds": 1.88 },
       { "name": "Under 238.5", "odds": 1.98 },
       { "name": "Over 239", "odds": 1.93 },
