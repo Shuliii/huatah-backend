@@ -79,17 +79,17 @@
   },
   {
     "type": "Valorant",
-    "time": "2023-12-06 18:10:00+0800",
-    "match_name": "T1 vs EDG Match",
-    "team1": "T1",
-    "team2": "EDG",
+    "time": "2023-12-06 16:00:00+0800",
+    "match_name": "PRX vs FS Match",
+    "team1": "PRX",
+    "team2": "FS",
     "main_bet_list": [
-      { "name": "T1 Winner", "odds": 3.04 },
-      { "name": "EDG Winner", "odds": 1.35 }
+      { "name": "PRX Winner", "odds": 3.04 },
+      { "name": "FS Winner", "odds": 1.35 }
     ],
     "more_bet_list": [
-      { "name": "T1 +1.5", "odds": 1.65 },
-      { "name": "EDG -1.5", "odds": 2.17 },
+      { "name": "PRX +1.5", "odds": 1.65 },
+      { "name": "FS -1.5", "odds": 2.17 },
       { "name": "Over 2.5", "odds": 2.08 },
       { "name": "Under 2.5", "odds": 1.7 },
       { "name": "Map score 2-0", "odds": 5.0 },
@@ -100,59 +100,53 @@
   },
   {
     "type": "Valorant",
-    "time": "2023-12-06 18:10:00+0800",
-    "match_name": "T1 vs EDG Map1",
-    "team1": "T1",
-    "team2": "EDG",
+    "time": "2023-12-07 16:00:00+0800",
+    "match_name": "PRX vs FS Map1",
+    "team1": "PRX",
+    "team2": "FS",
     "main_bet_list": [
-      { "name": "T1 Winner", "odds": 2.63 },
-      { "name": "EDG Winner", "odds": 1.45 }
+      { "name": "PRX Winner", "odds": 1.15 },
+      { "name": "FS Winner", "odds": 5.0 }
     ],
     "more_bet_list": [
-      { "name": "T1 +2.5", "odds": 1.96 },
-      { "name": "EDG -2.5", "odds": 1.8 },
-      { "name": "Over 20.5", "odds": 1.9 },
-      { "name": "Under 20.5", "odds": 1.86 },
-      { "name": "T1 Pistol Winner", "odds": 2.0 },
-      { "name": "EDG Pistol Winner", "odds": 1.78 }
+      { "name": "PRX -6.5", "odds": 2.01 },
+      { "name": "FS +6.5", "odds": 1.75 },
+      { "name": "Over 19.5", "odds": 1.85 },
+      { "name": "Under 19.5", "odds": 1.91 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2023-12-06 19:00:00+0800",
-    "match_name": "T1 vs EDG Map2",
-    "team1": "T1",
-    "team2": "EDG",
+    "time": "2023-12-07 16:30:00+0800",
+    "match_name": "PRX vs FS Map2",
+    "team1": "PRX",
+    "team2": "FS",
     "main_bet_list": [
-      { "name": "T1 Winner", "odds": 2.63 },
-      { "name": "EDG Winner", "odds": 1.45 }
+      { "name": "PRX Winner", "odds": 1.15 },
+      { "name": "FS Winner", "odds": 5.0 }
     ],
     "more_bet_list": [
-      { "name": "T1 +2.5", "odds": 1.96 },
-      { "name": "EDG -2.5", "odds": 1.8 },
-      { "name": "Over 20.5", "odds": 1.9 },
-      { "name": "Under 20.5", "odds": 1.86 },
-      { "name": "T1 Pistol Winner", "odds": 2.0 },
-      { "name": "EDG Pistol Winner", "odds": 1.78 }
+      { "name": "PRX -6.5", "odds": 2.01 },
+      { "name": "FS +6.5", "odds": 1.75 },
+      { "name": "Over 19.5", "odds": 1.85 },
+      { "name": "Under 19.5", "odds": 1.91 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2023-12-06 19:30:00+0800",
-    "match_name": "T1 vs EDG Map3",
-    "team1": "T1",
-    "team2": "EDG",
+    "time": "2023-12-07 17:00:00+0800",
+    "match_name": "PRX vs FS Map3",
+    "team1": "PRX",
+    "team2": "FS",
     "main_bet_list": [
-      { "name": "T1 Winner", "odds": 2.63 },
-      { "name": "EDG Winner", "odds": 1.45 }
+      { "name": "PRX Winner", "odds": 1.15 },
+      { "name": "FS Winner", "odds": 5.0 }
     ],
     "more_bet_list": [
-      { "name": "T1 +2.5", "odds": 1.96 },
-      { "name": "EDG -2.5", "odds": 1.8 },
-      { "name": "Over 20.5", "odds": 1.9 },
-      { "name": "Under 20.5", "odds": 1.86 },
-      { "name": "T1 Pistol Winner", "odds": 2.0 },
-      { "name": "EDG Pistol Winner", "odds": 1.78 }
+      { "name": "PRX -6.5", "odds": 2.01 },
+      { "name": "FS +6.5", "odds": 1.75 },
+      { "name": "Over 19.5", "odds": 1.85 },
+      { "name": "Under 19.5", "odds": 1.91 }
     ]
   },
   {
