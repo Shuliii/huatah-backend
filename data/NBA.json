@@ -2,20 +2,20 @@
   {
     "type": "NBA",
     "time": "2023-12-07 08:00:00+0800",
-    "match_name": "Cavaliers vs Magic",
-    "team1": "Cavaliers",
-    "team2": "Magic",
+    "match_name": "Bucks vs Pacers",
+    "team1": "Bucks",
+    "team2": "Pacers",
     "main_bet_list": [
-      { "name": "Cavaliers Winner", "odds": 1.6 },
-      { "name": "Magic Winner", "odds": 2.25 }
+      { "name": "Bucks Winner", "odds": 1.6 },
+      { "name": "Pacers Winner", "odds": 2.25 }
     ],
     "more_bet_list": [
-      { "name": "Cavaliers -3.5", "odds": 1.89 },
-      { "name": "Magic +3.5", "odds": 1.99 },
-      { "name": "Cavaliers -4", "odds": 1.96 },
-      { "name": "Magic +4", "odds": 1.92 },
-      { "name": "Cavaliers -4.5", "odds": 2.03 },
-      { "name": "Magic +4.5", "odds": 1.85 },
+      { "name": "Bucks -3.5", "odds": 1.89 },
+      { "name": "Pacers +3.5", "odds": 1.99 },
+      { "name": "Bucks -4", "odds": 1.96 },
+      { "name": "Pacers +4", "odds": 1.92 },
+      { "name": "Bucks -4.5", "odds": 2.03 },
+      { "name": "Pacers +4.5", "odds": 1.85 },
       { "name": "Over 222.5", "odds": 1.85 },
       { "name": "Under 222.5", "odds": 2.01 },
       { "name": "Over 223", "odds": 1.9 },
@@ -27,20 +27,20 @@
   {
     "type": "NBA",
     "time": "2023-12-07 08:00:00+0800",
-    "match_name": "Wizards vs 76ers",
-    "team1": "Wizards",
-    "team2": "76ers",
+    "match_name": "Lakers vs Pelicans",
+    "team1": "Lakers",
+    "team2": "Pelicans",
     "main_bet_list": [
-      { "name": "Wizards Winner", "odds": 4.44 },
-      { "name": "76ers Winner", "odds": 1.09 }
+      { "name": "Lakers Winner", "odds": 4.44 },
+      { "name": "Pelicans Winner", "odds": 1.09 }
     ],
     "more_bet_list": [
-      { "name": "Wizards +9.5", "odds": 1.97 },
-      { "name": "76ers -9.5", "odds": 1.91 },
-      { "name": "Wizards +10", "odds": 1.9 },
-      { "name": "76ers -10", "odds": 1.98 },
-      { "name": "Wizards +10.5", "odds": 1.83 },
-      { "name": "76ers -10.5", "odds": 2.05 },
+      { "name": "Lakers +9.5", "odds": 1.97 },
+      { "name": "Pelicans -9.5", "odds": 1.91 },
+      { "name": "Lakers +10", "odds": 1.9 },
+      { "name": "Pelicans -10", "odds": 1.98 },
+      { "name": "Lakers +10.5", "odds": 1.83 },
+      { "name": "Pelicans -10.5", "odds": 2.05 },
       { "name": "Over 238.5", "odds": 1.88 },
       { "name": "Under 238.5", "odds": 1.98 },
       { "name": "Over 239", "odds": 1.93 },
