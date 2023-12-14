@@ -163,7 +163,7 @@ app.post("/postbet", async (req, res) => {
         const sqlFormatMatchTime = formatDate(formattedMatchTime);
 
         if (formattedMatchTime - currentDate > 0) {
-          const queryString = `INSERT INTO BETLIST (ID, Username, Bet_Time, Match_Time, Match_Name, Bet_Name, Amount, Odds) values (NULL, '${item.Username}', '${formattedDate}','${sqlFormatMatchTime}','${item.Match_Name}', '${item.Bet_Name}', ${item.Amount}, ${item.Odds})`;
+          const queryString = `INSERT INTO betlist (ID, Username, Bet_Time, Match_Time, Match_Name, Bet_Name, Amount, Odds) values (NULL, '${item.Username}', '${formattedDate}','${sqlFormatMatchTime}','${item.Match_Name}', '${item.Bet_Name}', ${item.Amount}, ${item.Odds})`;
 
           // Use a promise wrapper for the query
           const queryPromise = new Promise((resolve, reject) => {
