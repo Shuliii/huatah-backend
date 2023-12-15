@@ -119,8 +119,8 @@
     ],
 
     "more_bet_list": [
-      { "name": "Navi -1.5", "odds": 1.54 },
-      { "name": "G2 +1.5", "odds": 2.42 },
+      { "name": "Navi +1.5", "odds": 1.54 },
+      { "name": "G2 -1.5", "odds": 2.42 },
       { "name": "Over 2.5", "odds": 1.96 },
       { "name": "Under 2.5", "odds": 1.8 },
       { "name": "Map score 2-0", "odds": 5.0 },
