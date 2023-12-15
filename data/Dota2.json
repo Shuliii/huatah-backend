@@ -158,23 +158,23 @@
 
   {
     "type": "Dota2",
-    "time": "2023-10-29 07:00:00+0800",
+    "time": "2023-12-15 19:00:00+0800",
     "match_name": "Falcons vs Liquid Match",
     "team1": "Falcons",
     "team2": "Liquid",
     "main_bet_list": [
-      { "name": "Falcons Winner", "odds": 1.71 },
-      { "name": "Liquid Winner", "odds": 2.09 }
+      { "name": "Falcons Winner", "odds": 2.05 },
+      { "name": "Liquid Winner", "odds": 1.75 }
     ],
     "more_bet_list": [
-      { "name": "Falcons -1.5", "odds": 3.08 },
-      { "name": "Liquid +1.5", "odds": 1.34 },
-      { "name": "Over 2.5", "odds": 1.82 },
-      { "name": "Under 2.5", "odds": 1.94 },
-      { "name": "Map score 2-0", "odds": 3.12 },
-      { "name": "Map score 2-1", "odds": 3.38 },
-      { "name": "Map score 0-2", "odds": 3.22 },
-      { "name": "Map score 1-2", "odds": 3.38 }
+      { "name": "Falcons +1.5", "odds": 1.34 },
+      { "name": "Liquid -1.5", "odds": 3.17 },
+      { "name": "Over 2.5", "odds": 1.92 },
+      { "name": "Under 2.5", "odds": 1.84 },
+      { "name": "Map score 2-0", "odds": 3.56 },
+      { "name": "Map score 2-1", "odds": 3.7 },
+      { "name": "Map score 0-2", "odds": 3.17 },
+      { "name": "Map score 1-2", "odds": 3.5 }
     ]
   },
   {
