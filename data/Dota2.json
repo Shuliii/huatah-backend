@@ -159,16 +159,16 @@
   {
     "type": "Dota2",
     "time": "2023-10-29 07:00:00+0800",
-    "match_name": "Spirit vs LGD Match",
-    "team1": "Spirit",
-    "team2": "LGD",
+    "match_name": "Falcons vs Liquid Match",
+    "team1": "Falcons",
+    "team2": "Liquid",
     "main_bet_list": [
-      { "name": "Spirit Winner", "odds": 1.71 },
-      { "name": "LGD Winner", "odds": 2.09 }
+      { "name": "Falcons Winner", "odds": 1.71 },
+      { "name": "Liquid Winner", "odds": 2.09 }
     ],
     "more_bet_list": [
-      { "name": "Spirit -1.5", "odds": 3.08 },
-      { "name": "LGD +1.5", "odds": 1.34 },
+      { "name": "Falcons -1.5", "odds": 3.08 },
+      { "name": "Liquid +1.5", "odds": 1.34 },
       { "name": "Over 2.5", "odds": 1.82 },
       { "name": "Under 2.5", "odds": 1.94 },
       { "name": "Map score 2-0", "odds": 3.12 },
@@ -179,59 +179,53 @@
   },
   {
     "type": "Dota2",
-    "time": "2023-10-29 07:00:00+0800",
-    "match_name": "Spirit vs LGD Map1",
-    "team1": "Spirit",
-    "team2": "LGD",
+    "time": "2023-12-15 19:00:00+0800",
+    "match_name": "Falcons vs Liquid Map1",
+    "team1": "Falcons",
+    "team2": "Liquid",
     "main_bet_list": [
-      { "name": "Spirit Winner", "odds": 1.78 },
-      { "name": "LGD Winner", "odds": 2.0 }
+      { "name": "Falcons Winner", "odds": 1.96 },
+      { "name": "Liquid Winner", "odds": 1.8 }
     ],
     "more_bet_list": [
-      { "name": "Spirit Kills -3.5", "odds": 1.88 },
-      { "name": "LGD Kills +3.5", "odds": 1.88 },
-      { "name": "Total kills Over 50.5", "odds": 1.93 },
-      { "name": "Total kills Under 50.5", "odds": 1.83 },
-      { "name": "Total time Over 40", "odds": 1.8 },
-      { "name": "Total time Under 40", "odds": 1.96 }
+      { "name": "Falcons Kills +0.5", "odds": 1.88 },
+      { "name": "Liquid Kills -0.5", "odds": 1.88 },
+      { "name": "Total time Over 40", "odds": 1.88 },
+      { "name": "Total time Under 40", "odds": 1.88 }
     ]
   },
   {
     "type": "Dota2",
-    "time": "2023-10-29 10:58:00+0800",
-    "match_name": "Spirit vs LGD Map2",
-    "team1": "Spirit",
-    "team2": "LGD",
+    "time": "2023-12-15 19:40:00+0800",
+    "match_name": "Falcons vs Liquid Map2",
+    "team1": "Falcons",
+    "team2": "Liquid",
     "main_bet_list": [
-      { "name": "Spirit Winner", "odds": 1.78 },
-      { "name": "LGD Winner", "odds": 2.0 }
+      { "name": "Falcons Winner", "odds": 1.96 },
+      { "name": "Liquid Winner", "odds": 1.8 }
     ],
     "more_bet_list": [
-      { "name": "Spirit Kills -3.5", "odds": 1.88 },
-      { "name": "LGD Kills +3.5", "odds": 1.88 },
-      { "name": "Total kills Over 50.5", "odds": 1.93 },
-      { "name": "Total kills Under 50.5", "odds": 1.83 },
-      { "name": "Total time Over 40", "odds": 1.8 },
-      { "name": "Total time Under 40", "odds": 1.96 }
+      { "name": "Falcons Kills +0.5", "odds": 1.88 },
+      { "name": "Liquid Kills -0.5", "odds": 1.88 },
+      { "name": "Total time Over 40", "odds": 1.88 },
+      { "name": "Total time Under 40", "odds": 1.88 }
     ]
   },
   {
     "type": "Dota2",
-    "time": "2023-10-29 07:15:00+0800",
-    "match_name": "Spirit vs LGD Map3",
-    "team1": "Spirit",
-    "team2": "LGD",
+    "time": "2023-12-15 20:15:00+0800",
+    "match_name": "Falcons vs Liquid Map3",
+    "team1": "Falcons",
+    "team2": "Liquid",
     "main_bet_list": [
-      { "name": "Spirit Winner", "odds": 1.78 },
-      { "name": "LGD Winner", "odds": 2.0 }
+      { "name": "Falcons Winner", "odds": 1.96 },
+      { "name": "Liquid Winner", "odds": 1.8 }
     ],
     "more_bet_list": [
-      { "name": "Spirit Kills -3.5", "odds": 1.88 },
-      { "name": "LGD Kills +3.5", "odds": 1.88 },
-      { "name": "Total kills Over 50.5", "odds": 1.93 },
-      { "name": "Total kills Under 50.5", "odds": 1.83 },
-      { "name": "Total time Over 40", "odds": 1.8 },
-      { "name": "Total time Under 40", "odds": 1.96 }
+      { "name": "Falcons Kills +0.5", "odds": 1.88 },
+      { "name": "Liquid Kills -0.5", "odds": 1.88 },
+      { "name": "Total time Over 40", "odds": 1.88 },
+      { "name": "Total time Under 40", "odds": 1.88 }
     ]
   },
   {
