@@ -1,231 +1,159 @@
 [
   {
     "type": "Dota2",
-    "time": "2023-11-14 01:00:00+0800",
-    "match_name": "LGD vs GG Match",
-    "team1": "LGD",
-    "team2": "GG",
-    "main_bet_list": [
-      { "name": "LGD Winner", "odds": 2.2 },
-      { "name": "GG Winner", "odds": 1.65 }
-    ],
-    "more_bet_list": [
-      { "name": "LGD +1.5", "odds": 1.42 },
-      { "name": "GG -1.5", "odds": 2.78 },
-      { "name": "Over 2.5", "odds": 1.89 },
-      { "name": "Under 2.5", "odds": 1.87 },
-      { "name": "Map score 2-0", "odds": 4.12 },
-      { "name": "Map score 2-1", "odds": 3.94 },
-      { "name": "Map score 0-2", "odds": 2.85 },
-      { "name": "Map score 1-2", "odds": 3.22 }
-    ]
-  },
-  {
-    "type": "Dota2",
-    "time": "2023-10-29 08:30:00+0800",
-    "match_name": "Spirit vs GG Map4",
-    "team1": "Spirit",
-    "team2": "GG",
-    "main_bet_list": [
-      { "name": "Spirit Winner", "odds": 1.75 },
-      { "name": "GG Winner", "odds": 2.01 }
-    ],
-    "more_bet_list": [
-      { "name": "Spirit Kills -4.5", "odds": 1.96 },
-      { "name": "GG Kills +4.5", "odds": 1.76 },
-      { "name": "Total kills Over 49.5", "odds": 1.8 },
-      { "name": "Total kills Under 49.5", "odds": 1.9 },
-      { "name": "Total time Over 44", "odds": 1.99 },
-      { "name": "Total time Under 44", "odds": 1.77 }
-    ]
-  },
-  {
-    "type": "Dota2",
-    "time": "2023-10-29 09:30:00+0800",
-    "match_name": "Spirit vs GG Map5",
-    "team1": "Spirit",
-    "team2": "GG",
-    "main_bet_list": [
-      { "name": "Spirit Winner", "odds": 1.75 },
-      { "name": "GG Winner", "odds": 2.01 }
-    ],
-    "more_bet_list": [
-      { "name": "Spirit Kills -4.5", "odds": 1.96 },
-      { "name": "GG Kills +4.5", "odds": 1.76 },
-      { "name": "Total kills Over 49.5", "odds": 1.8 },
-      { "name": "Total kills Under 49.5", "odds": 1.9 },
-      { "name": "Total time Over 44", "odds": 1.99 },
-      { "name": "Total time Under 44", "odds": 1.77 }
-    ]
-  },
-  {
-    "type": "Dota2",
-    "time": "2023-10-30 01:30:00+0800",
-    "match_name": "LGD vs GG Map3",
-    "team1": "LGD",
-    "team2": "GG",
-    "main_bet_list": [
-      { "name": "LGD Winner", "odds": 2.08 },
-      { "name": "GG Winner", "odds": 1.72 }
-    ],
-    "more_bet_list": [
-      { "name": "LGD Kills +6.5", "odds": 1.85 },
-      { "name": "GG Kills -6.5", "odds": 1.91 },
-      { "name": "Total kills Over 47.5", "odds": 1.9 },
-      { "name": "Total kills Under 47.5", "odds": 1.86 },
-      { "name": "Total time Over 41", "odds": 1.95 },
-      { "name": "Total time Under 41", "odds": 1.81 }
-    ]
-  },
-  {
-    "type": "Dota2",
-    "time": "2023-12-15 15:35:00+0800",
-    "match_name": "Tundra vs BB Match",
-    "team1": "Tundra",
+    "time": "2023-12-16 12:00:00+0800",
+    "match_name": "G2.IG vs BB Match",
+    "team1": "G2.IG",
     "team2": "BB",
     "main_bet_list": [
-      { "name": "Tundra Winner", "odds": 2.69 },
-      { "name": "BB Winner", "odds": 1.45 }
+      { "name": "G2.IG Winner", "odds": 1.7 },
+      { "name": "BB Winner", "odds": 2.08 }
     ],
     "more_bet_list": [
-      { "name": "Tundra +1.5", "odds": 1.58 },
-      { "name": "BB -1.5", "odds": 2.35 },
-      { "name": "Over 2.5", "odds": 2.04 },
-      { "name": "Under 2.5", "odds": 1.76 },
-      { "name": "Map score 2-0", "odds": 3.85 },
-      { "name": "Map score 2-1", "odds": 3.77 },
-      { "name": "Map score 0-2", "odds": 2.35 },
-      { "name": "Map score 1-2", "odds": 3.32 }
+      { "name": "G2.IG +1.5", "odds": 1.25 },
+      { "name": "BB -1.5", "odds": 3.7 },
+      { "name": "Over 2.5", "odds": 1.75 },
+      { "name": "Under 2.5", "odds": 2.01 },
+      { "name": "Map score 2-0", "odds": 3.63 },
+      { "name": "Map score 2-1", "odds": 3.38 },
+      { "name": "Map score 0-2", "odds": 3.32 },
+      { "name": "Map score 1-2", "odds": 3.38 }
     ]
   },
   {
     "type": "Dota2",
-    "time": "2023-12-15 15:35:00+0800",
-    "match_name": "Tundra vs BB Map1",
-    "team1": "Tundra",
+    "time": "2023-12-16 12:10:00+0800",
+    "match_name": "G2.IG vs BB Map1",
+    "team1": "G2.IG",
     "team2": "BB",
     "main_bet_list": [
-      { "name": "Tundra Winner", "odds": 2.4 },
-      { "name": "BB Winner", "odds": 1.55 }
+      { "name": "G2.IG Winner", "odds": 1.76 },
+      { "name": "BB Winner", "odds": 2.02 }
     ],
     "more_bet_list": [
-      { "name": "Tundra Kills +7.5", "odds": 1.92 },
-      { "name": "BB Kills -7.5", "odds": 1.84 },
-      { "name": "Total kills Over 48.5", "odds": 1.89 },
-      { "name": "Total kills Under 48.5", "odds": 1.87 },
-      { "name": "Total time Over 40", "odds": 1.84 },
-      { "name": "Total time Under 40", "odds": 1.92 }
+      { "name": "G2.IG Kills -5.5", "odds": 1.98 },
+      { "name": "BB Kills +5.5", "odds": 1.78 },
+      { "name": "Total kills Over 49.5", "odds": 1.85 },
+      { "name": "Total kills Under 49.5", "odds": 1.91 },
+      { "name": "Total time Over 42", "odds": 1.88 },
+      { "name": "Total time Under 42", "odds": 1.88 }
     ]
   },
   {
     "type": "Dota2",
-    "time": "2023-12-15 17:30:00+0800",
-    "match_name": "Tundra vs BB Map2",
-    "team1": "Tundra",
+    "time": "2023-12-16 12:50:00+0800",
+    "match_name": "G2.IG vs BB Map2",
+    "team1": "G2.IG",
     "team2": "BB",
     "main_bet_list": [
-      { "name": "Tundra Winner", "odds": 2.4 },
-      { "name": "BB Winner", "odds": 1.55 }
+      { "name": "G2.IG Winner", "odds": 1.76 },
+      { "name": "BB Winner", "odds": 2.02 }
     ],
     "more_bet_list": [
-      { "name": "Tundra Kills +7.5", "odds": 1.92 },
-      { "name": "BB Kills -7.5", "odds": 1.84 },
-      { "name": "Total kills Over 48.5", "odds": 1.89 },
-      { "name": "Total kills Under 48.5", "odds": 1.87 },
-      { "name": "Total time Over 40", "odds": 1.84 },
-      { "name": "Total time Under 40", "odds": 1.92 }
+      { "name": "G2.IG Kills -5.5", "odds": 1.98 },
+      { "name": "BB Kills +5.5", "odds": 1.78 },
+      { "name": "Total kills Over 49.5", "odds": 1.85 },
+      { "name": "Total kills Under 49.5", "odds": 1.91 },
+      { "name": "Total time Over 42", "odds": 1.88 },
+      { "name": "Total time Under 42", "odds": 1.88 }
     ]
   },
   {
     "type": "Dota2",
-    "time": "2023-12-15 18:25:00+0800",
-    "match_name": "Tundra vs BB Map3",
-    "team1": "Tundra",
+    "time": "2023-12-16 13:20:00+0800",
+    "match_name": "G2.IG vs BB Map3",
+    "team1": "G2.IG",
     "team2": "BB",
     "main_bet_list": [
-      { "name": "Tundra Winner", "odds": 2.4 },
-      { "name": "BB Winner", "odds": 1.55 }
+      { "name": "G2.IG Winner", "odds": 1.76 },
+      { "name": "BB Winner", "odds": 2.02 }
     ],
     "more_bet_list": [
-      { "name": "Tundra Kills +7.5", "odds": 1.92 },
-      { "name": "BB Kills -7.5", "odds": 1.84 },
-      { "name": "Total kills Over 48.5", "odds": 1.89 },
-      { "name": "Total kills Under 48.5", "odds": 1.87 },
-      { "name": "Total time Over 40", "odds": 1.84 },
-      { "name": "Total time Under 40", "odds": 1.92 }
+      { "name": "G2.IG Kills -5.5", "odds": 1.98 },
+      { "name": "BB Kills +5.5", "odds": 1.78 },
+      { "name": "Total kills Over 49.5", "odds": 1.85 },
+      { "name": "Total kills Under 49.5", "odds": 1.91 },
+      { "name": "Total time Over 42", "odds": 1.88 },
+      { "name": "Total time Under 42", "odds": 1.88 }
     ]
   },
 
   {
     "type": "Dota2",
-    "time": "2023-12-15 19:00:00+0800",
-    "match_name": "Falcons vs Liquid Match",
-    "team1": "Falcons",
-    "team2": "Liquid",
+    "time": "2023-12-16 15:35:00+0800",
+    "match_name": "Azure Ray vs GG Match",
+    "team1": "Azure Ray",
+    "team2": "GG",
     "main_bet_list": [
-      { "name": "Falcons Winner", "odds": 2.05 },
-      { "name": "Liquid Winner", "odds": 1.75 }
+      { "name": "Azure Ray Winner", "odds": 2.4 },
+      { "name": "GG Winner", "odds": 1.53 }
     ],
     "more_bet_list": [
-      { "name": "Falcons +1.5", "odds": 1.34 },
-      { "name": "Liquid -1.5", "odds": 3.17 },
-      { "name": "Over 2.5", "odds": 1.92 },
-      { "name": "Under 2.5", "odds": 1.84 },
-      { "name": "Map score 2-0", "odds": 3.56 },
+      { "name": "Azure Ray +1.5", "odds": 1.49 },
+      { "name": "GG -1.5", "odds": 2.53 },
+      { "name": "Over 2.5", "odds": 1.96 },
+      { "name": "Under 2.5", "odds": 1.8 },
+      { "name": "Map score 2-0", "odds": 4.33 },
       { "name": "Map score 2-1", "odds": 3.7 },
-      { "name": "Map score 0-2", "odds": 3.17 },
-      { "name": "Map score 1-2", "odds": 3.5 }
+      { "name": "Map score 0-2", "odds": 2.33 },
+      { "name": "Map score 1-2", "odds": 3.27 }
     ]
   },
   {
     "type": "Dota2",
-    "time": "2023-12-15 19:00:00+0800",
-    "match_name": "Falcons vs Liquid Map1",
-    "team1": "Falcons",
-    "team2": "Liquid",
+    "time": "2023-12-16 15:35:00+0800",
+    "match_name": "Azure Ray vs GG Map1",
+    "team1": "Azure Ray",
+    "team2": "GG",
     "main_bet_list": [
-      { "name": "Falcons Winner", "odds": 1.96 },
-      { "name": "Liquid Winner", "odds": 1.8 }
+      { "name": "Azure Ray Winner", "odds": 2.2 },
+      { "name": "GG Winner", "odds": 1.65 }
     ],
     "more_bet_list": [
-      { "name": "Falcons Kills +0.5", "odds": 1.88 },
-      { "name": "Liquid Kills -0.5", "odds": 1.88 },
-      { "name": "Total time Over 40", "odds": 1.88 },
-      { "name": "Total time Under 40", "odds": 1.88 }
+      { "name": "Azure Ray Kills +6.5", "odds": 1.85 },
+      { "name": "GG Kills -6.5", "odds": 1.91 },
+      { "name": "Total kills Over 46.5", "odds": 1.9 },
+      { "name": "Total kills Under 46.5", "odds": 1.86 },
+      { "name": "Total time Over 39", "odds": 1.99 },
+      { "name": "Total time Under 39", "odds": 1.77 }
     ]
   },
   {
     "type": "Dota2",
-    "time": "2023-12-15 19:40:00+0800",
-    "match_name": "Falcons vs Liquid Map2",
-    "team1": "Falcons",
-    "team2": "Liquid",
+    "time": "2023-12-16 16:10:00+0800",
+    "match_name": "Azure Ray vs GG Map2",
+    "team1": "Azure Ray",
+    "team2": "GG",
     "main_bet_list": [
-      { "name": "Falcons Winner", "odds": 1.96 },
-      { "name": "Liquid Winner", "odds": 1.8 }
+      { "name": "Azure Ray Winner", "odds": 2.2 },
+      { "name": "GG Winner", "odds": 1.65 }
     ],
     "more_bet_list": [
-      { "name": "Falcons Kills +0.5", "odds": 1.88 },
-      { "name": "Liquid Kills -0.5", "odds": 1.88 },
-      { "name": "Total time Over 40", "odds": 1.88 },
-      { "name": "Total time Under 40", "odds": 1.88 }
+      { "name": "Azure Ray Kills +6.5", "odds": 1.85 },
+      { "name": "GG Kills -6.5", "odds": 1.91 },
+      { "name": "Total kills Over 46.5", "odds": 1.9 },
+      { "name": "Total kills Under 46.5", "odds": 1.86 },
+      { "name": "Total time Over 39", "odds": 1.99 },
+      { "name": "Total time Under 39", "odds": 1.77 }
     ]
   },
   {
     "type": "Dota2",
-    "time": "2023-12-15 20:15:00+0800",
-    "match_name": "Falcons vs Liquid Map3",
-    "team1": "Falcons",
-    "team2": "Liquid",
+    "time": "2023-12-16 17:00:00+0800",
+    "match_name": "Azure Ray vs GG Map3",
+    "team1": "Azure Ray",
+    "team2": "GG",
     "main_bet_list": [
-      { "name": "Falcons Winner", "odds": 1.96 },
-      { "name": "Liquid Winner", "odds": 1.8 }
+      { "name": "Azure Ray Winner", "odds": 2.2 },
+      { "name": "GG Winner", "odds": 1.65 }
     ],
     "more_bet_list": [
-      { "name": "Falcons Kills +0.5", "odds": 1.88 },
-      { "name": "Liquid Kills -0.5", "odds": 1.88 },
-      { "name": "Total time Over 40", "odds": 1.88 },
-      { "name": "Total time Under 40", "odds": 1.88 }
+      { "name": "Azure Ray Kills +6.5", "odds": 1.85 },
+      { "name": "GG Kills -6.5", "odds": 1.91 },
+      { "name": "Total kills Over 46.5", "odds": 1.9 },
+      { "name": "Total kills Under 46.5", "odds": 1.86 },
+      { "name": "Total time Over 39", "odds": 1.99 },
+      { "name": "Total time Under 39", "odds": 1.77 }
     ]
   },
   {
