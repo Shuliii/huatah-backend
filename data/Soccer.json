@@ -181,92 +181,88 @@
   },
   {
     "type": "Soccer",
-    "time": "2023-12-18 01:00:00+0800",
-    "match_name": "Bologna vs Roma",
-    "team1": "Bologna",
-    "team2": "Roma",
+    "time": "2023-12-20 03:45:00+0800",
+    "match_name": "Everton vs Fulham",
+    "team1": "Everton",
+    "team2": "Fulham",
     "main_bet_list": [
-      { "name": "Bologna Winner", "odds": 2.49 },
-      { "name": "Draw", "odds": 2.94 },
-      { "name": "Roma Winner", "odds": 3.25 }
+      { "name": "Everton Winner", "odds": 2.01 },
+      { "name": "Draw", "odds": 3.5 },
+      { "name": "Fulham Winner", "odds": 3.75 }
     ],
     "more_bet_list": [
-      { "name": "Bologna -0", "odds": 1.69 },
-      { "name": "Roma +0", "odds": 2.24 },
-      { "name": "Bologna +0.25", "odds": 1.48 },
-      { "name": "Roma -0.25", "odds": 2.45 },
-      { "name": "Bologna -0.25", "odds": 2.06 },
-      { "name": "Roma +0.25", "odds": 1.87 },
-      { "name": "Bologna -0.5", "odds": 2.33 },
-      { "name": "Roma +0.5", "odds": 1.6 },
-      { "name": "Over 1.5", "odds": 1.6 },
-      { "name": "Under 1.5", "odds": 2.3 },
-      { "name": "Over 1.75", "odds": 1.73 },
-      { "name": "Under 1.75", "odds": 2.17 },
-      { "name": "Over 2", "odds": 2.1 },
-      { "name": "Under 2", "odds": 1.8 },
-      { "name": "Over 2.25", "odds": 2.32 },
-      { "name": "Under 2.25", "odds": 1.58 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2023-12-17 21:00:00+0800",
-    "match_name": "Almeria vs Mallorca",
-    "team1": "Almeria",
-    "team2": "Mallorca",
-    "main_bet_list": [
-      { "name": "Almeria Winner", "odds": 2.42 },
-      { "name": "Draw", "odds": 3.2 },
-      { "name": "Mallorca Winner", "odds": 3.2 }
-    ],
-    "more_bet_list": [
-      { "name": "Almeria +0", "odds": 1.68 },
-      { "name": "Mallorca -0", "odds": 2.26 },
-      { "name": "Almeria +0.25", "odds": 1.51 },
-      { "name": "Mallorca -0.25", "odds": 2.43 },
-      { "name": "Almeria -0.25", "odds": 2.05 },
-      { "name": "Mallorca +0.25", "odds": 1.89 },
-      { "name": "Almeria -0.5", "odds": 2.3 },
-      { "name": "Mallorca +0.5", "odds": 1.64 },
-      { "name": "Over 1.75", "odds": 1.59 },
-      { "name": "Under 1.75", "odds": 2.33 },
-      { "name": "Over 2", "odds": 1.79 },
-      { "name": "Under 2", "odds": 2.13 },
-      { "name": "Over 2.25", "odds": 2.11 },
-      { "name": "Under 2.25", "odds": 1.81 },
-      { "name": "Over 2.5", "odds": 2.29 },
-      { "name": "Under 2.5", "odds": 1.63 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2023-12-17 23:15:00+0800",
-    "match_name": "Real Sociedad vs Real Betis",
-    "team1": "Real Sociedad",
-    "team2": "Real Betis",
-    "main_bet_list": [
-      { "name": "Real Sociedad Winner", "odds": 1.57 },
-      { "name": "Draw", "odds": 3.9 },
-      { "name": "Real Betis Winner", "odds": 6.4 }
-    ],
-    "more_bet_list": [
-      { "name": "Real Sociedad -0.5", "odds": 1.57 },
-      { "name": "Real Betis +0.5", "odds": 2.36 },
-      { "name": "Real Sociedad -0.75", "odds": 1.69 },
-      { "name": "Real Betis +0.75", "odds": 2.24 },
-      { "name": "Real Sociedad -1", "odds": 1.98 },
-      { "name": "Real Betis +1", "odds": 1.95 },
-      { "name": "Real Sociedad -1.25", "odds": 2.29 },
-      { "name": "Real Betis +1.25", "odds": 1.64 },
-      { "name": "Over 2", "odds": 1.61 },
-      { "name": "Under 2", "odds": 2.31 },
-      { "name": "Over 2.25", "odds": 1.8 },
+      { "name": "Everton -0", "odds": 1.43 },
+      { "name": "Fulham +0", "odds": 2.49 },
+      { "name": "Everton -0.25", "odds": 1.68 },
+      { "name": "Fulham +0.25", "odds": 2.24 },
+      { "name": "Everton -0.5", "odds": 1.96 },
+      { "name": "Fulham +0.5", "odds": 1.96 },
+      { "name": "Everton -0.75", "odds": 2.24 },
+      { "name": "Fulham +0.75", "odds": 1.68 },
+      { "name": "Over 2", "odds": 1.51 },
+      { "name": "Under 2", "odds": 2.39 },
+      { "name": "Over 2.25", "odds": 1.78 },
       { "name": "Under 2.25", "odds": 2.12 },
       { "name": "Over 2.5", "odds": 2.01 },
-      { "name": "Under 2.5", "odds": 1.91 },
+      { "name": "Under 2.5", "odds": 1.89 },
       { "name": "Over 2.75", "odds": 2.27 },
       { "name": "Under 2.75", "odds": 1.63 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2023-12-20 03:45:00+0800",
+    "match_name": "Port Vale vs Middlesbrough",
+    "team1": "Port Vale",
+    "team2": "Middlesbrough",
+    "main_bet_list": [
+      { "name": "Port Vale Winner", "odds": 2.42 },
+      { "name": "Draw", "odds": 3.2 },
+      { "name": "Middlesbrough Winner", "odds": 3.2 }
+    ],
+    "more_bet_list": [
+      { "name": "Port Vale +0.5", "odds": 2.13 },
+      { "name": "Middlesbrough -0.5", "odds": 1.79 },
+      { "name": "Port Vale +0.75", "odds": 1.91 },
+      { "name": "Middlesbrough -0.75", "odds": 2.01 },
+      { "name": "Port Vale +1", "odds": 1.62 },
+      { "name": "Middlesbrough -1", "odds": 2.3 },
+      { "name": "Over 2.25", "odds": 1.63 },
+      { "name": "Under 2.25", "odds": 2.27 },
+      { "name": "Over 2.5", "odds": 1.96 },
+      { "name": "Under 2.5", "odds": 1.94 },
+      { "name": "Over 2.75", "odds": 2.16 },
+      { "name": "Under 2.75", "odds": 1.74 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2023-12-20 04:00:00+0800",
+    "match_name": "Chelsea vs Newcastle",
+    "team1": "Chelsea",
+    "team2": "Newcastle",
+    "main_bet_list": [
+      { "name": "Chelsea Winner", "odds": 1.78 },
+      { "name": "Draw", "odds": 3.95 },
+      { "name": "Newcastle Winner", "odds": 4.25 }
+    ],
+    "more_bet_list": [
+      { "name": "Chelsea -0.25", "odds": 1.59 },
+      { "name": "Newcastle +0.25", "odds": 2.33 },
+      { "name": "Chelsea -0.5", "odds": 1.78 },
+      { "name": "Newcastle +0.5", "odds": 2.14 },
+      { "name": "Chelsea -0.75", "odds": 2.02 },
+      { "name": "Newcastle +0.75", "odds": 1.9 },
+      { "name": "Chelsea -1", "odds": 2.29 },
+      { "name": "Newcastle +1", "odds": 1.63 },
+      { "name": "Over 2.5", "odds": 1.67 },
+      { "name": "Under 2.5", "odds": 2.23 },
+      { "name": "Over 2.75", "odds": 1.85 },
+      { "name": "Under 2.75", "odds": 2.05 },
+      { "name": "Over 3", "odds": 2.1 },
+      { "name": "Under 3", "odds": 1.8 },
+      { "name": "Over 3.25", "odds": 2.3 },
+      { "name": "Under 3.25", "odds": 1.6 }
     ]
   },
   {
