@@ -12,16 +12,16 @@ const {
 } = require("./util/util");
 const { checkDuplicate } = require("./util/auth");
 
-const corsOptions = {
-  origin: "https://huatah.co",
-  // other CORS options
-};
+// const corsOptions = {
+//   origin: "https://huatah.co",
+//   // other CORS options
+// };
 
 const app = express();
 const bodyParser = require("body-parser");
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
-app.use(cors(corsOptions));
+app.use(cors());
 const PORT = 3030;
 
 app.get("/test", (req, res) => {
