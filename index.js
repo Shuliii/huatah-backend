@@ -12,13 +12,19 @@ const {
 } = require("./util/util");
 const { checkDuplicate } = require("./util/auth");
 
+const corsOptions = {
+  origin: "http://your-domain.com",
+  // other CORS options
+};
+
+app.use(cors(corsOptions));
+
 const app = express();
 const bodyParser = require("body-parser");
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 const PORT = 3030;
-app.use(cors());
 
 app.get("/test", (req, res) => {
   const queryString1 = "SELECT * from userlist";
