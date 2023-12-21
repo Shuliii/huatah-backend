@@ -17,13 +17,11 @@ const corsOptions = {
   // other CORS options
 };
 
-app.use(cors(corsOptions));
-
 const app = express();
 const bodyParser = require("body-parser");
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
-
+app.use(cors(corsOptions));
 const PORT = 3030;
 
 app.get("/test", (req, res) => {
