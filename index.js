@@ -13,8 +13,8 @@ const {
 const { checkDuplicate } = require("./util/auth");
 
 // const corsOptions = {
-//   origin: "https://huatah.co",
-//   // other CORS options
+//   origin: "http://localhost:3000", // Add the frontend domain
+//   // ... other CORS options
 // };
 
 const app = express();
