@@ -13,7 +13,7 @@ const {
 const { checkDuplicate } = require("./util/auth");
 
 const corsOptions = {
-  origin: "http://your-domain.com",
+  origin: "https://huatah.co",
   // other CORS options
 };
 
