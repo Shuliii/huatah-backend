@@ -24,15 +24,6 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cors());
 const PORT = 3030;
 
-app.use((req, res, next) => {
-  res.header("Access-Control-Allow-Origin", "http://localhost:3000");
-  res.header(
-    "Access-Control-Allow-Headers",
-    "Origin, X-Requested-With, Content-Type, Accept"
-  );
-  next();
-});
-
 app.get("/test", (req, res) => {
   const queryString1 = "SELECT * from userlist";
 
