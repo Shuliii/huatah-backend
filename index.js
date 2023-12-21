@@ -24,6 +24,15 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cors());
 const PORT = 3030;
 
+app.use((req, res, next) => {
+  res.header("Access-Control-Allow-Origin", "http://localhost:3000");
+  res.header(
+    "Access-Control-Allow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept"
+  );
+  next();
+});
+
 app.get("/test", (req, res) => {
   const queryString1 = "SELECT * from userlist";
 
@@ -237,36 +246,6 @@ app.get("/Valorant", async (req, res) => {
   res.json({ data: filteredData });
   // res.json({ data });
 });
-
-// app.delete("/delete/:id", (req, res) => {
-//   console.log(req.params.id);
-//   const queryString = `SELECT * FROM betlist WHERE id = ${req.params.id}`;
-//   let data;
-//   connection.query(queryString, (err, result) => {
-//     if (result.length === 0) {
-//       res.json({
-//         message: "Bet List does not exist",
-//       });
-//     } else {
-//       data = result;
-//     }
-//   });
-
-//   console.log(data);
-
-//   const currentDate = new Date();
-//   const matchDate = new Date(data.Match_Time);
-
-//   if (matchDate - currentDate > 0) {
-//     const deleteQueryString = `DELETE FROM betlist where id = ${req.params.id}`;
-//     connection.query(deleteQueryString, (err, result) => {
-//       if (err) throw err;
-//       res.json({
-//         message: "Successfully delete the bet",
-//       });
-//     });
-//   }
-// });
 
 app.delete("/delete/:id", (req, res) => {
   console.log(req.params.id);
