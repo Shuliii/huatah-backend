@@ -1,52 +1,52 @@
 [
   {
     "type": "NBA",
-    "time": "2024-01-04 08:30:00+0800",
+    "time": "2024-01-05 08:30:00+0800",
     "match_name": "Spurs vs Bucks",
     "team1": "Spurs",
     "team2": "Bucks",
     "main_bet_list": [
-      { "name": "Spurs Winner", "odds": 1.24 },
-      { "name": "Bucks Winner", "odds": 3.27 }
+      { "name": "Spurs Winner", "odds": 4.7 },
+      { "name": "Bucks Winner", "odds": 1.17 }
     ],
     "more_bet_list": [
-      { "name": "Spurs -9.5", "odds": 1.88 },
-      { "name": "Bucks +9.5", "odds": 2.0 },
-      { "name": "Spurs -10", "odds": 1.95 },
-      { "name": "Bucks +10", "odds": 1.93 },
-      { "name": "Spurs -10.5", "odds": 2.02 },
-      { "name": "Bucks +10.5", "odds": 1.86 },
-      { "name": "Over 239", "odds": 1.89 },
-      { "name": "Under 239", "odds": 1.97 },
-      { "name": "Over 239.5", "odds": 1.94 },
-      { "name": "Under 239.5", "odds": 1.92 },
-      { "name": "Over 240", "odds": 1.99 },
-      { "name": "Under 240", "odds": 1.87 }
+      { "name": "Spurs +9", "odds": 2.01 },
+      { "name": "Bucks -9", "odds": 1.87 },
+      { "name": "Spurs +9.5", "odds": 1.94 },
+      { "name": "Bucks -9.5", "odds": 1.94 },
+      { "name": "Spurs +10", "odds": 1.87 },
+      { "name": "Bucks -10", "odds": 2.01 },
+      { "name": "Over 247.5", "odds": 1.95 },
+      { "name": "Under 247.5", "odds": 1.91 },
+      { "name": "Over 248", "odds": 2.0 },
+      { "name": "Under 248", "odds": 1.86 },
+      { "name": "Over 248.5", "odds": 2.05 },
+      { "name": "Under 248.5", "odds": 1.81 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-01-04 11:00:00+0800",
+    "time": "2024-01-05 11:00:00+0800",
     "match_name": "Warriors vs Nuggets",
     "team1": "Warriors",
     "team2": "Nuggets",
     "main_bet_list": [
-      { "name": "Warriors Winner", "odds": 2.2 },
-      { "name": "Nuggets Winner", "odds": 1.73 }
+      { "name": "Warriors Winner", "odds": 2.16 },
+      { "name": "Nuggets Winner", "odds": 1.76 }
     ],
     "more_bet_list": [
-      { "name": "Warriors +2.5", "odds": 2.05 },
-      { "name": "Nuggets -2.5", "odds": 1.83 },
-      { "name": "Warriors +3", "odds": 1.98 },
-      { "name": "Nuggets -3", "odds": 1.9 },
-      { "name": "Warriors +3.5", "odds": 1.91 },
+      { "name": "Warriors +2.5", "odds": 2.03 },
+      { "name": "Nuggets -2.5", "odds": 1.85 },
+      { "name": "Warriors +3", "odds": 1.96 },
+      { "name": "Nuggets -3", "odds": 1.92 },
+      { "name": "Warriors +3.5", "odds": 1.89 },
       { "name": "Nuggets -3.5", "odds": 1.97 },
-      { "name": "Over 239", "odds": 1.89 },
-      { "name": "Under 239", "odds": 1.97 },
-      { "name": "Over 239.5", "odds": 1.94 },
-      { "name": "Under 239.5", "odds": 1.92 },
-      { "name": "Over 240", "odds": 1.99 },
-      { "name": "Under 240", "odds": 1.87 }
+      { "name": "Over 235", "odds": 1.87 },
+      { "name": "Under 235", "odds": 1.99 },
+      { "name": "Over 235.5", "odds": 1.92 },
+      { "name": "Under 235.5", "odds": 1.94 },
+      { "name": "Over 236", "odds": 1.97 },
+      { "name": "Under 236", "odds": 1.89 }
     ]
   },
   {
