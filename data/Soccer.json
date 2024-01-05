@@ -96,9 +96,9 @@
     "team1": "Bologna",
     "team2": "Genoa",
     "main_bet_list": [
-      { "name": "Bologna Winner", "odds": 5.8 },
-      { "name": "Draw", "odds": 4.45 },
-      { "name": "Genoa Winner", "odds": 1.53 }
+      { "name": "Bologna Winner", "odds": 2.07 },
+      { "name": "Draw", "odds": 3.0 },
+      { "name": "Genoa Winner", "odds": 4.25 }
     ],
     "more_bet_list": [
       { "name": "Bologna -0", "odds": 1.46 },
