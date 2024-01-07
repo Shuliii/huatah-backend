@@ -51,27 +51,27 @@
   },
   {
     "type": "NBA",
-    "time": "2024-01-07 07:00:00+0800",
+    "time": "2024-01-08 07:00:00+0800",
     "match_name": "Kings vs Pelicans",
     "team1": "Kings",
     "team2": "Pelicans",
     "main_bet_list": [
-      { "name": "Kings Winner", "odds": 1.18 },
-      { "name": "Pelicans Winner", "odds": 5.0 }
+      { "name": "Kings Winner", "odds": 1.63 },
+      { "name": "Pelicans Winner", "odds": 2.2 }
     ],
     "more_bet_list": [
-      { "name": "Kings -11", "odds": 1.87 },
-      { "name": "Pelicans +11", "odds": 2.01 },
-      { "name": "Kings -11.5", "odds": 1.94 },
-      { "name": "Pelicans +11.5", "odds": 1.4 },
-      { "name": "Kings -12", "odds": 2.01 },
-      { "name": "Pelicans +12", "odds": 1.87 },
-      { "name": "Over 237.5", "odds": 1.88 },
-      { "name": "Under 237.5", "odds": 1.98 },
-      { "name": "Over 238", "odds": 1.93 },
-      { "name": "Under 238", "odds": 1.93 },
-      { "name": "Over 238.5", "odds": 1.98 },
-      { "name": "Under 238.5", "odds": 1.88 }
+      { "name": "Kings -3", "odds": 1.89 },
+      { "name": "Pelicans +3", "odds": 1.99 },
+      { "name": "Kings -3.5", "odds": 1.96 },
+      { "name": "Pelicans +3.5", "odds": 1.92 },
+      { "name": "Kings -4", "odds": 2.03 },
+      { "name": "Pelicans +4", "odds": 1.85 },
+      { "name": "Over 235", "odds": 1.78 },
+      { "name": "Under 235", "odds": 2.08 },
+      { "name": "Over 235.5", "odds": 1.86 },
+      { "name": "Under 235.5", "odds": 2.0 },
+      { "name": "Over 236", "odds": 1.91 },
+      { "name": "Under 236", "odds": 1.95 }
     ]
   },
   {
@@ -81,22 +81,22 @@
     "team1": "Magic",
     "team2": "Hawks",
     "main_bet_list": [
-      { "name": "Magic Winner", "odds": 3.22 },
-      { "name": "Hawks Winner", "odds": 1.36 }
+      { "name": "Magic Winner", "odds": 2.04 },
+      { "name": "Hawks Winner", "odds": 1.76 }
     ],
     "more_bet_list": [
-      { "name": "Magic +6", "odds": 2.07 },
-      { "name": "Hawks -6", "odds": 1.81 },
-      { "name": "Magic +6.5", "odds": 2.0 },
-      { "name": "Hawks -6.5", "odds": 1.88 },
-      { "name": "Magic +7", "odds": 1.93 },
-      { "name": "Hawks -7", "odds": 1.95 },
-      { "name": "Over 236.5", "odds": 1.87 },
-      { "name": "Under 236.5", "odds": 1.99 },
-      { "name": "Over 237", "odds": 1.92 },
-      { "name": "Under 237", "odds": 1.94 },
-      { "name": "Over 237.5", "odds": 1.97 },
-      { "name": "Under 237.5", "odds": 1.89 }
+      { "name": "Magic +1.5", "odds": 2.07 },
+      { "name": "Hawks -1.5", "odds": 1.81 },
+      { "name": "Magic +2", "odds": 2.0 },
+      { "name": "Hawks -2", "odds": 1.88 },
+      { "name": "Magic +2.5", "odds": 1.93 },
+      { "name": "Hawks -2.5", "odds": 1.95 },
+      { "name": "Over 237.5", "odds": 1.87 },
+      { "name": "Under 237.5", "odds": 1.99 },
+      { "name": "Over 238", "odds": 1.92 },
+      { "name": "Under 238", "odds": 1.94 },
+      { "name": "Over 238.5", "odds": 1.97 },
+      { "name": "Under 238.5", "odds": 1.89 }
     ]
   },
   {
