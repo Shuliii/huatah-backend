@@ -209,28 +209,28 @@
   },
   {
     "type": "Soccer",
-    "time": "2024-01-07 19:00:00+0800",
-    "match_name": "Burgos vs Mallorca",
-    "team1": "Burgos",
-    "team2": "Mallorca",
+    "time": "2024-01-14 01:30:00+0800",
+    "match_name": "Ipswich vs Sunderland",
+    "team1": "Ipswich",
+    "team2": "Sunderland",
     "main_bet_list": [
-      { "name": "Burgos Winner", "odds": 2.79 },
-      { "name": "Draw", "odds": 2.91 },
-      { "name": "Mallorca Winner", "odds": 2.4 }
+      { "name": "Ipswich Winner", "odds": 2.07 },
+      { "name": "Draw", "odds": 3.45 },
+      { "name": "Sunderland Winner", "odds": 3.25 }
     ],
     "more_bet_list": [
-      { "name": "Burgos +0", "odds": 2.1 },
-      { "name": "Mallorca -0", "odds": 1.82 },
-      { "name": "Burgos +0.25", "odds": 1.72 },
-      { "name": "Mallorca -0.25", "odds": 2.2 },
-      { "name": "Burgos -0.25", "odds": 2.38 },
-      { "name": "Mallorca +0.25", "odds": 1.54 },
-      { "name": "Over 1.75", "odds": 1.7 },
-      { "name": "Under 1.75", "odds": 2.2 },
-      { "name": "Over 2", "odds": 2.02 },
-      { "name": "Under 2", "odds": 1.88 },
-      { "name": "Over 2.25", "odds": 2.26 },
-      { "name": "Under 2.25", "odds": 1.64 }
+      { "name": "Ipswich -0.25", "odds": 1.74 },
+      { "name": "Sunderland +0.25", "odds": 2.18 },
+      { "name": "Ipswich -0.5", "odds": 2.07 },
+      { "name": "Sunderland +0.5", "odds": 1.85 },
+      { "name": "Ipswich -0.75", "odds": 2.28 },
+      { "name": "Sunderland +0.75", "odds": 1.64 },
+      { "name": "Over 2.25", "odds": 1.73 },
+      { "name": "Under 2.25", "odds": 2.17 },
+      { "name": "Over 2.5", "odds": 1.96 },
+      { "name": "Under 2.5", "odds": 1.94 },
+      { "name": "Over 2.75", "odds": 2.22 },
+      { "name": "Under 2.75", "odds": 1.68 }
     ]
   },
 
