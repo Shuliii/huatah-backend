@@ -1,244 +1,210 @@
 [
   {
     "type": "Soccer",
-    "time": "2024-01-13 03:45:00+0800",
-    "match_name": "Burnley vs Luton",
-    "team1": "Burnley",
-    "team2": "Luton",
+    "time": "2024-01-13 23:00:00+0800",
+    "match_name": "Birmingham vs Swansea",
+    "team1": "Birmingham",
+    "team2": "Swansea",
     "main_bet_list": [
-      { "name": "Burnley Winner", "odds": 2.03 },
-      { "name": "Draw", "odds": 3.55 },
-      { "name": "Luton Winner", "odds": 3.65 }
+      { "name": "Birmingham Winner", "odds": 2.31 },
+      { "name": "Draw", "odds": 3.4 },
+      { "name": "Swansea Winner", "odds": 2.84 }
     ],
     "more_bet_list": [
-      { "name": "Burnley -0", "odds": 1.5 },
-      { "name": "Luton +0", "odds": 2.43 },
-      { "name": "Burnley -0.25", "odds": 1.76 },
-      { "name": "Luton +0.25", "odds": 2.17 },
-      { "name": "Burnley -0.5", "odds": 2.03 },
-      { "name": "Luton +0.5", "odds": 1.9 },
-      { "name": "Burnley -0.75", "odds": 2.27 },
-      { "name": "Luton +0.75", "odds": 1.66 },
-      { "name": "Over 2.25", "odds": 1.7 },
-      { "name": "Under 2.25", "odds": 2.2 },
-      { "name": "Over 2.5", "odds": 1.97 },
-      { "name": "Under 2.5", "odds": 1.93 },
-      { "name": "Over 2.75", "odds": 2.18 },
-      { "name": "Under 2.75", "odds": 1.72 },
-      { "name": "Over 3", "odds": 2.41 },
-      { "name": "Under 3", "odds": 1.49 }
+      { "name": "Birmingham -0", "odds": 1.66 },
+      { "name": "Swansea +0", "odds": 2.26 },
+      { "name": "Birmingham -0.25", "odds": 2.01 },
+      { "name": "Swansea +0.25", "odds": 1.91 },
+      { "name": "Birmingham -0.5", "odds": 2.24 },
+      { "name": "Swansea +0.5", "odds": 1.68 },
+      { "name": "Over 2.25", "odds": 1.68 },
+      { "name": "Under 2.25", "odds": 2.22 },
+      { "name": "Over 2.5", "odds": 1.92 },
+      { "name": "Under 2.5", "odds": 1.98 },
+      { "name": "Over 2.75", "odds": 2.13 },
+      { "name": "Under 2.75", "odds": 1.77 }
     ]
   },
   {
     "type": "Soccer",
-    "time": "2024-01-13 04:00:00+0800",
-    "match_name": "Sevilla vs Alaves",
-    "team1": "Sevilla",
-    "team2": "Alaves",
+    "time": "2024-01-13 23:00:00+0800",
+    "match_name": "Huddersfield vs Plymouth",
+    "team1": "Huddersfield",
+    "team2": "Plymouth",
     "main_bet_list": [
-      { "name": "Sevilla Winner", "odds": 2.94 },
-      { "name": "Draw", "odds": 2.99 },
-      { "name": "Alaves Winner", "odds": 2.66 }
+      { "name": "Huddersfield Winner", "odds": 2.25 },
+      { "name": "Draw", "odds": 3.45 },
+      { "name": "Plymouth Winner", "odds": 2.89 }
     ],
     "more_bet_list": [
-      { "name": "Sevilla -0.25", "odds": 1.68 },
-      { "name": "Alaves +0.25", "odds": 2.25 },
-      { "name": "Sevilla -0.5", "odds": 2.01 },
-      { "name": "Alaves +0.5", "odds": 1.92 },
-      { "name": "Sevilla -0.75", "odds": 2.27 },
-      { "name": "Alaves +0.75", "odds": 1.66 },
-      { "name": "Sevilla -1", "odds": 2.49 },
-      { "name": "Alaves +1", "odds": 1.44 },
-      { "name": "Over 1.75", "odds": 1.6 },
-      { "name": "Under 1.75", "odds": 2.3 },
-      { "name": "Over 2", "odds": 1.82 },
-      { "name": "Under 2", "odds": 2.08 },
-      { "name": "Over 2.25", "odds": 2.13 },
-      { "name": "Under 2.25", "odds": 1.77 },
-      { "name": "Over 2.5", "odds": 2.31 },
-      { "name": "Under 2.5", "odds": 1.59 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-01-13 03:30:00+0800",
-    "match_name": "Bayern vs Hoffenheim",
-    "team1": "Bayern",
-    "team2": "Hoffenheim",
-    "main_bet_list": [
-      { "name": "Bayern Winner", "odds": 1.14 },
-      { "name": "Draw", "odds": 9.0 },
-      { "name": "Hoffenheim Winner", "odds": 16.0 }
-    ],
-    "more_bet_list": [
-      { "name": "Bayern -2", "odds": 1.62 },
-      { "name": "Hoffenheim +2", "odds": 2.31 },
-      { "name": "Bayern -2.25", "odds": 1.82 },
-      { "name": "Hoffenheim +2.25", "odds": 2.11 },
-      { "name": "Bayern -2.5", "odds": 2.02 },
-      { "name": "Hoffenheim +2.5", "odds": 1.91 },
-      { "name": "Bayern -2.75", "odds": 2.24 },
-      { "name": "Hoffenheim +2.75", "odds": 1.69 },
-      { "name": "Over 3.75", "odds": 1.67 },
-      { "name": "Under 3.75", "odds": 2.23 },
-      { "name": "Over 4", "odds": 1.88 },
-      { "name": "Under 4", "odds": 2.02 },
-      { "name": "Over 4.25", "odds": 2.1 },
-      { "name": "Under 4.25", "odds": 1.8 },
-      { "name": "Over 4.5", "odds": 2.23 },
-      { "name": "Under 4.5", "odds": 1.67 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-01-07 22:00:00+0800",
-    "match_name": "Peterborough vs Leeds United",
-    "team1": "Peterborough",
-    "team2": "Leeds United",
-    "main_bet_list": [
-      { "name": "Peterborough Winner", "odds": 4.0 },
-      { "name": "Draw", "odds": 4.15 },
-      { "name": "Leeds United Winner", "odds": 1.7 }
-    ],
-    "more_bet_list": [
-      { "name": "Peterborough +0.5", "odds": 2.22 },
-      { "name": "Leeds United -0.5", "odds": 1.7 },
-      { "name": "Peterborough +0.75", "odds": 2.01 },
-      { "name": "Leeds United -0.75", "odds": 1.91 },
-      { "name": "Peterborough +1", "odds": 1.75 },
-      { "name": "Leeds United -1", "odds": 2.17 },
-      { "name": "Over 2.75", "odds": 1.63 },
-      { "name": "Under 2.75", "odds": 2.27 },
-      { "name": "Over 3", "odds": 1.86 },
-      { "name": "Under 3", "odds": 2.04 },
-      { "name": "Over 3.25", "odds": 2.09 },
-      { "name": "Under 3.25", "odds": 1.81 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-01-07 22:00:00+0800",
-    "match_name": "Shrewsbury vs Wrexham",
-    "team1": "Shrewsbury",
-    "team2": "Wrexham",
-    "main_bet_list": [
-      { "name": "Shrewsbury Winner", "odds": 3.05 },
-      { "name": "Draw", "odds": 3.55 },
-      { "name": "Wrexham Winner", "odds": 2.12 }
-    ],
-    "more_bet_list": [
-      { "name": "Shrewsbury +0", "odds": 2.32 },
-      { "name": "Wrexham -0", "odds": 1.6 },
-      { "name": "Shrewsbury +0.25", "odds": 2.02 },
-      { "name": "Wrexham -0.25", "odds": 1.9 },
-      { "name": "Shrewsbury +0.5", "odds": 1.81 },
-      { "name": "Wrexham -0.5", "odds": 2.11 },
+      { "name": "Huddersfield -0", "odds": 1.68 },
+      { "name": "Plymouth +0", "odds": 2.24 },
+      { "name": "Huddersfield -0.25", "odds": 1.97 },
+      { "name": "Plymouth +0.25", "odds": 1.95 },
+      { "name": "Huddersfield -0.5", "odds": 2.2 },
+      { "name": "Plymouth +0.5", "odds": 1.72 },
       { "name": "Over 2.5", "odds": 1.77 },
       { "name": "Under 2.5", "odds": 2.13 },
-      { "name": "Over 2.75", "odds": 1.99 },
-      { "name": "Under 2.75", "odds": 1.91 },
-      { "name": "Over 3", "odds": 2.24 },
-      { "name": "Under 3", "odds": 1.66 }
+      { "name": "Over 2.75", "odds": 1.98 },
+      { "name": "Under 2.75", "odds": 1.92 },
+      { "name": "Over 3", "odds": 2.21 },
+      { "name": "Under 3", "odds": 1.69 }
     ]
   },
   {
     "type": "Soccer",
-    "time": "2024-01-07 22:00:00+0800",
-    "match_name": "West Brom vs Aldershot",
-    "team1": "West Brom",
-    "team2": "Aldershot",
+    "time": "2024-01-13 23:00:00+0800",
+    "match_name": "Southampton vs Sheffield",
+    "team1": "Southampton",
+    "team2": "Sheffield",
     "main_bet_list": [
-      { "name": "West Brom Winner", "odds": 1.22 },
-      { "name": "Draw", "odds": 6.3 },
-      { "name": "Aldershot Winner", "odds": 10.0 }
+      { "name": "Southampton Winner", "odds": 1.34 },
+      { "name": "Draw", "odds": 4.9 },
+      { "name": "Sheffield Winner", "odds": 8.0 }
     ],
     "more_bet_list": [
-      { "name": "West Brom -1.75", "odds": 1.8 },
-      { "name": "Aldershot +1.75", "odds": 2.12 },
-      { "name": "West Brom -2", "odds": 2.08 },
-      { "name": "Aldershot +2", "odds": 1.84 },
-      { "name": "West Brom -2.25", "odds": 2.27 },
-      { "name": "Aldershot +2.25", "odds": 1.65 },
-      { "name": "Over 3.25", "odds": 1.79 },
-      { "name": "Under 3.25", "odds": 2.11 },
-      { "name": "Over 3.5", "odds": 2.01 },
-      { "name": "Under 3.5", "odds": 1.89 },
-      { "name": "Over 3.75", "odds": 2.21 },
-      { "name": "Under 3.75", "odds": 1.69 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-01-07 22:00:00+0800",
-    "match_name": "Man City vs Huddersfield",
-    "team1": "Man City",
-    "team2": "Huddersfield",
-    "main_bet_list": [
-      { "name": "Man City Winner", "odds": 1.03 },
-      { "name": "Draw", "odds": 18.0 },
-      { "name": "Huddersfield Winner", "odds": 20.0 }
-    ],
-    "more_bet_list": [
-      { "name": "Man City -3.25", "odds": 1.9 },
-      { "name": "Huddersfield +3.25", "odds": 2.02 },
-      { "name": "Man City -3.5", "odds": 2.12 },
-      { "name": "Huddersfield +3.5", "odds": 1.8 },
-      { "name": "Over 4", "odds": 1.7 },
-      { "name": "Under 4", "odds": 2.2 },
-      { "name": "Over 4.25", "odds": 1.95 },
-      { "name": "Under 4.25", "odds": 1.95 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-01-08 00:30:00+0800",
-    "match_name": "Arsenal vs Liverpool",
-    "team1": "Arsenal",
-    "team2": "Liverpool",
-    "main_bet_list": [
-      { "name": "Arsenal Winner", "odds": 2.0 },
-      { "name": "Draw", "odds": 3.75 },
-      { "name": "Liverpool Winner", "odds": 3.2 }
-    ],
-    "more_bet_list": [
-      { "name": "Arsenal -0.25", "odds": 1.74 },
-      { "name": "Liverpool +0.25", "odds": 2.18 },
-      { "name": "Arsenal -0.5", "odds": 2.02 },
-      { "name": "Liverpool +0.5", "odds": 1.9 },
-      { "name": "Arsenal -0.75", "odds": 2.21 },
-      { "name": "Liverpool +0.75", "odds": 1.71 },
-      { "name": "Over 2.5", "odds": 1.63 },
-      { "name": "Under 2.5", "odds": 2.27 },
+      { "name": "Southampton -1.25", "odds": 1.78 },
+      { "name": "Sheffield +1.25", "odds": 2.14 },
+      { "name": "Southampton -1.5", "odds": 2.07 },
+      { "name": "Sheffield +1.5", "odds": 1.85 },
+      { "name": "Southampton -1.75", "odds": 2.27 },
+      { "name": "Sheffield +1.75", "odds": 1.65 },
       { "name": "Over 2.75", "odds": 1.79 },
       { "name": "Under 2.75", "odds": 2.11 },
-      { "name": "Over 3", "odds": 2.12 },
-      { "name": "Under 3", "odds": 1.78 }
+      { "name": "Over 3", "odds": 1.97 },
+      { "name": "Under 3", "odds": 1.93 },
+      { "name": "Over 3.25", "odds": 2.25 },
+      { "name": "Under 3.25", "odds": 1.65 }
     ]
   },
   {
     "type": "Soccer",
-    "time": "2024-01-07 19:00:00+0800",
-    "match_name": "Amorebieta vs Celta Vigo",
-    "team1": "Amorebieta",
-    "team2": "Celta Vigo",
+    "time": "2024-01-13 23:00:00+0800",
+    "match_name": "Rotherham vs Stoke City",
+    "team1": "Rotherham",
+    "team2": "Stoke City",
     "main_bet_list": [
-      { "name": "Amorebieta Winner", "odds": 4.0 },
-      { "name": "Draw", "odds": 3.5 },
-      { "name": "Celta Vigo Winner", "odds": 1.71 }
+      { "name": "Rotherham Winner", "odds": 3.6 },
+      { "name": "Draw", "odds": 3.45 },
+      { "name": "Stoke City Winner", "odds": 1.95 }
     ],
     "more_bet_list": [
-      { "name": "Amorebieta +0.5", "odds": 2.21 },
-      { "name": "Celta Vigo -0.5", "odds": 1.71 },
-      { "name": "Amorebieta +0.75", "odds": 1.96 },
-      { "name": "Celta Vigo -0.75", "odds": 1.96 },
-      { "name": "Amorebieta +1", "odds": 1.66 },
-      { "name": "Celta Vigo -1", "odds": 2.26 },
-      { "name": "Over 2", "odds": 1.72 },
-      { "name": "Under 2", "odds": 2.18 },
-      { "name": "Over 2.25", "odds": 1.99 },
-      { "name": "Under 2.25", "odds": 1.91 },
-      { "name": "Over 2.5", "odds": 2.22 },
-      { "name": "Under 2.5", "odds": 1.68 }
+      { "name": "Rotherham +0.25", "odds": 2.26 },
+      { "name": "Stoke City -0.25", "odds": 1.66 },
+      { "name": "Rotherham +0.5", "odds": 1.97 },
+      { "name": "Stoke City -0.5", "odds": 1.95 },
+      { "name": "Rotherham +0.75", "odds": 1.72 },
+      { "name": "Stoke City -0.75", "odds": 2.2 },
+      { "name": "Over 2.25", "odds": 1.8 },
+      { "name": "Under 2.25", "odds": 2.1 },
+      { "name": "Over 2.5", "odds": 2.04 },
+      { "name": "Under 2.5", "odds": 1.86 },
+      { "name": "Over 2.75", "odds": 2.25 },
+      { "name": "Under 2.75", "odds": 1.65 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-01-13 23:00:00+0800",
+    "match_name": "Preston vs Bristol",
+    "team1": "Preston",
+    "team2": "Bristol",
+    "main_bet_list": [
+      { "name": "Preston Winner", "odds": 2.49 },
+      { "name": "Draw", "odds": 2.93 },
+      { "name": "Bristol Winner", "odds": 2.97 }
+    ],
+    "more_bet_list": [
+      { "name": "Preston +0", "odds": 1.78 },
+      { "name": "Bristol -0", "odds": 2.14 },
+      { "name": "Preston +0.25", "odds": 1.56 },
+      { "name": "Bristol -0.25", "odds": 2.36 },
+      { "name": "Preston -0.25", "odds": 2.15 },
+      { "name": "Bristol +0.25", "odds": 1.77 },
+      { "name": "Over 1.75", "odds": 1.7 },
+      { "name": "Under 1.75", "odds": 2.2 },
+      { "name": "Over 2", "odds": 1.98 },
+      { "name": "Under 2", "odds": 1.92 },
+      { "name": "Over 2.25", "odds": 2.27 },
+      { "name": "Under 2.25", "odds": 1.63 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-01-13 23:00:00+0800",
+    "match_name": "Milwall vs Middlesbrough",
+    "team1": "Milwall",
+    "team2": "Middlesbrough",
+    "main_bet_list": [
+      { "name": "Milwall Winner", "odds": 2.81 },
+      { "name": "Draw", "odds": 3.25 },
+      { "name": "Middlesbrough Winner", "odds": 2.4 }
+    ],
+    "more_bet_list": [
+      { "name": "Milwall +0", "odds": 2.2 },
+      { "name": "Middlesbrough -0", "odds": 1.72 },
+      { "name": "Milwall +0.25", "odds": 1.85 },
+      { "name": "Middlesbrough -0.25", "odds": 2.07 },
+      { "name": "Milwall +0.5", "odds": 1.63 },
+      { "name": "Middlesbrough -0.5", "odds": 2.29 },
+      { "name": "Over 2", "odds": 1.58 },
+      { "name": "Under 2", "odds": 2.32 },
+      { "name": "Over 2.25", "odds": 1.84 },
+      { "name": "Under 2.25", "odds": 2.06 },
+      { "name": "Over 2.5", "odds": 2.08 },
+      { "name": "Under 2.5", "odds": 1.82 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-01-13 23:30:00+0800",
+    "match_name": "Cardiff vs Leeds United",
+    "team1": "Cardiff",
+    "team2": "Leeds United",
+    "main_bet_list": [
+      { "name": "Cardiff Winner", "odds": 5.0 },
+      { "name": "Draw", "odds": 3.85 },
+      { "name": "Leeds United Winner", "odds": 1.61 }
+    ],
+    "more_bet_list": [
+      { "name": "Cardiff +0.5", "odds": 2.31 },
+      { "name": "Leeds United -0.5", "odds": 1.61 },
+      { "name": "Cardiff +0.75", "odds": 2.12 },
+      { "name": "Leeds United -0.75", "odds": 1.8 },
+      { "name": "Cardiff +1", "odds": 2.81 },
+      { "name": "Leeds United -1", "odds": 2.11 },
+      { "name": "Over 2.25", "odds": 1.73 },
+      { "name": "Under 2.25", "odds": 2.17 },
+      { "name": "Over 2.5", "odds": 1.96 },
+      { "name": "Under 2.5", "odds": 1.94 },
+      { "name": "Over 2.75", "odds": 2.18 },
+      { "name": "Under 2.75", "odds": 1.72 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-01-13 23:00:00+0800",
+    "match_name": "West Brom vs Blackburn Rovers",
+    "team1": "West Brom",
+    "team2": "Blackburn Rovers",
+    "main_bet_list": [
+      { "name": "West Brom Winner", "odds": 1.94 },
+      { "name": "Draw", "odds": 3.65 },
+      { "name": "Blackburn Rovers Winner", "odds": 3.4 }
+    ],
+    "more_bet_list": [
+      { "name": "West Brom -0.25", "odds": 1.67 },
+      { "name": "Blackburn Rovers +0.25", "odds": 2.25 },
+      { "name": "West Brom -0.5", "odds": 1.94 },
+      { "name": "Blackburn Rovers +0.5", "odds": 1.98 },
+      { "name": "West Brom -0.75", "odds": 2.19 },
+      { "name": "Blackburn Rovers +0.75", "odds": 1.73 },
+      { "name": "Over 2.5", "odds": 1.76 },
+      { "name": "Under 2.5", "odds": 2.14 },
+      { "name": "Over 2.75", "odds": 1.96 },
+      { "name": "Under 2.75", "odds": 1.94 },
+      { "name": "Over 3", "odds": 2.2 },
+      { "name": "Under 3", "odds": 1.7 }
     ]
   },
   {
