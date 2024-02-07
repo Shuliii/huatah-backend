@@ -1,177 +1,177 @@
 [
   {
     "type": "NBA",
-    "time": "2024-02-07 08:00:00+0800",
+    "time": "2024-02-08 08:00:00+0800",
     "match_name": "Hornets vs Raptors",
     "team1": "Hornets",
     "team2": "Raptors",
     "main_bet_list": [
-      { "name": "Hornets Winner", "odds": 1.30 },
-      { "name": "Raptors Winner", "odds": 3.00 }
+      { "name": "Hornets Winner", "odds": 3.27 },
+      { "name": "Raptors Winner", "odds": 1.35 }
     ],
     "more_bet_list": [
-      { "name": "Hornets -7.5", "odds": 1.83 },
-      { "name": "Raptors +7.5", "odds": 2.05 },
-      { "name": "Hornets -8", "odds": 1.9 },
-      { "name": "Raptors +8", "odds": 1.98 },
-      { "name": "Hornets -8.5", "odds": 1.97 },
-      { "name": "Raptors +8.5", "odds": 1.91 },
-      { "name": "Over 243", "odds": 1.82 },
-      { "name": "Under 243", "odds": 2.04 },
-      { "name": "Over 243.5", "odds": 1.9 },
-      { "name": "Under 243.5", "odds": 1.96 },
-      { "name": "Over 244", "odds": 1.95 },
-      { "name": "Under 244", "odds": 1.91 }
+      { "name": "Hornets +6.5", "odds": 2.04 },
+      { "name": "Raptors -6.5", "odds": 1.84 },
+      { "name": "Hornets +7", "odds": 1.97 },
+      { "name": "Raptors -7", "odds": 1.91 },
+      { "name": "Hornets +7.5", "odds": 1.90 },
+      { "name": "Raptors -7.5", "odds": 1.98 },
+      { "name": "Over 226.5", "odds": 1.90 },
+      { "name": "Under 226.5", "odds": 1.96 },
+      { "name": "Over 227", "odds": 1.95 },
+      { "name": "Under 227", "odds": 1.91 },
+      { "name": "Over 227.5", "odds": 2.00 },
+      { "name": "Under 227.5", "odds": 1.86 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-02-07 08:30:00+0800",
+    "time": "2024-02-08 08:00:00+0800",
     "match_name": "Wizards vs Cavaliers",
     "team1": "Wizards",
     "team2": "Cavaliers",
     "main_bet_list": [
-      { "name": "Wizards Winner", "odds": 1.10 },
-      { "name": "Cavaliers Winner", "odds": 4.33 }
+      { "name": "Wizards Winner", "odds": 5.00 },
+      { "name": "Cavaliers Winner", "odds": 1.18 }
     ],
     "more_bet_list": [
-      { "name": "Wizards -14", "odds": 1.81 },
-      { "name": "Cavaliers +14", "odds": 2.07 },
-      { "name": "Wizards -14.5", "odds": 1.88 },
-      { "name": "Cavaliers +14.5", "odds": 2.00 },
-      { "name": "Wizards -15", "odds": 1.95 },
-      { "name": "Cavaliers +15", "odds": 1.93 },
-      { "name": "Over 212.5", "odds": 1.88 },
-      { "name": "Under 212.5", "odds": 1.98 },
-      { "name": "Over 213", "odds": 1.93 },
-      { "name": "Under 213", "odds": 1.93 },
-      { "name": "Over 213.5", "odds": 1.98 },
-      { "name": "Under 213.5", "odds": 1.88 }
+      { "name": "Wizards +14", "odds": 1.99 },
+      { "name": "Cavaliers -14", "odds": 1.89 },
+      { "name": "Wizards +14.5", "odds": 1.92 },
+      { "name": "Cavaliers -14.5", "odds": 1.96 },
+      { "name": "Wizards +15", "odds": 1.85 },
+      { "name": "Cavaliers -15", "odds": 2.03 },
+      { "name": "Over 234", "odds": 1.93 },
+      { "name": "Under 234", "odds": 1.93 },
+      { "name": "Over 234.5", "odds": 1.98 },
+      { "name": "Under 234.5", "odds": 1.88 },
+      { "name": "Over 235", "odds": 2.03 },
+      { "name": "Under 235", "odds": 1.83 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-02-07 08:30:00+0800",
+    "time": "2024-02-08 08:30:00+0800",
     "match_name": "Celtics vs Hawks",
     "team1": "Celtics",
     "team2": "Hawks",
     "main_bet_list": [
-      { "name": "Celtics Winner", "odds": 1.68 },
-      { "name": "Hawks Winner", "odds": 2.13 }
+      { "name": "Celtics Winner", "odds": 1.15 },
+      { "name": "Hawks Winner", "odds": 5.76 }
     ],
     "more_bet_list": [
-      { "name": "Celtics -2.5", "odds": 1.89 },
-      { "name": "Hawks +2.5", "odds": 1.99 },
-      { "name": "Celtics -3", "odds": 1.96 },
-      { "name": "Hawks +3", "odds": 1.92 },
-      { "name": "Celtics -3.5", "odds": 2.03 },
-      { "name": "Hawks +3.5", "odds": 1.85 },
-      { "name": "Over 211.5", "odds": 1.88 },
-      { "name": "Under 211.5", "odds": 1.98 },
-      { "name": "Over 212", "odds": 1.93 },
-      { "name": "Under 212", "odds": 1.93 },
-      { "name": "Over 212.5", "odds": 1.98 },
-      { "name": "Under 212.5", "odds": 1.88 }
+      { "name": "Celtics -11.5", "odds": 1.88 },
+      { "name": "Hawks +11.5", "odds": 2.00 },
+      { "name": "Celtics -12", "odds": 1.95 },
+      { "name": "Hawks +12", "odds": 1.93 },
+      { "name": "Celtics -12.5", "odds": 2.02 },
+      { "name": "Hawks +12.5", "odds": 1.86 },
+      { "name": "Over 244", "odds": 1.88 },
+      { "name": "Under 244", "odds": 1.98 },
+      { "name": "Over 244.5", "odds": 1.93 },
+      { "name": "Under 244.5", "odds": 1.93 },
+      { "name": "Over 245", "odds": 1.98 },
+      { "name": "Under 245", "odds": 1.88 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-02-07 08:30:00+0800",
+    "time": "2024-02-08 08:30:00+0800",
     "match_name": "76ers vs Warriors",
     "team1": "76ers",
     "team2": "Warriors",
     "main_bet_list": [
-      { "name": "76ers Winner", "odds": 2.23 },
-      { "name": "Warriors Winner", "odds": 1.61 }
+      { "name": "76ers Winner", "odds": 2.11 },
+      { "name": "Warriors Winner", "odds": 1.75 }
     ],
     "more_bet_list": [
-      { "name": "76ers +2.5", "odds": 1.99 },
-      { "name": "Warriors -2.5", "odds": 1.89 },
-      { "name": "76ers +3", "odds": 1.92 },
-      { "name": "Warriors -3", "odds": 1.96 },
-      { "name": "76ers +3.5", "odds": 1.85 },
-      { "name": "Warriors -3.5", "odds": 2.03 },
-      { "name": "Over 236", "odds": 1.80 },
-      { "name": "Under 236", "odds": 2.06 },
-      { "name": "Over 236.5", "odds": 1.88 },
-      { "name": "Under 236.5", "odds": 1.98 },
-      { "name": "Over 237", "odds": 1.93 },
-      { "name": "Under 237", "odds": 1.93 }
+      { "name": "76ers +2", "odds": 2.02 },
+      { "name": "Warriors -2", "odds": 1.86 },
+      { "name": "76ers +2.5", "odds": 1.95 },
+      { "name": "Warriors -2.5", "odds": 1.93 },
+      { "name": "76ers +3", "odds": 1.88 },
+      { "name": "Warriors -3", "odds": 2.00 },
+      { "name": "Over 237", "odds": 1.88 },
+      { "name": "Under 237", "odds": 1.98 },
+      { "name": "Over 237.5", "odds": 1.93 },
+      { "name": "Under 237.5", "odds": 1.93 },
+      { "name": "Over 238", "odds": 1.98 },
+      { "name": "Under 238", "odds": 1.88 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-02-07 09:00:00+0800",
+    "time": "2024-02-08 08:30:00+0800",
     "match_name": "Heat vs Spurs",
     "team1": "Heat",
     "team2": "Spurs",
     "main_bet_list": [
-      { "name": "Heat Winner", "odds": 2.78 },
-      { "name": "Spurs Winner", "odds": 1.36 }
+      { "name": "Heat Winner", "odds": 1.30 },
+      { "name": "Spurs Winner", "odds": 3.63 }
     ],
     "more_bet_list": [
-      { "name": "Heat +4.5", "odds": 2.07 },
-      { "name": "Spurs -4.5", "odds": 1.81 },
-      { "name": "Heat +5", "odds": 2.00 },
-      { "name": "Spurs -5", "odds": 1.88 },
-      { "name": "Heat +5.5", "odds": 1.93 },
-      { "name": "Spurs -5.5", "odds": 1.95 },
-      { "name": "Over 216.5", "odds": 1.89 },
-      { "name": "Under 216.5", "odds": 1.97 },
-      { "name": "Over 217", "odds": 1.94 },
-      { "name": "Under 217", "odds": 1.92 },
-      { "name": "Over 217.5", "odds": 1.99 },
-      { "name": "Under 217.5", "odds": 1.87 }
+      { "name": "Heat -7.5", "odds": 1.85 },
+      { "name": "Spurs +7.5", "odds": 2.03 },
+      { "name": "Heat -8", "odds": 1.92 },
+      { "name": "Spurs +8", "odds": 1.96 },
+      { "name": "Heat -8.5", "odds": 1.99 },
+      { "name": "Spurs +8.5", "odds": 1.89 },
+      { "name": "Over 223.5", "odds": 1.88 },
+      { "name": "Under 223.5", "odds": 1.98 },
+      { "name": "Over 224", "odds": 1.93 },
+      { "name": "Under 224", "odds": 1.93 },
+      { "name": "Over 224.5", "odds": 1.98 },
+      { "name": "Under 224.5", "odds": 1.88 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-02-07 10:00:00+0800",
+    "time": "2024-02-08 11:00:00+0800",
     "match_name": "Kings vs Pistons",
     "team1": "Kings",
     "team2": "Pistons",
     "main_bet_list": [
-      { "name": "Kings Winner", "odds": 2.19 },
-      { "name": "Pistons Winner", "odds": 1.64 }
+      { "name": "Kings Winner", "odds": 1.13 },
+      { "name": "Pistons Winner", "odds": 4.03 }
     ],
     "more_bet_list": [
-      { "name": "Kings +2.5", "odds": 2.01 },
-      { "name": "Pistons -2.5", "odds": 1.87 },
-      { "name": "Kings +3", "odds": 1.94 },
-      { "name": "Pistons -3", "odds": 1.94 },
-      { "name": "Kings +3.5", "odds": 1.87 },
-      { "name": "Pistons -3.5", "odds": 2.01 },
-      { "name": "Over 239.5", "odds": 1.82 },
-      { "name": "Under 239.5", "odds": 2.04 },
-      { "name": "Over 240", "odds": 1.9 },
-      { "name": "Under 240", "odds": 1.96 },
-      { "name": "Over 240.5", "odds": 1.95 },
-      { "name": "Under 240.5", "odds": 1.91 }
+      { "name": "Kings -12.5", "odds": 1.88 },
+      { "name": "Pistons +12.5", "odds": 2.00 },
+      { "name": "Kings -13", "odds": 1.95 },
+      { "name": "Pistons +13", "odds": 1.93 },
+      { "name": "Kings -13.5", "odds": 2.02 },
+      { "name": "Pistons +13.5", "odds": 1.86 },
+      { "name": "Over 241.5", "odds": 1.91 },
+      { "name": "Under 241.5", "odds": 1.95 },
+      { "name": "Over 242", "odds": 1.96 },
+      { "name": "Under 242", "odds": 1.9 },
+      { "name": "Over 242.5", "odds": 2.01 },
+      { "name": "Under 242.5", "odds": 1.85 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-02-07 11:00:00+0800",
+    "time": "2024-02-08 11:00:00+0800",
     "match_name": "Clippers vs Pelicans",
     "team1": "Clippers",
     "team2": "Pelicans",
     "main_bet_list": [
-      { "name": "Clippers Winner", "odds": 1.64 },
-      { "name": "Pelicans Winner", "odds": 2.19 }
+      { "name": "Clippers Winner", "odds": 1.36 },
+      { "name": "Pelicans Winner", "odds": 2.78 }
     ],
     "more_bet_list": [
-      { "name": "Clippers -3", "odds": 1.81 },
-      { "name": "Pelicans +3", "odds": 2.07 },
-      { "name": "Clippers -3.5", "odds": 1.88 },
-      { "name": "Pelicans +3.5", "odds": 2.00 },
-      { "name": "Clippers -4", "odds": 1.95 },
-      { "name": "Pelicans +4", "odds": 1.93 },
-      { "name": "Over 243.5", "odds": 1.95 },
-      { "name": "Under 243.5", "odds": 1.91 },
-      { "name": "Over 244", "odds": 1.97 },
-      { "name": "Under 244", "odds": 1.89 },
-      { "name": "Over 244.5", "odds": 2.05 },
-      { "name": "Under 244.5", "odds": 1.81 }
+      { "name": "Clippers -7", "odds": 1.91 },
+      { "name": "Pelicans +7", "odds": 1.97 },
+      { "name": "Clippers -7.5", "odds": 1.98 },
+      { "name": "Pelicans +7.5", "odds": 1.9 },
+      { "name": "Clippers -8", "odds": 2.05 },
+      { "name": "Pelicans +8", "odds": 1.83 },
+      { "name": "Over 229", "odds": 1.91 },
+      { "name": "Under 229", "odds": 1.95 },
+      { "name": "Over 229.5", "odds": 1.96 },
+      { "name": "Under 229.5", "odds": 1.90 },
+      { "name": "Over 230", "odds": 2.01 },
+      { "name": "Under 230", "odds": 1.85 }
     ]
   },
   {
