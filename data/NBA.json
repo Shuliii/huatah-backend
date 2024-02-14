@@ -281,22 +281,22 @@
     "team1": "Nuggets",
     "team2": "Kings",
     "main_bet_list": [
-      { "name": "Nuggets Winner", "odds": 4.44 },
-      { "name": "Kings Winner", "odds": 1.22 }
+      { "name": "Nuggets Winner", "odds": 1.45 },
+      { "name": "Kings Winner", "odds": 2.53 }
     ],
     "more_bet_list": [
-      { "name": "Nuggets +9.5", "odds": 2.01 },
-      { "name": "Kings -9.5", "odds": 1.87 },
-      { "name": "Nuggets +10", "odds": 1.94 },
-      { "name": "Kings -10", "odds": 1.94 },
-      { "name": "Nuggets +10.5", "odds": 1.87 },
-      { "name": "Kings -10.5", "odds": 2.01 },
-      { "name": "Over 222.5", "odds": 1.88 },
-      { "name": "Under 222.5", "odds": 1.98 },
-      { "name": "Over 223", "odds": 1.93 },
-      { "name": "Under 223", "odds": 1.93 },
-      { "name": "Over 223.5", "odds": 1.98 },
-      { "name": "Under 223.5", "odds": 1.88 }
+      { "name": "Nuggets -5", "odds": 1.90 },
+      { "name": "Kings +5", "odds": 1.98 },
+      { "name": "Nuggets -5.5", "odds": 1.97 },
+      { "name": "Kings +5.5", "odds": 1.91 },
+      { "name": "Nuggets -6", "odds": 2.04 },
+      { "name": "Kings +6", "odds": 1.84 },
+      { "name": "Over 229", "odds": 1.88 },
+      { "name": "Under 229", "odds": 1.98 },
+      { "name": "Over 229.5", "odds": 1.93 },
+      { "name": "Under 229.5", "odds": 1.93 },
+      { "name": "Over 230", "odds": 1.98 },
+      { "name": "Under 230", "odds": 1.88 }
     ]
   },
 
@@ -307,22 +307,22 @@
     "team1": "Warriors",
     "team2": "Clippers",
     "main_bet_list": [
-      { "name": "Warriors Winner", "odds": 4.44 },
-      { "name": "Clippers Winner", "odds": 1.22 }
+      { "name": "Warriors Winner", "odds": 1.68 },
+      { "name": "Clippers Winner", "odds": 2.13 }
     ],
     "more_bet_list": [
-      { "name": "Warriors +9.5", "odds": 2.01 },
-      { "name": "Clippers -9.5", "odds": 1.87 },
-      { "name": "Warriors +10", "odds": 1.94 },
-      { "name": "Clippers -10", "odds": 1.94 },
-      { "name": "Warriors +10.5", "odds": 1.87 },
-      { "name": "Clippers -10.5", "odds": 2.01 },
-      { "name": "Over 222.5", "odds": 1.88 },
-      { "name": "Under 222.5", "odds": 1.98 },
-      { "name": "Over 223", "odds": 1.93 },
-      { "name": "Under 223", "odds": 1.93 },
-      { "name": "Over 223.5", "odds": 1.98 },
-      { "name": "Under 223.5", "odds": 1.88 }
+      { "name": "Warriors -2.5", "odds": 1.87 },
+      { "name": "Clippers +2.5", "odds": 2.01 },
+      { "name": "Warriors -3", "odds": 1.94 },
+      { "name": "Clippers +3", "odds": 1.94 },
+      { "name": "Warriors -3.5", "odds": 2.01 },
+      { "name": "Clippers +3.5", "odds": 1.87 },
+      { "name": "Over 233.5", "odds": 1.88 },
+      { "name": "Under 233.5", "odds": 1.98 },
+      { "name": "Over 234", "odds": 1.93 },
+      { "name": "Under 234", "odds": 1.93 },
+      { "name": "Over 234.5", "odds": 1.98 },
+      { "name": "Under 234.5", "odds": 1.88 }
     ]
   }
 ]
