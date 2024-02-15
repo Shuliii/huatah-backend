@@ -1,77 +1,77 @@
 [
   {
     "type": "NBA",
-    "time": "2024-02-15 08:00:00+0800",
+    "time": "2024-02-16 09:30:00+0800",
     "match_name": "Grizzlies vs Bucks",
     "team1": "Grizzlies",
     "team2": "Bucks",
     "main_bet_list": [
-      { "name": "Grizzlies Winner", "odds": 2.92 },
-      { "name": "Bucks Winner", "odds": 1.32 }
+      { "name": "Grizzlies Winner", "odds": 5.16 },
+      { "name": "Bucks Winner", "odds": 1.17 }
     ],
     "more_bet_list": [
-      { "name": "Grizzlies +6.5", "odds": 1.95 },
-      { "name": "Bucks -6.5", "odds": 1.93 },
-      { "name": "Grizzlies +7", "odds": 1.88 },
-      { "name": "Bucks -7", "odds": 2.00 },
-      { "name": "Grizzlies +7.5", "odds": 1.81 },
-      { "name": "Bucks -7.5", "odds": 2.07 },
-      { "name": "Over 238", "odds": 1.83 },
-      { "name": "Under 238", "odds": 2.03 },
-      { "name": "Over 238.5", "odds": 1.88 },
-      { "name": "Under 238.5", "odds": 1.98 },
-      { "name": "Over 239", "odds": 1.93 },
-      { "name": "Under 239", "odds": 1.93 }
+      { "name": "Grizzlies +11", "odds": 2.07 },
+      { "name": "Bucks -11", "odds": 1.81 },
+      { "name": "Grizzlies +11.5", "odds": 2.00 },
+      { "name": "Bucks -11.5", "odds": 1.88 },
+      { "name": "Grizzlies +12", "odds": 1.93 },
+      { "name": "Bucks -12", "odds": 1.95 },
+      { "name": "Over 222.5", "odds": 1.89 },
+      { "name": "Under 222.5", "odds": 1.97 },
+      { "name": "Over 223", "odds": 1.94 },
+      { "name": "Under 223", "odds": 1.92 },
+      { "name": "Over 223.5", "odds": 1.99 },
+      { "name": "Under 223.5", "odds": 1.87 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-02-15 08:00:00+0800",
+    "time": "2024-02-16 10:00:00+0800",
     "match_name": "Jazz vs Warriors",
     "team1": "Jazz",
     "team2": "Warriors",
     "main_bet_list": [
-      { "name": "Jazz Winner", "odds": 1.63 },
-      { "name": "Warriors Winner", "odds": 2.20 }
+      { "name": "Jazz Winner", "odds": 2.08 },
+      { "name": "Warriors Winner", "odds": 1.77 }
     ],
     "more_bet_list": [
-      { "name": "Jazz -3.5", "odds": 1.87 },
-      { "name": "Warriors +3.5", "odds": 2.01 },
-      { "name": "Jazz -4", "odds": 1.94 },
-      { "name": "Warriors +4", "odds": 1.94 },
-      { "name": "Jazz -4.5", "odds": 2.01 },
-      { "name": "Warriors +4.5", "odds": 1.87 },
-      { "name": "Over 223", "odds": 1.95 },
-      { "name": "Under 223", "odds": 1.91 },
-      { "name": "Over 223.5", "odds": 2.00 },
-      { "name": "Under 223.5", "odds": 1.86 },
-      { "name": "Over 224", "odds": 2.05 },
-      { "name": "Under 224", "odds": 1.81 }
+      { "name": "Jazz +1.5", "odds": 2.05 },
+      { "name": "Warriors -1.5", "odds": 1.83 },
+      { "name": "Jazz +2", "odds": 1.98 },
+      { "name": "Warriors -2", "odds": 1.90 },
+      { "name": "Jazz +2.5", "odds": 1.91 },
+      { "name": "Warriors -2.5", "odds": 1.97 },
+      { "name": "Over 238.5", "odds": 1.85 },
+      { "name": "Under 238.5", "odds": 2.01 },
+      { "name": "Over 239", "odds": 1.9 },
+      { "name": "Under 239", "odds": 1.96 },
+      { "name": "Over 239.5", "odds": 1.95 },
+      { "name": "Under 239.5", "odds": 1.91 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-02-15 08:00:00+0800",
+    "time": "2024-02-16 11:00:00+0800",
     "match_name": "Trail Blazers vs Timberwolves",
     "team1": "Trail Blazers",
     "team2": "Timberwolves",
     "main_bet_list": [
-      { "name": "Trail Blazers Winner", "odds": 1.68 },
-      { "name": "Timberwolves Winner", "odds": 2.13 }
+      { "name": "Trail Blazers Winner", "odds": 3.94 },
+      { "name": "Timberwolves Winner", "odds": 1.25 }
     ],
     "more_bet_list": [
-      { "name": "Trail Blazers -3", "odds": 1.83 },
-      { "name": "Timberwolves +3", "odds": 2.05 },
-      { "name": "Trail Blazers -3.5", "odds": 1.90 },
-      { "name": "Timberwolves +3.5", "odds": 1.98 },
-      { "name": "Trail Blazers -4", "odds": 1.97 },
-      { "name": "Timberwolves +4", "odds": 1.91 },
-      { "name": "Over 210.5", "odds": 1.83 },
-      { "name": "Under 210.5", "odds": 2.03 },
-      { "name": "Over 211", "odds": 1.88 },
-      { "name": "Under 211", "odds": 1.98 },
-      { "name": "Over 211.5", "odds": 1.93 },
-      { "name": "Under 211.5", "odds": 1.93 }
+      { "name": "Trail Blazers -8.5", "odds": 2.05 },
+      { "name": "Timberwolves +8.5", "odds": 1.83 },
+      { "name": "Trail Blazers -9", "odds": 1.98 },
+      { "name": "Timberwolves +9", "odds": 1.90 },
+      { "name": "Trail Blazers -9.5", "odds": 1.91 },
+      { "name": "Timberwolves +9.5", "odds": 1.97 },
+      { "name": "Over 215", "odds": 1.89 },
+      { "name": "Under 215", "odds": 1.97 },
+      { "name": "Over 215.5", "odds": 1.94 },
+      { "name": "Under 215.5", "odds": 1.92 },
+      { "name": "Over 216", "odds": 1.99 },
+      { "name": "Under 216", "odds": 1.87 }
     ]
   },
   {
