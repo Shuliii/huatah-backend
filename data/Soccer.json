@@ -1,182 +1,182 @@
 [
   {
     "type": "Soccer",
-    "time": "2024-02-17 20:30:00+0800",
-    "match_name": "Brentford vs Liverpool",
-    "team1": "Brentford",
-    "team2": "Liverpool",
+    "time": "2024-02-18 22:00:00+0800",
+    "match_name": "Sheffield vs Brighton",
+    "team1": "Sheffield",
+    "team2": "Brighton",
     "main_bet_list": [
-      { "name": "Brentford Winner", "odds": 4.60 },
-      { "name": "Draw", "odds": 4.35 },
-      { "name": "Liverpool Winner", "odds": 1.66 }
+      { "name": "Sheffield Winner", "odds": 5.3 },
+      { "name": "Draw", "odds": 4.3 },
+      { "name": "Brighton Winner", "odds": 1.59 }
     ],
     "more_bet_list": [
-      { "name": "Brentford +0.5", "odds": 2.24 },
-      { "name": "Liverpool -0.5", "odds": 1.66 },
-      { "name": "Brentford +0.75", "odds": 2.10 },
-      { "name": "Liverpool -0.75", "odds": 1.80 },
-      { "name": "Brentford +1", "odds": 1.81 },
-      { "name": "Liverpool -1", "odds": 2.09 },
-      { "name": "Brentford +1.25", "odds": 1.65 },
-      { "name": "Liverpool -1.25", "odds": 2.25 },
-      { "name": "Over 3", "odds": 1.64 },
-      { "name": "Under 3", "odds": 2.24 },
-      { "name": "Over 3.25", "odds": 1.83 },
-      { "name": "Under 3.25", "odds": 2.05 },
-      { "name": "Over 3.5", "odds": 2.08 },
-      { "name": "Under 3.5", "odds": 1.80 },
-      { "name": "Over 3.75", "odds": 2.23 },
-      { "name": "Under 3.75", "odds": 1.65 }
+      { "name": "Sheffield +0.5", "odds": 2.31 },
+      { "name": "Brighton -0.5", "odds": 1.61 },
+      { "name": "Sheffield +0.75", "odds": 2.15 },
+      { "name": "Brighton -0.75", "odds": 1.77 },
+      { "name": "Sheffield +1", "odds": 1.92 },
+      { "name": "Brighton -1", "odds": 2.0 },
+      { "name": "Sheffield +1.25", "odds": 1.7 },
+      { "name": "Brighton -1.25", "odds": 2.22 },
+      { "name": "Over 2.75", "odds": 1.7 },
+      { "name": "Under 2.75", "odds": 2.2 },
+      { "name": "Over 3", "odds": 1.88 },
+      { "name": "Under 3", "odds": 2.02 },
+      { "name": "Over 3.25", "odds": 2.14 },
+      { "name": "Under 3.25", "odds": 1.76 },
+      { "name": "Over 3.5", "odds": 2.28 },
+      { "name": "Under 3.5", "odds": 1.62 }
     ]
   },
   {
     "type": "Soccer",
-    "time": "2024-02-17 23:00:00+0800",
-    "match_name": "Burnley vs Arsenal",
-    "team1": "Burnley",
-    "team2": "Arsenal",
+    "time": "2024-02-19 00:30:00+0800",
+    "match_name": "Luton vs Man United",
+    "team1": "Luton",
+    "team2": "Man United",
     "main_bet_list": [
-      { "name": "Burnley Winner", "odds": 9.1 },
-      { "name": "Draw", "odds": 5.2 },
-      { "name": "Arsenal Winner", "odds": 1.34 }
+      { "name": "Luton Winner", "odds": 4.45 },
+      { "name": "Draw", "odds": 4.1 },
+      { "name": "Man United Winner", "odds": 1.72 }
     ],
     "more_bet_list": [
-      { "name": "Burnley +1.25", "odds": 2.17 },
-      { "name": "Arsenal -1.25", "odds": 1.73 },
-      { "name": "Burnley +1.5", "odds": 1.90 },
-      { "name": "Arsenal -1.5", "odds": 2.00 },
-      { "name": "Burnley +1.75", "odds": 1.73 },
-      { "name": "Arsenal -1.75", "odds": 2.17 },
-      { "name": "Burnley +2", "odds": 1.48 },
-      { "name": "Arsenal -2", "odds": 2.42 },
-      { "name": "Over 2.5", "odds": 1.63 },
-      { "name": "Under 2.5", "odds": 2.25 },
-      { "name": "Over 2.75", "odds": 1.77 },
-      { "name": "Under 2.75", "odds": 2.11 },
-      { "name": "Over 3", "odds": 2.04 },
-      { "name": "Under 3", "odds": 1.84 },
-      { "name": "Over 3.25", "odds": 2.24 },
-      { "name": "Under 3.25", "odds": 1.64 }
+      { "name": "Luton +0.5", "odds": 2.2 },
+      { "name": "Man United -0.5", "odds": 1.72 },
+      { "name": "Luton +0.75", "odds": 2.02 },
+      { "name": "Man United -0.75", "odds": 1.9 },
+      { "name": "Luton +1", "odds": 1.75 },
+      { "name": "Man United -1", "odds": 2.17 },
+      { "name": "Luton +1.25", "odds": 1.57 },
+      { "name": "Man United -1.25", "odds": 2.35 },
+      { "name": "Over 2.75", "odds": 1.67 },
+      { "name": "Under 2.75", "odds": 2.23 },
+      { "name": "Over 3", "odds": 1.87 },
+      { "name": "Under 3", "odds": 2.03 },
+      { "name": "Over 3.25", "odds": 2.13 },
+      { "name": "Under 3.25", "odds": 1.77 },
+      { "name": "Over 3.5", "odds": 2.27 },
+      { "name": "Under 3.5", "odds": 1.63 }
     ]
   },
   {
     "type": "Soccer",
-    "time": "2024-02-17 23:00:00+0800",
-    "match_name": "Newcastle vs Bournemouth",
-    "team1": "Newcastle",
-    "team2": "Bournemouth",
+    "time": "2024-02-18 21:00:00+0800",
+    "match_name": "Rayo Vallecano vs Real Madrid",
+    "team1": "Rayo Vallecano",
+    "team2": "Real Madrid",
     "main_bet_list": [
-      { "name": "Newcastle Winner", "odds": 2.00 },
-      { "name": "Draw", "odds": 3.95 },
-      { "name": "Bournemouth Winner", "odds": 3.40 }
+      { "name": "Rayo Vallecano Winner", "odds": 5.8 },
+      { "name": "Draw", "odds": 4.15 },
+      { "name": "Real Madrid Winner", "odds": 1.57 }
     ],
     "more_bet_list": [
-      { "name": "Newcastle -0.25", "odds": 1.75 },
-      { "name": "Bournemouth +0.25", "odds": 2.15 },
-      { "name": "Newcastle -0.5", "odds": 2.00 },
-      { "name": "Bournemouth +0.5", "odds": 1.90 },
-      { "name": "Newcastle -0.75", "odds": 2.15 },
-      { "name": "Bournemouth +0.75", "odds": 1.75 },
-      { "name": "Newcastle -1", "odds": 2.37 },
-      { "name": "Bournemouth +1", "odds": 1.53 },
-      { "name": "Over 2.75", "odds": 1.57 },
-      { "name": "Under 2.75", "odds": 2.31 },
-      { "name": "Over 3", "odds": 1.75 },
-      { "name": "Under 3", "odds": 2.13 },
-      { "name": "Over 3.25", "odds": 1.98 },
-      { "name": "Under 3.25", "odds": 1.90 },
-      { "name": "Over 3.5", "odds": 2.18 },
-      { "name": "Under 3.5", "odds": 1.70 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-02-17 23:00:00+0800",
-    "match_name": "Fulham vs Aston Villa",
-    "team1": "Fulham",
-    "team2": "Aston Villa",
-    "main_bet_list": [
-      { "name": "Fulham Winner", "odds": 2.92 },
-      { "name": "Draw", "odds": 3.70 },
-      { "name": "Aston Villa Winner", "odds": 2.29 }
-    ],
-    "more_bet_list": [
-      { "name": "Fulham -0", "odds": 2.17 },
-      { "name": "Aston Villa +0", "odds": 1.73 },
-      { "name": "Fulham -0.25", "odds": 2.31 },
-      { "name": "Aston Villa +0.25", "odds": 1.59 },
-      { "name": "Fulham +0.25", "odds": 1.81 },
-      { "name": "Aston Villa -0.25", "odds": 2.09 },
-      { "name": "Fulham +0.5", "odds": 1.67 },
-      { "name": "Aston Villa -0.5", "odds": 2.23 },
-      { "name": "Over 2.5", "odds": 1.69 },
-      { "name": "Under 2.5", "odds": 2.19 },
-      { "name": "Over 2.75", "odds": 1.84 },
-      { "name": "Under 2.75", "odds": 2.04 },
-      { "name": "Over 3", "odds": 2.12 },
-      { "name": "Under 3", "odds": 1.76 },
-      { "name": "Over 3.25", "odds": 2.21 },
-      { "name": "Under 3.25", "odds": 1.67 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-02-17 23:00:00+0800",
-    "match_name": "Nottm Forest vs West Ham",
-    "team1": "Nottm Forest",
-    "team2": "West Ham",
-    "main_bet_list": [
-      { "name": "Nottm Forest Winner", "odds": 2.38 },
-      { "name": "Draw", "odds": 3.55 },
-      { "name": "West Ham Winner", "odds": 2.89 }
-    ],
-    "more_bet_list": [
-      { "name": "Nottm Forest +0", "odds": 1.78 },
-      { "name": "West Ham -0", "odds": 2.12 },
-      { "name": "Nottm Forest +0.25", "odds": 1.60 },
-      { "name": "West Ham -0.25", "odds": 2.30 },
-      { "name": "Nottm Forest -0.25", "odds": 2.09 },
-      { "name": "West Ham +0.25", "odds": 1.81 },
-      { "name": "Nottm Forest -0.5", "odds": 2.28 },
-      { "name": "West Ham +0.5", "odds": 1.62 },
-      { "name": "Over 2.25", "odds": 1.63 },
-      { "name": "Under 2.25", "odds": 2.25 },
+      { "name": "Rayo Vallecano +0.5", "odds": 2.35 },
+      { "name": "Real Madrid -0.5", "odds": 1.57 },
+      { "name": "Rayo Vallecano +0.75", "odds": 2.17 },
+      { "name": "Real Madrid -0.75", "odds": 1.75 },
+      { "name": "Rayo Vallecano +1", "odds": 1.95 },
+      { "name": "Real Madrid -1", "odds": 1.97 },
+      { "name": "Rayo Vallecano +1.25", "odds": 1.66 },
+      { "name": "Real Madrid -1.25", "odds": 2.26 },
+      { "name": "Over 2.25", "odds": 1.64 },
+      { "name": "Under 2.25", "odds": 2.26 },
       { "name": "Over 2.5", "odds": 1.84 },
-      { "name": "Under 2.5", "odds": 2.04 },
-      { "name": "Over 2.75", "odds": 2.09 },
-      { "name": "Under 2.75", "odds": 1.79 },
-      { "name": "Over 3", "odds": 2.30 },
-      { "name": "Under 3", "odds": 1.58 }
+      { "name": "Under 2.5", "odds": 2.06 },
+      { "name": "Over 2.75", "odds": 2.1 },
+      { "name": "Under 2.75", "odds": 1.8 },
+      { "name": "Over 3", "odds": 2.3 },
+      { "name": "Under 3", "odds": 1.6 }
     ]
   },
   {
     "type": "Soccer",
-    "time": "2024-02-17 23:00:00+0800",
-    "match_name": "Tottenham vs Wolves",
-    "team1": "Tottenham",
-    "team2": "Wolves",
+    "time": "2024-02-18 23:15:00+0800",
+    "match_name": "Granada vs Almeria",
+    "team1": "Granada",
+    "team2": "Almeria",
     "main_bet_list": [
-      { "name": "Tottenham Winner", "odds": 1.56 },
-      { "name": "Draw", "odds": 4.60 },
-      { "name": "Wolves Winner", "odds": 5.20 }
+      { "name": "Granada Winner", "odds": 2.2 },
+      { "name": "Draw", "odds": 3.4 },
+      { "name": "Almeria Winner", "odds": 3.35 }
     ],
     "more_bet_list": [
-      { "name": "Tottenham -0.75", "odds": 1.69 },
-      { "name": "Wolves +0.75", "odds": 2.31 },
-      { "name": "Tottenham -1", "odds": 1.93 },
-      { "name": "Wolves +1", "odds": 1.97 },
-      { "name": "Tottenham -1.25", "odds": 2.13 },
-      { "name": "Wolves +1.25", "odds": 1.77 },
-      { "name": "Tottenham -1.5", "odds": 2.32 },
-      { "name": "Wolves +1.5", "odds": 1.58 },
-      { "name": "Over 2.75", "odds": 1.52 },
-      { "name": "Under 2.75", "odds": 2.36 },
-      { "name": "Over 3", "odds": 1.64 },
-      { "name": "Under 3", "odds": 2.24 },
-      { "name": "Over 3.25", "odds": 1.89 },
-      { "name": "Under 3.25", "odds": 1.99 },
-      { "name": "Over 3.5", "odds": 2.09 },
-      { "name": "Under 3.5", "odds": 1.79 }
+      { "name": "Granada -0", "odds": 1.59 },
+      { "name": "Almeria +0", "odds": 2.33 },
+      { "name": "Granada -0.25", "odds": 1.85 },
+      { "name": "Almeria +0.25", "odds": 2.07 },
+      { "name": "Granada -0.5", "odds": 2.17 },
+      { "name": "Almeria +0.5", "odds": 1.75 },
+      { "name": "Granada -0.75", "odds": 2.32 },
+      { "name": "Almeria +0.75", "odds": 1.6 },
+      { "name": "Over 2", "odds": 1.55 },
+      { "name": "Under 2", "odds": 2.35 },
+      { "name": "Over 2.25", "odds": 1.8 },
+      { "name": "Under 2.25", "odds": 2.1 },
+      { "name": "Over 2.5", "odds": 2.08 },
+      { "name": "Under 2.5", "odds": 1.82 },
+      { "name": "Over 2.75", "odds": 2.24 },
+      { "name": "Under 2.75", "odds": 1.66 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-02-19 01:30:00+0800",
+    "match_name": "Mallorca vs Real Sociedad",
+    "team1": "Mallorca",
+    "team2": "Real Sociedad",
+    "main_bet_list": [
+      { "name": "Mallorca Winner", "odds": 3.2 },
+      { "name": "Draw", "odds": 2.84 },
+      { "name": "Real Sociedad Winner", "odds": 2.58 }
+    ],
+    "more_bet_list": [
+      { "name": "Mallorca -0", "odds": 1.78 },
+      { "name": "Real Sociedad +0", "odds": 2.12 },
+      { "name": "Mallorca -0.25", "odds": 1.6 },
+      { "name": "Real Sociedad +0.25", "odds": 2.3 },
+      { "name": "Mallorca +0.25", "odds": 2.09 },
+      { "name": "Real Sociedad -0.25", "odds": 1.81 },
+      { "name": "Mallorca +0.5", "odds": 2.28 },
+      { "name": "Real Sociedad -0.5", "odds": 1.62 },
+      { "name": "Over 1.25", "odds": 1.49 },
+      { "name": "Under 1.25", "odds": 2.41 },
+      { "name": "Over 1.5", "odds": 1.78 },
+      { "name": "Under 1.5", "odds": 2.12 },
+      { "name": "Over 1.75", "odds": 1.99 },
+      { "name": "Under 1.75", "odds": 1.91 },
+      { "name": "Over 2", "odds": 2.33 },
+      { "name": "Under 2", "odds": 1.57 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-02-19 04:00:00+0800",
+    "match_name": "Real Betis vs Alaves",
+    "team1": "Real Betis",
+    "team2": "Alaves",
+    "main_bet_list": [
+      { "name": "Real Betis Winner", "odds": 2.16 },
+      { "name": "Draw", "odds": 3.25 },
+      { "name": "Alaves Winner", "odds": 3.55 }
+    ],
+    "more_bet_list": [
+      { "name": "Real Betis -0", "odds": 1.54 },
+      { "name": "Alaves +0", "odds": 2.38 },
+      { "name": "Real Betis -0.25", "odds": 1.84 },
+      { "name": "Alaves +0.25", "odds": 2.08 },
+      { "name": "Real Betis -0.5", "odds": 2.14 },
+      { "name": "Alaves +0.5", "odds": 1.78 },
+      { "name": "Real Betis -0.75", "odds": 2.32 },
+      { "name": "Alaves +0.75", "odds": 1.6 },
+      { "name": "Over 1.75", "odds": 1.53 },
+      { "name": "Under 1.75", "odds": 2.37 },
+      { "name": "Over 2", "odds": 1.72 },
+      { "name": "Under 2", "odds": 2.18 },
+      { "name": "Over 2.25", "odds": 2.02 },
+      { "name": "Under 2.25", "odds": 1.88 },
+      { "name": "Over 2.5", "odds": 2.23 },
+      { "name": "Under 2.5", "odds": 1.67 }
     ]
   },
   {
@@ -188,7 +188,7 @@
     "main_bet_list": [
       { "name": "Man City Winner", "odds": 1.37 },
       { "name": "Draw", "odds": 5.2 },
-      { "name": "Chelsea Winner", "odds": 7.70 }
+      { "name": "Chelsea Winner", "odds": 7.7 }
     ],
     "more_bet_list": [
       { "name": "Man City -1", "odds": 1.57 },
@@ -206,7 +206,7 @@
       { "name": "Over 3.25", "odds": 1.92 },
       { "name": "Under 3.25", "odds": 1.96 },
       { "name": "Over 3.5", "odds": 2.18 },
-      { "name": "Under 3.5", "odds": 1.70 }
+      { "name": "Under 3.5", "odds": 1.7 }
     ]
   },
   {
@@ -216,12 +216,12 @@
     "team1": "Atletico Madrid",
     "team2": "Las Palmas",
     "main_bet_list": [
-      { "name": "Atletico Madrid Winner", "odds": 1.50 },
-      { "name": "Draw", "odds": 4.20 },
-      { "name": "Las Palmas Winner", "odds": 7.00 }
+      { "name": "Atletico Madrid Winner", "odds": 1.5 },
+      { "name": "Draw", "odds": 4.2 },
+      { "name": "Las Palmas Winner", "odds": 7.0 }
     ],
     "more_bet_list": [
-      { "name": "Atletico Madrid -0.75", "odds": 1.60 },
+      { "name": "Atletico Madrid -0.75", "odds": 1.6 },
       { "name": "Las Palmas +0.75", "odds": 2.34 },
       { "name": "Atletico Madrid -1", "odds": 1.86 },
       { "name": "Las Palmas +1", "odds": 2.08 },
@@ -249,7 +249,7 @@
     "main_bet_list": [
       { "name": "Osasuna Winner", "odds": 1.79 },
       { "name": "Draw", "odds": 3.35 },
-      { "name": "Cadiz Winner", "odds": 5.20 }
+      { "name": "Cadiz Winner", "odds": 5.2 }
     ],
     "more_bet_list": [
       { "name": "Osasuna -0.25", "odds": 1.55 },
@@ -297,7 +297,7 @@
       { "name": "Over 3", "odds": 1.93 },
       { "name": "Under 3", "odds": 1.95 },
       { "name": "Over 3.25", "odds": 2.18 },
-      { "name": "Under 3.25", "odds": 1.70 }
+      { "name": "Under 3.25", "odds": 1.7 }
     ]
   },
   {
@@ -338,7 +338,7 @@
     "team2": "Vfb Stuttgart",
     "main_bet_list": [
       { "name": "Darmstadt Winner", "odds": 7.5 },
-      { "name": "Draw", "odds": 4.70 },
+      { "name": "Draw", "odds": 4.7 },
       { "name": "Vfb Stuttgart Winner", "odds": 1.42 }
     ],
     "more_bet_list": [
