@@ -145,28 +145,28 @@
   },
   {
     "type": "Valorant",
-    "time": "2024-02-17 18:00:00+0800",
+    "time": "2024-02-18 14:07:00+0800",
     "match_name": "Zeta vs Global Esports Match",
     "team1": "Zeta",
     "team2": "Global Esports",
     "main_bet_list": [
-      { "name": "Zeta Winner", "odds": 1.6 },
-      { "name": "Global Esports Winner", "odds": 2.25 }
+      { "name": "Zeta Winner", "odds": 1.52 },
+      { "name": "Global Esports Winner", "odds": 2.38 }
     ],
     "more_bet_list": [
-      { "name": "Zeta -1.5", "odds": 2.78 },
-      { "name": "Global Esports +1.5", "odds": 1.4 },
+      { "name": "Zeta -1.5", "odds": 2.72 },
+      { "name": "Global Esports +1.5", "odds": 1.42 },
       { "name": "Over 2.5", "odds": 1.96 },
       { "name": "Under 2.5", "odds": 1.8 },
       { "name": "Map score 2-0", "odds": 2.78 },
       { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 4.03 },
+      { "name": "Map score 0-2", "odds": 4.12 },
       { "name": "Map score 1-2", "odds": 3.56 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-17 18:00:00+0800",
+    "time": "2024-02-18 14:07:00+0800",
     "match_name": "Zeta vs Global Esports Map1",
     "team1": "Zeta",
     "team2": "Global Esports",
@@ -175,15 +175,15 @@
       { "name": "Global Esports Winner", "odds": 2.08 }
     ],
     "more_bet_list": [
-      { "name": "Zeta -2.5", "odds": 1.97 },
-      { "name": "Global Esports +2.5", "odds": 1.79 },
+      { "name": "Zeta -2.5", "odds": 2.0 },
+      { "name": "Global Esports +2.5", "odds": 1.76 },
       { "name": "Over 21.5", "odds": 1.85 },
       { "name": "Under 21.5", "odds": 1.85 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-17 18:00:00+0800",
+    "time": "2024-02-18 14:40:00+0800",
     "match_name": "Zeta vs Global Esports Map2",
     "team1": "Zeta",
     "team2": "Global Esports",
@@ -192,15 +192,15 @@
       { "name": "Global Esports Winner", "odds": 2.08 }
     ],
     "more_bet_list": [
-      { "name": "Zeta -2.5", "odds": 1.97 },
-      { "name": "Global Esports +2.5", "odds": 1.79 },
+      { "name": "Zeta -2.5", "odds": 2.0 },
+      { "name": "Global Esports +2.5", "odds": 1.76 },
       { "name": "Over 21.5", "odds": 1.85 },
       { "name": "Under 21.5", "odds": 1.85 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-17 18:00:00+0800",
+    "time": "2024-02-18 15:20:00+0800",
     "match_name": "Zeta vs Global Esports Map3",
     "team1": "Zeta",
     "team2": "Global Esports",
@@ -209,10 +209,82 @@
       { "name": "Global Esports Winner", "odds": 2.08 }
     ],
     "more_bet_list": [
-      { "name": "Zeta -2.5", "odds": 1.97 },
-      { "name": "Global Esports +2.5", "odds": 1.79 },
+      { "name": "Zeta -2.5", "odds": 2.0 },
+      { "name": "Global Esports +2.5", "odds": 1.76 },
       { "name": "Over 21.5", "odds": 1.85 },
       { "name": "Under 21.5", "odds": 1.85 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-18 16:08:00+0800",
+    "match_name": "Secret vs Talon Match",
+    "team1": "Secret",
+    "team2": "Talon",
+    "main_bet_list": [
+      { "name": "Secret Winner", "odds": 1.65 },
+      { "name": "Talon Winner", "odds": 2.17 }
+    ],
+    "more_bet_list": [
+      { "name": "Secret -1.5", "odds": 2.78 },
+      { "name": "Talon +1.5", "odds": 1.4 },
+      { "name": "Over 2.5", "odds": 1.93 },
+      { "name": "Under 2.5", "odds": 1.83 },
+      { "name": "Map score 2-0", "odds": 2.96 },
+      { "name": "Map score 2-1", "odds": 3.32 },
+      { "name": "Map score 0-2", "odds": 3.77 },
+      { "name": "Map score 1-2", "odds": 3.38 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-18 16:08:00+0800",
+    "match_name": "Secret vs Talon Map1",
+    "team1": "Secret",
+    "team2": "Talon",
+    "main_bet_list": [
+      { "name": "Secret Winner", "odds": 1.75 },
+      { "name": "Talon Winner", "odds": 2.03 }
+    ],
+    "more_bet_list": [
+      { "name": "Secret -2.5", "odds": 2.02 },
+      { "name": "Talon +2.5", "odds": 1.74 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.9 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-18 16:40:00+0800",
+    "match_name": "Secret vs Talon Map2",
+    "team1": "Secret",
+    "team2": "Talon",
+    "main_bet_list": [
+      { "name": "Secret Winner", "odds": 1.75 },
+      { "name": "Talon Winner", "odds": 2.03 }
+    ],
+    "more_bet_list": [
+      { "name": "Secret -2.5", "odds": 2.02 },
+      { "name": "Talon +2.5", "odds": 1.74 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.9 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-18 17:20:00+0800",
+    "match_name": "Secret vs Talon Map3",
+    "team1": "Secret",
+    "team2": "Talon",
+    "main_bet_list": [
+      { "name": "Secret Winner", "odds": 1.75 },
+      { "name": "Talon Winner", "odds": 2.03 }
+    ],
+    "more_bet_list": [
+      { "name": "Secret -2.5", "odds": 2.02 },
+      { "name": "Talon +2.5", "odds": 1.74 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.9 }
     ]
   }
 ]
