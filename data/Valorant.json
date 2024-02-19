@@ -145,218 +145,218 @@
   },
   {
     "type": "Valorant",
-    "time": "2024-02-18 14:07:00+0800",
-    "match_name": "Zeta vs Global Esports Match",
-    "team1": "Zeta",
-    "team2": "Global Esports",
+    "time": "2024-02-19 14:07:00+0800",
+    "match_name": "PRX vs Gen.G Match",
+    "team1": "PRX",
+    "team2": "Gen.G",
     "main_bet_list": [
-      { "name": "Zeta Winner", "odds": 1.52 },
-      { "name": "Global Esports Winner", "odds": 2.38 }
+      { "name": "PRX Winner", "odds": 1.09 },
+      { "name": "Gen.G Winner", "odds": 6.26 }
     ],
     "more_bet_list": [
-      { "name": "Zeta -1.5", "odds": 2.72 },
-      { "name": "Global Esports +1.5", "odds": 1.42 },
-      { "name": "Over 2.5", "odds": 1.96 },
-      { "name": "Under 2.5", "odds": 1.8 },
-      { "name": "Map score 2-0", "odds": 2.78 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 4.12 },
-      { "name": "Map score 1-2", "odds": 3.56 }
+      { "name": "PRX -1.5", "odds": 1.5 },
+      { "name": "Gen.G +1.5", "odds": 2.47 },
+      { "name": "Over 2.5", "odds": 2.53 },
+      { "name": "Under 2.5", "odds": 1.49 },
+      { "name": "Map score 2-0", "odds": 1.5 },
+      { "name": "Map score 2-1", "odds": 3.38 },
+      { "name": "Map score 0-2", "odds": 10.09 },
+      { "name": "Map score 1-2", "odds": 12.11 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-18 14:07:00+0800",
-    "match_name": "Zeta vs Global Esports Map1",
-    "team1": "Zeta",
-    "team2": "Global Esports",
+    "time": "2024-02-19 14:07:00+0800",
+    "match_name": "PRX vs Gen.G Map1",
+    "team1": "PRX",
+    "team2": "Gen.G",
     "main_bet_list": [
-      { "name": "Zeta Winner", "odds": 1.7 },
-      { "name": "Global Esports Winner", "odds": 2.08 }
+      { "name": "PRX Winner", "odds": 1.25 },
+      { "name": "Gen.G Winner", "odds": 3.7 }
     ],
     "more_bet_list": [
-      { "name": "Zeta -2.5", "odds": 2.0 },
-      { "name": "Global Esports +2.5", "odds": 1.76 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.85 }
+      { "name": "PRX -4.5", "odds": 1.88 },
+      { "name": "Gen.G +4.5", "odds": 1.88 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-18 14:40:00+0800",
-    "match_name": "Zeta vs Global Esports Map2",
-    "team1": "Zeta",
-    "team2": "Global Esports",
+    "time": "2024-02-19 14:40:00+0800",
+    "match_name": "PRX vs Gen.G Map2",
+    "team1": "PRX",
+    "team2": "Gen.G",
     "main_bet_list": [
-      { "name": "Zeta Winner", "odds": 1.7 },
-      { "name": "Global Esports Winner", "odds": 2.08 }
+      { "name": "PRX Winner", "odds": 1.25 },
+      { "name": "Gen.G Winner", "odds": 3.7 }
     ],
     "more_bet_list": [
-      { "name": "Zeta -2.5", "odds": 2.0 },
-      { "name": "Global Esports +2.5", "odds": 1.76 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.85 }
+      { "name": "PRX -4.5", "odds": 1.88 },
+      { "name": "Gen.G +4.5", "odds": 1.88 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-18 15:20:00+0800",
-    "match_name": "Zeta vs Global Esports Map3",
-    "team1": "Zeta",
-    "team2": "Global Esports",
+    "time": "2024-02-19 15:20:00+0800",
+    "match_name": "PRX vs Gen.G Map3",
+    "team1": "PRX",
+    "team2": "Gen.G",
     "main_bet_list": [
-      { "name": "Zeta Winner", "odds": 1.7 },
-      { "name": "Global Esports Winner", "odds": 2.08 }
+      { "name": "PRX Winner", "odds": 1.25 },
+      { "name": "Gen.G Winner", "odds": 3.7 }
     ],
     "more_bet_list": [
-      { "name": "Zeta -2.5", "odds": 2.0 },
-      { "name": "Global Esports +2.5", "odds": 1.76 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.85 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-02-18 16:08:00+0800",
-    "match_name": "Secret vs Talon Match",
-    "team1": "Secret",
-    "team2": "Talon",
-    "main_bet_list": [
-      { "name": "Secret Winner", "odds": 1.65 },
-      { "name": "Talon Winner", "odds": 2.17 }
-    ],
-    "more_bet_list": [
-      { "name": "Secret -1.5", "odds": 2.78 },
-      { "name": "Talon +1.5", "odds": 1.4 },
-      { "name": "Over 2.5", "odds": 1.93 },
-      { "name": "Under 2.5", "odds": 1.83 },
-      { "name": "Map score 2-0", "odds": 2.96 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 3.77 },
-      { "name": "Map score 1-2", "odds": 3.38 }
+      { "name": "PRX -4.5", "odds": 1.88 },
+      { "name": "Gen.G +4.5", "odds": 1.88 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
     "time": "2024-02-18 16:08:00+0800",
-    "match_name": "Secret vs Talon Map1",
-    "team1": "Secret",
-    "team2": "Talon",
+    "match_name": "Bleed vs Global Esports Match",
+    "team1": "Bleed",
+    "team2": "Global Esports",
     "main_bet_list": [
-      { "name": "Secret Winner", "odds": 1.75 },
-      { "name": "Talon Winner", "odds": 2.03 }
+      { "name": "Bleed Winner", "odds": 1.3 },
+      { "name": "Global Esports Winner", "odds": 3.27 }
     ],
     "more_bet_list": [
-      { "name": "Secret -2.5", "odds": 2.02 },
-      { "name": "Talon +2.5", "odds": 1.74 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.9 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-02-18 17:40:00+0800",
-    "match_name": "Secret vs Talon Map2",
-    "team1": "Secret",
-    "team2": "Talon",
-    "main_bet_list": [
-      { "name": "Secret Winner", "odds": 1.75 },
-      { "name": "Talon Winner", "odds": 2.03 }
-    ],
-    "more_bet_list": [
-      { "name": "Secret -2.5", "odds": 2.02 },
-      { "name": "Talon +2.5", "odds": 1.74 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.9 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-02-18 18:30:00+0800",
-    "match_name": "Secret vs Talon Map3",
-    "team1": "Secret",
-    "team2": "Talon",
-    "main_bet_list": [
-      { "name": "Secret Winner", "odds": 1.75 },
-      { "name": "Talon Winner", "odds": 2.03 }
-    ],
-    "more_bet_list": [
-      { "name": "Secret -2.5", "odds": 2.02 },
-      { "name": "Talon +2.5", "odds": 1.74 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.9 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-02-17 16:08:00+0800",
-    "match_name": "DRX vs DFM Match",
-    "team1": "DRX",
-    "team2": "DFM",
-    "main_bet_list": [
-      { "name": "DRX Winner", "odds": 1.65 },
-      { "name": "DFM Winner", "odds": 2.17 }
-    ],
-    "more_bet_list": [
-      { "name": "DRX -1.5", "odds": 2.78 },
-      { "name": "DFM +1.5", "odds": 1.4 },
-      { "name": "Over 2.5", "odds": 1.93 },
-      { "name": "Under 2.5", "odds": 1.83 },
-      { "name": "Map score 2-0", "odds": 2.96 },
+      { "name": "Bleed -1.5", "odds": 2.0 },
+      { "name": "Global Esports +1.5", "odds": 1.78 },
+      { "name": "Over 2.5", "odds": 2.17 },
+      { "name": "Under 2.5", "odds": 1.65 },
+      { "name": "Map score 2-0", "odds": 2.0 },
       { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 3.77 },
-      { "name": "Map score 1-2", "odds": 3.38 }
+      { "name": "Map score 0-2", "odds": 5.16 },
+      { "name": "Map score 1-2", "odds": 4.7 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-18 18:28:00+0800",
-    "match_name": "DRX vs DFM Map1",
-    "team1": "DRX",
-    "team2": "DFM",
+    "time": "2024-02-18 16:08:00+0800",
+    "match_name": "Bleed vs Global Esports Map1",
+    "team1": "Bleed",
+    "team2": "Global Esports",
     "main_bet_list": [
-      { "name": "DRX Winner", "odds": 1.2 },
-      { "name": "DFM Winner", "odds": 4.12 }
+      { "name": "Bleed Winner", "odds": 1.4 },
+      { "name": "Global Esports Winner", "odds": 2.78 }
     ],
     "more_bet_list": [
-      { "name": "DRX -5.5", "odds": 1.98 },
-      { "name": "DFM +5.5", "odds": 1.78 },
-      { "name": "Over 19.5", "odds": 1.8 },
-      { "name": "Under 19.5", "odds": 1.9 }
+      { "name": "Bleed -3.5", "odds": 1.8 },
+      { "name": "Global Esports +3.5", "odds": 1.96 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-18 19:20:00+0800",
-    "match_name": "DRX vs DFM Map2",
-    "team1": "DRX",
-    "team2": "DFM",
+    "time": "2024-02-18 16:40:00+0800",
+    "match_name": "Bleed vs Global Esports Map2",
+    "team1": "Bleed",
+    "team2": "Global Esports",
     "main_bet_list": [
-      { "name": "DRX Winner", "odds": 1.2 },
-      { "name": "DFM Winner", "odds": 4.12 }
+      { "name": "Bleed Winner", "odds": 1.4 },
+      { "name": "Global Esports Winner", "odds": 2.78 }
     ],
     "more_bet_list": [
-      { "name": "DRX -5.5", "odds": 1.98 },
-      { "name": "DFM +5.5", "odds": 1.78 },
-      { "name": "Over 19.5", "odds": 1.8 },
-      { "name": "Under 19.5", "odds": 1.9 }
+      { "name": "Bleed -3.5", "odds": 1.8 },
+      { "name": "Global Esports +3.5", "odds": 1.96 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-18 20:10:00+0800",
-    "match_name": "DRX vs DFM Map3",
-    "team1": "DRX",
-    "team2": "DFM",
+    "time": "2024-02-18 17:20:00+0800",
+    "match_name": "Bleed vs Global Esports Map3",
+    "team1": "Bleed",
+    "team2": "Global Esports",
     "main_bet_list": [
-      { "name": "DRX Winner", "odds": 1.2 },
-      { "name": "DFM Winner", "odds": 4.12 }
+      { "name": "Bleed Winner", "odds": 1.4 },
+      { "name": "Global Esports Winner", "odds": 2.78 }
     ],
     "more_bet_list": [
-      { "name": "DRX -5.5", "odds": 1.98 },
-      { "name": "DFM +5.5", "odds": 1.78 },
-      { "name": "Over 19.5", "odds": 1.8 },
-      { "name": "Under 19.5", "odds": 1.9 }
+      { "name": "Bleed -3.5", "odds": 1.8 },
+      { "name": "Global Esports +3.5", "odds": 1.96 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-19 18:08:00+0800",
+    "match_name": "T1 vs Zeta Match",
+    "team1": "T1",
+    "team2": "Zeta",
+    "main_bet_list": [
+      { "name": "T1 Winner", "odds": 1.45 },
+      { "name": "Zeta Winner", "odds": 2.63 }
+    ],
+    "more_bet_list": [
+      { "name": "T1 -1.5", "odds": 2.29 },
+      { "name": "Zeta +1.5", "odds": 1.59 },
+      { "name": "Over 2.5", "odds": 2.05 },
+      { "name": "Under 2.5", "odds": 1.73 },
+      { "name": "Map score 2-0", "odds": 2.25 },
+      { "name": "Map score 2-1", "odds": 3.32 },
+      { "name": "Map score 0-2", "odds": 4.7 },
+      { "name": "Map score 1-2", "odds": 4.12 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-19 18:08:00+0800",
+    "match_name": "T1 vs Zeta Map1",
+    "team1": "T1",
+    "team2": "Zeta",
+    "main_bet_list": [
+      { "name": "T1 Winner", "odds": 1.55 },
+      { "name": "Zeta Winner", "odds": 2.36 }
+    ],
+    "more_bet_list": [
+      { "name": "T1 -2.5", "odds": 1.96 },
+      { "name": "Zeta +2.5", "odds": 1.8 },
+      { "name": "Over 21.5", "odds": 1.87 },
+      { "name": "Under 21.5", "odds": 1.83 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-19 18:40:00+0800",
+    "match_name": "T1 vs Zeta Map2",
+    "team1": "T1",
+    "team2": "Zeta",
+    "main_bet_list": [
+      { "name": "T1 Winner", "odds": 1.55 },
+      { "name": "Zeta Winner", "odds": 2.36 }
+    ],
+    "more_bet_list": [
+      { "name": "T1 -2.5", "odds": 1.96 },
+      { "name": "Zeta +2.5", "odds": 1.8 },
+      { "name": "Over 21.5", "odds": 1.87 },
+      { "name": "Under 21.5", "odds": 1.83 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-19 19:20:00+0800",
+    "match_name": "T1 vs Zeta Map3",
+    "team1": "T1",
+    "team2": "Zeta",
+    "main_bet_list": [
+      { "name": "T1 Winner", "odds": 1.55 },
+      { "name": "Zeta Winner", "odds": 2.36 }
+    ],
+    "more_bet_list": [
+      { "name": "T1 -2.5", "odds": 1.96 },
+      { "name": "Zeta +2.5", "odds": 1.8 },
+      { "name": "Over 21.5", "odds": 1.87 },
+      { "name": "Under 21.5", "odds": 1.83 }
     ]
   }
 ]
