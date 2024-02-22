@@ -358,5 +358,147 @@
       { "name": "Over 20.5", "odds": 1.87 },
       { "name": "Under 20.5", "odds": 1.83 }
     ]
+  },
+
+  {
+    "type": "Valorant",
+    "time": "2024-02-23 00:00:00+0800",
+    "match_name": "Heretics vs KC Match",
+    "team1": "Heretics",
+    "team2": "KC",
+    "main_bet_list": [
+      { "name": "Heretics Winner", "odds": 2.2 },
+      { "name": "KC Winner", "odds": 1.63 }
+    ],
+    "more_bet_list": [
+      { "name": "Heretics +1.5", "odds": 1.41 },
+      { "name": "KC -1.5", "odds": 2.75 },
+      { "name": "Over 2.5", "odds": 1.99 },
+      { "name": "Under 2.5", "odds": 1.77 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-23 00:00:00+0800",
+    "match_name": "Heretics vs KC Map1",
+    "team1": "Heretics",
+    "team2": "KC",
+    "main_bet_list": [
+      { "name": "Heretics Winner", "odds": 2.08 },
+      { "name": "KC Winner", "odds": 1.7 }
+    ],
+    "more_bet_list": [
+      { "name": "Heretics +2.5", "odds": 1.75 },
+      { "name": "KC -2.5", "odds": 2.01 },
+      { "name": "Over 21.5", "odds": 1.75 },
+      { "name": "Under 21.5", "odds": 1.95 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-23 00:40:00+0800",
+    "match_name": "Heretics vs KC Map2",
+    "team1": "Heretics",
+    "team2": "KC",
+    "main_bet_list": [
+      { "name": "Heretics Winner", "odds": 2.08 },
+      { "name": "KC Winner", "odds": 1.7 }
+    ],
+    "more_bet_list": [
+      { "name": "Heretics +2.5", "odds": 1.75 },
+      { "name": "KC -2.5", "odds": 2.01 },
+      { "name": "Over 21.5", "odds": 1.75 },
+      { "name": "Under 21.5", "odds": 1.95 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-23 01:20:00+0800",
+    "match_name": "Heretics vs KC Map3",
+    "team1": "Heretics",
+    "team2": "KC",
+    "main_bet_list": [
+      { "name": "Heretics Winner", "odds": 2.08 },
+      { "name": "KC Winner", "odds": 1.7 }
+    ],
+    "more_bet_list": [
+      { "name": "Heretics +2.5", "odds": 1.75 },
+      { "name": "KC -2.5", "odds": 2.01 },
+      { "name": "Over 21.5", "odds": 1.75 },
+      { "name": "Under 21.5", "odds": 1.95 }
+    ]
+  },
+
+  {
+    "type": "Valorant",
+    "time": "2024-02-23 03:00:00+0800",
+    "match_name": "FUT vs Giantx Match",
+    "team1": "FUT",
+    "team2": "Giantx",
+    "main_bet_list": [
+      { "name": "FUT Winner", "odds": 1.76 },
+      { "name": "Giantx Winner", "odds": 2.0 }
+    ],
+    "more_bet_list": [
+      { "name": "FUT -1.5", "odds": 3.12 },
+      { "name": "Giantx +1.5", "odds": 1.33 },
+      { "name": "Over 2.5", "odds": 1.88 },
+      { "name": "Under 2.5", "odds": 1.88 },
+      { "name": "Map score 2-0", "odds": 3.27 },
+      { "name": "Map score 2-1", "odds": 3.38 },
+      { "name": "Map score 0-2", "odds": 3.32 },
+      { "name": "Map score 1-2", "odds": 3.38 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-23 03:00:00+0800",
+    "match_name": "FUT vs Giantx Map1",
+    "team1": "FUT",
+    "team2": "Giantx",
+    "main_bet_list": [
+      { "name": "FUT Winner", "odds": 1.83 },
+      { "name": "Giantx Winner", "odds": 1.93 }
+    ],
+    "more_bet_list": [
+      { "name": "FUT -2.5", "odds": 2.12 },
+      { "name": "Giantx +2.5", "odds": 1.65 },
+      { "name": "Over 21.5", "odds": 1.75 },
+      { "name": "Under 21.5", "odds": 1.95 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-23 03:00:00+0800",
+    "match_name": "FUT vs Giantx Map2",
+    "team1": "FUT",
+    "team2": "Giantx",
+    "main_bet_list": [
+      { "name": "FUT Winner", "odds": 1.83 },
+      { "name": "Giantx Winner", "odds": 1.93 }
+    ],
+    "more_bet_list": [
+      { "name": "FUT -2.5", "odds": 2.12 },
+      { "name": "Giantx +2.5", "odds": 1.65 },
+      { "name": "Over 21.5", "odds": 1.75 },
+      { "name": "Under 21.5", "odds": 1.95 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-23 03:00:00+0800",
+    "match_name": "FUT vs Giantx Map3",
+    "team1": "FUT",
+    "team2": "Giantx",
+    "main_bet_list": [
+      { "name": "FUT Winner", "odds": 1.83 },
+      { "name": "Giantx Winner", "odds": 1.93 }
+    ],
+    "more_bet_list": [
+      { "name": "FUT -2.5", "odds": 2.12 },
+      { "name": "Giantx +2.5", "odds": 1.65 },
+      { "name": "Over 21.5", "odds": 1.75 },
+      { "name": "Under 21.5", "odds": 1.95 }
+    ]
   }
 ]
