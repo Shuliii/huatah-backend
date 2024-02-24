@@ -2,289 +2,289 @@
   {
     "type": "Valorant",
     "time": "2024-02-23 15:00:00+0800",
-    "match_name": "JD vs Titan Match",
-    "team1": "JD",
-    "team2": "Titan",
+    "match_name": "T1 vs PRX Match",
+    "team1": "T1",
+    "team2": "PRX",
     "main_bet_list": [
-      { "name": "JD Winner", "odds": 1.43 },
-      { "name": "Titan Winner", "odds": 2.69 }
+      { "name": "T1 Winner", "odds": 4.57 },
+      { "name": "PRX Winner", "odds": 1.18 }
     ],
     "more_bet_list": [
-      { "name": "JD -1.5", "odds": 2.17 },
-      { "name": "Titan +1.5", "odds": 1.65 },
+      { "name": "T1 +1.5", "odds": 2.08 },
+      { "name": "PRX -1.5", "odds": 1.7 },
+      { "name": "Over 2.5", "odds": 2.47 },
+      { "name": "Under 2.5", "odds": 1.5 },
+      { "name": "Map score 2-0", "odds": 8.14 },
+      { "name": "Map score 2-1", "odds": 6.0 },
+      { "name": "Map score 0-2", "odds": 1.7 },
+      { "name": "Map score 1-2", "odds": 3.43 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-24 16:00:00+0800",
+    "match_name": "T1 vs PRX Map1",
+    "team1": "T1",
+    "team2": "PRX",
+    "main_bet_list": [
+      { "name": "T1 Winner", "odds": 3.5 },
+      { "name": "PRX Winner", "odds": 1.28 }
+    ],
+    "more_bet_list": [
+      { "name": "T1 +4.5", "odds": 1.76 },
+      { "name": "PRX -4.5", "odds": 2.0 },
+      { "name": "Over 20.5", "odds": 1.85 },
+      { "name": "Under 20.5", "odds": 1.85 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-24 16:45:00+0800",
+    "match_name": "T1 vs PRX Map2",
+    "team1": "T1",
+    "team2": "PRX",
+    "main_bet_list": [
+      { "name": "T1 Winner", "odds": 3.5 },
+      { "name": "PRX Winner", "odds": 1.28 }
+    ],
+    "more_bet_list": [
+      { "name": "T1 +4.5", "odds": 1.76 },
+      { "name": "PRX -4.5", "odds": 2.0 },
+      { "name": "Over 20.5", "odds": 1.85 },
+      { "name": "Under 20.5", "odds": 1.85 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-24 17:30:00+0800",
+    "match_name": "T1 vs PRX Map3",
+    "team1": "T1",
+    "team2": "PRX",
+    "main_bet_list": [
+      { "name": "T1 Winner", "odds": 3.5 },
+      { "name": "PRX Winner", "odds": 1.28 }
+    ],
+    "more_bet_list": [
+      { "name": "T1 +4.5", "odds": 1.76 },
+      { "name": "PRX -4.5", "odds": 2.0 },
+      { "name": "Over 20.5", "odds": 1.85 },
+      { "name": "Under 20.5", "odds": 1.85 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-24 17:00:00+0800",
+    "match_name": "Tyloo vs Nova Match",
+    "team1": "Tyloo",
+    "team2": "Nova",
+    "main_bet_list": [
+      { "name": "Tyloo Winner", "odds": 1.31 },
+      { "name": "Nova Winner", "odds": 3.22 }
+    ],
+    "more_bet_list": [
+      { "name": "Tyloo -1.5", "odds": 2.02 },
+      { "name": "Nova +1.5", "odds": 1.76 },
+      { "name": "Over 2.5", "odds": 2.25 },
+      { "name": "Under 2.5", "odds": 1.6 },
+      { "name": "Map score 2-0", "odds": 2.02 },
+      { "name": "Map score 2-1", "odds": 3.32 },
+      { "name": "Map score 0-2", "odds": 6.26 },
+      { "name": "Map score 1-2", "odds": 5.54 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-24 17:00:00+0800",
+    "match_name": "Tyloo vs Nova Map1",
+    "team1": "Tyloo",
+    "team2": "Nova",
+    "main_bet_list": [
+      { "name": "Tyloo Winner", "odds": 1.41 },
+      { "name": "Nova Winner", "odds": 2.75 }
+    ],
+    "more_bet_list": [
+      { "name": "Tyloo -3.5", "odds": 1.95 },
+      { "name": "Nova +3.5", "odds": 1.81 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-24 17:00:00+0800",
+    "match_name": "Tyloo vs Nova Map2",
+    "team1": "Tyloo",
+    "team2": "Nova",
+    "main_bet_list": [
+      { "name": "Tyloo Winner", "odds": 1.41 },
+      { "name": "Nova Winner", "odds": 2.75 }
+    ],
+    "more_bet_list": [
+      { "name": "Tyloo -3.5", "odds": 1.95 },
+      { "name": "Nova +3.5", "odds": 1.81 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-24 17:00:00+0800",
+    "match_name": "Tyloo vs Nova Map3",
+    "team1": "Tyloo",
+    "team2": "Nova",
+    "main_bet_list": [
+      { "name": "Tyloo Winner", "odds": 1.41 },
+      { "name": "Nova Winner", "odds": 2.75 }
+    ],
+    "more_bet_list": [
+      { "name": "Tyloo -3.5", "odds": 1.95 },
+      { "name": "Nova +3.5", "odds": 1.81 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-02-24 18:00:00+0800",
+    "match_name": "DRX vs Gen.G Match",
+    "team1": "DRX",
+    "team2": "Gen.G",
+    "main_bet_list": [
+      { "name": "DRX Winner", "odds": 1.4 },
+      { "name": "Gen.G Winner", "odds": 2.78 }
+    ],
+    "more_bet_list": [
+      { "name": "DRX -1.5", "odds": 2.23 },
+      { "name": "Gen.G +1.5", "odds": 1.61 },
       { "name": "Over 2.5", "odds": 2.08 },
       { "name": "Under 2.5", "odds": 1.7 },
-      { "name": "Map score 2-0", "odds": 2.14 },
+      { "name": "Map score 2-0", "odds": 2.2 },
       { "name": "Map score 2-1", "odds": 3.32 },
       { "name": "Map score 0-2", "odds": 5.0 },
-      { "name": "Map score 1-2", "odds": 4.57 }
+      { "name": "Map score 1-2", "odds": 4.22 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-23 15:00:00+0800",
-    "match_name": "JD vs Titan Map1",
-    "team1": "JD",
-    "team2": "Titan",
+    "time": "2024-02-24 18:00:00+0800",
+    "match_name": "DRX vs Gen.G Map1",
+    "team1": "DRX",
+    "team2": "Gen.G",
     "main_bet_list": [
-      { "name": "JD Winner", "odds": 1.55 },
-      { "name": "Titan Winner", "odds": 2.36 }
+      { "name": "DRX Winner", "odds": 1.5 },
+      { "name": "Gen.G Winner", "odds": 2.47 }
     ],
     "more_bet_list": [
-      { "name": "JD -3.5", "odds": 1.95 },
-      { "name": "Titan +3.5", "odds": 1.81 },
-      { "name": "Over 21.5", "odds": 1.92 },
-      { "name": "Under 21.5", "odds": 1.78 }
+      { "name": "DRX -2.5", "odds": 1.8 },
+      { "name": "Gen.G +2.5", "odds": 1.96 },
+      { "name": "Over 21.5", "odds": 1.96 },
+      { "name": "Under 21.5", "odds": 1.74 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-23 16:05:00+0800",
-    "match_name": "JD vs Titan Map2",
-    "team1": "JD",
-    "team2": "Titan",
+    "time": "2024-02-24 18:00:00+0800",
+    "match_name": "DRX vs Gen.G Map2",
+    "team1": "DRX",
+    "team2": "Gen.G",
     "main_bet_list": [
-      { "name": "JD Winner", "odds": 1.55 },
-      { "name": "Titan Winner", "odds": 2.36 }
+      { "name": "DRX Winner", "odds": 1.5 },
+      { "name": "Gen.G Winner", "odds": 2.47 }
     ],
     "more_bet_list": [
-      { "name": "JD -3.5", "odds": 1.95 },
-      { "name": "Titan +3.5", "odds": 1.81 },
-      { "name": "Over 21.5", "odds": 1.92 },
-      { "name": "Under 21.5", "odds": 1.78 }
+      { "name": "DRX -2.5", "odds": 1.8 },
+      { "name": "Gen.G +2.5", "odds": 1.96 },
+      { "name": "Over 21.5", "odds": 1.96 },
+      { "name": "Under 21.5", "odds": 1.74 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-23 16:50:00+0800",
-    "match_name": "JD vs Titan Map3",
-    "team1": "JD",
-    "team2": "Titan",
+    "time": "2024-02-24 18:00:00+0800",
+    "match_name": "DRX vs Gen.G Map3",
+    "team1": "DRX",
+    "team2": "Gen.G",
     "main_bet_list": [
-      { "name": "JD Winner", "odds": 1.55 },
-      { "name": "Titan Winner", "odds": 2.36 }
+      { "name": "DRX Winner", "odds": 1.5 },
+      { "name": "Gen.G Winner", "odds": 2.47 }
     ],
     "more_bet_list": [
-      { "name": "JD -3.5", "odds": 1.95 },
-      { "name": "Titan +3.5", "odds": 1.81 },
-      { "name": "Over 21.5", "odds": 1.92 },
-      { "name": "Under 21.5", "odds": 1.78 }
+      { "name": "DRX -2.5", "odds": 1.8 },
+      { "name": "Gen.G +2.5", "odds": 1.96 },
+      { "name": "Over 21.5", "odds": 1.96 },
+      { "name": "Under 21.5", "odds": 1.74 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-23 18:00:00+0800",
-    "match_name": "Dragon Ranger vs All Gamers Match",
-    "team1": "Dragon Ranger",
+    "time": "2024-02-24 19:15:00+0800",
+    "match_name": "JD vs All Gamers Match",
+    "team1": "JD",
     "team2": "All Gamers",
     "main_bet_list": [
-      { "name": "Dragon Ranger Winner", "odds": 1.4 },
-      { "name": "All Gamers Winner", "odds": 2.78 }
+      { "name": "JD Winner", "odds": 1.45 },
+      { "name": "All Gamers Winner", "odds": 2.63 }
     ],
     "more_bet_list": [
-      { "name": "Dragon Ranger -1.5", "odds": 2.25 },
-      { "name": "All Gamers +1.5", "odds": 1.6 },
+      { "name": "JD -1.5", "odds": 2.35 },
+      { "name": "All Gamers +1.5", "odds": 1.56 },
       { "name": "Over 2.5", "odds": 2.08 },
       { "name": "Under 2.5", "odds": 1.7 },
-      { "name": "Map score 2-0", "odds": 2.25 },
+      { "name": "Map score 2-0", "odds": 2.35 },
       { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 4.33 },
-      { "name": "Map score 1-2", "odds": 4.12 }
+      { "name": "Map score 0-2", "odds": 5.0 },
+      { "name": "Map score 1-2", "odds": 4.7 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-23 18:00:00+0800",
-    "match_name": "Dragon Ranger vs All Gamers Map1",
-    "team1": "Dragon Ranger",
+    "time": "2024-02-24 19:15:00+0800",
+    "match_name": "JD vs All Gamers Map1",
+    "team1": "JD",
     "team2": "All Gamers",
     "main_bet_list": [
-      { "name": "Dragon Ranger Winner", "odds": 1.5 },
-      { "name": "All Gamers Winner", "odds": 2.47 }
+      { "name": "JD Winner", "odds": 1.55 },
+      { "name": "All Gamers Winner", "odds": 2.36 }
     ],
     "more_bet_list": [
-      { "name": "Dragon Ranger -2.5", "odds": 1.85 },
-      { "name": "All Gamers +2.5", "odds": 1.91 },
+      { "name": "JD -2.5", "odds": 1.94 },
+      { "name": "All Gamers +2.5", "odds": 1.82 },
       { "name": "Over 21.5", "odds": 1.9 },
       { "name": "Under 21.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-23 18:15:00+0800",
-    "match_name": "Dragon Ranger vs All Gamers Map2",
-    "team1": "Dragon Ranger",
+    "time": "2024-02-24 20:00:00+0800",
+    "match_name": "JD vs All Gamers Map2",
+    "team1": "JD",
     "team2": "All Gamers",
     "main_bet_list": [
-      { "name": "Dragon Ranger Winner", "odds": 1.5 },
-      { "name": "All Gamers Winner", "odds": 2.47 }
+      { "name": "JD Winner", "odds": 1.55 },
+      { "name": "All Gamers Winner", "odds": 2.36 }
     ],
     "more_bet_list": [
-      { "name": "Dragon Ranger -2.5", "odds": 1.85 },
-      { "name": "All Gamers +2.5", "odds": 1.91 },
+      { "name": "JD -2.5", "odds": 1.94 },
+      { "name": "All Gamers +2.5", "odds": 1.82 },
       { "name": "Over 21.5", "odds": 1.9 },
       { "name": "Under 21.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-23 18:45:00+0800",
-    "match_name": "Dragon Ranger vs All Gamers Map3",
-    "team1": "Dragon Ranger",
+    "time": "2024-02-24 20:28:00+0800",
+    "match_name": "JD vs All Gamers Map3",
+    "team1": "JD",
     "team2": "All Gamers",
     "main_bet_list": [
-      { "name": "Dragon Ranger Winner", "odds": 1.5 },
-      { "name": "All Gamers Winner", "odds": 2.47 }
+      { "name": "JD Winner", "odds": 1.55 },
+      { "name": "All Gamers Winner", "odds": 2.36 }
     ],
     "more_bet_list": [
-      { "name": "Dragon Ranger -2.5", "odds": 1.85 },
-      { "name": "All Gamers +2.5", "odds": 1.91 },
+      { "name": "JD -2.5", "odds": 1.94 },
+      { "name": "All Gamers +2.5", "odds": 1.82 },
       { "name": "Over 21.5", "odds": 1.9 },
       { "name": "Under 21.5", "odds": 1.8 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-02-23 21:00:00+0800",
-    "match_name": "Navi vs Liquid Match",
-    "team1": "Navi",
-    "team2": "Liquid",
-    "main_bet_list": [
-      { "name": "Navi Winner", "odds": 1.6 },
-      { "name": "Liquid Winner", "odds": 2.25 }
-    ],
-    "more_bet_list": [
-      { "name": "Navi -1.5", "odds": 2.78 },
-      { "name": "Liquid +1.5", "odds": 1.4 },
-      { "name": "Over 2.5", "odds": 1.96 },
-      { "name": "Under 2.5", "odds": 1.8 },
-      { "name": "Map score 2-0", "odds": 2.78 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 4.12 },
-      { "name": "Map score 1-2", "odds": 3.56 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-02-23 21:00:00+0800",
-    "match_name": "Navi vs Liquid Map1",
-    "team1": "Navi",
-    "team2": "Liquid",
-    "main_bet_list": [
-      { "name": "Navi Winner", "odds": 1.7 },
-      { "name": "Liquid Winner", "odds": 2.08 }
-    ],
-    "more_bet_list": [
-      { "name": "Navi -2.5", "odds": 2.0 },
-      { "name": "Liquid +2.5", "odds": 1.76 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.9 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-02-23 21:00:00+0800",
-    "match_name": "Navi vs Liquid Map2",
-    "team1": "Navi",
-    "team2": "Liquid",
-    "main_bet_list": [
-      { "name": "Navi Winner", "odds": 1.7 },
-      { "name": "Liquid Winner", "odds": 2.08 }
-    ],
-    "more_bet_list": [
-      { "name": "Navi -2.5", "odds": 2.0 },
-      { "name": "Liquid +2.5", "odds": 1.76 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.9 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-02-23 21:00:00+0800",
-    "match_name": "Navi vs Liquid Map3",
-    "team1": "Navi",
-    "team2": "Liquid",
-    "main_bet_list": [
-      { "name": "Navi Winner", "odds": 1.7 },
-      { "name": "Liquid Winner", "odds": 2.08 }
-    ],
-    "more_bet_list": [
-      { "name": "Navi -2.5", "odds": 2.0 },
-      { "name": "Liquid +2.5", "odds": 1.76 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.9 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-02-22 19:15:00+0800",
-    "match_name": "Gen.G vs Zeta Match",
-    "team1": "Gen.G",
-    "team2": "Zeta",
-    "main_bet_list": [
-      { "name": "Gen.G Winner", "odds": 1.75 },
-      { "name": "Zeta Winner", "odds": 2.03 }
-    ],
-    "more_bet_list": [
-      { "name": "Gen.G -1.5", "odds": 3.04 },
-      { "name": "Zeta +1.5", "odds": 1.35 },
-      { "name": "Over 2.5", "odds": 1.9 },
-      { "name": "Under 2.5", "odds": 1.86 },
-      { "name": "Map score 2-0", "odds": 3.04 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 3.5 },
-      { "name": "Map score 1-2", "odds": 3.38 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-02-22 19:15:00+0800",
-    "match_name": "Gen.G vs Zeta Map1",
-    "team1": "Gen.G",
-    "team2": "Zeta",
-    "main_bet_list": [
-      { "name": "Gen.G Winner", "odds": 1.85 },
-      { "name": "Zeta Winner", "odds": 1.91 }
-    ],
-    "more_bet_list": [
-      { "name": "Gen.G -2.5", "odds": 2.07 },
-      { "name": "Zeta +2.5", "odds": 1.69 },
-      { "name": "Over 21.5", "odds": 1.68 },
-      { "name": "Under 21.5", "odds": 2.02 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-02-22 20:00:00+0800",
-    "match_name": "Gen.G vs Zeta Map2",
-    "team1": "Gen.G",
-    "team2": "Zeta",
-    "main_bet_list": [
-      { "name": "Gen.G Winner", "odds": 1.85 },
-      { "name": "Zeta Winner", "odds": 1.91 }
-    ],
-    "more_bet_list": [
-      { "name": "Gen.G -2.5", "odds": 2.07 },
-      { "name": "Zeta +2.5", "odds": 1.69 },
-      { "name": "Over 21.5", "odds": 1.68 },
-      { "name": "Under 21.5", "odds": 2.02 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-02-22 20:28:00+0800",
-    "match_name": "Gen.G vs Zeta Map3",
-    "team1": "Gen.G",
-    "team2": "Zeta",
-    "main_bet_list": [
-      { "name": "Gen.G Winner", "odds": 1.85 },
-      { "name": "Zeta Winner", "odds": 1.91 }
-    ],
-    "more_bet_list": [
-      { "name": "Gen.G -2.5", "odds": 2.07 },
-      { "name": "Zeta +2.5", "odds": 1.69 },
-      { "name": "Over 21.5", "odds": 1.68 },
-      { "name": "Under 21.5", "odds": 2.02 }
     ]
   },
   {
