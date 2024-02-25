@@ -397,9 +397,9 @@
     "team1": "Chelsea",
     "team2": "Liverpool",
     "main_bet_list": [
-      { "name": "Chelsea Winner", "odds": 2.35 },
+      { "name": "Chelsea Winner", "odds": 2.8 },
       { "name": "Draw", "odds": 3.75 },
-      { "name": "Liverpool Winner", "odds": 2.8 }
+      { "name": "Liverpool Winner", "odds": 2.35 }
     ],
     "more_bet_list": [
       { "name": "Chelsea -0", "odds": 2.2 },
