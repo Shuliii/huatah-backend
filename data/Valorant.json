@@ -110,7 +110,7 @@
     ],
     "more_bet_list": [
       { "name": "PRX -2.5", "odds": 1.8 },
-      { "name": "Gen.G 23.5", "odds": 1961 },
+      { "name": "Gen.G +2.5", "odds": 1961 },
       { "name": "Over 21.5", "odds": 1.9 },
       { "name": "Under 21.5", "odds": 1.8 }
     ]
@@ -127,7 +127,7 @@
     ],
     "more_bet_list": [
       { "name": "PRX -2.5", "odds": 1.8 },
-      { "name": "Gen.G 23.5", "odds": 1961 },
+      { "name": "Gen.G +2.5", "odds": 1961 },
       { "name": "Over 21.5", "odds": 1.9 },
       { "name": "Under 21.5", "odds": 1.8 }
     ]
@@ -259,74 +259,74 @@
   },
   {
     "type": "Valorant",
-    "time": "2024-02-24 19:15:00+0800",
-    "match_name": "JD vs All Gamers Match",
-    "team1": "JD",
-    "team2": "All Gamers",
+    "time": "2024-02-25 21:00:00+0800",
+    "match_name": "Vitality vs Gentle Match",
+    "team1": "Vitality",
+    "team2": "Gentle",
     "main_bet_list": [
-      { "name": "JD Winner", "odds": 1.45 },
-      { "name": "All Gamers Winner", "odds": 2.63 }
+      { "name": "Vitality Winner", "odds": 1.25 },
+      { "name": "Gentle Winner", "odds": 3.7 }
     ],
     "more_bet_list": [
-      { "name": "JD -1.5", "odds": 2.35 },
-      { "name": "All Gamers +1.5", "odds": 1.56 },
-      { "name": "Over 2.5", "odds": 2.08 },
-      { "name": "Under 2.5", "odds": 1.7 },
-      { "name": "Map score 2-0", "odds": 2.35 },
+      { "name": "Vitality -1.5", "odds": 1.85 },
+      { "name": "Gentle +1.5", "odds": 1.91 },
+      { "name": "Over 2.5", "odds": 2.25 },
+      { "name": "Under 2.5", "odds": 1.6 },
+      { "name": "Map score 2-0", "odds": 1.85 },
       { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 5.0 },
-      { "name": "Map score 1-2", "odds": 4.7 }
+      { "name": "Map score 0-2", "odds": 6.55 },
+      { "name": "Map score 1-2", "odds": 5.16 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-24 19:15:00+0800",
-    "match_name": "JD vs All Gamers Map1",
-    "team1": "JD",
-    "team2": "All Gamers",
+    "time": "2024-02-25 21:00:00+0800",
+    "match_name": "Vitality vs Gentle Map1",
+    "team1": "Vitality",
+    "team2": "Gentle",
     "main_bet_list": [
-      { "name": "JD Winner", "odds": 1.55 },
-      { "name": "All Gamers Winner", "odds": 2.36 }
+      { "name": "Vitality Winner", "odds": 1.55 },
+      { "name": "Gentle Winner", "odds": 2.36 }
     ],
     "more_bet_list": [
-      { "name": "JD -2.5", "odds": 1.94 },
-      { "name": "All Gamers +2.5", "odds": 1.82 },
-      { "name": "Over 21.5", "odds": 1.9 },
-      { "name": "Under 21.5", "odds": 1.8 }
+      { "name": "Vitality -4.5", "odds": 1.35 },
+      { "name": "Gentle +4.5", "odds": 1.81 },
+      { "name": "Over 20.5", "odds": 1.8 },
+      { "name": "Under 20.5", "odds": 1.9 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-24 20:00:00+0800",
-    "match_name": "JD vs All Gamers Map2",
-    "team1": "JD",
-    "team2": "All Gamers",
+    "time": "2024-02-25 21:00:00+0800",
+    "match_name": "Vitality vs Gentle Map2",
+    "team1": "Vitality",
+    "team2": "Gentle",
     "main_bet_list": [
-      { "name": "JD Winner", "odds": 1.55 },
-      { "name": "All Gamers Winner", "odds": 2.36 }
+      { "name": "Vitality Winner", "odds": 1.55 },
+      { "name": "Gentle Winner", "odds": 2.36 }
     ],
     "more_bet_list": [
-      { "name": "JD -2.5", "odds": 1.94 },
-      { "name": "All Gamers +2.5", "odds": 1.82 },
-      { "name": "Over 21.5", "odds": 1.9 },
-      { "name": "Under 21.5", "odds": 1.8 }
+      { "name": "Vitality -4.5", "odds": 1.35 },
+      { "name": "Gentle +4.5", "odds": 1.81 },
+      { "name": "Over 20.5", "odds": 1.8 },
+      { "name": "Under 20.5", "odds": 1.9 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-24 20:28:00+0800",
-    "match_name": "JD vs All Gamers Map3",
-    "team1": "JD",
-    "team2": "All Gamers",
+    "time": "2024-02-25 21:00:00+0800",
+    "match_name": "Vitality vs Gentle Map3",
+    "team1": "Vitality",
+    "team2": "Gentle",
     "main_bet_list": [
-      { "name": "JD Winner", "odds": 1.55 },
-      { "name": "All Gamers Winner", "odds": 2.36 }
+      { "name": "Vitality Winner", "odds": 1.55 },
+      { "name": "Gentle Winner", "odds": 2.36 }
     ],
     "more_bet_list": [
-      { "name": "JD -2.5", "odds": 1.94 },
-      { "name": "All Gamers +2.5", "odds": 1.82 },
-      { "name": "Over 21.5", "odds": 1.9 },
-      { "name": "Under 21.5", "odds": 1.8 }
+      { "name": "Vitality -4.5", "odds": 1.35 },
+      { "name": "Gentle +4.5", "odds": 1.81 },
+      { "name": "Over 20.5", "odds": 1.8 },
+      { "name": "Under 20.5", "odds": 1.9 }
     ]
   },
   {
