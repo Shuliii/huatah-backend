@@ -392,28 +392,32 @@
   },
   {
     "type": "Soccer",
-    "time": "2024-01-06 23:00:00+0800",
-    "match_name": "Southampton vs Walsall",
-    "team1": "Southampton",
-    "team2": "Walsall",
+    "time": "2024-02-25 23:00:00+0800",
+    "match_name": "Chelsea vs Liverpool",
+    "team1": "Chelsea",
+    "team2": "Liverpool",
     "main_bet_list": [
-      { "name": "Southampton Winner", "odds": 1.25 },
-      { "name": "Draw", "odds": 5.7 },
-      { "name": "Walsall Winner", "odds": 9.7 }
+      { "name": "Chelsea Winner", "odds": 2.35 },
+      { "name": "Draw", "odds": 3.75 },
+      { "name": "Liverpool Winner", "odds": 2.8 }
     ],
     "more_bet_list": [
-      { "name": "Southampton -1.5", "odds": 1.8 },
-      { "name": "Walsall +1.5", "odds": 2.12 },
-      { "name": "Southampton -1.75", "odds": 1.99 },
-      { "name": "Walsall +1.75", "odds": 1.93 },
-      { "name": "Southampton -2", "odds": 2.23 },
-      { "name": "Walsall +2", "odds": 1.69 },
-      { "name": "Over 3", "odds": 1.77 },
-      { "name": "Under 3", "odds": 2.13 },
-      { "name": "Over 3.25", "odds": 1.98 },
-      { "name": "Under 3.25", "odds": 1.92 },
-      { "name": "Over 3.5", "odds": 2.17 },
-      { "name": "Under 3.5", "odds": 1.73 }
+      { "name": "Chelsea -0", "odds": 2.2 },
+      { "name": "Liverpool +0", "odds": 1.72 },
+      { "name": "Chelsea -0.25", "odds": 2.34 },
+      { "name": "Liverpool +0.25", "odds": 1.58 },
+      { "name": "Chelsea +0.25", "odds": 1.89 },
+      { "name": "Liverpool -0.25", "odds": 2.03 },
+      { "name": "Chelsea +0.5", "odds": 1.66 },
+      { "name": "Liverpool -0.5", "odds": 2.26 },
+      { "name": "Over 2.5", "odds": 1.63 },
+      { "name": "Under 2.5", "odds": 2.27 },
+      { "name": "Over 2.75", "odds": 1.78 },
+      { "name": "Under 2.75", "odds": 2.12 },
+      { "name": "Over 3", "odds": 2.04 },
+      { "name": "Under 3", "odds": 1.86 },
+      { "name": "Over 3.25", "odds": 2.25 },
+      { "name": "Under 3.25", "odds": 1.65 }
     ]
   },
   {
