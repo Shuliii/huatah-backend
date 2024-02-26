@@ -141,74 +141,74 @@
   },
   {
     "type": "Valorant",
-    "time": "2024-02-26 17:00:00+0800",
-    "match_name": "Titan vs JD Match",
-    "team1": "Titan",
-    "team2": "JD",
+    "time": "2024-02-27 03:00:00+0800",
+    "match_name": "Koi vs KC Match",
+    "team1": "Koi",
+    "team2": "KC",
     "main_bet_list": [
-      { "name": "Titan Winner", "odds": 2.14 },
-      { "name": "JD Winner", "odds": 1.67 }
+      { "name": "Koi Winner", "odds": 1.73 },
+      { "name": "KC Winner", "odds": 2.05 }
     ],
     "more_bet_list": [
-      { "name": "Titan +1.5", "odds": 1.39 },
-      { "name": "JD -1.5", "odds": 2.88 },
+      { "name": "Koi -1.5", "odds": 3.08 },
+      { "name": "KC +1.5", "odds": 1.34 },
       { "name": "Over 2.5", "odds": 1.91 },
       { "name": "Under 2.5", "odds": 1.85 },
-      { "name": "Map score 2-0", "odds": 3.77 },
-      { "name": "Map score 2-1", "odds": 3.43 },
-      { "name": "Map score 0-2", "odds": 2.88 },
-      { "name": "Map score 1-2", "odds": 3.32 }
+      { "name": "Map score 2-0", "odds": 3.08 },
+      { "name": "Map score 2-1", "odds": 3.32 },
+      { "name": "Map score 0-2", "odds": 3.5 },
+      { "name": "Map score 1-2", "odds": 3.38 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-26 17:00:00+0800",
-    "match_name": "Titan vs JD Map1",
-    "team1": "Titan",
-    "team2": "JD",
+    "time": "2024-02-27 03:00:00+0800",
+    "match_name": "Koi vs KC Map1",
+    "team1": "Koi",
+    "team2": "KC",
     "main_bet_list": [
-      { "name": "Titan Winner", "odds": 2.01 },
-      { "name": "JD Winner", "odds": 1.77 }
+      { "name": "Koi Winner", "odds": 1.8 },
+      { "name": "KC Winner", "odds": 1.96 }
     ],
     "more_bet_list": [
-      { "name": "Titan +2.5", "odds": 1.74 },
-      { "name": "JD -2.5", "odds": 2.02 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.9 }
+      { "name": "Koi -2.5", "odds": 2.09 },
+      { "name": "KC +2.5", "odds": 1.67 },
+      { "name": "Over 21.5", "odds": 1.85 },
+      { "name": "Under 21.5", "odds": 1.85 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-26 17:00:00+0800",
-    "match_name": "Titan vs JD Map2",
-    "team1": "Titan",
-    "team2": "JD",
+    "time": "2024-02-27 03:00:00+0800",
+    "match_name": "Koi vs KC Map2",
+    "team1": "Koi",
+    "team2": "KC",
     "main_bet_list": [
-      { "name": "Titan Winner", "odds": 2.01 },
-      { "name": "JD Winner", "odds": 1.77 }
+      { "name": "Koi Winner", "odds": 1.8 },
+      { "name": "KC Winner", "odds": 1.96 }
     ],
     "more_bet_list": [
-      { "name": "Titan +2.5", "odds": 1.74 },
-      { "name": "JD -2.5", "odds": 2.02 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.9 }
+      { "name": "Koi -2.5", "odds": 2.09 },
+      { "name": "KC +2.5", "odds": 1.67 },
+      { "name": "Over 21.5", "odds": 1.85 },
+      { "name": "Under 21.5", "odds": 1.85 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-26 17:00:00+0800",
-    "match_name": "Titan vs JD Map3",
-    "team1": "Titan",
-    "team2": "JD",
+    "time": "2024-02-27 03:00:00+0800",
+    "match_name": "Koi vs KC Map3",
+    "team1": "Koi",
+    "team2": "KC",
     "main_bet_list": [
-      { "name": "Titan Winner", "odds": 2.01 },
-      { "name": "JD Winner", "odds": 1.77 }
+      { "name": "Koi Winner", "odds": 1.8 },
+      { "name": "KC Winner", "odds": 1.96 }
     ],
     "more_bet_list": [
-      { "name": "Titan +2.5", "odds": 1.74 },
-      { "name": "JD -2.5", "odds": 2.02 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.9 }
+      { "name": "Koi -2.5", "odds": 2.09 },
+      { "name": "KC +2.5", "odds": 1.67 },
+      { "name": "Over 21.5", "odds": 1.85 },
+      { "name": "Under 21.5", "odds": 1.85 }
     ]
   },
   {
