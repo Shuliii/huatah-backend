@@ -1,72 +1,72 @@
 [
   {
     "type": "Valorant",
-    "time": "2024-02-26 00:05:00+0800",
-    "match_name": "KC vs FUT Match",
-    "team1": "KC",
-    "team2": "FUT",
+    "time": "2024-02-26 09:55:00+0800",
+    "match_name": "G2 vs KRU Match",
+    "team1": "G2",
+    "team2": "KRU",
     "main_bet_list": [
-      { "name": "KC Winner", "odds": 2.81 },
-      { "name": "FUT Winner", "odds": 1.39 }
+      { "name": "G2 Winner", "odds": 1.43 },
+      { "name": "KRU Winner", "odds": 2.69 }
     ],
     "more_bet_list": [
-      { "name": "KC +1.5", "odds": 1.57 },
-      { "name": "FUT -1.5", "odds": 2.33 },
-      { "name": "Over 2.5", "odds": 2.0 },
-      { "name": "Under 2.5", "odds": 1.76 },
-      { "name": "Map score 2-0", "odds": 4.33 },
-      { "name": "Map score 2-1", "odds": 4.12 },
-      { "name": "Map score 0-2", "odds": 2.33 },
-      { "name": "Map score 1-2", "odds": 3.32 }
+      { "name": "G2 -1.5", "odds": 2.25 },
+      { "name": "KRU +1.5", "odds": 1.6 },
+      { "name": "Over 2.5", "odds": 2.14 },
+      { "name": "Under 2.5", "odds": 1.67 },
+      { "name": "Map score 2-0", "odds": 2.2 },
+      { "name": "Map score 2-1", "odds": 3.32 },
+      { "name": "Map score 0-2", "odds": 5.0 },
+      { "name": "Map score 1-2", "odds": 4.57 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-26 00:05:00+0800",
-    "match_name": "KC vs FUT Map1",
-    "team1": "KC",
-    "team2": "FUT",
+    "time": "2024-02-26 09:55:00+0800",
+    "match_name": "G2 vs KRU Map1",
+    "team1": "G2",
+    "team2": "KRU",
     "main_bet_list": [
-      { "name": "KC Winner", "odds": 2.36 },
-      { "name": "FUT Winner", "odds": 1.55 }
+      { "name": "G2 Winner", "odds": 1.5 },
+      { "name": "KRU Winner", "odds": 2.47 }
     ],
     "more_bet_list": [
-      { "name": "KC +2.5", "odds": 1.91 },
-      { "name": "FUT -2.5", "odds": 1.85 },
+      { "name": "G2 -3.5", "odds": 2.0 },
+      { "name": "KRU +3.5", "odds": 1.76 },
       { "name": "Over 21.5", "odds": 1.9 },
       { "name": "Under 21.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-26 00:45:00+0800",
-    "match_name": "KC vs FUT Map2",
-    "team1": "KC",
-    "team2": "FUT",
+    "time": "2024-02-26 10:35:00+0800",
+    "match_name": "G2 vs KRU Map2",
+    "team1": "G2",
+    "team2": "KRU",
     "main_bet_list": [
-      { "name": "KC Winner", "odds": 2.36 },
-      { "name": "FUT Winner", "odds": 1.55 }
+      { "name": "G2 Winner", "odds": 1.5 },
+      { "name": "KRU Winner", "odds": 2.47 }
     ],
     "more_bet_list": [
-      { "name": "KC +2.5", "odds": 1.91 },
-      { "name": "FUT -2.5", "odds": 1.85 },
+      { "name": "G2 -3.5", "odds": 2.0 },
+      { "name": "KRU +3.5", "odds": 1.76 },
       { "name": "Over 21.5", "odds": 1.9 },
       { "name": "Under 21.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-26 01:30:00+0800",
-    "match_name": "KC vs FUT Map3",
-    "team1": "KC",
-    "team2": "FUT",
+    "time": "2024-02-26 11:00:00+0800",
+    "match_name": "G2 vs KRU Map3",
+    "team1": "G2",
+    "team2": "KRU",
     "main_bet_list": [
-      { "name": "KC Winner", "odds": 2.36 },
-      { "name": "FUT Winner", "odds": 1.55 }
+      { "name": "G2 Winner", "odds": 1.5 },
+      { "name": "KRU Winner", "odds": 2.47 }
     ],
     "more_bet_list": [
-      { "name": "KC +2.5", "odds": 1.91 },
-      { "name": "FUT -2.5", "odds": 1.85 },
+      { "name": "G2 -3.5", "odds": 2.0 },
+      { "name": "KRU +3.5", "odds": 1.76 },
       { "name": "Over 21.5", "odds": 1.9 },
       { "name": "Under 21.5", "odds": 1.8 }
     ]
