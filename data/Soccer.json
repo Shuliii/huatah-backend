@@ -1,122 +1,110 @@
 [
   {
     "type": "Soccer",
-    "time": "2024-02-25 21:30:00+0800",
-    "match_name": "Wolves vs Sheffied",
-    "team1": "Wolves",
-    "team2": "Sheffied",
+    "time": "2024-02-28 03:30:00+0800",
+    "match_name": "Bournemouth vs Leicester",
+    "team1": "Bournemouth",
+    "team2": "Leicester",
     "main_bet_list": [
-      { "name": "Wolves Winner", "odds": 1.45 },
-      { "name": "Draw", "odds": 4.5 },
-      { "name": "Sheffied Winner", "odds": 6.9 }
+      { "name": "Bournemouth Winner", "odds": 1.55 },
+      { "name": "Draw", "odds": 4.2 },
+      { "name": "Leicester Winner", "odds": 5.1 }
     ],
     "more_bet_list": [
-      { "name": "Wolves -0.75", "odds": 1.59 },
-      { "name": "Sheffied +0.75", "odds": 2.34 },
-      { "name": "Wolves -1", "odds": 1.74 },
-      { "name": "Sheffied +1", "odds": 2.19 },
-      { "name": "Wolves -1.25", "odds": 2.05 },
-      { "name": "Sheffied +1.25", "odds": 1.88 },
-      { "name": "Wolves -1.5", "odds": 2.24 },
-      { "name": "Sheffied +1.5", "odds": 1.69 },
-      { "name": "Over 2.5", "odds": 1.73 },
-      { "name": "Under 2.5", "odds": 2.17 },
-      { "name": "Over 2.75", "odds": 1.95 },
-      { "name": "Under 2.75", "odds": 1.95 },
-      { "name": "Over 3", "odds": 2.2 },
-      { "name": "Under 3", "odds": 1.7 },
-      { "name": "Over 3.25", "odds": 2.36 },
-      { "name": "Under 3.25", "odds": 1.54 }
+      { "name": "Bournemouth -0.75", "odds": 1.75 },
+      { "name": "Leicester +0.75", "odds": 2.17 },
+      { "name": "Bournemouth -1", "odds": 1.99 },
+      { "name": "Leicester +1", "odds": 1.93 },
+      { "name": "Bournemouth -1.25", "odds": 2.23 },
+      { "name": "Leicester +1.25", "odds": 1.69 },
+      { "name": "Over 2.75", "odds": 1.65 },
+      { "name": "Under 2.75", "odds": 2.25 },
+      { "name": "Over 3", "odds": 1.82 },
+      { "name": "Under 3", "odds": 2.08 },
+      { "name": "Over 3.25", "odds": 2.1 },
+      { "name": "Under 3.25", "odds": 1.8 }
     ]
   },
   {
     "type": "Soccer",
-    "time": "2024-02-25 21:00:00+0800",
-    "match_name": "Cadiz vs Celta Vigo",
-    "team1": "Cadiz",
-    "team2": "Celta Vigo",
+    "time": "2024-02-28 03:45:00+0800",
+    "match_name": "Blackburn Rovers vs Newcastle",
+    "team1": "Blackburn Rovers",
+    "team2": "Newcastle",
     "main_bet_list": [
-      { "name": "Cadiz Winner", "odds": 3.1 },
-      { "name": "Draw", "odds": 3.05 },
-      { "name": "Celta Vigo Winner", "odds": 2.51 }
+      { "name": "Blackburn Rovers Winner", "odds": 6.1 },
+      { "name": "Draw", "odds": 4.7 },
+      { "name": "Newcastle Winner", "odds": 1.43 }
     ],
     "more_bet_list": [
-      { "name": "Cadiz -0", "odds": 2.22 },
-      { "name": "Celta Vigo +0", "odds": 1.72 },
-      { "name": "Cadiz -0.25", "odds": 2.41 },
-      { "name": "Celta Vigo +0.25", "odds": 1.53 },
-      { "name": "Cadiz +0.25", "odds": 1.78 },
-      { "name": "Celta Vigo -0.25", "odds": 2.16 },
-      { "name": "Cadiz +0.5", "odds": 1.6 },
-      { "name": "Celta Vigo -0.5", "odds": 2.34 },
+      { "name": "Blackburn Rovers +1", "odds": 2.22 },
+      { "name": "Newcastle -1", "odds": 1.72 },
+      { "name": "Blackburn Rovers +1.25", "odds": 2.41 },
+      { "name": "Newcastle -1.25", "odds": 1.53 },
+      { "name": "Blackburn Rovers +1.5", "odds": 1.78 },
+      { "name": "Newcastle -1.5", "odds": 2.16 },
+      { "name": "Over 3.25", "odds": 1.77 },
+      { "name": "Under 3.25", "odds": 2.13 },
+      { "name": "Over 3.5", "odds": 2.02 },
+      { "name": "Under 3.5", "odds": 1.88 },
+      { "name": "Over 3.75", "odds": 2.24 },
+      { "name": "Under 3.75", "odds": 1.66 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-02-28 04:00:00+0800",
+    "match_name": "Luton vs Man City",
+    "team1": "Luton",
+    "team2": "Man City",
+    "main_bet_list": [
+      { "name": "Luton Winner", "odds": 8.2 },
+      { "name": "Draw", "odds": 5.6 },
+      { "name": "Man City Winner", "odds": 1.27 }
+    ],
+    "more_bet_list": [
+      { "name": "Luton +1.5", "odds": 2.13 },
+      { "name": "Man City -1.5", "odds": 1.79 },
+      { "name": "Luton +1.75", "odds": 1.9 },
+      { "name": "Man City -1.75", "odds": 2.02 },
+      { "name": "Luton +2", "odds": 1.68 },
+      { "name": "Man City -2", "odds": 2.24 },
+      { "name": "Over 3", "odds": 1.72 },
+      { "name": "Under 3", "odds": 2.18 },
+      { "name": "Over 3.25", "odds": 1.95 },
+      { "name": "Under 3.25", "odds": 1.95 },
+      { "name": "Over 3.5", "odds": 2.15 },
+      { "name": "Under 3.5", "odds": 1.75 }
+    ]
+  },
+  {
+    "type": "Soccer",
+    "time": "2024-02-28 00:30:00+0800",
+    "match_name": "Real Sociedad vs Mallorca",
+    "team1": "Real Sociedad",
+    "team2": "Mallorca",
+    "main_bet_list": [
+      { "name": "Real Sociedad Winner", "odds": 1.54 },
+      { "name": "Draw", "odds": 3.7 },
+      { "name": "Mallorca Winner", "odds": 7.6 }
+    ],
+    "more_bet_list": [
+      { "name": "Real Sociedad -0.5", "odds": 1.54 },
+      { "name": "Mallorca +0.5", "odds": 2.38 },
+      { "name": "Real Sociedad -0.75", "odds": 1.74 },
+      { "name": "Mallorca +0.75", "odds": 2.18 },
+      { "name": "Real Sociedad -1", "odds": 2.06 },
+      { "name": "Mallorca +1", "odds": 1.86 },
+      { "name": "Real Sociedad -1.25", "odds": 2.31 },
+      { "name": "Mallorca +1.25", "odds": 1.61 },
       { "name": "Over 1.5", "odds": 1.55 },
-      { "name": "Under 1.5", "odds": 2.37 },
-      { "name": "Over 1.75", "odds": 1.72 },
+      { "name": "Under 1.5", "odds": 2.35 },
+      { "name": "Over 1.75", "odds": 1.7 },
       { "name": "Under 1.75", "odds": 2.2 },
-      { "name": "Over 2", "odds": 2.04 },
-      { "name": "Under 2", "odds": 1.88 },
-      { "name": "Over 2.25", "odds": 2.28 },
-      { "name": "Under 2.25", "odds": 1.64 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-02-25 23:15:00+0800",
-    "match_name": "Real Betis vs Athletic Club",
-    "team1": "Real Betis",
-    "team2": "Athletic Club",
-    "main_bet_list": [
-      { "name": "Real Betis Winner", "odds": 3.55 },
-      { "name": "Draw", "odds": 3.3 },
-      { "name": "Athletic Club Winner", "odds": 2.14 }
-    ],
-    "more_bet_list": [
-      { "name": "Real Betis +0", "odds": 2.41 },
-      { "name": "Athletic Club -0", "odds": 1.52 },
-      { "name": "Real Betis +0.25", "odds": 2.09 },
-      { "name": "Athletic Club -0.25", "odds": 1.84 },
-      { "name": "Real Betis +0.5", "odds": 1.8 },
-      { "name": "Athletic Club -0.5", "odds": 2.13 },
-      { "name": "Real Betis +0.75", "odds": 1.59 },
-      { "name": "Athletic Club -0.75", "odds": 2.34 },
-      { "name": "Over 2", "odds": 1.7 },
-      { "name": "Under 2", "odds": 2.2 },
-      { "name": "Over 2.25", "odds": 1.94 },
-      { "name": "Under 2.25", "odds": 1.96 },
-      { "name": "Over 2.5", "odds": 2.19 },
-      { "name": "Under 2.5", "odds": 1.71 },
-      { "name": "Over 2.75", "odds": 2.38 },
-      { "name": "Under 2.75", "odds": 1.52 }
-    ]
-  },
-  {
-    "type": "Soccer",
-    "time": "2024-02-26 01:30:00+0800",
-    "match_name": "Las Palmas vs Osasuna",
-    "team1": "Las Palmas",
-    "team2": "Osasuna",
-    "main_bet_list": [
-      { "name": "Las Palmas Winner", "odds": 2.49 },
-      { "name": "Draw", "odds": 3.1 },
-      { "name": "Osasuna Winner", "odds": 3.1 }
-    ],
-    "more_bet_list": [
-      { "name": "Las Palmas +0", "odds": 1.71 },
-      { "name": "Osasuna -0", "odds": 2.22 },
-      { "name": "Las Palmas +0.25", "odds": 1.5 },
-      { "name": "Osasuna -0.25", "odds": 2.43 },
-      { "name": "Las Palmas -0.25", "odds": 2.09 },
-      { "name": "Osasuna +0.25", "odds": 1.84 },
-      { "name": "Las Palmas -0.5", "odds": 2.33 },
-      { "name": "Osasuna +0.5", "odds": 1.6 },
-      { "name": "Over 1.75", "odds": 1.61 },
-      { "name": "Under 1.75", "odds": 2.29 },
-      { "name": "Over 2", "odds": 1.88 },
-      { "name": "Under 2", "odds": 2.02 },
-      { "name": "Over 2.25", "odds": 2.2 },
-      { "name": "Under 2.25", "odds": 1.7 },
-      { "name": "Over 2.5", "odds": 2.36 },
-      { "name": "Under 2.5", "odds": 1.54 }
+      { "name": "Over 2", "odds": 1.99 },
+      { "name": "Under 2", "odds": 1.91 },
+      { "name": "Over 2.25", "odds": 2.25 },
+      { "name": "Under 2.25", "odds": 1.65 }
     ]
   },
   {
