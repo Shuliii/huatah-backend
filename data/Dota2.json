@@ -1,114 +1,114 @@
 [
   {
     "type": "Dota2",
-    "time": "2024-02-26 19:00:00+0800",
-    "match_name": "Heroic vs Falcons Match",
-    "team1": "Heroic",
+    "time": "2024-02-27 19:00:00+0800",
+    "match_name": "IG vs AR Match",
+    "team1": "IG",
+    "team2": "AR",
+    "main_bet_list": [
+      { "name": "IG Winner", "odds": 4.71 },
+      { "name": "Draw", "odds": 1.9 },
+      { "name": "AR Winner", "odds": 2.49 }
+    ],
+    "more_bet_list": [
+      { "name": "IG -1.5", "odds": 4.03 },
+      { "name": "AR +1.5", "odds": 1.21 },
+      { "name": "IG +1.5", "odds": 1.48 },
+      { "name": "AR -1.5", "odds": 2.56 }
+    ]
+  },
+  {
+    "type": "Dota2",
+    "time": "2024-02-27 19:00:00+0800",
+    "match_name": "IG vs AR Map1",
+    "team1": "IG",
+    "team2": "AR",
+    "main_bet_list": [
+      { "name": "IG Winner", "odds": 2.16 },
+      { "name": "AR Winner", "odds": 1.66 }
+    ],
+    "more_bet_list": [
+      { "name": "IG Kills +8.5", "odds": 1.76 },
+      { "name": "AR Kills -8.5", "odds": 1.8 },
+      { "name": "Total kills Over 44.5", "odds": 1.88 },
+      { "name": "Total kills Under 44.5", "odds": 1.88 },
+      { "name": "Total time Over 37", "odds": 1.76 },
+      { "name": "Total time Under 37", "odds": 2.0 }
+    ]
+  },
+  {
+    "type": "Dota2",
+    "time": "2024-02-27 19:30:00+0800",
+    "match_name": "IG vs AR Map2",
+    "team1": "IG",
+    "team2": "AR",
+    "main_bet_list": [
+      { "name": "IG Winner", "odds": 2.16 },
+      { "name": "AR Winner", "odds": 1.66 }
+    ],
+    "more_bet_list": [
+      { "name": "IG Kills +8.5", "odds": 1.76 },
+      { "name": "AR Kills -8.5", "odds": 1.8 },
+      { "name": "Total kills Over 44.5", "odds": 1.88 },
+      { "name": "Total kills Under 44.5", "odds": 1.88 },
+      { "name": "Total time Over 37", "odds": 1.76 },
+      { "name": "Total time Under 37", "odds": 2.0 }
+    ]
+  },
+  {
+    "type": "Dota2",
+    "time": "2024-02-27 19:00:00+0800",
+    "match_name": "GG vs Falcons Match",
+    "team1": "GG",
     "team2": "Falcons",
     "main_bet_list": [
-      { "name": "Heroic Winner", "odds": 10.09 },
-      { "name": "Draw", "odds": 2.49 },
-      { "name": "Falcons Winner", "odds": 1.56 }
+      { "name": "GG Winner", "odds": 3.35 },
+      { "name": "Draw", "odds": 1.95 },
+      { "name": "Falcons Winner", "odds": 3.04 }
     ],
     "more_bet_list": [
-      { "name": "Heroic -1.5", "odds": 8.14 },
-      { "name": "Falcons +1.5", "odds": 1.06 },
-      { "name": "Heroic +1.5", "odds": 2.63 },
-      { "name": "Falcons -1.5", "odds": 1.45 }
+      { "name": "GG -1.5", "odds": 3.5 },
+      { "name": "Falcons +1.5", "odds": 1.28 },
+      { "name": "GG +1.5", "odds": 1.32 },
+      { "name": "Falcons -1.5", "odds": 3.17 }
     ]
   },
   {
     "type": "Dota2",
-    "time": "2024-02-26 19:00:00+0800",
-    "match_name": "Heroic vs Falcons Map1",
-    "team1": "Heroic",
+    "time": "2024-02-27 19:00:00+0800",
+    "match_name": "GG vs Falcons Map1",
+    "team1": "GG",
     "team2": "Falcons",
     "main_bet_list": [
-      { "name": "Heroic Winner", "odds": 3.7 },
-      { "name": "Falcons Winner", "odds": 1.25 }
+      { "name": "GG Winner", "odds": 1.92 },
+      { "name": "Falcons Winner", "odds": 1.84 }
     ],
     "more_bet_list": [
-      { "name": "Heroic Kills +11.5", "odds": 1.96 },
-      { "name": "Falcons Kills -11.5", "odds": 1.8 },
-      { "name": "Total kills Over 47.5", "odds": 1.68 },
-      { "name": "Total kills Under 47.5", "odds": 2.08 },
-      { "name": "Total time Over 37", "odds": 1.8 },
-      { "name": "Total time Under 37", "odds": 1.96 }
+      { "name": "GG Kills +3.5", "odds": 1.76 },
+      { "name": "Falcons Kills -3.5", "odds": 2.0 },
+      { "name": "Total kills Over 44.5", "odds": 1.94 },
+      { "name": "Total kills Under 44.5", "odds": 1.82 },
+      { "name": "Total time Over 38", "odds": 1.88 },
+      { "name": "Total time Under 38", "odds": 1.88 }
     ]
   },
   {
     "type": "Dota2",
-    "time": "2024-02-26 19:30:00+0800",
-    "match_name": "Heroic vs Falcons Map2",
-    "team1": "Heroic",
+    "time": "2024-02-27 19:30:00+0800",
+    "match_name": "GG vs Falcons Map2",
+    "team1": "GG",
     "team2": "Falcons",
     "main_bet_list": [
-      { "name": "Heroic Winner", "odds": 3.7 },
-      { "name": "Falcons Winner", "odds": 1.25 }
+      { "name": "GG Winner", "odds": 1.92 },
+      { "name": "Falcons Winner", "odds": 1.84 }
     ],
     "more_bet_list": [
-      { "name": "Heroic Kills +11.5", "odds": 1.96 },
-      { "name": "Falcons Kills -11.5", "odds": 1.8 },
-      { "name": "Total kills Over 47.5", "odds": 1.68 },
-      { "name": "Total kills Under 47.5", "odds": 2.08 },
-      { "name": "Total time Over 37", "odds": 1.8 },
-      { "name": "Total time Under 37", "odds": 1.96 }
-    ]
-  },
-  {
-    "type": "Dota2",
-    "time": "2024-02-26 19:00:00+0800",
-    "match_name": "GG vs OG Match",
-    "team1": "GG",
-    "team2": "OG",
-    "main_bet_list": [
-      { "name": "GG Winner", "odds": 1.97 },
-      { "name": "Draw", "odds": 2.0 },
-      { "name": "OG Winner", "odds": 7.53 }
-    ],
-    "more_bet_list": [
-      { "name": "GG -1.5", "odds": 2.09 },
-      { "name": "OG +1.5", "odds": 1.69 },
-      { "name": "GG +1.5", "odds": 1.13 },
-      { "name": "OG -1.5", "odds": 5.34 }
-    ]
-  },
-  {
-    "type": "Dota2",
-    "time": "2024-02-26 19:00:00+0800",
-    "match_name": "GG vs OG Map1",
-    "team1": "GG",
-    "team2": "OG",
-    "main_bet_list": [
-      { "name": "GG Winner", "odds": 1.45 },
-      { "name": "OG Winner", "odds": 2.63 }
-    ],
-    "more_bet_list": [
-      { "name": "GG Kills -11.5", "odds": 1.88 },
-      { "name": "OG Kills +11.5", "odds": 1.88 },
-      { "name": "Total kills Over 48.5", "odds": 1.95 },
-      { "name": "Total kills Under 48.5", "odds": 1.81 },
-      { "name": "Total time Over 37", "odds": 1.9 },
-      { "name": "Total time Under 37", "odds": 1.86 }
-    ]
-  },
-  {
-    "type": "Dota2",
-    "time": "2024-02-26 19:30:00+0800",
-    "match_name": "GG vs OG Map2",
-    "team1": "GG",
-    "team2": "OG",
-    "main_bet_list": [
-      { "name": "GG Winner", "odds": 1.45 },
-      { "name": "OG Winner", "odds": 2.63 }
-    ],
-    "more_bet_list": [
-      { "name": "GG Kills -11.5", "odds": 1.88 },
-      { "name": "OG Kills +11.5", "odds": 1.88 },
-      { "name": "Total kills Over 48.5", "odds": 1.95 },
-      { "name": "Total kills Under 48.5", "odds": 1.81 },
-      { "name": "Total time Over 37", "odds": 1.9 },
-      { "name": "Total time Under 37", "odds": 1.86 }
+      { "name": "GG Kills +3.5", "odds": 1.76 },
+      { "name": "Falcons Kills -3.5", "odds": 2.0 },
+      { "name": "Total kills Over 44.5", "odds": 1.94 },
+      { "name": "Total kills Under 44.5", "odds": 1.82 },
+      { "name": "Total time Over 38", "odds": 1.88 },
+      { "name": "Total time Under 38", "odds": 1.88 }
     ]
   },
   {
