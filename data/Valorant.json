@@ -2,16 +2,16 @@
   {
     "type": "Valorant",
     "time": "2024-02-27 21:30:00+0800",
-    "match_name": "Bilibili vs Trace Match",
-    "team1": "Bilibili",
-    "team2": "Trace",
+    "match_name": "Heretics vs Navi Match",
+    "team1": "Heretics",
+    "team2": "Navi",
     "main_bet_list": [
-      { "name": "Bilibili Winner", "odds": 1.77 },
-      { "name": "Trace Winner", "odds": 2.01 }
+      { "name": "Heretics Winner", "odds": 1.77 },
+      { "name": "Navi Winner", "odds": 2.01 }
     ],
     "more_bet_list": [
-      { "name": "Bilibili -1.5", "odds": 2.96 },
-      { "name": "Trace +1.5", "odds": 1.37 },
+      { "name": "Heretics -1.5", "odds": 2.96 },
+      { "name": "Navi +1.5", "odds": 1.37 },
       { "name": "Over 2.5", "odds": 1.88 },
       { "name": "Under 2.5", "odds": 1.88 },
       { "name": "Map score 2-0", "odds": 3.12 },
@@ -23,16 +23,16 @@
   {
     "type": "Valorant",
     "time": "2024-02-27 21:30:00+0800",
-    "match_name": "Bilibili vs Trace Map1",
-    "team1": "Bilibili",
-    "team2": "Trace",
+    "match_name": "Heretics vs Navi Map1",
+    "team1": "Heretics",
+    "team2": "Navi",
     "main_bet_list": [
-      { "name": "Bilibili Winner", "odds": 1.8 },
-      { "name": "Trace Winner", "odds": 1.96 }
+      { "name": "Heretics Winner", "odds": 1.8 },
+      { "name": "Navi Winner", "odds": 1.96 }
     ],
     "more_bet_list": [
-      { "name": "Bilibili -2.5", "odds": 2.01 },
-      { "name": "Trace +2.5", "odds": 1.75 },
+      { "name": "Heretics -2.5", "odds": 2.01 },
+      { "name": "Navi +2.5", "odds": 1.75 },
       { "name": "Over 21.5", "odds": 1.7 },
       { "name": "Under 21.5", "odds": 2.0 }
     ]
@@ -40,16 +40,16 @@
   {
     "type": "Valorant",
     "time": "2024-02-27 21:30:00+0800",
-    "match_name": "Bilibili vs Trace Map2",
-    "team1": "Bilibili",
-    "team2": "Trace",
+    "match_name": "Heretics vs Navi Map2",
+    "team1": "Heretics",
+    "team2": "Navi",
     "main_bet_list": [
-      { "name": "Bilibili Winner", "odds": 1.8 },
-      { "name": "Trace Winner", "odds": 1.96 }
+      { "name": "Heretics Winner", "odds": 1.8 },
+      { "name": "Navi Winner", "odds": 1.96 }
     ],
     "more_bet_list": [
-      { "name": "Bilibili -2.5", "odds": 2.01 },
-      { "name": "Trace +2.5", "odds": 1.75 },
+      { "name": "Heretics -2.5", "odds": 2.01 },
+      { "name": "Navi +2.5", "odds": 1.75 },
       { "name": "Over 21.5", "odds": 1.7 },
       { "name": "Under 21.5", "odds": 2.0 }
     ]
@@ -57,16 +57,16 @@
   {
     "type": "Valorant",
     "time": "2024-02-27 21:30:00+0800",
-    "match_name": "Bilibili vs Trace Map3",
-    "team1": "Bilibili",
-    "team2": "Trace",
+    "match_name": "Heretics vs Navi Map3",
+    "team1": "Heretics",
+    "team2": "Navi",
     "main_bet_list": [
-      { "name": "Bilibili Winner", "odds": 1.8 },
-      { "name": "Trace Winner", "odds": 1.96 }
+      { "name": "Heretics Winner", "odds": 1.8 },
+      { "name": "Navi Winner", "odds": 1.96 }
     ],
     "more_bet_list": [
-      { "name": "Bilibili -2.5", "odds": 2.01 },
-      { "name": "Trace +2.5", "odds": 1.75 },
+      { "name": "Heretics -2.5", "odds": 2.01 },
+      { "name": "Navi +2.5", "odds": 1.75 },
       { "name": "Over 21.5", "odds": 1.7 },
       { "name": "Under 21.5", "odds": 2.0 }
     ]
@@ -74,16 +74,16 @@
   {
     "type": "Valorant",
     "time": "2024-02-27 00:00:00+0800",
-    "match_name": "Vitality vs KOI Match",
-    "team1": "Vitality",
-    "team2": "KOI",
+    "match_name": "Fnatic vs KC Match",
+    "team1": "Fnatic",
+    "team2": "KC",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.7 },
-      { "name": "KOI Winner", "odds": 2.08 }
+      { "name": "Fnatic Winner", "odds": 1.7 },
+      { "name": "KC Winner", "odds": 2.08 }
     ],
     "more_bet_list": [
-      { "name": "Vitality -1.5", "odds": 2.75 },
-      { "name": "KOI +1.5", "odds": 1.41 },
+      { "name": "Fnatic -1.5", "odds": 2.75 },
+      { "name": "KC +1.5", "odds": 1.41 },
       { "name": "Over 2.5", "odds": 1.96 },
       { "name": "Under 2.5", "odds": 1.8 },
       { "name": "Map score 2-0", "odds": 2.78 },
@@ -95,16 +95,16 @@
   {
     "type": "Valorant",
     "time": "2024-02-27 00:00:00+0800",
-    "match_name": "Vitality vs KOI Map1",
-    "team1": "Vitality",
-    "team2": "KOI",
+    "match_name": "Fnatic vs KC Map1",
+    "team1": "Fnatic",
+    "team2": "KC",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.73 },
-      { "name": "KOI Winner", "odds": 2.05 }
+      { "name": "Fnatic Winner", "odds": 1.73 },
+      { "name": "KC Winner", "odds": 2.05 }
     ],
     "more_bet_list": [
-      { "name": "Vitality -2.5", "odds": 2.08 },
-      { "name": "KOI +2.5", "odds": 1.68 },
+      { "name": "Fnatic -2.5", "odds": 2.08 },
+      { "name": "KC +2.5", "odds": 1.68 },
       { "name": "Over 21.5", "odds": 1.85 },
       { "name": "Under 21.5", "odds": 1.85 }
     ]
@@ -112,16 +112,16 @@
   {
     "type": "Valorant",
     "time": "2024-02-27 00:00:00+0800",
-    "match_name": "Vitality vs KOI Map2",
-    "team1": "Vitality",
-    "team2": "KOI",
+    "match_name": "Fnatic vs KC Map2",
+    "team1": "Fnatic",
+    "team2": "KC",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.73 },
-      { "name": "KOI Winner", "odds": 2.05 }
+      { "name": "Fnatic Winner", "odds": 1.73 },
+      { "name": "KC Winner", "odds": 2.05 }
     ],
     "more_bet_list": [
-      { "name": "Vitality -2.5", "odds": 2.08 },
-      { "name": "KOI +2.5", "odds": 1.68 },
+      { "name": "Fnatic -2.5", "odds": 2.08 },
+      { "name": "KC +2.5", "odds": 1.68 },
       { "name": "Over 21.5", "odds": 1.85 },
       { "name": "Under 21.5", "odds": 1.85 }
     ]
@@ -129,16 +129,16 @@
   {
     "type": "Valorant",
     "time": "2024-02-27 00:00:00+0800",
-    "match_name": "Vitality vs KOI Map3",
-    "team1": "Vitality",
-    "team2": "KOI",
+    "match_name": "Fnatic vs KC Map3",
+    "team1": "Fnatic",
+    "team2": "KC",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.73 },
-      { "name": "KOI Winner", "odds": 2.05 }
+      { "name": "Fnatic Winner", "odds": 1.73 },
+      { "name": "KC Winner", "odds": 2.05 }
     ],
     "more_bet_list": [
-      { "name": "Vitality -2.5", "odds": 2.08 },
-      { "name": "KOI +2.5", "odds": 1.68 },
+      { "name": "Fnatic -2.5", "odds": 2.08 },
+      { "name": "KC +2.5", "odds": 1.68 },
       { "name": "Over 21.5", "odds": 1.85 },
       { "name": "Under 21.5", "odds": 1.85 }
     ]
