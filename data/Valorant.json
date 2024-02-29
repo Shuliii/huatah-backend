@@ -1,146 +1,146 @@
 [
   {
     "type": "Valorant",
-    "time": "2024-02-27 21:30:00+0800",
+    "time": "2024-03-01 00:00:00+0800",
     "match_name": "Heretics vs Navi Match",
     "team1": "Heretics",
     "team2": "Navi",
     "main_bet_list": [
-      { "name": "Heretics Winner", "odds": 1.77 },
-      { "name": "Navi Winner", "odds": 2.01 }
+      { "name": "Heretics Winner", "odds": 3.04 },
+      { "name": "Navi Winner", "odds": 1.35 }
     ],
     "more_bet_list": [
-      { "name": "Heretics -1.5", "odds": 2.96 },
-      { "name": "Navi +1.5", "odds": 1.37 },
-      { "name": "Over 2.5", "odds": 1.88 },
-      { "name": "Under 2.5", "odds": 1.88 },
-      { "name": "Map score 2-0", "odds": 3.12 },
-      { "name": "Map score 2-1", "odds": 3.5 },
-      { "name": "Map score 0-2", "odds": 3.32 },
-      { "name": "Map score 1-2", "odds": 3.5 }
+      { "name": "Heretics +1.5", "odds": 1.78 },
+      { "name": "Navi -1.5", "odds": 2.0 },
+      { "name": "Over 2.5", "odds": 2.13 },
+      { "name": "Under 2.5", "odds": 1.68 },
+      { "name": "Map score 2-0", "odds": 5.54 },
+      { "name": "Map score 2-1", "odds": 5.0 },
+      { "name": "Map score 0-2", "odds": 2.0 },
+      { "name": "Map score 1-2", "odds": 3.32 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-27 21:30:00+0800",
+    "time": "2024-03-01 00:00:00+0800",
     "match_name": "Heretics vs Navi Map1",
     "team1": "Heretics",
     "team2": "Navi",
     "main_bet_list": [
-      { "name": "Heretics Winner", "odds": 1.8 },
-      { "name": "Navi Winner", "odds": 1.96 }
+      { "name": "Heretics Winner", "odds": 2.78 },
+      { "name": "Navi Winner", "odds": 1.4 }
     ],
     "more_bet_list": [
-      { "name": "Heretics -2.5", "odds": 2.01 },
-      { "name": "Navi +2.5", "odds": 1.75 },
-      { "name": "Over 21.5", "odds": 1.7 },
-      { "name": "Under 21.5", "odds": 2.0 }
+      { "name": "Heretics +3.5", "odds": 1.96 },
+      { "name": "Navi -3.5", "odds": 1.8 },
+      { "name": "Over 21.5", "odds": 2.0 },
+      { "name": "Under 21.5", "odds": 1.7 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-27 21:30:00+0800",
+    "time": "2024-03-01 00:30:00+0800",
     "match_name": "Heretics vs Navi Map2",
     "team1": "Heretics",
     "team2": "Navi",
     "main_bet_list": [
-      { "name": "Heretics Winner", "odds": 1.8 },
-      { "name": "Navi Winner", "odds": 1.96 }
+      { "name": "Heretics Winner", "odds": 2.78 },
+      { "name": "Navi Winner", "odds": 1.4 }
     ],
     "more_bet_list": [
-      { "name": "Heretics -2.5", "odds": 2.01 },
-      { "name": "Navi +2.5", "odds": 1.75 },
-      { "name": "Over 21.5", "odds": 1.7 },
-      { "name": "Under 21.5", "odds": 2.0 }
+      { "name": "Heretics +3.5", "odds": 1.96 },
+      { "name": "Navi -3.5", "odds": 1.8 },
+      { "name": "Over 21.5", "odds": 2.0 },
+      { "name": "Under 21.5", "odds": 1.7 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-27 21:30:00+0800",
+    "time": "2024-03-01 00:30:00+0800",
     "match_name": "Heretics vs Navi Map3",
     "team1": "Heretics",
     "team2": "Navi",
     "main_bet_list": [
-      { "name": "Heretics Winner", "odds": 1.8 },
-      { "name": "Navi Winner", "odds": 1.96 }
+      { "name": "Heretics Winner", "odds": 2.78 },
+      { "name": "Navi Winner", "odds": 1.4 }
     ],
     "more_bet_list": [
-      { "name": "Heretics -2.5", "odds": 2.01 },
-      { "name": "Navi +2.5", "odds": 1.75 },
-      { "name": "Over 21.5", "odds": 1.7 },
-      { "name": "Under 21.5", "odds": 2.0 }
+      { "name": "Heretics +3.5", "odds": 1.96 },
+      { "name": "Navi -3.5", "odds": 1.8 },
+      { "name": "Over 21.5", "odds": 2.0 },
+      { "name": "Under 21.5", "odds": 1.7 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-27 00:00:00+0800",
+    "time": "2024-03-01 03:00:00+0800",
     "match_name": "Fnatic vs KC Match",
     "team1": "Fnatic",
     "team2": "KC",
     "main_bet_list": [
-      { "name": "Fnatic Winner", "odds": 1.7 },
-      { "name": "KC Winner", "odds": 2.08 }
+      { "name": "Fnatic Winner", "odds": 1.12 },
+      { "name": "KC Winner", "odds": 5.54 }
     ],
     "more_bet_list": [
-      { "name": "Fnatic -1.5", "odds": 2.75 },
-      { "name": "KC +1.5", "odds": 1.41 },
-      { "name": "Over 2.5", "odds": 1.96 },
-      { "name": "Under 2.5", "odds": 1.8 },
-      { "name": "Map score 2-0", "odds": 2.78 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 4.03 },
-      { "name": "Map score 1-2", "odds": 3.5 }
+      { "name": "Fnatic -1.5", "odds": 1.63 },
+      { "name": "KC +1.5", "odds": 2.2 },
+      { "name": "Over 2.5", "odds": 2.47 },
+      { "name": "Under 2.5", "odds": 1.5 },
+      { "name": "Map score 2-0", "odds": 1.63 },
+      { "name": "Map score 2-1", "odds": 3.43 },
+      { "name": "Map score 0-2", "odds": 7.66 },
+      { "name": "Map score 1-2", "odds": 6.0 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-27 00:00:00+0800",
+    "time": "2024-03-01 03:00:00+0800",
     "match_name": "Fnatic vs KC Map1",
     "team1": "Fnatic",
     "team2": "KC",
     "main_bet_list": [
-      { "name": "Fnatic Winner", "odds": 1.73 },
-      { "name": "KC Winner", "odds": 2.05 }
+      { "name": "Fnatic Winner", "odds": 1.25 },
+      { "name": "KC Winner", "odds": 3.7 }
     ],
     "more_bet_list": [
-      { "name": "Fnatic -2.5", "odds": 2.08 },
-      { "name": "KC +2.5", "odds": 1.68 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.85 }
+      { "name": "Fnatic -4.5", "odds": 1.8 },
+      { "name": "KC +4.5", "odds": 1.96 },
+      { "name": "Over 20.5", "odds": 1.9 },
+      { "name": "Under 20.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-27 00:00:00+0800",
+    "time": "2024-03-01 03:00:00+0800",
     "match_name": "Fnatic vs KC Map2",
     "team1": "Fnatic",
     "team2": "KC",
     "main_bet_list": [
-      { "name": "Fnatic Winner", "odds": 1.73 },
-      { "name": "KC Winner", "odds": 2.05 }
+      { "name": "Fnatic Winner", "odds": 1.25 },
+      { "name": "KC Winner", "odds": 3.7 }
     ],
     "more_bet_list": [
-      { "name": "Fnatic -2.5", "odds": 2.08 },
-      { "name": "KC +2.5", "odds": 1.68 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.85 }
+      { "name": "Fnatic -4.5", "odds": 1.8 },
+      { "name": "KC +4.5", "odds": 1.96 },
+      { "name": "Over 20.5", "odds": 1.9 },
+      { "name": "Under 20.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-27 00:00:00+0800",
+    "time": "2024-03-01 03:00:00+0800",
     "match_name": "Fnatic vs KC Map3",
     "team1": "Fnatic",
     "team2": "KC",
     "main_bet_list": [
-      { "name": "Fnatic Winner", "odds": 1.73 },
-      { "name": "KC Winner", "odds": 2.05 }
+      { "name": "Fnatic Winner", "odds": 1.25 },
+      { "name": "KC Winner", "odds": 3.7 }
     ],
     "more_bet_list": [
-      { "name": "Fnatic -2.5", "odds": 2.08 },
-      { "name": "KC +2.5", "odds": 1.68 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.85 }
+      { "name": "Fnatic -4.5", "odds": 1.8 },
+      { "name": "KC +4.5", "odds": 1.96 },
+      { "name": "Over 20.5", "odds": 1.9 },
+      { "name": "Under 20.5", "odds": 1.8 }
     ]
   },
   {
