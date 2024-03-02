@@ -113,146 +113,146 @@
   },
   {
     "type": "Valorant",
-    "time": "2024-03-01 19:00:00+0800",
-    "match_name": "EDG vs Trace Match",
-    "team1": "EDG",
-    "team2": "Trace",
+    "time": "2024-03-03 06:00:00+0800",
+    "match_name": "EG vs Loud Match",
+    "team1": "EG",
+    "team2": "Loud",
     "main_bet_list": [
-      { "name": "EDG Winner", "odds": 1.2 },
-      { "name": "Trace Winner", "odds": 4.12 }
+      { "name": "EG Winner", "odds": 4.57 },
+      { "name": "Loud Winner", "odds": 1.18 }
     ],
     "more_bet_list": [
-      { "name": "EDG -1.5", "odds": 1.66 },
-      { "name": "Trace +1.5", "odds": 2.16 },
-      { "name": "Over 2.5", "odds": 2.63 },
-      { "name": "Under 2.5", "odds": 1.45 },
-      { "name": "Map score 2-0", "odds": 1.66 },
-      { "name": "Map score 2-1", "odds": 3.56 },
-      { "name": "Map score 0-2", "odds": 9.33 },
-      { "name": "Map score 1-2", "odds": 7.66 }
+      { "name": "EG +1.5", "odds": 2.07 },
+      { "name": "Loud -1.5", "odds": 1.71 },
+      { "name": "Over 2.5", "odds": 2.25 },
+      { "name": "Under 2.5", "odds": 1.6 },
+      { "name": "Map score 2-0", "odds": 7.25 },
+      { "name": "Map score 2-1", "odds": 5.34 },
+      { "name": "Map score 0-2", "odds": 1.71 },
+      { "name": "Map score 1-2", "odds": 3.27 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-03-01 19:00:00+0800",
-    "match_name": "EDG vs Trace Map1",
-    "team1": "EDG",
-    "team2": "Trace",
+    "time": "2024-03-03 06:00:00+0800",
+    "match_name": "EG vs Loud Map1",
+    "team1": "EG",
+    "team2": "Loud",
     "main_bet_list": [
-      { "name": "EDG Winner", "odds": 1.29 },
-      { "name": "Trace Winner", "odds": 3.43 }
+      { "name": "EG Winner", "odds": 3.77 },
+      { "name": "Loud Winner", "odds": 1.24 }
     ],
     "more_bet_list": [
-      { "name": "EDG -4.5", "odds": 1.98 },
-      { "name": "Trace +4.5", "odds": 1.78 },
-      { "name": "Over 20.5", "odds": 1.73 },
-      { "name": "Under 20.5", "odds": 1.97 }
+      { "name": "EG +4.5", "odds": 1.81 },
+      { "name": "Loud -4.5", "odds": 1.95 },
+      { "name": "Over 20.5", "odds": 1.88 },
+      { "name": "Under 20.5", "odds": 1.82 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-03-01 19:00:00+0800",
-    "match_name": "EDG vs Trace Map2",
-    "team1": "EDG",
-    "team2": "Trace",
+    "time": "2024-03-03 06:00:00+0800",
+    "match_name": "EG vs Loud Map2",
+    "team1": "EG",
+    "team2": "Loud",
     "main_bet_list": [
-      { "name": "EDG Winner", "odds": 1.29 },
-      { "name": "Trace Winner", "odds": 3.43 }
+      { "name": "EG Winner", "odds": 3.77 },
+      { "name": "Loud Winner", "odds": 1.24 }
     ],
     "more_bet_list": [
-      { "name": "EDG -4.5", "odds": 1.98 },
-      { "name": "Trace +4.5", "odds": 1.78 },
-      { "name": "Over 20.5", "odds": 1.73 },
-      { "name": "Under 20.5", "odds": 1.97 }
+      { "name": "EG +4.5", "odds": 1.81 },
+      { "name": "Loud -4.5", "odds": 1.95 },
+      { "name": "Over 20.5", "odds": 1.88 },
+      { "name": "Under 20.5", "odds": 1.82 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-03-01 19:00:00+0800",
-    "match_name": "EDG vs Trace Map3",
-    "team1": "EDG",
-    "team2": "Trace",
+    "time": "2024-03-03 06:00:00+0800",
+    "match_name": "EG vs Loud Map3",
+    "team1": "EG",
+    "team2": "Loud",
     "main_bet_list": [
-      { "name": "EDG Winner", "odds": 1.29 },
-      { "name": "Trace Winner", "odds": 3.43 }
+      { "name": "EG Winner", "odds": 3.77 },
+      { "name": "Loud Winner", "odds": 1.24 }
     ],
     "more_bet_list": [
-      { "name": "EDG -4.5", "odds": 1.98 },
-      { "name": "Trace +4.5", "odds": 1.78 },
-      { "name": "Over 20.5", "odds": 1.73 },
-      { "name": "Under 20.5", "odds": 1.97 }
+      { "name": "EG +4.5", "odds": 1.81 },
+      { "name": "Loud -4.5", "odds": 1.95 },
+      { "name": "Over 20.5", "odds": 1.88 },
+      { "name": "Under 20.5", "odds": 1.82 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-27 03:00:00+0800",
-    "match_name": "Koi vs KC Match",
-    "team1": "Koi",
-    "team2": "KC",
+    "time": "2024-03-02 09:00:00+0800",
+    "match_name": "NRG vs Sentinels Match",
+    "team1": "NRG",
+    "team2": "Sentinels",
     "main_bet_list": [
-      { "name": "Koi Winner", "odds": 1.73 },
-      { "name": "KC Winner", "odds": 2.05 }
+      { "name": "NRG Winner", "odds": 1.55 },
+      { "name": "Sentinels Winner", "odds": 2.36 }
     ],
     "more_bet_list": [
-      { "name": "Koi -1.5", "odds": 3.08 },
-      { "name": "KC +1.5", "odds": 1.34 },
-      { "name": "Over 2.5", "odds": 1.91 },
-      { "name": "Under 2.5", "odds": 1.85 },
-      { "name": "Map score 2-0", "odds": 3.08 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 3.5 },
-      { "name": "Map score 1-2", "odds": 3.38 }
+      { "name": "NRG -1.5", "odds": 2.78 },
+      { "name": "Sentinels +1.5", "odds": 1.4 },
+      { "name": "Over 2.5", "odds": 1.88 },
+      { "name": "Under 2.5", "odds": 1.88 },
+      { "name": "Map score 2-0", "odds": 2.75 },
+      { "name": "Map score 2-1", "odds": 3.38 },
+      { "name": "Map score 0-2", "odds": 4.33 },
+      { "name": "Map score 1-2", "odds": 4.33 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-27 03:00:00+0800",
-    "match_name": "Koi vs KC Map1",
-    "team1": "Koi",
-    "team2": "KC",
+    "time": "2024-03-02 09:00:00+0800",
+    "match_name": "NRG vs Sentinels Map1",
+    "team1": "NRG",
+    "team2": "Sentinels",
     "main_bet_list": [
-      { "name": "Koi Winner", "odds": 1.8 },
-      { "name": "KC Winner", "odds": 1.96 }
+      { "name": "NRG Winner", "odds": 1.67 },
+      { "name": "Sentinels Winner", "odds": 2.14 }
     ],
     "more_bet_list": [
-      { "name": "Koi -2.5", "odds": 2.09 },
-      { "name": "KC +2.5", "odds": 1.67 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.85 }
+      { "name": "NRG -2.5", "odds": 2.06 },
+      { "name": "Sentinels +2.5", "odds": 1.7 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-27 03:00:00+0800",
-    "match_name": "Koi vs KC Map2",
-    "team1": "Koi",
-    "team2": "KC",
+    "time": "2024-03-02 09:30:00+0800",
+    "match_name": "NRG vs Sentinels Map2",
+    "team1": "NRG",
+    "team2": "Sentinels",
     "main_bet_list": [
-      { "name": "Koi Winner", "odds": 1.8 },
-      { "name": "KC Winner", "odds": 1.96 }
+      { "name": "NRG Winner", "odds": 1.67 },
+      { "name": "Sentinels Winner", "odds": 2.14 }
     ],
     "more_bet_list": [
-      { "name": "Koi -2.5", "odds": 2.09 },
-      { "name": "KC +2.5", "odds": 1.67 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.85 }
+      { "name": "NRG -2.5", "odds": 2.06 },
+      { "name": "Sentinels +2.5", "odds": 1.7 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-02-27 03:00:00+0800",
-    "match_name": "Koi vs KC Map3",
-    "team1": "Koi",
-    "team2": "KC",
+    "time": "2024-03-02 10:00:00+0800",
+    "match_name": "NRG vs Sentinels Map3",
+    "team1": "NRG",
+    "team2": "Sentinels",
     "main_bet_list": [
-      { "name": "Koi Winner", "odds": 1.8 },
-      { "name": "KC Winner", "odds": 1.96 }
+      { "name": "NRG Winner", "odds": 1.67 },
+      { "name": "Sentinels Winner", "odds": 2.14 }
     ],
     "more_bet_list": [
-      { "name": "Koi -2.5", "odds": 2.09 },
-      { "name": "KC +2.5", "odds": 1.67 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.85 }
+      { "name": "NRG -2.5", "odds": 2.06 },
+      { "name": "Sentinels +2.5", "odds": 1.7 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
     ]
   },
   {
