@@ -1,144 +1,144 @@
 [
   {
     "type": "Valorant",
-    "time": "2024-03-14 23:00:00+0800",
-    "match_name": "KC vs FPX Match",
-    "team1": "KC",
-    "team2": "FPX",
+    "time": "2024-03-15 23:00:00+0800",
+    "match_name": "EDG vs PRX Match",
+    "team1": "EDG",
+    "team2": "PRX",
     "main_bet_list": [
-      { "name": "KC Winner", "odds": 1.21 },
-      { "name": "FPX Winner", "odds": 4.03 }
+      { "name": "EDG Winner", "odds": 2.16 },
+      { "name": "PRX Winner", "odds": 1.66 }
     ],
     "more_bet_list": [
-      { "name": "KC -1.5", "odds": 1.7 },
-      { "name": "FPX +1.5", "odds": 2.08 },
-      { "name": "Over 2.5", "odds": 2.16 },
-      { "name": "Under 2.5", "odds": 1.66 },
-      { "name": "Map score 2-0", "odds": 1.76 },
-      { "name": "Map score 2-1", "odds": 3.08 },
-      { "name": "Map score 0-2", "odds": 8.14 },
-      { "name": "Map score 1-2", "odds": 7.66 }
+      { "name": "EDG -1.5", "odds": 3.94 },
+      { "name": "PRX +1.5", "odds": 1.22 },
+      { "name": "Over 2.5", "odds": 1.78 },
+      { "name": "Under 2.5", "odds": 1.98 },
+      { "name": "Map score 2-0", "odds": 3.56 },
+      { "name": "Map score 2-1", "odds": 3.94 },
+      { "name": "Map score 0-2", "odds": 2.75 },
+      { "name": "Map score 1-2", "odds": 3.32 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-03-14 23:00:00+0800",
-    "match_name": "KC vs FPX Map1",
-    "team1": "KC",
-    "team2": "FPX",
+    "time": "2024-03-15 23:00:00+0800",
+    "match_name": "EDG vs PRX Map1",
+    "team1": "EDG",
+    "team2": "PRX",
     "main_bet_list": [
-      { "name": "KC Winner", "odds": 1.35 },
-      { "name": "FPX Winner", "odds": 3.04 }
+      { "name": "EDG Winner", "odds": 2.08 },
+      { "name": "PRX Winner", "odds": 1.7 }
     ],
     "more_bet_list": [
-      { "name": "KC -4.5", "odds": 1.96 },
-      { "name": "FPX +4.5", "odds": 1.8 },
-      { "name": "Over 20.5", "odds": 1.76 },
-      { "name": "Under 20.5", "odds": 1.94 }
+      { "name": "EDG +2.5", "odds": 1.71 },
+      { "name": "PRX -2.5", "odds": 2.05 },
+      { "name": "Over 21.5", "odds": 1.85 },
+      { "name": "Under 21.5", "odds": 1.85 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-03-15 00:05:00+0800",
-    "match_name": "KC vs FPX Map2",
-    "team1": "KC",
-    "team2": "FPX",
+    "time": "2024-03-16 00:05:00+0800",
+    "match_name": "EDG vs PRX Map2",
+    "team1": "EDG",
+    "team2": "PRX",
     "main_bet_list": [
-      { "name": "KC Winner", "odds": 1.35 },
-      { "name": "FPX Winner", "odds": 3.04 }
+      { "name": "EDG Winner", "odds": 2.08 },
+      { "name": "PRX Winner", "odds": 1.7 }
     ],
     "more_bet_list": [
-      { "name": "KC -4.5", "odds": 1.96 },
-      { "name": "FPX +4.5", "odds": 1.8 },
-      { "name": "Over 20.5", "odds": 1.76 },
-      { "name": "Under 20.5", "odds": 1.94 }
+      { "name": "EDG +2.5", "odds": 1.71 },
+      { "name": "PRX -2.5", "odds": 2.05 },
+      { "name": "Over 21.5", "odds": 1.85 },
+      { "name": "Under 21.5", "odds": 1.85 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-03-15 00:40:00+0800",
-    "match_name": "KC vs FPX Map3",
-    "team1": "KC",
-    "team2": "FPX",
+    "time": "2024-03-16 00:40:00+0800",
+    "match_name": "EDG vs PRX Map3",
+    "team1": "EDG",
+    "team2": "PRX",
     "main_bet_list": [
-      { "name": "KC Winner", "odds": 1.35 },
-      { "name": "FPX Winner", "odds": 3.04 }
+      { "name": "EDG Winner", "odds": 2.08 },
+      { "name": "PRX Winner", "odds": 1.7 }
     ],
     "more_bet_list": [
-      { "name": "KC -4.5", "odds": 1.96 },
-      { "name": "FPX +4.5", "odds": 1.8 },
-      { "name": "Over 20.5", "odds": 1.76 },
-      { "name": "Under 20.5", "odds": 1.94 }
+      { "name": "EDG +2.5", "odds": 1.71 },
+      { "name": "PRX -2.5", "odds": 2.05 },
+      { "name": "Over 21.5", "odds": 1.85 },
+      { "name": "Under 21.5", "odds": 1.85 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-03-15 01:30:00+0800",
-    "match_name": "Gen.G vs Loud Match",
-    "team1": "Gen.G",
-    "team2": "Loud",
+    "time": "2024-03-16 01:30:00+0800",
+    "match_name": "SEN vs Heretics Match",
+    "team1": "SEN",
+    "team2": "Heretics",
     "main_bet_list": [
-      { "name": "Gen.G Winner", "odds": 2.78 },
-      { "name": "Loud Winner", "odds": 1.4 }
+      { "name": "SEN Winner", "odds": 1.36 },
+      { "name": "Heretics Winner", "odds": 3.0 }
     ],
     "more_bet_list": [
-      { "name": "Gen.G +1.5", "odds": 1.53 },
-      { "name": "Loud -1.5", "odds": 2.4 },
-      { "name": "Over 2.5", "odds": 2.0 },
-      { "name": "Under 2.5", "odds": 1.76 },
-      { "name": "Map score 2-0", "odds": 5.54 },
-      { "name": "Map score 2-1", "odds": 5.0 },
-      { "name": "Map score 0-2", "odds": 2.36 },
-      { "name": "Map score 1-2", "odds": 3.22 }
+      { "name": "SEN -1.5", "odds": 2.4 },
+      { "name": "Heretics +1.5", "odds": 1.53 },
+      { "name": "Over 2.5", "odds": 1.96 },
+      { "name": "Under 2.5", "odds": 1.8 },
+      { "name": "Map score 2-0", "odds": 2.36 },
+      { "name": "Map score 2-1", "odds": 3.22 },
+      { "name": "Map score 0-2", "odds": 5.54 },
+      { "name": "Map score 1-2", "odds": 5.0 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-03-15 01:30:00+0800",
-    "match_name": "Gen.G vs Loud Map1",
-    "team1": "Gen.G",
-    "team2": "Loud",
+    "time": "2024-03-16 01:30:00+0800",
+    "match_name": "SEN vs Heretics Map1",
+    "team1": "SEN",
+    "team2": "Heretics",
     "main_bet_list": [
-      { "name": "Gen.G Winner", "odds": 2.47 },
-      { "name": "Loud Winner", "odds": 1.5 }
+      { "name": "SEN Winner", "odds": 1.5 },
+      { "name": "Heretics Winner", "odds": 2.47 }
     ],
     "more_bet_list": [
-      { "name": "Gen.G +2.5", "odds": 1.88 },
-      { "name": "Loud -2.5", "odds": 1.88 },
+      { "name": "SEN -2.5", "odds": 1.88 },
+      { "name": "Heretics +2.5", "odds": 1.88 },
       { "name": "Over 21.5", "odds": 2.0 },
       { "name": "Under 21.5", "odds": 1.7 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-03-15 02:00:00+0800",
-    "match_name": "Gen.G vs Loud Map2",
-    "team1": "Gen.G",
-    "team2": "Loud",
+    "time": "2024-03-16 02:00:00+0800",
+    "match_name": "SEN vs Heretics Map2",
+    "team1": "SEN",
+    "team2": "Heretics",
     "main_bet_list": [
-      { "name": "Gen.G Winner", "odds": 2.47 },
-      { "name": "Loud Winner", "odds": 1.5 }
+      { "name": "SEN Winner", "odds": 1.5 },
+      { "name": "Heretics Winner", "odds": 2.47 }
     ],
     "more_bet_list": [
-      { "name": "Gen.G +2.5", "odds": 1.88 },
-      { "name": "Loud -2.5", "odds": 1.88 },
+      { "name": "SEN -2.5", "odds": 1.88 },
+      { "name": "Heretics +2.5", "odds": 1.88 },
       { "name": "Over 21.5", "odds": 2.0 },
       { "name": "Under 21.5", "odds": 1.7 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-03-15 02:00:00+0800",
-    "match_name": "Gen.G vs Loud Map3",
-    "team1": "Gen.G",
-    "team2": "Loud",
+    "time": "2024-03-16 02:00:00+0800",
+    "match_name": "SEN vs Heretics Map3",
+    "team1": "SEN",
+    "team2": "Heretics",
     "main_bet_list": [
-      { "name": "Gen.G Winner", "odds": 2.47 },
-      { "name": "Loud Winner", "odds": 1.5 }
+      { "name": "SEN Winner", "odds": 1.5 },
+      { "name": "Heretics Winner", "odds": 2.47 }
     ],
     "more_bet_list": [
-      { "name": "Gen.G +2.5", "odds": 1.88 },
-      { "name": "Loud -2.5", "odds": 1.88 },
+      { "name": "SEN -2.5", "odds": 1.88 },
+      { "name": "Heretics +2.5", "odds": 1.88 },
       { "name": "Over 21.5", "odds": 2.0 },
       { "name": "Under 21.5", "odds": 1.7 }
     ]
