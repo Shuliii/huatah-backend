@@ -6,22 +6,22 @@
     "team1": "Pacers",
     "team2": "Cavaliers",
     "main_bet_list": [
-      { "name": "Pacers Winner", "odds": 1.72 },
-      { "name": "Cavaliers Winner", "odds": 2.14 }
+      { "name": "Pacers Winner", "odds": 1.38 },
+      { "name": "Cavaliers Winner", "odds": 2.72 }
     ],
     "more_bet_list": [
-      { "name": "Pacers -1.5", "odds": 1.84 },
-      { "name": "Cavaliers +1.5", "odds": 2.04 },
-      { "name": "Pacers -2", "odds": 1.91 },
-      { "name": "Cavaliers +2", "odds": 1.97 },
-      { "name": "Pacers -2.5", "odds": 1.98 },
-      { "name": "Cavaliers +2.5", "odds": 1.9 },
-      { "name": "Over 226.5", "odds": 1.85 },
-      { "name": "Under 226.5", "odds": 2.01 },
-      { "name": "Over 227", "odds": 1.9 },
-      { "name": "Under 227", "odds": 1.96 },
-      { "name": "Over 227.5", "odds": 1.95 },
-      { "name": "Under 227.5", "odds": 1.91 }
+      { "name": "Pacers -6.5", "odds": 1.89 },
+      { "name": "Cavaliers +6.5", "odds": 1.99 },
+      { "name": "Pacers -7", "odds": 1.96 },
+      { "name": "Cavaliers +7", "odds": 1.92 },
+      { "name": "Pacers -7.5", "odds": 2.03 },
+      { "name": "Cavaliers +7.5", "odds": 1.85 },
+      { "name": "Over 224.5", "odds": 1.83 },
+      { "name": "Under 224.5", "odds": 2.03 },
+      { "name": "Over 225", "odds": 1.88 },
+      { "name": "Under 225", "odds": 1.98 },
+      { "name": "Over 225.5", "odds": 1.93 },
+      { "name": "Under 225.5", "odds": 1.93 }
     ]
   },
   {
@@ -31,22 +31,22 @@
     "team1": "Celtics",
     "team2": "Pistons",
     "main_bet_list": [
-      { "name": "Celtics Winner", "odds": 3.08 },
-      { "name": "Pistons Winner", "odds": 1.39 }
+      { "name": "Celtics Winner", "odds": 1.1 },
+      { "name": "Pistons Winner", "odds": 4.33 }
     ],
     "more_bet_list": [
-      { "name": "Celtics +6", "odds": 2.03 },
-      { "name": "Pistons -6", "odds": 1.85 },
-      { "name": "Celtics +6.5", "odds": 1.96 },
-      { "name": "Pistons -6.5", "odds": 1.92 },
-      { "name": "Celtics +7", "odds": 1.89 },
-      { "name": "Pistons -7", "odds": 1.99 },
-      { "name": "Over 214", "odds": 1.91 },
-      { "name": "Under 214", "odds": 1.95 },
-      { "name": "Over 214.5", "odds": 1.96 },
-      { "name": "Under 214.5", "odds": 1.9 },
-      { "name": "Over 215", "odds": 2.01 },
-      { "name": "Under 215", "odds": 1.85 }
+      { "name": "Celtics -15", "odds": 1.93 },
+      { "name": "Pistons +15", "odds": 1.95 },
+      { "name": "Celtics -15.5", "odds": 2.0 },
+      { "name": "Pistons +15.5", "odds": 1.88 },
+      { "name": "Celtics -16", "odds": 2.07 },
+      { "name": "Pistons +16", "odds": 1.81 },
+      { "name": "Over 223", "odds": 1.84 },
+      { "name": "Under 223", "odds": 2.02 },
+      { "name": "Over 223.5", "odds": 1.92 },
+      { "name": "Under 223.5", "odds": 1.94 },
+      { "name": "Over 224", "odds": 1.97 },
+      { "name": "Under 224", "odds": 1.89 }
     ]
   },
   {
@@ -56,22 +56,22 @@
     "team1": "76ers",
     "team2": "Heat",
     "main_bet_list": [
-      { "name": "76ers Winner", "odds": 2.29 },
-      { "name": "Heat Winner", "odds": 1.64 }
+      { "name": "76ers Winner", "odds": 1.74 },
+      { "name": "Heat Winner", "odds": 2.06 }
     ],
     "more_bet_list": [
-      { "name": "76ers +3", "odds": 2.05 },
-      { "name": "Heat -3", "odds": 1.83 },
-      { "name": "76ers +3.5", "odds": 1.98 },
-      { "name": "Heat -3.5", "odds": 1.9 },
-      { "name": "76ers +4", "odds": 1.91 },
-      { "name": "Heat -4", "odds": 1.97 },
-      { "name": "Over 228.5", "odds": 1.81 },
-      { "name": "Under 228.5", "odds": 2.05 },
-      { "name": "Over 229", "odds": 1.86 },
-      { "name": "Under 229", "odds": 2.0 },
-      { "name": "Over 229.5", "odds": 1.91 },
-      { "name": "Under 229.5", "odds": 1.95 }
+      { "name": "76ers -2", "odds": 1.95 },
+      { "name": "Heat +2", "odds": 1.93 },
+      { "name": "76ers -2.5", "odds": 2.02 },
+      { "name": "Heat +2.5", "odds": 1.86 },
+      { "name": "76ers -3", "odds": 2.09 },
+      { "name": "Heat +3", "odds": 1.79 },
+      { "name": "Over 208.5", "odds": 1.93 },
+      { "name": "Under 208.5", "odds": 1.93 },
+      { "name": "Over 209", "odds": 2.04 },
+      { "name": "Under 209", "odds": 1.82 },
+      { "name": "Over 209.5", "odds": 2.03 },
+      { "name": "Under 209.5", "odds": 1.83 }
     ]
   },
   {
@@ -81,22 +81,22 @@
     "team1": "Bulls",
     "team2": "Trail Blazers",
     "main_bet_list": [
-      { "name": "Bulls Winner", "odds": 1.16 },
-      { "name": "Trail Blazers Winner", "odds": 5.54 }
+      { "name": "Bulls Winner", "odds": 1.26 },
+      { "name": "Trail Blazers Winner", "odds": 3.17 }
     ],
     "more_bet_list": [
-      { "name": "Bulls -12", "odds": 1.89 },
-      { "name": "Trail Blazers +12", "odds": 1.99 },
-      { "name": "Bulls -12.5", "odds": 1.96 },
-      { "name": "Trail Blazers +12.5", "odds": 1.92 },
-      { "name": "Bulls -13", "odds": 2.03 },
-      { "name": "Trail Blazers +13", "odds": 1.85 },
-      { "name": "Over 215.5", "odds": 1.8 },
-      { "name": "Under 215.5", "odds": 2.06 },
-      { "name": "Over 216", "odds": 1.85 },
-      { "name": "Under 216", "odds": 2.01 },
-      { "name": "Over 216.5", "odds": 1.9 },
-      { "name": "Under 216.5", "odds": 1.96 }
+      { "name": "Bulls -7.5", "odds": 1.79 },
+      { "name": "Trail Blazers +7.5", "odds": 2.09 },
+      { "name": "Bulls -8", "odds": 1.86 },
+      { "name": "Trail Blazers +8", "odds": 2.02 },
+      { "name": "Bulls -8.5", "odds": 1.93 },
+      { "name": "Trail Blazers +8.5", "odds": 1.95 },
+      { "name": "Over 214", "odds": 1.9 },
+      { "name": "Under 214", "odds": 1.96 },
+      { "name": "Over 214.5", "odds": 1.95 },
+      { "name": "Under 214.5", "odds": 1.91 },
+      { "name": "Over 215", "odds": 2.03 },
+      { "name": "Under 215", "odds": 1.83 }
     ]
   },
   {
@@ -106,22 +106,22 @@
     "team1": "Jazz",
     "team2": "Timberwolves",
     "main_bet_list": [
-      { "name": "Jazz Winner", "odds": 5.0 },
-      { "name": "Timberwolves Winner", "odds": 1.18 }
+      { "name": "Jazz Winner", "odds": 2.92 },
+      { "name": "Timberwolves Winner", "odds": 1.32 }
     ],
     "more_bet_list": [
-      { "name": "Jazz +10", "odds": 2.07 },
-      { "name": "Timberwolves -10", "odds": 1.81 },
-      { "name": "Jazz +10.5", "odds": 2.0 },
-      { "name": "Timberwolves -10.5", "odds": 1.88 },
-      { "name": "Jazz +11", "odds": 1.93 },
-      { "name": "Timberwolves -11", "odds": 1.95 },
-      { "name": "Over 228", "odds": 1.88 },
-      { "name": "Under 228", "odds": 1.98 },
-      { "name": "Over 228.5", "odds": 1.93 },
-      { "name": "Under 228.5", "odds": 1.93 },
-      { "name": "Over 229", "odds": 1.98 },
-      { "name": "Under 229", "odds": 1.88 }
+      { "name": "Jazz +6", "odds": 1.95 },
+      { "name": "Timberwolves -6", "odds": 1.93 },
+      { "name": "Jazz +6.5", "odds": 1.88 },
+      { "name": "Timberwolves -6.5", "odds": 2.0 },
+      { "name": "Jazz +7", "odds": 1.79 },
+      { "name": "Timberwolves -7", "odds": 2.09 },
+      { "name": "Over 222.5", "odds": 1.87 },
+      { "name": "Under 222.5", "odds": 1.99 },
+      { "name": "Over 223", "odds": 1.95 },
+      { "name": "Under 223", "odds": 1.91 },
+      { "name": "Over 223.5", "odds": 2.0 },
+      { "name": "Under 223.5", "odds": 1.86 }
     ]
   },
   {
@@ -131,22 +131,22 @@
     "team1": "Warriors",
     "team2": "Knicks",
     "main_bet_list": [
-      { "name": "Warriors Winner", "odds": 1.8 },
-      { "name": "Knicks Winner", "odds": 2.04 }
+      { "name": "Warriors Winner", "odds": 1.51 },
+      { "name": "Knicks Winner", "odds": 2.4 }
     ],
     "more_bet_list": [
-      { "name": "Warriors -1.5", "odds": 1.89 },
-      { "name": "Knicks +1.5", "odds": 1.99 },
-      { "name": "Warriors -2", "odds": 1.96 },
-      { "name": "Knicks +2", "odds": 1.92 },
-      { "name": "Warriors -2.5", "odds": 2.03 },
-      { "name": "Knicks +2.5", "odds": 1.85 },
-      { "name": "Over 218", "odds": 1.88 },
-      { "name": "Under 218", "odds": 1.98 },
-      { "name": "Over 218.5", "odds": 1.93 },
-      { "name": "Under 218.5", "odds": 1.93 },
-      { "name": "Over 219", "odds": 1.98 },
-      { "name": "Under 219", "odds": 1.88 }
+      { "name": "Warriors -5", "odds": 1.85 },
+      { "name": "Knicks +5", "odds": 2.03 },
+      { "name": "Warriors -5.5", "odds": 1.94 },
+      { "name": "Knicks +5.5", "odds": 1.94 },
+      { "name": "Warriors -6", "odds": 2.01 },
+      { "name": "Knicks +6", "odds": 1.87 },
+      { "name": "Over 211", "odds": 1.88 },
+      { "name": "Under 211", "odds": 1.98 },
+      { "name": "Over 211.5", "odds": 1.93 },
+      { "name": "Under 211.5", "odds": 1.93 },
+      { "name": "Over 212", "odds": 1.99 },
+      { "name": "Under 212", "odds": 1.87 }
     ]
   },
   {
@@ -156,47 +156,47 @@
     "team1": "Kings",
     "team2": "Grizzlies",
     "main_bet_list": [
-      { "name": "Kings Winner", "odds": 1.13 },
-      { "name": "Grizzlies Winner", "odds": 4.44 }
+      { "name": "Kings Winner", "odds": 1.18 },
+      { "name": "Grizzlies Winner", "odds": 3.63 }
     ],
     "more_bet_list": [
-      { "name": "Kings -9", "odds": 1.9 },
-      { "name": "Grizzlies +9", "odds": 1.98 },
-      { "name": "Kings -9.5", "odds": 1.97 },
-      { "name": "Grizzlies +9.5", "odds": 1.91 },
-      { "name": "Kings -10", "odds": 2.04 },
-      { "name": "Grizzlies +10", "odds": 1.84 },
-      { "name": "Over 221", "odds": 1.9 },
-      { "name": "Under 221", "odds": 1.96 },
-      { "name": "Over 221.5", "odds": 1.95 },
-      { "name": "Under 221.5", "odds": 1.91 },
-      { "name": "Over 222", "odds": 2.0 },
-      { "name": "Under 222", "odds": 1.86 }
+      { "name": "Kings -9.5", "odds": 1.84 },
+      { "name": "Grizzlies +9.5", "odds": 2.04 },
+      { "name": "Kings -10", "odds": 1.89 },
+      { "name": "Grizzlies +10", "odds": 1.99 },
+      { "name": "Kings -10.5", "odds": 1.98 },
+      { "name": "Grizzlies +10.5", "odds": 1.9 },
+      { "name": "Over 222", "odds": 1.95 },
+      { "name": "Under 222", "odds": 1.91 },
+      { "name": "Over 222.5", "odds": 2.0 },
+      { "name": "Under 222.5", "odds": 1.86 },
+      { "name": "Over 223", "odds": 2.05 },
+      { "name": "Under 223", "odds": 1.81 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-03-14 10:30:00+0800",
+    "time": "2024-03-18 10:30:00+0800",
     "match_name": "Lakers vs Hawks",
     "team1": "Lakers",
     "team2": "Hawks",
     "main_bet_list": [
-      { "name": "Lakers Winner", "odds": 2.08 },
-      { "name": "Hawks Winner", "odds": 1.72 }
+      { "name": "Lakers Winner", "odds": 1.22 },
+      { "name": "Hawks Winner", "odds": 3.38 }
     ],
     "more_bet_list": [
-      { "name": "Lakers +1", "odds": 1.99 },
-      { "name": "Hawks -1", "odds": 1.89 },
-      { "name": "Lakers +1.5", "odds": 1.98 },
-      { "name": "Hawks -1.5", "odds": 1.9 },
-      { "name": "Lakers +2", "odds": 1.91 },
-      { "name": "Hawks -2", "odds": 1.97 },
-      { "name": "Over 237.5", "odds": 1.88 },
-      { "name": "Under 237.5", "odds": 1.98 },
-      { "name": "Over 238", "odds": 1.93 },
-      { "name": "Under 238", "odds": 1.93 },
-      { "name": "Over 238.5", "odds": 1.98 },
-      { "name": "Under 238.5", "odds": 1.88 }
+      { "name": "Lakers -7.5", "odds": 1.85 },
+      { "name": "Hawks +7.5", "odds": 2.03 },
+      { "name": "Lakers -8", "odds": 1.92 },
+      { "name": "Hawks +8", "odds": 1.96 },
+      { "name": "Lakers -8.5", "odds": 1.99 },
+      { "name": "Hawks +8.5", "odds": 1.89 },
+      { "name": "Over 226", "odds": 1.88 },
+      { "name": "Under 226", "odds": 1.98 },
+      { "name": "Over 226.5", "odds": 1.93 },
+      { "name": "Under 226.5", "odds": 1.93 },
+      { "name": "Over 227", "odds": 1.98 },
+      { "name": "Under 227", "odds": 1.88 }
     ]
   },
   {
