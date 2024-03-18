@@ -1,7 +1,7 @@
 [
   {
     "type": "NBA",
-    "time": "2024-03-18 07:00:00+0800",
+    "time": "2024-03-19 07:00:00+0800",
     "match_name": "Pacers vs Cavaliers",
     "team1": "Pacers",
     "team2": "Cavaliers",
@@ -26,7 +26,7 @@
   },
   {
     "type": "NBA",
-    "time": "2024-03-18 07:30:00+0800",
+    "time": "2024-03-19 07:30:00+0800",
     "match_name": "Celtics vs Pistons",
     "team1": "Celtics",
     "team2": "Pistons",
@@ -51,7 +51,7 @@
   },
   {
     "type": "NBA",
-    "time": "2024-03-18 07:30:00+0800",
+    "time": "2024-03-19 07:30:00+0800",
     "match_name": "76ers vs Heat",
     "team1": "76ers",
     "team2": "Heat",
@@ -76,7 +76,7 @@
   },
   {
     "type": "NBA",
-    "time": "2024-03-18 08:00:00+0800",
+    "time": "2024-03-19 08:00:00+0800",
     "match_name": "Bulls vs Trail Blazers",
     "team1": "Bulls",
     "team2": "Trail Blazers",
@@ -101,7 +101,7 @@
   },
   {
     "type": "NBA",
-    "time": "2024-03-18 09:00:00+0800",
+    "time": "2024-03-19 09:00:00+0800",
     "match_name": "Jazz vs Timberwolves",
     "team1": "Jazz",
     "team2": "Timberwolves",
@@ -126,7 +126,7 @@
   },
   {
     "type": "NBA",
-    "time": "2024-03-18 10:00:00+0800",
+    "time": "2024-03-19 10:00:00+0800",
     "match_name": "Warriors vs Knicks",
     "team1": "Warriors",
     "team2": "Knicks",
@@ -151,7 +151,7 @@
   },
   {
     "type": "NBA",
-    "time": "2024-03-18 10:00:00+0800",
+    "time": "2024-03-19 10:00:00+0800",
     "match_name": "Kings vs Grizzlies",
     "team1": "Kings",
     "team2": "Grizzlies",
@@ -176,7 +176,7 @@
   },
   {
     "type": "NBA",
-    "time": "2024-03-18 10:30:00+0800",
+    "time": "2024-03-19 10:30:00+0800",
     "match_name": "Lakers vs Hawks",
     "team1": "Lakers",
     "team2": "Hawks",
