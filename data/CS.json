@@ -73,6 +73,82 @@
       { "name": "Under 21.5", "odds": 1.78 }
     ]
   },
+
+  {
+    "type": "CS",
+    "time": "2024-03-21 22:00:00+0800",
+    "match_name": "Complexity vs Pain Match",
+    "team1": "Complexity",
+    "team2": "Pain",
+    "main_bet_list": [
+      { "name": "Complexity Winner", "odds": 1.63 },
+      { "name": "Pain Winner", "odds": 2.2 }
+    ],
+
+    "more_bet_list": [
+      { "name": "Complexity -2.5", "odds": 1.78 },
+      { "name": "Pain +2.5", "odds": 1.98 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.9 }
+    ]
+  },
+
+  {
+    "type": "CS",
+    "time": "2024-03-21 22:00:00+0800",
+    "match_name": "Faze vs Heroic Match",
+    "team1": "Faze",
+    "team2": "Heroic",
+    "main_bet_list": [
+      { "name": "Faze Winner", "odds": 1.45 },
+      { "name": "Heroic Winner", "odds": 2.63 }
+    ],
+
+    "more_bet_list": [
+      { "name": "Faze -3.5", "odds": 1.96 },
+      { "name": "Heroic +3.5", "odds": 1.8 },
+      { "name": "Over 21.5", "odds": 1.88 },
+      { "name": "Under 21.5", "odds": 1.82 }
+    ]
+  },
+
+  {
+    "type": "CS",
+    "time": "2024-03-21 23:00:00+0800",
+    "match_name": "Spirit vs C9 Match",
+    "team1": "Spirit",
+    "team2": "C9",
+    "main_bet_list": [
+      { "name": "Spirit Winner", "odds": 1.38 },
+      { "name": "C9 Winner", "odds": 2.92 }
+    ],
+
+    "more_bet_list": [
+      { "name": "Spirit -3.5", "odds": 1.88 },
+      { "name": "C9 +3.5", "odds": 1.88 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.8 }
+    ]
+  },
+
+  {
+    "type": "CS",
+    "time": "2024-03-21 23:00:00+0800",
+    "match_name": "G2 vs Furia Match",
+    "team1": "G2",
+    "team2": "Furia",
+    "main_bet_list": [
+      { "name": "G2 Winner", "odds": 1.45 },
+      { "name": "Furia Winner", "odds": 2.63 }
+    ],
+
+    "more_bet_list": [
+      { "name": "G2 -3.5", "odds": 1.91 },
+      { "name": "Furia +3.5", "odds": 1.85 },
+      { "name": "Over 21.5", "odds": 1.88 },
+      { "name": "Under 21.5", "odds": 1.82 }
+    ]
+  },
   {
     "type": "CS",
     "time": "2024-02-06 20:30:00+0800",
