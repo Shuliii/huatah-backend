@@ -1,52 +1,52 @@
 [
   {
     "type": "NBA",
-    "time": "2024-03-23 07:00:00+0800",
-    "match_name": "Pistons vs Celtics",
-    "team1": "Pistons",
-    "team2": "Celtics",
+    "time": "2024-03-24 01:00:00+0800",
+    "match_name": "Knicks vs Nets",
+    "team1": "Knicks",
+    "team2": "Nets",
     "main_bet_list": [
-      { "name": "Pistons Winner", "odds": 0 },
-      { "name": "Celtics Winner", "odds": 0 }
+      { "name": "Knicks Winner", "odds": 1.36 },
+      { "name": "Nets Winner", "odds": 3.22 }
     ],
     "more_bet_list": [
-      { "name": "Pistons +13.5", "odds": 2.05 },
-      { "name": "Celtics -13.5", "odds": 1.83 },
-      { "name": "Pistons +14", "odds": 1.98 },
-      { "name": "Celtics -14", "odds": 1.9 },
-      { "name": "Pistons +14.5", "odds": 1.91 },
-      { "name": "Celtics -14.5", "odds": 1.97 },
-      { "name": "Over 223", "odds": 1.91 },
-      { "name": "Under 223", "odds": 1.95 },
-      { "name": "Over 223.5", "odds": 1.96 },
-      { "name": "Under 223.5", "odds": 1.90 },
-      { "name": "Over 224", "odds": 2.01 },
-      { "name": "Under 224", "odds": 1.85 }
+      { "name": "Knicks -6.5", "odds": 1.87 },
+      { "name": "Nets +6.5", "odds": 2.01 },
+      { "name": "Knicks -7", "odds": 1.92 },
+      { "name": "Nets +7", "odds": 1.96 },
+      { "name": "Knicks -7.5", "odds": 2.01 },
+      { "name": "Nets +7.5", "odds": 1.87 },
+      { "name": "Over 202.5", "odds": 1.91 },
+      { "name": "Under 202.5", "odds": 1.95 },
+      { "name": "Over 203", "odds": 1.96 },
+      { "name": "Under 203", "odds": 1.9 },
+      { "name": "Over 203.5", "odds": 2.01 },
+      { "name": "Under 203.5", "odds": 1.85 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-03-23 07:00:00+0800",
-    "match_name": "Raptors vs Thunder",
-    "team1": "Raptors",
-    "team2": "Thunder",
+    "time": "2024-03-24 07:00:00+0800",
+    "match_name": "Magic vs Kings",
+    "team1": "Magic",
+    "team2": "Kings",
     "main_bet_list": [
-      { "name": "Raptors Winner", "odds": 0 },
-      { "name": "Thunder Winner", "odds": 0 }
+      { "name": "Magic Winner", "odds": 1.74 },
+      { "name": "Kings Winner", "odds": 2.06 }
     ],
     "more_bet_list": [
-      { "name": "Raptors +15.5", "odds": 2.01 },
-      { "name": "Thunder -15.5", "odds": 1.87 },
-      { "name": "Raptors +16", "odds": 1.94 },
-      { "name": "Thunder -16", "odds": 1.94 },
-      { "name": "Raptors +16.5", "odds": 1.87 },
-      { "name": "Thunder -16.5", "odds": 2.01 },
-      { "name": "Over 229.5", "odds": 1.88 },
-      { "name": "Under 229.5", "odds": 1.98 },
-      { "name": "Over 230", "odds": 1.93 },
-      { "name": "Under 230", "odds": 1.93 },
-      { "name": "Over 230.5", "odds": 1.98 },
-      { "name": "Under 230.5", "odds": 1.88 }
+      { "name": "Magic -2.5", "odds": 1.91 },
+      { "name": "Kings +2.5", "odds": 1.97 },
+      { "name": "Magic -3", "odds": 1.98 },
+      { "name": "Kings +3", "odds": 1.9 },
+      { "name": "Magic -3.5", "odds": 2.05 },
+      { "name": "Kings +3.5", "odds": 1.83 },
+      { "name": "Over 217.5", "odds": 1.83 },
+      { "name": "Under 217.5", "odds": 2.03 },
+      { "name": "Over 218", "odds": 1.88 },
+      { "name": "Under 218", "odds": 1.98 },
+      { "name": "Over 218.5", "odds": 1.93 },
+      { "name": "Under 218.5", "odds": 1.93 }
     ]
   },
   {
@@ -62,7 +62,7 @@
     "more_bet_list": [
       { "name": "Timberwolves -7", "odds": 1.93 },
       { "name": "Cavaliers +7", "odds": 1.95 },
-      { "name": "Timberwolves -7.5", "odds": 2.00 },
+      { "name": "Timberwolves -7.5", "odds": 2.0 },
       { "name": "Cavaliers +7.5", "odds": 1.88 },
       { "name": "Timberwolves -8", "odds": 2.07 },
       { "name": "Cavaliers +8", "odds": 1.81 },
@@ -138,15 +138,15 @@
       { "name": "Trail Blazers +12.5", "odds": 2.05 },
       { "name": "Clippers -12.5", "odds": 1.83 },
       { "name": "Trail Blazers +13", "odds": 1.98 },
-      { "name": "Clippers -13", "odds": 1.90 },
+      { "name": "Clippers -13", "odds": 1.9 },
       { "name": "Trail Blazers +13.5", "odds": 1.91 },
       { "name": "Clippers -13.5", "odds": 1.97 },
       { "name": "Over 216", "odds": 1.86 },
-      { "name": "Under 216", "odds": 2.00 },
+      { "name": "Under 216", "odds": 2.0 },
       { "name": "Over 216.5", "odds": 1.91 },
       { "name": "Under 216.5", "odds": 1.95 },
       { "name": "Over 217", "odds": 1.96 },
-      { "name": "Under 217", "odds": 1.90 }
+      { "name": "Under 217", "odds": 1.9 }
     ]
   },
   {
@@ -169,7 +169,7 @@
       { "name": "Over 239.5", "odds": 1.81 },
       { "name": "Under 239.5", "odds": 2.05 },
       { "name": "Over 240", "odds": 1.86 },
-      { "name": "Under 240", "odds": 2.00 },
+      { "name": "Under 240", "odds": 2.0 },
       { "name": "Over 240.5", "odds": 1.91 },
       { "name": "Under 240.5", "odds": 1.95 }
     ]
