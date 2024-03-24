@@ -233,82 +233,82 @@
   },
   {
     "type": "CS",
-    "time": "2024-03-24 02:00:00+0800",
-    "match_name": "Heroic vs Pain Match",
-    "team1": "Heroic",
-    "team2": "Pain",
+    "time": "2024-03-24 20:00:00+0800",
+    "match_name": "Complexity vs Faze Match",
+    "team1": "Complexity",
+    "team2": "Faze",
     "main_bet_list": [
-      { "name": "Heroic Winner", "odds": 1.35 },
-      { "name": "Pain Winner", "odds": 3.04 }
+      { "name": "Complexity Winner", "odds": 2.4 },
+      { "name": "Faze Winner", "odds": 1.53 }
     ],
 
     "more_bet_list": [
-      { "name": "Heroic -1.5", "odds": 1.98 },
-      { "name": "Pain +1.5", "odds": 1.78 },
-      { "name": "Over 2.5", "odds": 2.17 },
-      { "name": "Under 2.5", "odds": 1.65 },
-      { "name": "Map score 2-0", "odds": 1.98 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 5.16 },
-      { "name": "Map score 1-2", "odds": 4.7 }
+      { "name": "Complexity +1.5", "odds": 1.5 },
+      { "name": "Faze -1.5", "odds": 2.47 },
+      { "name": "Over 2.5", "odds": 1.9 },
+      { "name": "Under 2.5", "odds": 1.86 },
+      { "name": "Map score 2-0", "odds": 4.57 },
+      { "name": "Map score 2-1", "odds": 4.12 },
+      { "name": "Map score 0-2", "odds": 2.38 },
+      { "name": "Map score 1-2", "odds": 3.27 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-03-24 02:00:00+0800",
-    "match_name": "Heroic vs Pain Map1",
-    "team1": "Heroic",
-    "team2": "Pain",
+    "time": "2024-03-24 20:00:00+0800",
+    "match_name": "Complexity vs Faze Map1",
+    "team1": "Complexity",
+    "team2": "Faze",
     "main_bet_list": [
-      { "name": "Heroic Winner", "odds": 1.42 },
-      { "name": "Pain Winner", "odds": 2.72 }
+      { "name": "Complexity Winner", "odds": 2.17 },
+      { "name": "Faze Winner", "odds": 1.65 }
     ],
 
     "more_bet_list": [
-      { "name": "Heroic -2.5", "odds": 1.79 },
-      { "name": "Pain +2.5", "odds": 1.97 },
-      { "name": "Over 21.5", "odds": 1.88 },
-      { "name": "Under 21.5", "odds": 1.82 },
+      { "name": "Complexity +2.5", "odds": 1.83 },
+      { "name": "Faze -2.5", "odds": 1.93 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.9 },
       { "name": "Odd", "odds": 2.06 },
       { "name": "Even", "odds": 1.74 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-03-24 02:30:00+0800",
-    "match_name": "Heroic vs Pain Map2",
-    "team1": "Heroic",
-    "team2": "Pain",
+    "time": "2024-03-24 20:30:00+0800",
+    "match_name": "Complexity vs Faze Map2",
+    "team1": "Complexity",
+    "team2": "Faze",
     "main_bet_list": [
-      { "name": "Heroic Winner", "odds": 1.42 },
-      { "name": "Pain Winner", "odds": 2.72 }
+      { "name": "Complexity Winner", "odds": 2.17 },
+      { "name": "Faze Winner", "odds": 1.65 }
     ],
 
     "more_bet_list": [
-      { "name": "Heroic -2.5", "odds": 1.79 },
-      { "name": "Pain +2.5", "odds": 1.97 },
-      { "name": "Over 21.5", "odds": 1.88 },
-      { "name": "Under 21.5", "odds": 1.82 },
+      { "name": "Complexity +2.5", "odds": 1.83 },
+      { "name": "Faze -2.5", "odds": 1.93 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.9 },
       { "name": "Odd", "odds": 2.06 },
       { "name": "Even", "odds": 1.74 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-03-24 02:00:00+0800",
-    "match_name": "Heroic vs Pain Map3",
-    "team1": "Heroic",
-    "team2": "Pain",
+    "time": "2024-03-24 21:00:00+0800",
+    "match_name": "Complexity vs Faze Map3",
+    "team1": "Complexity",
+    "team2": "Faze",
     "main_bet_list": [
-      { "name": "Heroic Winner", "odds": 1.42 },
-      { "name": "Pain Winner", "odds": 2.72 }
+      { "name": "Complexity Winner", "odds": 2.17 },
+      { "name": "Faze Winner", "odds": 1.65 }
     ],
 
     "more_bet_list": [
-      { "name": "Heroic -2.5", "odds": 1.79 },
-      { "name": "Pain +2.5", "odds": 1.97 },
-      { "name": "Over 21.5", "odds": 1.88 },
-      { "name": "Under 21.5", "odds": 1.82 },
+      { "name": "Complexity +2.5", "odds": 1.83 },
+      { "name": "Faze -2.5", "odds": 1.93 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.9 },
       { "name": "Odd", "odds": 2.06 },
       { "name": "Even", "odds": 1.74 }
     ]
@@ -316,82 +316,80 @@
 
   {
     "type": "CS",
-    "time": "2024-03-23 23:00:00+0800",
-    "match_name": "G2 vs Ecstatic Match",
-    "team1": "G2",
-    "team2": "Ecstatic",
+    "time": "2024-03-24 23:00:00+0800",
+    "match_name": "VP vs G2 Match",
+    "team1": "VP",
+    "team2": "G2",
     "main_bet_list": [
-      { "name": "G2 Winner", "odds": 1.25 },
-      { "name": "Ecstatic Winner", "odds": 3.7 }
+      { "name": "VP Winner", "odds": 1.82 },
+      { "name": "G2 Winner", "odds": 1.94 }
     ],
 
     "more_bet_list": [
-      { "name": "G2 -1.5", "odds": 1.98 },
-      { "name": "Ecstatic +1.5", "odds": 1.78 },
-      { "name": "Over 2.5", "odds": 2.25 },
-      { "name": "Under 2.5", "odds": 1.6 },
-      { "name": "Map score 2-0", "odds": 1.98 },
-      { "name": "Map score 2-1", "odds": 3.04 },
-      { "name": "Map score 0-2", "odds": 6.0 },
-      { "name": "Map score 1-2", "odds": 5.54 }
+      { "name": "Over 2.5", "odds": 1.88 },
+      { "name": "Under 2.5", "odds": 1.88 },
+      { "name": "Map score 2-0", "odds": 3.12 },
+      { "name": "Map score 2-1", "odds": 3.38 },
+      { "name": "Map score 0-2", "odds": 3.32 },
+      { "name": "Map score 1-2", "odds": 3.38 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-03-23 23:00:00+0800",
-    "match_name": "G2 vs Ecstatic Map1",
-    "team1": "G2",
-    "team2": "Ecstatic",
+    "time": "2024-03-24 23:00:00+0800",
+    "match_name": "VP vs G2 Map1",
+    "team1": "VP",
+    "team2": "G2",
     "main_bet_list": [
-      { "name": "G2 Winner", "odds": 1.37 },
-      { "name": "Ecstatic Winner", "odds": 2.96 }
+      { "name": "VP Winner", "odds": 1.7 },
+      { "name": "G2 Winner", "odds": 2.08 }
     ],
 
     "more_bet_list": [
-      { "name": "G2 -3.5", "odds": 1.83 },
-      { "name": "Ecstatic +3.5", "odds": 1.93 },
-      { "name": "Over 21.5", "odds": 1.9 },
-      { "name": "Under 21.5", "odds": 1.8 },
+      { "name": "VP -2.5", "odds": 1.98 },
+      { "name": "G2 +2.5", "odds": 1.78 },
+      { "name": "Over 21.5", "odds": 1.78 },
+      { "name": "Under 21.5", "odds": 1.92 },
       { "name": "Odd", "odds": 2.06 },
       { "name": "Even", "odds": 1.74 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-03-23 23:00:00+0800",
-    "match_name": "G2 vs Ecstatic Map2",
-    "team1": "G2",
-    "team2": "Ecstatic",
+    "time": "2024-03-24 23:00:00+0800",
+    "match_name": "VP vs G2 Map2",
+    "team1": "VP",
+    "team2": "G2",
     "main_bet_list": [
-      { "name": "G2 Winner", "odds": 1.37 },
-      { "name": "Ecstatic Winner", "odds": 2.96 }
+      { "name": "VP Winner", "odds": 1.7 },
+      { "name": "G2 Winner", "odds": 2.08 }
     ],
 
     "more_bet_list": [
-      { "name": "G2 -3.5", "odds": 1.83 },
-      { "name": "Ecstatic +3.5", "odds": 1.93 },
-      { "name": "Over 21.5", "odds": 1.9 },
-      { "name": "Under 21.5", "odds": 1.8 },
+      { "name": "VP -2.5", "odds": 1.98 },
+      { "name": "G2 +2.5", "odds": 1.78 },
+      { "name": "Over 21.5", "odds": 1.78 },
+      { "name": "Under 21.5", "odds": 1.92 },
       { "name": "Odd", "odds": 2.06 },
       { "name": "Even", "odds": 1.74 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-03-23 23:00:00+0800",
-    "match_name": "G2 vs Ecstatic Map3",
-    "team1": "G2",
-    "team2": "Ecstatic",
+    "time": "2024-03-24 23:00:00+0800",
+    "match_name": "VP vs G2 Map3",
+    "team1": "VP",
+    "team2": "G2",
     "main_bet_list": [
-      { "name": "G2 Winner", "odds": 1.37 },
-      { "name": "Ecstatic Winner", "odds": 2.96 }
+      { "name": "VP Winner", "odds": 1.7 },
+      { "name": "G2 Winner", "odds": 2.08 }
     ],
 
     "more_bet_list": [
-      { "name": "G2 -3.5", "odds": 1.83 },
-      { "name": "Ecstatic +3.5", "odds": 1.93 },
-      { "name": "Over 21.5", "odds": 1.9 },
-      { "name": "Under 21.5", "odds": 1.8 },
+      { "name": "VP -2.5", "odds": 1.98 },
+      { "name": "G2 +2.5", "odds": 1.78 },
+      { "name": "Over 21.5", "odds": 1.78 },
+      { "name": "Under 21.5", "odds": 1.92 },
       { "name": "Odd", "odds": 2.06 },
       { "name": "Even", "odds": 1.74 }
     ]
