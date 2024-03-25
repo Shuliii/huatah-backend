@@ -1,275 +1,277 @@
 [
   {
     "type": "NBA",
-    "time": "2024-03-25 07:00:00+0800",
-    "match_name": "Timberwolves vs Warriors",
-    "team1": "Timberwolves",
-    "team2": "Warriors",
+    "time": "2024-03-26 07:00:00+0800",
+    "match_name": "Cavaliers vs Hornets",
+    "team1": "Cavaliers",
+    "team2": "Hornets",
     "main_bet_list": [
-      { "name": "Timberwolves Winner", "odds": 1.75 },
-      { "name": "Warriors Winner", "odds": 2.17 }
+      { "name": "Cavaliers Winner", "odds": 1.16 },
+      { "name": "Hornets Winner", "odds": 3.77 }
     ],
     "more_bet_list": [
-      { "name": "Timberwolves -2", "odds": 1.93 },
-      { "name": "Warriors +2", "odds": 1.95 },
-      { "name": "Timberwolves -2.5", "odds": 2.0 },
-      { "name": "Warriors +2.5", "odds": 1.88 },
-      { "name": "Timberwolves -3", "odds": 2.07 },
-      { "name": "Warriors +3", "odds": 1.81 },
-      { "name": "Over 219.5", "odds": 1.88 },
-      { "name": "Under 219.5", "odds": 1.98 },
-      { "name": "Over 220", "odds": 1.93 },
-      { "name": "Under 220", "odds": 1.93 },
-      { "name": "Over 220.5", "odds": 1.98 },
-      { "name": "Under 220.5", "odds": 1.88 }
+      { "name": "Cavaliers -11", "odds": 1.87 },
+      { "name": "Hornets +11", "odds": 2.01 },
+      { "name": "Cavaliers -11.5", "odds": 1.94 },
+      { "name": "Hornets +11.5", "odds": 1.94 },
+      { "name": "Cavaliers -12", "odds": 2.01 },
+      { "name": "Hornets +12", "odds": 1.87 },
+      { "name": "Over 206", "odds": 1.88 },
+      { "name": "Under 206", "odds": 1.98 },
+      { "name": "Over 206.5", "odds": 1.93 },
+      { "name": "Under 206.5", "odds": 1.93 },
+      { "name": "Over 207", "odds": 1.98 },
+      { "name": "Under 207", "odds": 1.88 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-03-25 07:00:00+0800",
-    "match_name": "Bucks vs Thunder",
-    "team1": "Bucks",
-    "team2": "Thunder",
+    "time": "2024-03-26 07:30:00+0800",
+    "match_name": "Hawks vs Celtics",
+    "team1": "Hawks",
+    "team2": "Celtics",
     "main_bet_list": [
-      { "name": "Bucks Winner", "odds": 1.75 },
-      { "name": "Thunder Winner", "odds": 2.05 }
+      { "name": "Hawks Winner", "odds": 5.0 },
+      { "name": "Celtics Winner", "odds": 1.05 }
     ],
     "more_bet_list": [
-      { "name": "Bucks -2", "odds": 1.91 },
-      { "name": "Thunder +2", "odds": 1.97 },
-      { "name": "Bucks -2.5", "odds": 1.98 },
-      { "name": "Thunder +2.5", "odds": 1.9 },
-      { "name": "Bucks -3", "odds": 2.05 },
-      { "name": "Thunder +3", "odds": 1.83 },
-      { "name": "Over 231.5", "odds": 1.81 },
-      { "name": "Under 231.5", "odds": 2.05 },
-      { "name": "Over 232", "odds": 1.86 },
-      { "name": "Under 232", "odds": 2.0 },
-      { "name": "Over 232.5", "odds": 1.91 },
-      { "name": "Under 232.5", "odds": 1.95 }
+      { "name": "Hawks +10", "odds": 1.98 },
+      { "name": "Celtics -10", "odds": 1.9 },
+      { "name": "Hawks +10.5", "odds": 1.91 },
+      { "name": "Celtics -10.5", "odds": 1.97 },
+      { "name": "Hawks +11", "odds": 1.84 },
+      { "name": "Celtics -11", "odds": 2.04 },
+      { "name": "Over 224.5", "odds": 1.85 },
+      { "name": "Under 224.5", "odds": 2.01 },
+      { "name": "Over 225", "odds": 1.9 },
+      { "name": "Under 225", "odds": 1.96 },
+      { "name": "Over 225.5", "odds": 1.95 },
+      { "name": "Under 225.5", "odds": 1.91 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-03-25 10:00:00+0800",
-    "match_name": "Lakers vs Pacers",
-    "team1": "Lakers",
-    "team2": "Pacers",
+    "time": "2024-03-26 07:30:00+0800",
+    "match_name": "Knicks vs Pistons",
+    "team1": "Knicks",
+    "team2": "Pistons",
     "main_bet_list": [
-      { "name": "Lakers Winner", "odds": 1.64 },
-      { "name": "Pacers Winner", "odds": 2.35 }
+      { "name": "Knicks Winner", "odds": 1.1 },
+      { "name": "Pistons Winner", "odds": 4.33 }
     ],
     "more_bet_list": [
-      { "name": "Lakers -3", "odds": 1.89 },
-      { "name": "Pacers +3", "odds": 1.99 },
-      { "name": "Lakers -3.5", "odds": 1.96 },
-      { "name": "Pacers +3.5", "odds": 1.92 },
-      { "name": "Lakers -4", "odds": 2.03 },
-      { "name": "Pacers +4", "odds": 1.85 },
-      { "name": "Over 240.5", "odds": 1.85 },
-      { "name": "Under 240.5", "odds": 2.01 },
-      { "name": "Over 241", "odds": 1.9 },
-      { "name": "Under 241", "odds": 1.96 },
-      { "name": "Over 241.5", "odds": 1.95 },
-      { "name": "Under 241.5", "odds": 1.91 }
+      { "name": "Knicks -15.5", "odds": 1.92 },
+      { "name": "Pistons +15.5", "odds": 1.96 },
+      { "name": "Knicks -16", "odds": 1.99 },
+      { "name": "Pistons +16", "odds": 1.89 },
+      { "name": "Knicks -16.5", "odds": 2.06 },
+      { "name": "Pistons +16.5", "odds": 1.82 },
+      { "name": "Over 210", "odds": 1.9 },
+      { "name": "Under 210", "odds": 1.96 },
+      { "name": "Over 210.5", "odds": 1.95 },
+      { "name": "Under 210.5", "odds": 1.91 },
+      { "name": "Over 211", "odds": 2.0 },
+      { "name": "Under 211", "odds": 1.86 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-03-24 08:00:00+0800",
+    "time": "2024-03-26 07:30:00+0800",
+    "match_name": "Raptors vs Nets",
+    "team1": "Raptors",
+    "team2": "Nets",
+    "main_bet_list": [
+      { "name": "Raptors Winner", "odds": 3.12 },
+      { "name": "Nets Winner", "odds": 1.27 }
+    ],
+    "more_bet_list": [
+      { "name": "Raptors +6", "odds": 2.05 },
+      { "name": "Nets -6", "odds": 1.83 },
+      { "name": "Raptors +6.5", "odds": 1.98 },
+      { "name": "Nets -6.5", "odds": 1.9 },
+      { "name": "Raptors +7", "odds": 1.91 },
+      { "name": "Nets -7", "odds": 1.97 },
+      { "name": "Over 219", "odds": 1.88 },
+      { "name": "Under 219", "odds": 1.98 },
+      { "name": "Over 219.5", "odds": 1.93 },
+      { "name": "Under 219.5", "odds": 1.93 },
+      { "name": "Over 220", "odds": 1.98 },
+      { "name": "Under 220", "odds": 1.88 }
+    ]
+  },
+  {
+    "type": "NBA",
+    "time": "2024-03-26 08:00:00+0800",
+    "match_name": "Bulls vs Wizards",
+    "team1": "Bulls",
+    "team2": "Wizards",
+    "main_bet_list": [
+      { "name": "Bulls Winner", "odds": 1.13 },
+      { "name": "Wizards Winner", "odds": 4.03 }
+    ],
+    "more_bet_list": [
+      { "name": "Bulls -12.5", "odds": 1.87 },
+      { "name": "Wizards +12.5", "odds": 2.01 },
+      { "name": "Bulls -13", "odds": 1.94 },
+      { "name": "Wizards +13", "odds": 1.94 },
+      { "name": "Bulls -13.5", "odds": 2.01 },
+      { "name": "Wizards +13.5", "odds": 1.87 },
+      { "name": "Over 225", "odds": 1.83 },
+      { "name": "Under 225", "odds": 2.03 },
+      { "name": "Over 225.5", "odds": 1.88 },
+      { "name": "Under 225.5", "odds": 1.98 },
+      { "name": "Over 226", "odds": 1.93 },
+      { "name": "Under 226", "odds": 1.93 }
+    ]
+  },
+  {
+    "type": "NBA",
+    "time": "2024-03-26 08:00:00+0800",
     "match_name": "Spurs vs Suns",
     "team1": "Spurs",
     "team2": "Suns",
     "main_bet_list": [
-      { "name": "Spurs Winner", "odds": 5.0 },
-      { "name": "Suns Winner", "odds": 1.05 }
+      { "name": "Spurs Winner", "odds": 5.76 },
+      { "name": "Suns Winner", "odds": 1.01 }
     ],
     "more_bet_list": [
-      { "name": "Spurs +10", "odds": 1.99 },
-      { "name": "Suns -10", "odds": 1.89 },
-      { "name": "Spurs +10.5", "odds": 1.92 },
-      { "name": "Suns -10.5", "odds": 1.96 },
-      { "name": "Spurs +11", "odds": 1.85 },
-      { "name": "Suns -11", "odds": 2.03 },
-      { "name": "Over 231.5", "odds": 1.88 },
-      { "name": "Under 231.5", "odds": 1.98 },
-      { "name": "Over 232", "odds": 1.93 },
-      { "name": "Under 232", "odds": 1.93 },
-      { "name": "Over 232.5", "odds": 1.98 },
-      { "name": "Under 232.5", "odds": 1.88 }
+      { "name": "Spurs +12", "odds": 2.01 },
+      { "name": "Suns -12", "odds": 1.87 },
+      { "name": "Spurs +12.5", "odds": 1.94 },
+      { "name": "Suns -12.5", "odds": 1.94 },
+      { "name": "Spurs +13", "odds": 1.87 },
+      { "name": "Suns -13", "odds": 2.01 },
+      { "name": "Over 233", "odds": 1.85 },
+      { "name": "Under 233", "odds": 2.01 },
+      { "name": "Over 233.5", "odds": 1.9 },
+      { "name": "Under 233.5", "odds": 1.96 },
+      { "name": "Over 234", "odds": 1.95 },
+      { "name": "Under 234", "odds": 1.91 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-03-24 08:00:00+0800",
-    "match_name": "Bulls vs Celtics",
-    "team1": "Bulls",
-    "team2": "Celtics",
-    "main_bet_list": [
-      { "name": "Bulls Winner", "odds": 3.12 },
-      { "name": "Celtics Winner", "odds": 1.27 }
-    ],
-    "more_bet_list": [
-      { "name": "Bulls +6.5", "odds": 1.94 },
-      { "name": "Celtics -6.5", "odds": 1.94 },
-      { "name": "Bulls +7", "odds": 1.87 },
-      { "name": "Celtics -7", "odds": 2.01 },
-      { "name": "Over 220.5", "odds": 1.88 },
-      { "name": "Under 220.5", "odds": 1.98 },
-      { "name": "Over 221", "odds": 1.93 },
-      { "name": "Under 221", "odds": 1.93 },
-      { "name": "Over 221.5", "odds": 1.98 },
-      { "name": "Under 221.5", "odds": 1.88 }
-    ]
-  },
-  {
-    "type": "NBA",
-    "time": "2024-03-24 08:00:00+0800",
-    "match_name": "Rockets vs Jazz",
+    "time": "2024-03-26 08:00:00+0800",
+    "match_name": "Rockets vs Trail Blazers",
     "team1": "Rockets",
-    "team2": "Jazz",
+    "team2": "Trail Blazers",
     "main_bet_list": [
-      { "name": "Rockets Winner", "odds": 1.2 },
-      { "name": "Jazz Winner", "odds": 3.5 }
+      { "name": "Rockets Winner", "odds": 1.15 },
+      { "name": "Trail Blazers Winner", "odds": 3.85 }
     ],
     "more_bet_list": [
-      { "name": "Rockets -10.5", "odds": 1.83 },
-      { "name": "Jazz +10.5", "odds": 2.05 },
-      { "name": "Rockets -11", "odds": 1.9 },
-      { "name": "Jazz +11", "odds": 1.98 },
-      { "name": "Rockets -11.5", "odds": 1.97 },
-      { "name": "Jazz +11.5", "odds": 1.91 },
-      { "name": "Over 228", "odds": 1.88 },
-      { "name": "Under 228", "odds": 1.98 },
-      { "name": "Over 228.5", "odds": 1.93 },
-      { "name": "Under 228.5", "odds": 1.93 },
-      { "name": "Over 229", "odds": 1.98 },
-      { "name": "Under 229", "odds": 1.88 }
-    ]
-  },
-  {
-    "type": "NBA",
-    "time": "2024-03-24 08:00:00+0800",
-    "match_name": "Wizards vs Raptors",
-    "team1": "Wizards",
-    "team2": "Raptors",
-    "main_bet_list": [
-      { "name": "Wizards Winner", "odds": 1.44 },
-      { "name": "Raptors Winner", "odds": 2.85 }
-    ],
-    "more_bet_list": [
-      { "name": "Wizards -5.5", "odds": 1.9 },
-      { "name": "Raptors +5.5", "odds": 1.98 },
-      { "name": "Wizards -6", "odds": 1.97 },
-      { "name": "Raptors +6", "odds": 1.91 },
-      { "name": "Wizards -6.5", "odds": 2.04 },
-      { "name": "Raptors +6.5", "odds": 1.84 },
-      { "name": "Over 230.5", "odds": 1.83 },
-      { "name": "Under 230.5", "odds": 2.03 },
-      { "name": "Over 231", "odds": 1.88 },
-      { "name": "Under 231", "odds": 1.98 },
-      { "name": "Over 231.5", "odds": 1.93 },
-      { "name": "Under 231.5", "odds": 1.93 }
-    ]
-  },
-  {
-    "type": "NBA",
-    "time": "2024-03-24 10:00:00+0800",
-    "match_name": "Trail Blazers vs Nuggets",
-    "team1": "Trail Blazers",
-    "team2": "Nuggets",
-    "main_bet_list": [
-      { "name": "Trail Blazers Winner", "odds": 6.55 },
-      { "name": "Nuggets Winner", "odds": 1.12 }
-    ],
-    "more_bet_list": [
+      { "name": "Rockets -12", "odds": 1.81 },
       { "name": "Trail Blazers +12", "odds": 2.07 },
-      { "name": "Nuggets -12", "odds": 1.81 },
+      { "name": "Rockets -12.5", "odds": 1.88 },
       { "name": "Trail Blazers +12.5", "odds": 2.0 },
-      { "name": "Nuggets -12.5", "odds": 1.88 },
+      { "name": "Rockets -13", "odds": 1.95 },
       { "name": "Trail Blazers +13", "odds": 1.93 },
-      { "name": "Nuggets -13", "odds": 1.95 },
-      { "name": "Over 211.5", "odds": 1.9 },
-      { "name": "Under 211.5", "odds": 1.96 },
-      { "name": "Over 212", "odds": 1.95 },
-      { "name": "Under 212", "odds": 1.91 },
-      { "name": "Over 212.5", "odds": 2.0 },
-      { "name": "Under 212.5", "odds": 1.86 }
+      { "name": "Over 224.5", "odds": 1.83 },
+      { "name": "Under 224.5", "odds": 2.03 },
+      { "name": "Over 225", "odds": 1.88 },
+      { "name": "Under 225", "odds": 1.98 },
+      { "name": "Over 225.5", "odds": 1.93 },
+      { "name": "Under 225.5", "odds": 1.93 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-03-14 10:00:00+0800",
-    "match_name": "Trail Blazers vs Hawks",
-    "team1": "Trail Blazers",
-    "team2": "Hawks",
+    "time": "2024-03-26 09:00:00+0800",
+    "match_name": "Jazz vs Mavericks",
+    "team1": "Jazz",
+    "team2": "Mavericks",
     "main_bet_list": [
-      { "name": "Trail Blazers Winner", "odds": 2.42 },
-      { "name": "Hawks Winner", "odds": 1.5 }
+      { "name": "Jazz Winner", "odds": 3.77 },
+      { "name": "Mavericks Winner", "odds": 1.16 }
     ],
     "more_bet_list": [
-      { "name": "Trail Blazers +3", "odds": 2.05 },
-      { "name": "Hawks -3", "odds": 1.83 },
-      { "name": "Trail Blazers +3.5", "odds": 1.98 },
-      { "name": "Hawks -3.5", "odds": 1.9 },
-      { "name": "Trail Blazers +4", "odds": 1.91 },
-      { "name": "Hawks -4", "odds": 1.97 },
-      { "name": "Over 217", "odds": 1.85 },
-      { "name": "Under 217", "odds": 2.01 },
-      { "name": "Over 217.5", "odds": 1.9 },
-      { "name": "Under 217.5", "odds": 1.96 },
-      { "name": "Over 218", "odds": 1.95 },
-      { "name": "Under 218", "odds": 1.91 }
+      { "name": "Jazz +8", "odds": 2.07 },
+      { "name": "Mavericks -8", "odds": 1.81 },
+      { "name": "Jazz +8.5", "odds": 2.0 },
+      { "name": "Mavericks -8.5", "odds": 1.88 },
+      { "name": "Jazz +9", "odds": 1.93 },
+      { "name": "Mavericks -9", "odds": 1.95 },
+      { "name": "Over 236.5", "odds": 1.85 },
+      { "name": "Under 236.5", "odds": 2.01 },
+      { "name": "Over 237", "odds": 1.9 },
+      { "name": "Under 237", "odds": 1.96 },
+      { "name": "Over 237.5", "odds": 1.95 },
+      { "name": "Under 237.5", "odds": 1.91 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-02-28 11:00:00+0800",
-    "match_name": "Thunder vs Rockets",
-    "team1": "Thunder",
-    "team2": "Rockets",
+    "time": "2024-03-26 09:00:00+0800",
+    "match_name": "Nuggets vs Grizzlies",
+    "team1": "Nuggets",
+    "team2": "Grizzlies",
     "main_bet_list": [
-      { "name": "Thunder Winner", "odds": 1.22 },
-      { "name": "Rockets Winner", "odds": 3.38 }
+      { "name": "Nuggets Winner", "odds": 1.09 },
+      { "name": "Grizzlies Winner", "odds": 4.44 }
     ],
     "more_bet_list": [
-      { "name": "Thunder -9.5", "odds": 1.87 },
-      { "name": "Rockets +9.5", "odds": 2.01 },
-      { "name": "Thunder -10", "odds": 1.94 },
-      { "name": "Rockets +10", "odds": 1.94 },
-      { "name": "Thunder -10.5", "odds": 2.01 },
-      { "name": "Rockets +10.5", "odds": 1.87 },
-      { "name": "Over 235", "odds": 1.9 },
-      { "name": "Under 235", "odds": 1.96 },
-      { "name": "Over 235.5", "odds": 1.95 },
-      { "name": "Under 235.5", "odds": 1.91 },
-      { "name": "Over 236", "odds": 2.0 },
-      { "name": "Under 236", "odds": 1.86 }
+      { "name": "Nuggets -14.5", "odds": 1.85 },
+      { "name": "Grizzlies +14.5", "odds": 2.03 },
+      { "name": "Nuggets -15", "odds": 1.92 },
+      { "name": "Grizzlies +15", "odds": 1.96 },
+      { "name": "Nuggets -15.5", "odds": 1.99 },
+      { "name": "Grizzlies +15.5", "odds": 1.89 },
+      { "name": "Over 212.5", "odds": 1.88 },
+      { "name": "Under 212.5", "odds": 1.98 },
+      { "name": "Over 213", "odds": 1.93 },
+      { "name": "Under 213", "odds": 1.93 },
+      { "name": "Over 213.5", "odds": 1.98 },
+      { "name": "Under 213.5", "odds": 1.88 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-02-28 11:00:00+0800",
-    "match_name": "Trail Blazers vs Heat",
-    "team1": "Trail Blazers",
-    "team2": "Heat",
+    "time": "2024-03-26 10:00:00+0800",
+    "match_name": "Kings vs 76ers",
+    "team1": "Kings",
+    "team2": "76ers",
     "main_bet_list": [
-      { "name": "Trail Blazers Winner", "odds": 3.27 },
-      { "name": "Heat Winner", "odds": 1.24 }
+      { "name": "Kings Winner", "odds": 1.28 },
+      { "name": "76ers Winner", "odds": 3.09 }
     ],
     "more_bet_list": [
-      { "name": "Trail Blazers +6.5", "odds": 2.03 },
-      { "name": "Heat -6.5", "odds": 1.85 },
-      { "name": "Trail Blazers +7", "odds": 1.96 },
-      { "name": "Heat -7", "odds": 1.92 },
-      { "name": "Trail Blazers +7.5", "odds": 1.89 },
-      { "name": "Heat -7.5", "odds": 1.99 },
-      { "name": "Over 212", "odds": 1.88 },
-      { "name": "Under 212", "odds": 1.98 },
-      { "name": "Over 212.5", "odds": 1.93 },
-      { "name": "Under 212.5", "odds": 1.93 },
-      { "name": "Over 213", "odds": 1.98 },
-      { "name": "Under 213", "odds": 1.88 }
+      { "name": "Kings -9", "odds": 1.87 },
+      { "name": "76ers +9", "odds": 2.01 },
+      { "name": "Kings -9.5", "odds": 1.94 },
+      { "name": "76ers +9.5", "odds": 1.94 },
+      { "name": "Kings -10", "odds": 2.01 },
+      { "name": "76ers +10", "odds": 1.87 },
+      { "name": "Over 221.5", "odds": 1.91 },
+      { "name": "Under 221.5", "odds": 1.95 },
+      { "name": "Over 222", "odds": 1.96 },
+      { "name": "Under 222", "odds": 1.9 },
+      { "name": "Over 222.5", "odds": 2.01 },
+      { "name": "Under 222.5", "odds": 1.85 }
+    ]
+  },
+  {
+    "type": "NBA",
+    "time": "2024-03-26 10:30:00+0800",
+    "match_name": "Clippers vs Pacers",
+    "team1": "Clippers",
+    "team2": "Pacers",
+    "main_bet_list": [
+      { "name": "Clippers Winner", "odds": 1.43 },
+      { "name": "Pacers Winner", "odds": 2.58 }
+    ],
+    "more_bet_list": [
+      { "name": "Clippers -5.5", "odds": 1.88 },
+      { "name": "Pacers +5.5", "odds": 2.0 },
+      { "name": "Clippers -6", "odds": 1.95 },
+      { "name": "Pacers +6", "odds": 1.93 },
+      { "name": "Clippers -6.5", "odds": 2.02 },
+      { "name": "Pacers +6.5", "odds": 1.86 },
+      { "name": "Over 233", "odds": 1.85 },
+      { "name": "Under 233", "odds": 2.01 },
+      { "name": "Over 233.5", "odds": 1.9 },
+      { "name": "Under 233.5", "odds": 1.96 },
+      { "name": "Over 234", "odds": 1.95 },
+      { "name": "Under 234", "odds": 1.91 }
     ]
   },
   {
