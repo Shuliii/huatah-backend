@@ -1,77 +1,77 @@
 [
   {
     "type": "NBA",
-    "time": "2024-03-30 07:00:00+0800",
+    "time": "2024-03-31 05:00:00+0800",
     "match_name": "Pelicans vs Celtics",
     "team1": "Pelicans",
     "team2": "Celtics",
     "main_bet_list": [
-      { "name": "Pelicans Winner", "odds": 2.03 },
-      { "name": "Celtics Winner", "odds": 1.77 }
+      { "name": "Pelicans Winner", "odds": 2.78 },
+      { "name": "Celtics Winner", "odds": 1.36 }
     ],
     "more_bet_list": [
-      { "name": "Pelicans +1", "odds": 2.01 },
-      { "name": "Celtics -1", "odds": 1.87 },
-      { "name": "Pelicans +1.5", "odds": 1.94 },
-      { "name": "Celtics -1.5", "odds": 1.94 },
-      { "name": "Pelicans +2", "odds": 1.87 },
-      { "name": "Celtics -2", "odds": 2.01 },
-      { "name": "Over 210.5", "odds": 1.88 },
-      { "name": "Under 210.5", "odds": 1.98 },
-      { "name": "Over 211", "odds": 1.93 },
-      { "name": "Under 211", "odds": 1.93 },
-      { "name": "Over 211.5", "odds": 1.98 },
-      { "name": "Under 211.5", "odds": 1.88 }
+      { "name": "Pelicans +5.5", "odds": 2.03 },
+      { "name": "Celtics -5.5", "odds": 1.85 },
+      { "name": "Pelicans +6", "odds": 1.96 },
+      { "name": "Celtics -6", "odds": 1.92 },
+      { "name": "Pelicans +6.5", "odds": 1.89 },
+      { "name": "Celtics -6.5", "odds": 1.99 },
+      { "name": "Over 222.5", "odds": 1.87 },
+      { "name": "Under 222.5", "odds": 1.99 },
+      { "name": "Over 223", "odds": 1.92 },
+      { "name": "Under 223", "odds": 1.94 },
+      { "name": "Over 223.5", "odds": 1.97 },
+      { "name": "Under 223.5", "odds": 1.89 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-03-30 07:00:00+0800",
+    "time": "2024-03-31 07:00:00+0800",
     "match_name": "Magic vs Grizzlies",
     "team1": "Magic",
     "team2": "Grizzlies",
     "main_bet_list": [
-      { "name": "Magic Winner", "odds": 1.58 },
-      { "name": "Grizzlies Winner", "odds": 2.28 }
+      { "name": "Magic Winner", "odds": 1.15 },
+      { "name": "Grizzlies Winner", "odds": 3.85 }
     ],
     "more_bet_list": [
-      { "name": "Magic -3.5", "odds": 1.86 },
-      { "name": "Grizzlies +3.5", "odds": 2.02 },
-      { "name": "Magic -4", "odds": 1.93 },
-      { "name": "Grizzlies +4", "odds": 1.95 },
-      { "name": "Magic -4.5", "odds": 2.0 },
-      { "name": "Grizzlies +4.5", "odds": 1.88 },
-      { "name": "Over 226.5", "odds": 1.88 },
-      { "name": "Under 226.5", "odds": 1.98 },
-      { "name": "Over 227", "odds": 1.93 },
-      { "name": "Under 227", "odds": 1.93 },
-      { "name": "Over 227.5", "odds": 1.98 },
-      { "name": "Under 227.5", "odds": 1.88 }
+      { "name": "Magic -12.5", "odds": 1.81 },
+      { "name": "Grizzlies +12.5", "odds": 2.07 },
+      { "name": "Magic -13", "odds": 1.88 },
+      { "name": "Grizzlies +13", "odds": 2.0 },
+      { "name": "Magic -13.5", "odds": 1.95 },
+      { "name": "Grizzlies +13.5", "odds": 1.93 },
+      { "name": "Over 205", "odds": 1.9 },
+      { "name": "Under 205", "odds": 1.96 },
+      { "name": "Over 205.5", "odds": 1.95 },
+      { "name": "Under 205.5", "odds": 1.91 },
+      { "name": "Over 206", "odds": 2.0 },
+      { "name": "Under 206", "odds": 1.86 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-03-30 07:00:00+0800",
+    "time": "2024-03-31 07:30:00+0800",
     "match_name": "Hawks vs Bucks",
     "team1": "Hawks",
     "team2": "Bucks",
     "main_bet_list": [
-      { "name": "Hawks Winner", "odds": 1.64 },
-      { "name": "Bucks Winner", "odds": 2.19 }
+      { "name": "Hawks Winner", "odds": 2.38 },
+      { "name": "Bucks Winner", "odds": 1.52 }
     ],
     "more_bet_list": [
-      { "name": "Hawks -3", "odds": 1.87 },
-      { "name": "Bucks +3", "odds": 2.01 },
-      { "name": "Hawks -3.5", "odds": 1.92 },
-      { "name": "Bucks +3.5", "odds": 1.96 },
-      { "name": "Hawks -4", "odds": 2.01 },
-      { "name": "Bucks +4", "odds": 1.87 },
-      { "name": "Over 243", "odds": 1.88 },
-      { "name": "Under 243", "odds": 1.98 },
-      { "name": "Over 243.5", "odds": 1.93 },
-      { "name": "Under 243.5", "odds": 1.93 },
-      { "name": "Over 244", "odds": 1.98 },
-      { "name": "Under 244", "odds": 1.88 }
+      { "name": "Hawks +3.5", "odds": 2.03 },
+      { "name": "Bucks -3.5", "odds": 1.85 },
+      { "name": "Hawks +4", "odds": 1.96 },
+      { "name": "Bucks -4", "odds": 1.92 },
+      { "name": "Hawks +4.5", "odds": 1.89 },
+      { "name": "Bucks -4.5", "odds": 1.99 },
+      { "name": "Over 223", "odds": 1.86 },
+      { "name": "Under 223", "odds": 2.0 },
+      { "name": "Over 223.5", "odds": 1.91 },
+      { "name": "Under 223.5", "odds": 1.95 },
+      { "name": "Over 224", "odds": 1.96 },
+      { "name": "Under 224", "odds": 1.9 }
     ]
   },
   {
