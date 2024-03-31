@@ -233,40 +233,60 @@
   },
   {
     "type": "CS",
-    "time": "2024-03-30 03:00:00+0800",
-    "match_name": "Mouz vs G2 Match",
-    "team1": "Mouz",
-    "team2": "G2",
+    "time": "2024-04-01 03:00:00+0800",
+    "match_name": "Faze vs Navi Match",
+    "team1": "Faze",
+    "team2": "Navi",
     "main_bet_list": [
-      { "name": "Mouz Winner", "odds": 1.72 },
-      { "name": "G2 Winner", "odds": 2.11 }
+      { "name": "Faze Winner", "odds": 1.45 },
+      { "name": "Navi Winner", "odds": 2.63 }
     ],
 
     "more_bet_list": [
-      { "name": "Mouz -1.5", "odds": 3.08 },
-      { "name": "G2 +1.5", "odds": 1.36 },
+      { "name": "Faze -1.5", "odds": 2.35 },
+      { "name": "Navi +1.5", "odds": 1.56 },
       { "name": "Over 2.5", "odds": 1.88 },
       { "name": "Under 2.5", "odds": 1.88 },
-      { "name": "Map score 2-0", "odds": 3.0 },
-      { "name": "Map score 2-1", "odds": 2.92 },
-      { "name": "Map score 0-2", "odds": 3.5 },
-      { "name": "Map score 1-2", "odds": 3.38 }
+      { "name": "Map score 2-0", "odds": 2.2 },
+      { "name": "Map score 2-1", "odds": 2.2 },
+      { "name": "Map score 0-2", "odds": 4.03 },
+      { "name": "Map score 1-2", "odds": 3.7 }
     ]
   },
   {
     "type": "CS",
-    "time": "2024-03-30 03:00:00+0800",
-    "match_name": "Mouz vs G2 Map1",
-    "team1": "Mouz",
-    "team2": "G2",
+    "time": "2024-04-01 03:00:00+0800",
+    "match_name": "Faze vs Navi Map1",
+    "team1": "Faze",
+    "team2": "Navi",
     "main_bet_list": [
-      { "name": "Mouz Winner", "odds": 1.73 },
-      { "name": "G2 Winner", "odds": 2.03 }
+      { "name": "Faze Winner", "odds": 1.5 },
+      { "name": "Navi Winner", "odds": 2.42 }
     ],
 
     "more_bet_list": [
-      { "name": "Mouz -2.5", "odds": 2.08 },
-      { "name": "G2 +2.5", "odds": 1.68 },
+      { "name": "Faze -2.5", "odds": 1.8 },
+      { "name": "Navi +2.5", "odds": 1.96 },
+      { "name": "Over 21.5", "odds": 1.82 },
+      { "name": "Under 21.5", "odds": 1.88 },
+      { "name": "Odd", "odds": 2.06 },
+      { "name": "Even", "odds": 1.74 }
+    ]
+  },
+  {
+    "type": "CS",
+    "time": "2024-04-01 03:00:00+0800",
+    "match_name": "Faze vs Navi Map2",
+    "team1": "Faze",
+    "team2": "Navi",
+    "main_bet_list": [
+      { "name": "Faze Winner", "odds": 1.7 },
+      { "name": "Navi Winner", "odds": 2.08 }
+    ],
+
+    "more_bet_list": [
+      { "name": "Faze -2.5", "odds": 1.96 },
+      { "name": "Navi +2.5", "odds": 1.8 },
       { "name": "Over 21.5", "odds": 1.8 },
       { "name": "Under 21.5", "odds": 1.9 },
       { "name": "Odd", "odds": 2.06 },
@@ -275,40 +295,20 @@
   },
   {
     "type": "CS",
-    "time": "2024-03-30 03:00:00+0800",
-    "match_name": "Mouz vs G2 Map2",
-    "team1": "Mouz",
-    "team2": "G2",
+    "time": "2024-04-01 03:00:00+0800",
+    "match_name": "Faze vs Navi Map3",
+    "team1": "Faze",
+    "team2": "Navi",
     "main_bet_list": [
-      { "name": "Mouz Winner", "odds": 1.75 },
-      { "name": "G2 Winner", "odds": 2.05 }
+      { "name": "Faze Winner", "odds": 1.65 },
+      { "name": "Navi Winner", "odds": 2.17 }
     ],
 
     "more_bet_list": [
-      { "name": "Mouz -2.5", "odds": 2.02 },
-      { "name": "G2 +2.5", "odds": 1.74 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.9 },
-      { "name": "Odd", "odds": 2.06 },
-      { "name": "Even", "odds": 1.74 }
-    ]
-  },
-  {
-    "type": "CS",
-    "time": "2024-03-30 03:00:00+0800",
-    "match_name": "Mouz vs G2 Map3",
-    "team1": "Mouz",
-    "team2": "G2",
-    "main_bet_list": [
-      { "name": "Mouz Winner", "odds": 1.85 },
-      { "name": "G2 Winner", "odds": 1.91 }
-    ],
-
-    "more_bet_list": [
-      { "name": "Mouz -2.5", "odds": 2.08 },
-      { "name": "G2 +2.5", "odds": 1.68 },
-      { "name": "Over 21.5", "odds": 1.76 },
-      { "name": "Under 21.5", "odds": 1.94 },
+      { "name": "Faze -2.5", "odds": 1.91 },
+      { "name": "Navi +2.5", "odds": 1.85 },
+      { "name": "Over 21.5", "odds": 1.84 },
+      { "name": "Under 21.5", "odds": 1.86 },
       { "name": "Odd", "odds": 2.06 },
       { "name": "Even", "odds": 1.74 }
     ]
