@@ -151,127 +151,127 @@
   },
   {
     "type": "NBA",
-    "time": "2024-04-06 08:00:00+0800",
+    "time": "2024-04-08 07:00:00+0800",
     "match_name": "Bucks vs Knicks",
     "team1": "Bucks",
     "team2": "Knicks",
     "main_bet_list": [
-      { "name": "Bucks Winner", "odds": 1.8 },
-      { "name": "Knicks Winner", "odds": 2.0 }
+      { "name": "Bucks Winner", "odds": 1.58 },
+      { "name": "Knicks Winner", "odds": 2.28 }
     ],
     "more_bet_list": [
-      { "name": "Bucks -1", "odds": 1.87 },
-      { "name": "Knicks +1", "odds": 2.01 },
-      { "name": "Bucks -1.5", "odds": 1.94 },
-      { "name": "Knicks +1.5", "odds": 1.94 },
-      { "name": "Bucks -2", "odds": 2.01 },
-      { "name": "Knicks +2", "odds": 1.87 },
-      { "name": "Over 210.5", "odds": 1.88 },
-      { "name": "Under 210.5", "odds": 1.98 },
-      { "name": "Over 211", "odds": 1.93 },
-      { "name": "Under 211", "odds": 1.93 },
-      { "name": "Over 211.5", "odds": 1.98 },
-      { "name": "Under 211.5", "odds": 1.88 }
+      { "name": "Bucks -4", "odds": 1.89 },
+      { "name": "Knicks +4", "odds": 1.99 },
+      { "name": "Bucks -4.5", "odds": 1.96 },
+      { "name": "Knicks +4.5", "odds": 1.92 },
+      { "name": "Bucks -5", "odds": 2.03 },
+      { "name": "Knicks +5", "odds": 1.85 },
+      { "name": "Over 218", "odds": 1.88 },
+      { "name": "Under 218", "odds": 1.98 },
+      { "name": "Over 218.5", "odds": 1.93 },
+      { "name": "Under 218.5", "odds": 1.93 },
+      { "name": "Over 219", "odds": 1.98 },
+      { "name": "Under 219", "odds": 1.88 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-04-06 08:00:00+0800",
+    "time": "2024-04-08 07:00:00+0800",
     "match_name": "Spurs vs 76ers",
     "team1": "Spurs",
     "team2": "76ers",
     "main_bet_list": [
-      { "name": "Spurs Winner", "odds": 1.11 },
-      { "name": "76ers Winner", "odds": 4.22 }
+      { "name": "Spurs Winner", "odds": 2.81 },
+      { "name": "76ers Winner", "odds": 1.35 }
     ],
     "more_bet_list": [
-      { "name": "Spurs -14.5", "odds": 1.87 },
-      { "name": "76ers +14.5", "odds": 2.01 },
-      { "name": "Spurs -15", "odds": 1.94 },
-      { "name": "76ers +15", "odds": 1.94 },
-      { "name": "Spurs -15.5", "odds": 2.01 },
-      { "name": "76ers +15.5", "odds": 1.87 },
-      { "name": "Over 227.5", "odds": 1.85 },
-      { "name": "Under 227.5", "odds": 2.01 },
-      { "name": "Over 228", "odds": 1.9 },
-      { "name": "Under 228", "odds": 1.96 },
-      { "name": "Over 228.5", "odds": 1.95 },
-      { "name": "Under 228.5", "odds": 1.91 }
+      { "name": "Spurs +5.5", "odds": 1.97 },
+      { "name": "76ers -5.5", "odds": 1.91 },
+      { "name": "Spurs +6", "odds": 1.9 },
+      { "name": "76ers -6", "odds": 1.98 },
+      { "name": "Spurs +6.5", "odds": 1.83 },
+      { "name": "76ers -6.5", "odds": 2.05 },
+      { "name": "Over 226.5", "odds": 1.88 },
+      { "name": "Under 226.5", "odds": 1.98 },
+      { "name": "Over 227", "odds": 1.93 },
+      { "name": "Under 227", "odds": 1.93 },
+      { "name": "Over 227.5", "odds": 1.98 },
+      { "name": "Under 227.5", "odds": 1.88 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-04-06 08:00:00+0800",
-    "match_name": "Bulls vs Knicks",
-    "team1": "Bulls",
-    "team2": "Knicks",
+    "time": "2024-04-08 07:30:00+0800",
+    "match_name": "Nets vs Kings",
+    "team1": "Nets",
+    "team2": "Kings",
     "main_bet_list": [
-      { "name": "Bulls Winner", "odds": 1.8 },
-      { "name": "Knicks Winner", "odds": 2.0 }
+      { "name": "Nets Winner", "odds": 3.77 },
+      { "name": "Kings Winner", "odds": 1.16 }
     ],
     "more_bet_list": [
-      { "name": "Bulls -1", "odds": 1.87 },
-      { "name": "Knicks +1", "odds": 2.01 },
-      { "name": "Bulls -1.5", "odds": 1.94 },
-      { "name": "Knicks +1.5", "odds": 1.94 },
-      { "name": "Bulls -2", "odds": 2.01 },
-      { "name": "Knicks +2", "odds": 1.87 },
-      { "name": "Over 212", "odds": 1.88 },
-      { "name": "Under 212", "odds": 1.98 },
-      { "name": "Over 212.5", "odds": 1.93 },
-      { "name": "Under 212.5", "odds": 1.93 },
-      { "name": "Over 213", "odds": 1.98 },
-      { "name": "Under 213", "odds": 1.88 }
+      { "name": "Nets +8", "odds": 1.99 },
+      { "name": "Kings -8", "odds": 1.89 },
+      { "name": "Nets +8.5", "odds": 1.92 },
+      { "name": "Kings -8.5", "odds": 1.96 },
+      { "name": "Nets +9", "odds": 1.85 },
+      { "name": "Kings -9", "odds": 2.03 },
+      { "name": "Over 216", "odds": 1.88 },
+      { "name": "Under 216", "odds": 1.98 },
+      { "name": "Over 216.5", "odds": 1.93 },
+      { "name": "Under 216.5", "odds": 1.93 },
+      { "name": "Over 217", "odds": 1.98 },
+      { "name": "Under 217", "odds": 1.88 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-04-06 08:30:00+0800",
-    "match_name": "Mavericks vs Warriors",
-    "team1": "Mavericks",
-    "team2": "Warriors",
+    "time": "2024-04-08 08:30:00+0800",
+    "match_name": "Warriors vs Jazz",
+    "team1": "Warriors",
+    "team2": "Jazz",
     "main_bet_list": [
-      { "name": "Mavericks Winner", "odds": 1.52 },
-      { "name": "Warriors Winner", "odds": 2.38 }
+      { "name": "Warriors Winner", "odds": 1.15 },
+      { "name": "Jazz Winner", "odds": 3.85 }
     ],
     "more_bet_list": [
-      { "name": "Mavericks -4.5", "odds": 1.85 },
-      { "name": "Warriors +4.5", "odds": 2.03 },
-      { "name": "Mavericks -5", "odds": 1.92 },
-      { "name": "Warriors +5", "odds": 1.96 },
-      { "name": "Mavericks -5.5", "odds": 1.99 },
-      { "name": "Warriors +5.5", "odds": 1.89 },
-      { "name": "Over 225.5", "odds": 1.91 },
-      { "name": "Under 225.5", "odds": 1.95 },
-      { "name": "Over 226", "odds": 1.96 },
-      { "name": "Under 226", "odds": 1.9 },
-      { "name": "Over 226.5", "odds": 2.01 },
-      { "name": "Under 226.5", "odds": 1.85 }
+      { "name": "Warriors -11.5", "odds": 1.89 },
+      { "name": "Jazz +11.5", "odds": 1.99 },
+      { "name": "Warriors -12", "odds": 1.96 },
+      { "name": "Jazz +12", "odds": 1.92 },
+      { "name": "Warriors -12.5", "odds": 2.03 },
+      { "name": "Jazz +12.5", "odds": 1.85 },
+      { "name": "Over 226", "odds": 1.88 },
+      { "name": "Under 226", "odds": 1.98 },
+      { "name": "Over 226.5", "odds": 1.93 },
+      { "name": "Under 226.5", "odds": 1.93 },
+      { "name": "Over 227", "odds": 1.98 },
+      { "name": "Under 227", "odds": 1.88 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-04-06 10:00:00+0800",
-    "match_name": "Suns vs Timberwolves",
-    "team1": "Suns",
+    "time": "2024-04-08 10:00:00+0800",
+    "match_name": "Lakers vs Timberwolves",
+    "team1": "Lakers",
     "team2": "Timberwolves",
     "main_bet_list": [
-      { "name": "Suns Winner", "odds": 1.6 },
-      { "name": "Timberwolves Winner", "odds": 2.25 }
+      { "name": "Lakers Winner", "odds": 1.8 },
+      { "name": "Timberwolves Winner", "odds": 2.0 }
     ],
     "more_bet_list": [
-      { "name": "Suns -3.5", "odds": 1.89 },
-      { "name": "Timberwolves +3.5", "odds": 1.99 },
-      { "name": "Suns -4", "odds": 1.96 },
-      { "name": "Timberwolves +4", "odds": 1.92 },
-      { "name": "Suns -4.5", "odds": 2.03 },
-      { "name": "Timberwolves +4.5", "odds": 1.85 },
-      { "name": "Over 216", "odds": 1.89 },
-      { "name": "Under 216", "odds": 1.97 },
-      { "name": "Over 216.5", "odds": 1.94 },
-      { "name": "Under 216.5", "odds": 1.92 },
-      { "name": "Over 217", "odds": 1.99 },
-      { "name": "Under 217", "odds": 1.87 }
+      { "name": "Lakers -1.5", "odds": 1.85 },
+      { "name": "Timberwolves +1.5", "odds": 2.03 },
+      { "name": "Lakers -2", "odds": 1.92 },
+      { "name": "Timberwolves +2", "odds": 1.96 },
+      { "name": "Lakers -2.5", "odds": 1.99 },
+      { "name": "Timberwolves +2.5", "odds": 1.89 },
+      { "name": "Over 218", "odds": 1.88 },
+      { "name": "Under 218", "odds": 1.98 },
+      { "name": "Over 218.5", "odds": 1.93 },
+      { "name": "Under 218.5", "odds": 1.93 },
+      { "name": "Over 219", "odds": 1.98 },
+      { "name": "Under 219", "odds": 1.88 }
     ]
   },
   {
