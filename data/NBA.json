@@ -1,77 +1,77 @@
 [
   {
     "type": "NBA",
-    "time": "2024-04-30 07:30:00+0800",
-    "match_name": "Heat vs Celtics",
-    "team1": "Heat",
-    "team2": "Celtics",
+    "time": "2024-05-01 07:00:00+0800",
+    "match_name": "Knicks vs 76ers",
+    "team1": "Knicks",
+    "team2": "76ers",
     "main_bet_list": [
-      { "name": "Heat Winner", "odds": 4.33 },
-      { "name": "Celtics Winner", "odds": 1.10 }
+      { "name": "Knicks Winner", "odds": 1.58 },
+      { "name": "76ers Winner", "odds": 2.28 }
     ],
     "more_bet_list": [
-      { "name": "Heat +10", "odds": 2.01 },
-      { "name": "Celtics -10", "odds": 1.85 },
-      { "name": "Heat +10.5", "odds": 1.94 },
-      { "name": "Celtics -10.5", "odds": 1.92 },
-      { "name": "Heat +11", "odds": 1.87 },
-      { "name": "Celtics -11", "odds": 1.99 },
-      { "name": "Over 203.5", "odds": 1.83 },
-      { "name": "Under 203.5", "odds": 2.01 },
-      { "name": "Over 204", "odds": 1.88 },
-      { "name": "Under 204", "odds": 1.96 },
-      { "name": "Over 204.5", "odds": 1.93 },
-      { "name": "Under 204.5", "odds": 1.91 }
+      { "name": "Knicks -4", "odds": 1.89 },
+      { "name": "76ers +4", "odds": 1.99 },
+      { "name": "Knicks -4.5", "odds": 1.96 },
+      { "name": "76ers +4.5", "odds": 1.92 },
+      { "name": "Knicks -5", "odds": 2.03 },
+      { "name": "76ers +5", "odds": 1.85 },
+      { "name": "Over 202.5", "odds": 1.89 },
+      { "name": "Under 202.5", "odds": 1.97 },
+      { "name": "Over 203", "odds": 1.94 },
+      { "name": "Under 203", "odds": 1.92 },
+      { "name": "Over 203.5", "odds": 1.99 },
+      { "name": "Under 203.5", "odds": 1.87 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-04-30 08:30:00+0800",
-    "match_name": "Pelicans vs Thunder",
-    "team1": "Pelicans",
-    "team2": "Thunder",
+    "time": "2024-05-01 08:00:00+0800",
+    "match_name": "Cavaliers vs Magic",
+    "team1": "Cavaliers",
+    "team2": "Magic",
     "main_bet_list": [
-      { "name": "Pelicans Winner", "odds": 2.56 },
-      { "name": "Thunder Winner", "odds": 1.44 }
+      { "name": "Cavaliers Winner", "odds": 1.53 },
+      { "name": "Magic Winner", "odds": 2.36 }
     ],
     "more_bet_list": [
-      { "name": "Pelicans +4", "odds": 2.05 },
-      { "name": "Thunder -4", "odds": 1.81 },
-      { "name": "Pelicans +4.5", "odds": 1.98 },
-      { "name": "Thunder -4.5", "odds": 1.88 },
-      { "name": "Pelicans +5", "odds": 1.91 },
-      { "name": "Thunder -5", "odds": 1.95 },
-      { "name": "Over 206.5", "odds": 1.82 },
-      { "name": "Under 206.5", "odds": 2.02 },
-      { "name": "Over 207", "odds": 1.87 },
-      { "name": "Under 207", "odds": 1.97 },
-      { "name": "Over 207.5", "odds": 1.92 },
-      { "name": "Under 207.5", "odds": 1.92 }
+      { "name": "Cavaliers -4.5", "odds": 1.82 },
+      { "name": "Magic +4.5", "odds": 2.06 },
+      { "name": "Cavaliers -5", "odds": 1.89 },
+      { "name": "Magic +5", "odds": 1.99 },
+      { "name": "Cavaliers -5.5", "odds": 1.96 },
+      { "name": "Magic +5.5", "odds": 1.92 },
+      { "name": "Over 201", "odds": 1.88 },
+      { "name": "Under 201", "odds": 1.98 },
+      { "name": "Over 201.5", "odds": 1.93 },
+      { "name": "Under 201.5", "odds": 1.93 },
+      { "name": "Over 202", "odds": 1.98 },
+      { "name": "Under 202", "odds": 1.88 }
     ]
   },
   {
     "type": "NBA",
-    "time": "2024-04-30 10:00:00+0800",
-    "match_name": "Nuggets vs Lakers",
-    "team1": "Nuggets",
-    "team2": "Lakers",
+    "time": "2024-05-01 09:30:00+0800",
+    "match_name": "Bucks vs Pacers",
+    "team1": "Bucks",
+    "team2": "Pacers",
     "main_bet_list": [
-      { "name": "Nuggets Winner", "odds": 1.42 },
-      { "name": "Lakers Winner", "odds": 2.61 }
+      { "name": "Bucks Winner", "odds": 2.38 },
+      { "name": "Pacers Winner", "odds": 1.52 }
     ],
     "more_bet_list": [
-      { "name": "Nuggets -6.5", "odds": 1.93 },
-      { "name": "Lakers +6.5", "odds": 1.93 },
-      { "name": "Nuggets -7", "odds": 2.00 },
-      { "name": "Lakers +7", "odds": 1.86 },
-      { "name": "Nuggets -7.5", "odds": 2.07 },
-      { "name": "Lakers +7.5", "odds": 1.79 },
-      { "name": "Over 216", "odds": 1.86 },
-      { "name": "Under 216", "odds": 1.98 },
-      { "name": "Over 216.5", "odds": 1.91 },
-      { "name": "Under 216.5", "odds": 1.93 },
-      { "name": "Over 217", "odds": 1.96 },
-      { "name": "Under 217", "odds": 1.88 }
+      { "name": "Bucks +3.5", "odds": 2.01 },
+      { "name": "Pacers -3.5", "odds": 1.87 },
+      { "name": "Bucks +4", "odds": 1.94 },
+      { "name": "Pacers -4", "odds": 1.94 },
+      { "name": "Bucks +4.5", "odds": 1.87 },
+      { "name": "Pacers -4.5", "odds": 2.01 },
+      { "name": "Over 215", "odds": 1.83 },
+      { "name": "Under 215", "odds": 2.03 },
+      { "name": "Over 215.5", "odds": 1.88 },
+      { "name": "Under 215.5", "odds": 1.98 },
+      { "name": "Over 216", "odds": 1.93 },
+      { "name": "Under 216", "odds": 1.93 }
     ]
   },
   {
