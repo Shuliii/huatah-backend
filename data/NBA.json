@@ -1,27 +1,27 @@
 [
   {
     "type": "NBA",
-    "time": "2024-05-01 07:00:00+0800",
-    "match_name": "Knicks vs 76ers",
-    "team1": "Knicks",
-    "team2": "76ers",
+    "time": "2024-05-18 08:00:00+0800",
+    "match_name": "Pacers vs Knicks",
+    "team1": "Pacers",
+    "team2": "Knicks",
     "main_bet_list": [
-      { "name": "Knicks Winner", "odds": 1.58 },
-      { "name": "76ers Winner", "odds": 2.28 }
+      { "name": "Pacers Winner", "odds": 1.47 },
+      { "name": "Knicks Winner", "odds": 2.49 }
     ],
     "more_bet_list": [
-      { "name": "Knicks -4", "odds": 1.89 },
-      { "name": "76ers +4", "odds": 1.99 },
-      { "name": "Knicks -4.5", "odds": 1.96 },
-      { "name": "76ers +4.5", "odds": 1.92 },
-      { "name": "Knicks -5", "odds": 2.03 },
-      { "name": "76ers +5", "odds": 1.85 },
-      { "name": "Over 202.5", "odds": 1.89 },
-      { "name": "Under 202.5", "odds": 1.97 },
-      { "name": "Over 203", "odds": 1.94 },
-      { "name": "Under 203", "odds": 1.92 },
-      { "name": "Over 203.5", "odds": 1.99 },
-      { "name": "Under 203.5", "odds": 1.87 }
+      { "name": "Pacers -6", "odds": 1.89 },
+      { "name": "Knicks +6", "odds": 1.99 },
+      { "name": "Pacers -6.5", "odds": 1.96 },
+      { "name": "Knicks +6.5", "odds": 1.92 },
+      { "name": "Pacers -7", "odds": 2.03 },
+      { "name": "Knicks +7", "odds": 1.85 },
+      { "name": "Over 215", "odds": 1.83 },
+      { "name": "Under 215", "odds": 2.03 },
+      { "name": "Over 215.5", "odds": 1.88 },
+      { "name": "Under 215.5", "odds": 1.98 },
+      { "name": "Over 216", "odds": 1.93 },
+      { "name": "Under 216", "odds": 1.93 }
     ]
   },
   {
