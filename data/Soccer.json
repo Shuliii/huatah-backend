@@ -1,88 +1,92 @@
 [
   {
     "type": "Soccer",
-    "time": "2024-05-19 23:00:00+0800",
-    "match_name": "Liverpool vs Wolves",
-    "team1": "Liverpool",
-    "team2": "Wolves",
+    "time": "2024-06-16 21:00:00+0800",
+    "match_name": "Poland vs Netherlands",
+    "team1": "Poland",
+    "team2": "Netherlands",
     "main_bet_list": [
-      { "name": "Liverpool Winner", "odds": 1.15 },
-      { "name": "Draw", "odds": 9.00 },
-      { "name": "Wolves Winner", "odds": 15.00 }
+      { "name": "Poland Winner", "odds": 6.5 },
+      { "name": "Draw", "odds": 4.2 },
+      { "name": "Netherlands Winner", "odds": 1.52 }
     ],
     "more_bet_list": [
-      { "name": "Liverpool -2", "odds": 1.60 },
-      { "name": "Wolves +2", "odds": 2.33 },
-      { "name": "Liverpool -2.25", "odds": 1.78 },
-      { "name": "Wolves +2.25", "odds": 2.15 },
-      { "name": "Liverpool -2.5", "odds": 2.01 },
-      { "name": "Wolves +2.5", "odds": 1.92 },
-      { "name": "Liverpool -2.75", "odds": 2.20 },
-      { "name": "Wolves +2.75", "odds": 1.73 },
-      { "name": "Over 3.75", "odds": 1.57 },
-      { "name": "Under 3.75", "odds": 2.33 },
-      { "name": "Over 4", "odds": 1.72 },
-      { "name": "Under 4", "odds": 2.18 },
-      { "name": "Over 4.25", "odds": 1.91 },
-      { "name": "Under 4.25", "odds": 1.99 },
-      { "name": "Over 4.5", "odds": 2.18 },
-      { "name": "Under 4.5", "odds": 1.72 }
+      { "name": "Poland +0.5", "odds": 2.41 },
+      { "name": "Netherlands -0.5", "odds": 1.53 },
+      { "name": "Poland +0.75", "odds": 2.23 },
+      { "name": "Netherlands -0.75", "odds": 1.71 },
+      { "name": "Poland +1", "odds": 1.98 },
+      { "name": "Netherlands -1", "odds": 1.96 },
+      { "name": "Poland +1.25", "odds": 1.7 },
+      { "name": "Netherlands -1.25", "odds": 2.24 },
+      { "name": "Over 2", "odds": 1.49 },
+      { "name": "Under 2", "odds": 2.43 },
+      { "name": "Over 2.25", "odds": 1.73 },
+      { "name": "Under 2.25", "odds": 2.19 },
+      { "name": "Over 2.5", "odds": 2.0 },
+      { "name": "Under 2.5", "odds": 1.92 },
+      { "name": "Over 2.75", "odds": 2.22 },
+      { "name": "Under 2.75", "odds": 1.7 }
     ]
   },
   {
     "type": "Soccer",
-    "time": "2024-05-19 23:00:00+0800",
-    "match_name": "Sheffield vs Tottenham",
-    "team1": "Sheffield",
-    "team2": "Tottenham",
+    "time": "2024-06-17 00:00:00+0800",
+    "match_name": "Slovenia vs Denmark",
+    "team1": "Slovenia",
+    "team2": "Denmark",
     "main_bet_list": [
-      { "name": "Sheffield Winner", "odds": 8.40 },
-      { "name": "Draw", "odds": 5.9 },
-      { "name": "Tottenham Winner", "odds": 1.32 }
+      { "name": "Slovenia Winner", "odds": 5.4 },
+      { "name": "Draw", "odds": 1.7 },
+      { "name": "Denmark Winner", "odds": 3.6 }
     ],
     "more_bet_list": [
-      { "name": "Sheffield +1.5", "odds": 2.11 },
-      { "name": "Tottenham -1.5", "odds": 1.82 },
-      { "name": "Sheffield +1.75", "odds": 1.9 },
-      { "name": "Tottenham -1.75", "odds": 2.03 },
-      { "name": "Sheffield +2", "odds": 1.68 },
-      { "name": "Tottenham -2", "odds": 2.25 },
-      { "name": "Over 3.5", "odds": 1.75 },
-      { "name": "Under 3.5", "odds": 2.15 },
-      { "name": "Over 3.75", "odds": 1.94 },
-      { "name": "Under 3.75", "odds": 1.96 },
-      { "name": "Over 4", "odds": 2.17 },
-      { "name": "Under 4", "odds": 1.73 }
+      { "name": "Slovenia +0.25", "odds": 2.42 },
+      { "name": "Denmark -0.25", "odds": 1.51 },
+      { "name": "Slovenia +0.5", "odds": 2.23 },
+      { "name": "Denmark -0.5", "odds": 1.7 },
+      { "name": "Slovenia +0.75", "odds": 1.99 },
+      { "name": "Denmark -0.75", "odds": 1.94 },
+      { "name": "Slovenia +1", "odds": 1.67 },
+      { "name": "Denmark -1", "odds": 2.26 },
+      { "name": "Over 1.75", "odds": 1.53 },
+      { "name": "Under 1.75", "odds": 2.37 },
+      { "name": "Over 2", "odds": 1.71 },
+      { "name": "Under 2", "odds": 2.19 },
+      { "name": "Over 2.25", "odds": 2.02 },
+      { "name": "Under 2.25", "odds": 1.88 },
+      { "name": "Over 2.5", "odds": 2.22 },
+      { "name": "Under 2.5", "odds": 1.68 }
     ]
   },
   {
     "type": "Soccer",
-    "time": "2024-05-19 23:00:00+0800",
-    "match_name": "Luton vs Fulham",
-    "team1": "Luton",
-    "team2": "Fulham",
+    "time": "2024-06-17 03:00:00+0800",
+    "match_name": "Serbia vs England",
+    "team1": "Serbia",
+    "team2": "England",
     "main_bet_list": [
-      { "name": "Luton Winner", "odds": 3.15 },
-      { "name": "Draw", "odds": 3.95 },
-      { "name": "Fulham Winner", "odds": 2.08 }
+      { "name": "Serbia Winner", "odds": 6.9 },
+      { "name": "Draw", "odds": 1.48 },
+      { "name": "England Winner", "odds": 4.45 }
     ],
     "more_bet_list": [
-      { "name": "Luton -0", "odds": 2.34 },
-      { "name": "Fulham +0", "odds": 1.59 },
-      { "name": "Luton -0.25", "odds": 2.48 },
-      { "name": "Fulham +0.25", "odds": 1.45 },
-      { "name": "Luton +0.25", "odds": 2.09 },
-      { "name": "Fulham -0.25", "odds": 1.84 },
-      { "name": "Luton +0.5", "odds": 1.85 },
-      { "name": "Fulham -0.5", "odds": 2.08 },
-      { "name": "Over 3", "odds": 1.65 },
-      { "name": "Under 3", "odds": 2.25 },
-      { "name": "Over 3.25", "odds": 1.89 },
-      { "name": "Under 3.25", "odds": 2.01 },
-      { "name": "Over 3.5", "odds": 2.09 },
-      { "name": "Under 3.5", "odds": 1.81 },
-      { "name": "Over 3.75", "odds": 2.27 },
-      { "name": "Under 3.75", "odds": 1.63 }
+      { "name": "Serbia +0.75", "odds": 2.32 },
+      { "name": "England -0.75", "odds": 1.61 },
+      { "name": "Serbia +1", "odds": 2.08 },
+      { "name": "England -1", "odds": 1.85 },
+      { "name": "Serbia +1.25", "odds": 1.78 },
+      { "name": "England -1.25", "odds": 2.15 },
+      { "name": "Serbia +1.5", "odds": 1.6 },
+      { "name": "England -1.5", "odds": 2.33 },
+      { "name": "Over 2.25", "odds": 1.68 },
+      { "name": "Under 2.25", "odds": 2.22 },
+      { "name": "Over 2.5", "odds": 1.92 },
+      { "name": "Under 2.5", "odds": 1.98 },
+      { "name": "Over 2.75", "odds": 2.17 },
+      { "name": "Under 2.75", "odds": 1.73 },
+      { "name": "Over 3", "odds": 2.36 },
+      { "name": "Under 3", "odds": 1.54 }
     ]
   },
 
@@ -101,7 +105,7 @@
       { "name": "Brighton -0", "odds": 1.82 },
       { "name": "Man United +0", "odds": 2.11 },
       { "name": "Brighton -0.25", "odds": 2.11 },
-      { "name": "Man United +0.25", "odds": 1.82},
+      { "name": "Man United +0.25", "odds": 1.82 },
       { "name": "Brighton -0.5", "odds": 2.29 },
       { "name": "Man United +0.5", "odds": 1.64 },
       { "name": "Brighton -0.75", "odds": 2.39 },
@@ -111,7 +115,7 @@
       { "name": "Over 3.5", "odds": 1.85 },
       { "name": "Under 3.5", "odds": 2.05 },
       { "name": "Over 3.75", "odds": 2.05 },
-      { "name": "Under 3.75", "odds": 1.85  },
+      { "name": "Under 3.75", "odds": 1.85 },
       { "name": "Over 4", "odds": 2.23 },
       { "name": "Under 4", "odds": 1.67 }
     ]
@@ -123,9 +127,9 @@
     "team1": "Man City",
     "team2": "West Ham",
     "main_bet_list": [
-      { "name": "Man City Winner", "odds": 1.10 },
-      { "name": "Draw", "odds": 11.00 },
-      { "name": "West Ham Winner", "odds": 20.00 }
+      { "name": "Man City Winner", "odds": 1.1 },
+      { "name": "Draw", "odds": 11.0 },
+      { "name": "West Ham Winner", "odds": 20.0 }
     ],
     "more_bet_list": [
       { "name": "Man City -2.5", "odds": 1.71 },
@@ -133,7 +137,7 @@
       { "name": "Man City -2.75", "odds": 1.92 },
       { "name": "West Ham +2.75", "odds": 2.01 },
       { "name": "Man City -3", "odds": 2.13 },
-      { "name": "West Ham +3", "odds": 1.80 },
+      { "name": "West Ham +3", "odds": 1.8 },
       { "name": "Man City -3.25", "odds": 2.29 },
       { "name": "West Ham +3.25", "odds": 1.64 },
       { "name": "Over 4", "odds": 1.68 },
@@ -154,12 +158,12 @@
     "team2": "Everton",
     "main_bet_list": [
       { "name": "Arsenal Winner", "odds": 1.14 },
-      { "name": "Draw", "odds": 8.40 },
-      { "name": "Everton Winner", "odds": 18.00 }
+      { "name": "Draw", "odds": 8.4 },
+      { "name": "Everton Winner", "odds": 18.0 }
     ],
     "more_bet_list": [
       { "name": "Arsenal -1.75", "odds": 1.53 },
-      { "name": "Everton +1.75", "odds": 2.40 },
+      { "name": "Everton +1.75", "odds": 2.4 },
       { "name": "Arsenal -2", "odds": 1.66 },
       { "name": "Everton +2", "odds": 2.27 },
       { "name": "Arsenal -2.25", "odds": 1.91 },
@@ -172,8 +176,8 @@
       { "name": "Under 3.5", "odds": 1.99 },
       { "name": "Over 3.75", "odds": 2.12 },
       { "name": "Under 3.75", "odds": 1.78 },
-      { "name": "Over 4", "odds": 2.30 },
-      { "name": "Under 4", "odds": 1.60 }
+      { "name": "Over 4", "odds": 2.3 },
+      { "name": "Under 4", "odds": 1.6 }
     ]
   },
   {
@@ -256,8 +260,8 @@
       { "name": "Nottm Forest -0.5", "odds": 2.24 },
       { "name": "Over 3", "odds": 1.78 },
       { "name": "Under 3", "odds": 2.12 },
-      { "name": "Over 3.25", "odds": 2.00 },
-      { "name": "Under 3.25", "odds": 1.90 },
+      { "name": "Over 3.25", "odds": 2.0 },
+      { "name": "Under 3.25", "odds": 1.9 },
       { "name": "Over 3.5", "odds": 2.24 },
       { "name": "Under 3.5", "odds": 1.66 }
     ]
