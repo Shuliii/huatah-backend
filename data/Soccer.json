@@ -67,8 +67,8 @@
     "team2": "England",
     "main_bet_list": [
       { "name": "Serbia Winner", "odds": 6.9 },
-      { "name": "Draw", "odds": 1.48 },
-      { "name": "England Winner", "odds": 4.45 }
+      { "name": "Draw", "odds": 4.45 },
+      { "name": "England Winner", "odds": 1.48 }
     ],
     "more_bet_list": [
       { "name": "Serbia +0.75", "odds": 2.32 },
