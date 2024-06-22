@@ -1,23 +1,23 @@
 [
   {
     "type": "Soccer",
-    "time": "2024-06-21 21:00:00+0800",
-    "match_name": "Slovakia vs Ukraine",
-    "team1": "Slovakia",
+    "time": "2024-06-23 21:00:00+0800",
+    "match_name": "test vs Ukraine",
+    "team1": "test",
     "team2": "Ukraine",
     "main_bet_list": [
-      { "name": "Slovakia Winner", "odds": 3.45 },
+      { "name": "test Winner", "odds": 3.45 },
       { "name": "Draw", "odds": 3.30 },
       { "name": "Ukraine Winner", "odds": 2.19 }
     ],
     "more_bet_list": [
-      { "name": "Slovakia +0", "odds": 2.35 },
+      { "name": "test +0", "odds": 2.35 },
       { "name": "Ukraine -0", "odds": 1.57 },
-      { "name": "Slovakia +0.25", "odds": 2.01 },
+      { "name": "test +0.25", "odds": 2.01 },
       { "name": "Ukraine -0.25", "odds": 1.91 },
-      { "name": "Slovakia +0.5", "odds": 1.76 },
+      { "name": "test +0.5", "odds": 1.76 },
       { "name": "Ukraine -0.5", "odds": 2.16 },
-      { "name": "Slovakia +0.75", "odds": 1.56 },
+      { "name": "test +0.75", "odds": 1.56 },
       { "name": "Ukraine -0.75", "odds": 2.36 },
       { "name": "Over 2", "odds": 1.62 },
       { "name": "Under 2", "odds": 2.28 },
