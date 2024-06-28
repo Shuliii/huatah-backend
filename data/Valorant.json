@@ -1,100 +1,100 @@
 [
   {
     "type": "Valorant",
-    "time": "2024-06-22 16:05:00+0800",
-    "match_name": "Talon vs RRQ Match",
-    "team1": "Talon",
-    "team2": "RRQ",
+    "time": "2024-06-28 17:05:00+0800",
+    "match_name": "Nova vs Wolves Match",
+    "team1": "Nova",
+    "team2": "Wolves",
     "main_bet_list": [
-      { "name": "Talon Winner", "odds": 2.20 },
-      { "name": "RRQ Winner", "odds": 1.63 }
+      { "name": "Nova Winner", "odds": 2.35 },
+      { "name": "Wolves Winner", "odds": 1.54 }
     ],
     "more_bet_list": [
-      { "name": "Talon -1.5", "odds": 3.94 },
-      { "name": "RRQ +1.5", "odds": 1.22 },
-      { "name": "Talon -2.5", "odds": 1.40 },
-      { "name": "RRQ +2.5", "odds": 2.78 },
-      { "name": "Over 2.5", "odds": 1.96 },
-      { "name": "Under 2.5", "odds": 1.80 },
-      { "name": "Map score 2-0", "odds": 3.94 },
+      { "name": "Nova -1.5", "odds": 4.44 },
+      { "name": "Wolves +1.5", "odds": 1.17 },
+      { "name": "Nova +1.5", "odds": 1.45 },
+      { "name": "Wolves -1.5", "odds": 2.58 },
+      { "name": "Over 2.5", "odds": 1.95 },
+      { "name": "Under 2.5", "odds": 1.79 },
+      { "name": "Map score 2-0", "odds": 4.57 },
       { "name": "Map score 2-1", "odds": 3.77 },
-      { "name": "Map score 0-2", "odds": 2.78 },
-      { "name": "Map score 1-2", "odds": 3.27 }
+      { "name": "Map score 0-2", "odds": 2.58 },
+      { "name": "Map score 1-2", "odds": 3.32 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-06-22 16:05:00+0800",
-    "match_name": "Talon vs RRQ Map1",
-    "team1": "Talon",
-    "team2": "RRQ",
+    "time": "2024-06-28 17:05:00+0800",
+    "match_name": "Nova vs Wolves Map1",
+    "team1": "Nova",
+    "team2": "Wolves",
     "main_bet_list": [
-      { "name": "Talon Winner", "odds": 2.03 },
-      { "name": "RRQ Winner", "odds": 1.75 }
+      { "name": "Nova Winner", "odds": 2.16 },
+      { "name": "Wolves Winner", "odds": 1.64 }
     ],
     "more_bet_list": [
-      { "name": "Talon -2.5", "odds": 2.44 },
-      { "name": "RRQ +2.5", "odds": 1.51 },
-      { "name": "Talon +2.5", "odds": 1.75 },
-      { "name": "RRQ -2.5", "odds": 2.01 },
-      { "name": "Talon +3.5", "odds": 1.52 },
-      { "name": "RRQ -3.5", "odds": 2.35 },
-      { "name": "Over 20.5", "odds": 1.55 },
-      { "name": "Under 20.5", "odds": 2.36 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.91 },
-      { "name": "Over 22.5", "odds": 2.31 },
-      { "name": "Under 22.5", "odds": 1.54 }
+      { "name": "Nova -2.5", "odds": 2.61 },
+      { "name": "Wolves +2.5", "odds": 1.44 },
+      { "name": "Nova +2.5", "odds": 1.85 },
+      { "name": "Wolves -2.5", "odds": 1.89 },
+      { "name": "Nova +3.5", "odds": 1.6 },
+      { "name": "Wolves -3.5", "odds": 2.19 },
+      { "name": "Over 20.5", "odds": 1.58 },
+      { "name": "Under 20.5", "odds": 2.28 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.84 },
+      { "name": "Over 22.5", "odds": 2.38 },
+      { "name": "Under 22.5", "odds": 1.48 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-06-22 16:36:00+0800",
-    "match_name": "Talon vs RRQ Map2",
-    "team1": "Talon",
-    "team2": "RRQ",
+    "time": "2024-06-28 17:36:00+0800",
+    "match_name": "Nova vs Wolves Map2",
+    "team1": "Nova",
+    "team2": "Wolves",
     "main_bet_list": [
-      { "name": "Talon Winner", "odds": 2.03 },
-      { "name": "RRQ Winner", "odds": 1.75 }
+      { "name": "Nova Winner", "odds": 2.16 },
+      { "name": "Wolves Winner", "odds": 1.64 }
     ],
     "more_bet_list": [
-      { "name": "Talon -2.5", "odds": 2.44 },
-      { "name": "RRQ +2.5", "odds": 1.51 },
-      { "name": "Talon +2.5", "odds": 1.75 },
-      { "name": "RRQ -2.5", "odds": 2.01 },
-      { "name": "Talon +3.5", "odds": 1.52 },
-      { "name": "RRQ -3.5", "odds": 2.35 },
-      { "name": "Over 20.5", "odds": 1.55 },
-      { "name": "Under 20.5", "odds": 2.36 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.91 },
-      { "name": "Over 22.5", "odds": 2.31 },
-      { "name": "Under 22.5", "odds": 1.54 }
+      { "name": "Nova -2.5", "odds": 2.61 },
+      { "name": "Wolves +2.5", "odds": 1.44 },
+      { "name": "Nova +2.5", "odds": 1.85 },
+      { "name": "Wolves -2.5", "odds": 1.89 },
+      { "name": "Nova +3.5", "odds": 1.6 },
+      { "name": "Wolves -3.5", "odds": 2.19 },
+      { "name": "Over 20.5", "odds": 1.58 },
+      { "name": "Under 20.5", "odds": 2.28 },
+      { "name": "Over 21.5", "odds": 1.9 },
+      { "name": "Under 21.5", "odds": 1.84 },
+      { "name": "Over 22.5", "odds": 2.38 },
+      { "name": "Under 22.5", "odds": 1.48 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-06-22 16:50:00+0800",
-    "match_name": "Talon vs RRQ Map3",
-    "team1": "Talon",
-    "team2": "RRQ",
+    "time": "2024-06-28 18:00:00+0800",
+    "match_name": "Nova vs Wolves Map3",
+    "team1": "Nova",
+    "team2": "Wolves",
     "main_bet_list": [
-      { "name": "Talon Winner", "odds": 2.03 },
-      { "name": "RRQ Winner", "odds": 1.75 }
+      { "name": "Nova Winner", "odds": 2.07 },
+      { "name": "Wolves Winner", "odds": 1.69 }
     ],
     "more_bet_list": [
-      { "name": "Talon -2.5", "odds": 2.44 },
-      { "name": "RRQ +2.5", "odds": 1.51 },
-      { "name": "Talon +2.5", "odds": 1.75 },
-      { "name": "RRQ -2.5", "odds": 2.01 },
-      { "name": "Talon +3.5", "odds": 1.52 },
-      { "name": "RRQ -3.5", "odds": 2.35 },
+      { "name": "Nova -2.5", "odds": 2.53 },
+      { "name": "Wolves +2.5", "odds": 1.47 },
+      { "name": "Nova +2.5", "odds": 1.8 },
+      { "name": "Wolves -2.5", "odds": 1.94 },
+      { "name": "Nova +3.5", "odds": 1.55 },
+      { "name": "Wolves -3.5", "odds": 2.26 },
       { "name": "Over 20.5", "odds": 1.55 },
-      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Under 20.5", "odds": 2.33 },
       { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.91 },
+      { "name": "Under 21.5", "odds": 1.89 },
       { "name": "Over 22.5", "odds": 2.31 },
-      { "name": "Under 22.5", "odds": 1.54 }
+      { "name": "Under 22.5", "odds": 1.52 }
     ]
   },
   {
@@ -140,7 +140,7 @@
       { "name": "TH +2.5", "odds": 1.57 },
       { "name": "G2 -2.5", "odds": 2.33 },
       { "name": "Over 20.5", "odds": 1.53 },
-      { "name": "Under 20.5", "odds": 2.40 },
+      { "name": "Under 20.5", "odds": 2.4 },
       { "name": "Over 21.5", "odds": 1.82 },
       { "name": "Under 21.5", "odds": 1.94 },
       { "name": "Over 22.5", "odds": 2.26 },
@@ -149,99 +149,99 @@
   },
   {
     "type": "Valorant",
-    "time": "2024-06-22 19:00:00+0800",
-    "match_name": "PRX vs DRX Match",
-    "team1": "PRX",
-    "team2": "DRX",
+    "time": "2024-06-28 20:00:00+0800",
+    "match_name": "JD vs Trace Match",
+    "team1": "JD",
+    "team2": "Trace",
     "main_bet_list": [
-      { "name": "PRX Winner", "odds": 1.50 },
-      { "name": "DRX Winner", "odds": 2.47 }
+      { "name": "JD Winner", "odds": 2.61 },
+      { "name": "Trace Winner", "odds": 1.44 }
     ],
     "more_bet_list": [
-      { "name": "PRX -1.5", "odds": 2.47 },
-      { "name": "DRX +1.5", "odds": 1.5 },
-      { "name": "PRX +1.5", "odds": 1.17 },
-      { "name": "DRX -1.5", "odds": 4.70 },
-      { "name": "Over 2.5", "odds": 2.08 },
-      { "name": "Under 2.5", "odds": 1.70 },
-      { "name": "Map score 2-0", "odds": 2.47 },
-      { "name": "Map score 2-1", "odds": 3.00 },
-      { "name": "Map score 0-2", "odds": 4.70 },
-      { "name": "Map score 1-2", "odds": 4.33 }
+      { "name": "JD -1.5", "odds": 4.7 },
+      { "name": "Trace +1.5", "odds": 1.15 },
+      { "name": "JD +1.5", "odds": 1.55 },
+      { "name": "Trace -1.5", "odds": 2.33 },
+      { "name": "Over 2.5", "odds": 2.07 },
+      { "name": "Under 2.5", "odds": 1.69 },
+      { "name": "Map score 2-0", "odds": 4.84 },
+      { "name": "Map score 2-1", "odds": 4.57 },
+      { "name": "Map score 0-2", "odds": 2.31 },
+      { "name": "Map score 1-2", "odds": 3.38 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-06-22 19:00:00+0800",
-    "match_name": "PRX vs DRX Map1",
-    "team1": "PRX",
-    "team2": "DRX",
+    "time": "2024-06-28 20:00:00+0800",
+    "match_name": "JD vs Trace Map1",
+    "team1": "JD",
+    "team2": "Trace",
     "main_bet_list": [
-      { "name": "PRX Winner", "odds": 1.6 },
-      { "name": "DRX Winner", "odds": 2.25 }
+      { "name": "JD Winner", "odds": 2.38 },
+      { "name": "Trace Winner", "odds": 1.52 }
     ],
     "more_bet_list": [
-      { "name": "PRX -3.5", "odds": 2.21 },
-      { "name": "DRX +3.5", "odds": 1.60 },
-      { "name": "PRX -2.5", "odds": 1.91},
-      { "name": "DRX +2.5", "odds": 1.85 },
-      { "name": "PRX +2.5", "odds": 1.46},
-      { "name": "DRX -2.5", "odds": 2.61 },
-      { "name": "Over 20.5", "odds": 1.59 },
-      { "name": "Under 20.5", "odds": 2.29 },
-      { "name": "Over 21.5", "odds": 1.91 },
-      { "name": "Under 21.5", "odds": 1.85 },
-      { "name": "Over 22.5", "odds": 2.48 },
-      { "name": "Under 22.5", "odds": 1.49 }
+      { "name": "JD -2.5", "odds": 2.66 },
+      { "name": "Trace +2.5", "odds": 1.42 },
+      { "name": "JD +2.5", "odds": 1.9 },
+      { "name": "Trace -2.5", "odds": 1.84 },
+      { "name": "JD +3.5", "odds": 1.65 },
+      { "name": "Trace -3.5", "odds": 2.12 },
+      { "name": "Over 20.5", "odds": 1.61 },
+      { "name": "Under 20.5", "odds": 2.2 },
+      { "name": "Over 21.5", "odds": 1.94 },
+      { "name": "Under 21.5", "odds": 1.8 },
+      { "name": "Over 22.5", "odds": 2.44 },
+      { "name": "Under 22.5", "odds": 1.47 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-06-22 19:00:00+0800",
-    "match_name": "PRX vs DRX Map2",
-    "team1": "PRX",
-    "team2": "DRX",
+    "time": "2024-06-28 20:00:00+0800",
+    "match_name": "JD vs Trace Map2",
+    "team1": "JD",
+    "team2": "Trace",
     "main_bet_list": [
-      { "name": "PRX Winner", "odds": 1.6 },
-      { "name": "DRX Winner", "odds": 2.25 }
+      { "name": "JD Winner", "odds": 2.35 },
+      { "name": "Trace Winner", "odds": 1.54 }
     ],
     "more_bet_list": [
-      { "name": "PRX -3.5", "odds": 2.21 },
-      { "name": "DRX +3.5", "odds": 1.60 },
-      { "name": "PRX -2.5", "odds": 1.91},
-      { "name": "DRX +2.5", "odds": 1.85 },
-      { "name": "PRX +2.5", "odds": 1.46},
-      { "name": "DRX -2.5", "odds": 2.61 },
-      { "name": "Over 20.5", "odds": 1.59 },
-      { "name": "Under 20.5", "odds": 2.29 },
-      { "name": "Over 21.5", "odds": 1.91 },
-      { "name": "Under 21.5", "odds": 1.85 },
-      { "name": "Over 22.5", "odds": 2.48 },
-      { "name": "Under 22.5", "odds": 1.49 }
+      { "name": "JD -2.5", "odds": 2.66 },
+      { "name": "Trace +2.5", "odds": 1.42 },
+      { "name": "JD +2.5", "odds": 1.9 },
+      { "name": "Trace -2.5", "odds": 1.84 },
+      { "name": "JD +3.5", "odds": 1.65 },
+      { "name": "Trace -3.5", "odds": 2.12 },
+      { "name": "Over 20.5", "odds": 1.61 },
+      { "name": "Under 20.5", "odds": 2.2 },
+      { "name": "Over 21.5", "odds": 1.94 },
+      { "name": "Under 21.5", "odds": 1.8 },
+      { "name": "Over 22.5", "odds": 2.44 },
+      { "name": "Under 22.5", "odds": 1.47 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-06-22 19:00:00+0800",
-    "match_name": "PRX vs DRX Map3",
-    "team1": "PRX",
-    "team2": "DRX",
+    "time": "2024-06-28 20:00:00+0800",
+    "match_name": "JD vs Trace Map3",
+    "team1": "JD",
+    "team2": "Trace",
     "main_bet_list": [
-      { "name": "PRX Winner", "odds": 1.6},
-      { "name": "DRX Winner", "odds": 2.25 }
+      { "name": "JD Winner", "odds": 2.23 },
+      { "name": "Trace Winner", "odds": 1.59 }
     ],
     "more_bet_list": [
-      { "name": "PRX -3.5", "odds": 2.21},
-      { "name": "DRX +3.5", "odds": 1.60 },
-      { "name": "PRX -2.5", "odds": 1.91 },
-      { "name": "DRX +2.5", "odds": 1.85 },
-      { "name": "PRX +2.5", "odds": 1.46 },
-      { "name": "DRX -2.5", "odds": 2.61},
-      { "name": "Over 20.5", "odds": 1.59 },
-      { "name": "Under 20.5", "odds": 2.29 },
-      { "name": "Over 21.5", "odds": 1.91 },
+      { "name": "JD -2.5", "odds": 2.61 },
+      { "name": "Trace +2.5", "odds": 1.44 },
+      { "name": "JD +2.5", "odds": 1.85 },
+      { "name": "Trace -2.5", "odds": 1.89 },
+      { "name": "JD +3.5", "odds": 1.6 },
+      { "name": "Trace -3.5", "odds": 2.19 },
+      { "name": "Over 20.5", "odds": 1.58 },
+      { "name": "Under 20.5", "odds": 2.28 },
+      { "name": "Over 21.5", "odds": 1.89 },
       { "name": "Under 21.5", "odds": 1.85 },
-      { "name": "Over 22.5", "odds": 2.4 },
+      { "name": "Over 22.5", "odds": 2.36 },
       { "name": "Under 22.5", "odds": 1.49 }
     ]
   },
