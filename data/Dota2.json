@@ -215,6 +215,63 @@
       { "name": "Total time Under 38", "odds": 2.0 }
     ]
   },
+  
+  {
+    "type": "Dota2",
+    "time": "2024-07-05 19:45:00+0800",
+    "match_name": "PSG.Q vs Aurora Match",
+    "team1": "PSG.Q",
+    "team2": "Aurora",
+    "main_bet_list": [
+      { "name": "PSG.Q Winner", "odds": 5.27 },
+      { "name": "Draw", "odds": 1.9 },
+      { "name": "Aurora Winner", "odds": 2.35 }
+    ],
+    "more_bet_list": [
+      { "name": "PSG.Q -1.5", "odds": 5.0 },
+      { "name": "Aurora +1.5", "odds": 1.15 },
+      { "name": "PSG.Q +1.5", "odds": 1.60 },
+      { "name": "Aurora -1.5", "odds": 2.25 }
+    ]
+  },
+  
+  {
+    "type": "Dota2",
+    "time": "2024-07-05 19:45:00+0800",
+    "match_name": "nouns vs Heroic Match",
+    "team1": "nouns",
+    "team2": "Heroic",
+    "main_bet_list": [
+      { "name": "nouns Winner", "odds": 3.04 },
+      { "name": "Draw", "odds": 1.80 },
+      { "name": "Heroic Winner", "odds": 3.91 }
+    ],
+    "more_bet_list": [
+      { "name": "nouns -1.5", "odds": 3.12 },
+      { "name": "Heroic +1.5", "odds": 1.33 },
+      { "name": "nouns +1.5", "odds": 1.25 },
+      { "name": "Heroic -1.5", "odds": 3.70 }
+    ]
+  },
+  
+  {
+    "type": "Dota2",
+    "time": "2024-07-05 19:45:00+0800",
+    "match_name": "Azure Ray vs Mouz Match",
+    "team1": "Azure Ray",
+    "team2": "Mouz",
+    "main_bet_list": [
+      { "name": "Azure Ray Winner", "odds": 2.48 },
+      { "name": "Draw", "odds": 1.95 },
+      { "name": "Mouz Winner", "odds": 4.46 }
+    ],
+    "more_bet_list": [
+      { "name": "Azure Ray -1.5", "odds": 2.63 },
+      { "name": "Mouz +1.5", "odds": 1.45 },
+      { "name": "Azure Ray +1.5", "odds": 1.20 },
+      { "name": "Mouz -1.5", "odds": 4.12 }
+    ]
+  },
   {
     "type": "Dota2",
     "time": "2024-02-14 18:00:00+0800",
