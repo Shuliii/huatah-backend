@@ -161,20 +161,20 @@
   },
   {
     "type": "Dota2",
-    "time": "2024-02-26 19:00:00+0800",
+    "time": "2024-07-05 17:00:00+0800",
     "match_name": "BLCK vs LGD Match",
     "team1": "BLCK",
     "team2": "LGD",
     "main_bet_list": [
-      { "name": "BLCK Winner", "odds": 2.99 },
-      { "name": "Draw", "odds": 1.95 },
-      { "name": "LGD Winner", "odds": 3.41 }
+      { "name": "BLCK Winner", "odds": 4.23 },
+      { "name": "Draw", "odds": 1.85 },
+      { "name": "LGD Winner", "odds": 2.75 }
     ],
     "more_bet_list": [
-      { "name": "BLCK -1.5", "odds": 3.63 },
-      { "name": "LGD +1.5", "odds": 1.26 },
-      { "name": "BLCK +1.5", "odds": 1.36 },
-      { "name": "LGD -1.5", "odds": 3.0 }
+      { "name": "BLCK -1.5", "odds": 4.12 },
+      { "name": "LGD +1.5", "odds": 1.2 },
+      { "name": "BLCK +1.5", "odds": 1.43 },
+      { "name": "LGD -1.5", "odds": 2.63 }
     ]
   },
   {
