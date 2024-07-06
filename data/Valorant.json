@@ -1,100 +1,98 @@
 [
   {
     "type": "Valorant",
-    "time": "2024-07-06 00:00:00+0800",
-    "match_name": "BBL vs Vit Match",
-    "team1": "BBL",
-    "team2": "Vit",
+    "time": "2024-07-06 16:00:00+0800",
+    "match_name": "DRX vs DFM Match",
+    "team1": "DRX",
+    "team2": "DFM",
     "main_bet_list": [
-      { "name": "BBL Winner", "odds": 1.91 },
-      { "name": "Vit Winner", "odds": 1.83 }
+      { "name": "DRX Winner", "odds": 1.15 },
+      { "name": "DFM Winner", "odds": 4.70 }
     ],
     "more_bet_list": [
-      { "name": "BBL -1.5", "odds": 3.50 },
-      { "name": "Vit +1.5", "odds": 1.26 },
-      { "name": "BBL +1.5", "odds": 1.34 },
-      { "name": "Vit -1.5", "odds": 3.00 },
-      { "name": "Over 2.5", "odds": 1.90 },
-      { "name": "Under 2.5", "odds": 1.84 },
-      { "name": "Map score 2-0", "odds": 3.43 },
-      { "name": "Map score 2-1", "odds": 3.38 },
-      { "name": "Map score 0-2", "odds": 3.12 },
-      { "name": "Map score 1-2", "odds": 3.22 }
+      { "name": "DRX -1.5", "odds": 1.64 },
+      { "name": "DFM +1.5", "odds": 2.16 },
+      { "name": "Over 2.5", "odds": 2.35 },
+      { "name": "Under 2.5", "odds": 1.54 },
+      { "name": "Map score 2-0", "odds": 1.65 },
+      { "name": "Map score 2-1", "odds": 3.56 },
+      { "name": "Map score 0-2", "odds": 5.34 },
+      { "name": "Map score 1-2", "odds": 4.44 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-06 00:00:00+0800",
-    "match_name": "BBL vs Vit Map1",
-    "team1": "BBL",
-    "team2": "Vit",
+    "time": "2024-07-06 16:00:00+0800",
+    "match_name": "DRX vs DFM Map1",
+    "team1": "DRX",
+    "team2": "DFM",
     "main_bet_list": [
-      { "name": "BBL Winner", "odds": 1.9 },
-      { "name": "Vit Winner", "odds": 1.84 }
+      { "name": "DRX Winner", "odds": 1.22 },
+      { "name": "DFM Winner", "odds": 3.77 }
     ],
     "more_bet_list": [
-      { "name": "BBL -2.5", "odds": 2.36 },
-      { "name": "Vit +2.5", "odds": 1.53 },
-      { "name": "BBL +2.5", "odds": 1.67 },
-      { "name": "Vit -2.5", "odds": 2.07 },
-      { "name": "BBL +3.5", "odds": 1.48 },
-      { "name": "Vit -3.5", "odds": 2.42 },
-      { "name": "Over 20.5", "odds": 1.51 },
-      { "name": "Under 20.5", "odds": 2.40 },
-      { "name": "Over 21.5", "odds": 1.79 },
-      { "name": "Under 21.5", "odds": 1.95 },
-      { "name": "Over 22.5", "odds": 2.21 },
-      { "name": "Under 22.5", "odds": 1.58 }
+      { "name": "DRX -5.5", "odds": 2.16 },
+      { "name": "DFM +5.5", "odds": 1.62 },
+      { "name": "DRX -4.5", "odds": 1.87 },
+      { "name": "DFM +4.5", "odds": 1.87 },
+      { "name": "DRX -3.5", "odds": 1.65 },
+      { "name": "DFM +3.5", "odds": 2.14 },
+      { "name": "Over 19.5", "odds": 1.56 },
+      { "name": "Under 19.5", "odds": 2.31 },
+      { "name": "Over 20.5", "odds": 1.87 },
+      { "name": "Under 20.5", "odds": 1.87 },
+      { "name": "Over 21.5", "odds": 2.33 },
+      { "name": "Under 21.5", "odds": 1.51 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-06 00:00:00+0800",
-    "match_name": "BBL vs Vit Map2",
-    "team1": "BBL",
-    "team2": "Vit",
+    "time": "2024-07-06 16:30:00+0800",
+    "match_name": "DRX vs DFM Map2",
+    "team1": "DRX",
+    "team2": "DFM",
     "main_bet_list": [
-      { "name": "BBL Winner", "odds": 1.9 },
-      { "name": "Vit Winner", "odds": 1.84 }
+      { "name": "DRX Winner", "odds": 1.22 },
+      { "name": "DFM Winner", "odds": 3.77 }
     ],
     "more_bet_list": [
-      { "name": "BBL -2.5", "odds": 2.36 },
-      { "name": "Vit +2.5", "odds": 1.53 },
-      { "name": "BBL +2.5", "odds": 1.67 },
-      { "name": "Vit -2.5", "odds": 2.07 },
-      { "name": "BBL +3.5", "odds": 1.48 },
-      { "name": "Vit -3.5", "odds": 2.42 },
-      { "name": "Over 20.5", "odds": 1.51 },
-      { "name": "Under 20.5", "odds": 2.40 },
-      { "name": "Over 21.5", "odds": 1.79 },
-      { "name": "Under 21.5", "odds": 1.95 },
-      { "name": "Over 22.5", "odds": 2.21 },
-      { "name": "Under 22.5", "odds": 1.58 }
+      { "name": "DRX -5.5", "odds": 2.16 },
+      { "name": "DFM +5.5", "odds": 1.62 },
+      { "name": "DRX -4.5", "odds": 1.87 },
+      { "name": "DFM +4.5", "odds": 1.87 },
+      { "name": "DRX -3.5", "odds": 1.65 },
+      { "name": "DFM +3.5", "odds": 2.14 },
+      { "name": "Over 19.5", "odds": 1.56 },
+      { "name": "Under 19.5", "odds": 2.31 },
+      { "name": "Over 20.5", "odds": 1.87 },
+      { "name": "Under 20.5", "odds": 1.87 },
+      { "name": "Over 21.5", "odds": 2.33 },
+      { "name": "Under 21.5", "odds": 1.51 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-06 00:00:00+0800",
-    "match_name": "BBL vs Vit Map3",
-    "team1": "BBL",
-    "team2": "Vit",
+    "time": "2024-07-06 17:00:00+0800",
+    "match_name": "DRX vs DFM Map3",
+    "team1": "DRX",
+    "team2": "DFM",
     "main_bet_list": [
-      { "name": "BBL Winner", "odds": 1.9 },
-      { "name": "Vit Winner", "odds": 1.84 }
+      { "name": "DRX Winner", "odds": 1.22 },
+      { "name": "DFM Winner", "odds": 3.77 }
     ],
     "more_bet_list": [
-      { "name": "BBL -2.5", "odds": 2.36 },
-      { "name": "Vit +2.5", "odds": 1.53 },
-      { "name": "BBL +2.5", "odds": 1.67 },
-      { "name": "Vit -2.5", "odds": 2.07 },
-      { "name": "BBL +3.5", "odds": 1.48 },
-      { "name": "Vit -3.5", "odds": 2.42 },
-      { "name": "Over 20.5", "odds": 1.51 },
-      { "name": "Under 20.5", "odds": 2.40 },
-      { "name": "Over 21.5", "odds": 1.79 },
-      { "name": "Under 21.5", "odds": 1.95 },
-      { "name": "Over 22.5", "odds": 2.21 },
-      { "name": "Under 22.5", "odds": 1.58 }
+      { "name": "DRX -5.5", "odds": 2.16 },
+      { "name": "DFM +5.5", "odds": 1.62 },
+      { "name": "DRX -4.5", "odds": 1.87 },
+      { "name": "DFM +4.5", "odds": 1.87 },
+      { "name": "DRX -3.5", "odds": 1.65 },
+      { "name": "DFM +3.5", "odds": 2.14 },
+      { "name": "Over 19.5", "odds": 1.56 },
+      { "name": "Under 19.5", "odds": 2.31 },
+      { "name": "Over 20.5", "odds": 1.87 },
+      { "name": "Under 20.5", "odds": 1.87 },
+      { "name": "Over 21.5", "odds": 2.33 },
+      { "name": "Under 21.5", "odds": 1.51 }
     ]
   },
   {
@@ -149,170 +147,170 @@
   },
   {
     "type": "Valorant",
-    "time": "2024-07-06 03:00:00+0800",
-    "match_name": "TH vs Gentle Match",
-    "team1": "TH",
-    "team2": "Gentle",
+    "time": "2024-07-06 17:00:00+0800",
+    "match_name": "Trace vs Titan Match",
+    "team1": "Trace",
+    "team2": "Titan",
     "main_bet_list": [
-      { "name": "TH Winner", "odds": 1.12 },
-      { "name": "Gentle Winner", "odds": 5.16 }
+      { "name": "Trace Winner", "odds": 1.14 },
+      { "name": "Titan Winner", "odds": 4.84 }
     ],
     "more_bet_list": [
-      { "name": "TH -1.5", "odds": 1.62 },
-      { "name": "Gentle +1.5", "odds": 2.19 },
+      { "name": "Trace -1.5", "odds": 1.59 },
+      { "name": "Titan +1.5", "odds": 2.23 },
       { "name": "Over 2.5", "odds": 2.44 },
       { "name": "Under 2.5", "odds": 1.49 },
       { "name": "Map score 2-0", "odds": 1.6 },
-      { "name": "Map score 2-1", "odds": 3.22 },
-      { "name": "Map score 0-2", "odds": 10.09 },
-      { "name": "Map score 1-2", "odds": 7.66 }
+      { "name": "Map score 2-1", "odds": 3.50 },
+      { "name": "Map score 0-2", "odds": 8.14 },
+      { "name": "Map score 1-2", "odds": 7.25 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-06 03:00:00+0800",
-    "match_name": "TH vs Gentle Map1",
-    "team1": "TH",
-    "team2": "Gentle",
+    "time": "2024-07-06 17:00:00+0800",
+    "match_name": "Trace vs Titan Map1",
+    "team1": "Trace",
+    "team2": "Titan",
     "main_bet_list": [
-      { "name": "TH Winner", "odds": 1.24 },
-      { "name": "Gentle Winner", "odds": 3.63 }
+      { "name": "Trace Winner", "odds": 1.24 },
+      { "name": "Titan Winner", "odds": 3.63 }
     ],
     "more_bet_list": [
-      { "name": "TH -4.5", "odds": 1.94 },
-      { "name": "Gentle +4.5", "odds": 1.8 },
-      { "name": "Over 20.5", "odds": 1.75 },
-      { "name": "Under 20.5", "odds": 1.99 }
+      { "name": "Trace -4.5", "odds": 1.89 },
+      { "name": "Titan +4.5", "odds": 1.85 },
+      { "name": "Over 20.5", "odds": 1.82 },
+      { "name": "Under 20.5", "odds": 1.92 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-06 03:00:00+0800",
-    "match_name": "TH vs Gentle Map2",
-    "team1": "TH",
-    "team2": "Gentle",
+    "time": "2024-07-06 17:00:00+0800",
+    "match_name": "Trace vs Titan Map2",
+    "team1": "Trace",
+    "team2": "Titan",
     "main_bet_list": [
-      { "name": "TH Winner", "odds": 1.24 },
-      { "name": "Gentle Winner", "odds": 3.63 }
+      { "name": "Trace Winner", "odds": 1.24 },
+      { "name": "Titan Winner", "odds": 3.63 }
     ],
     "more_bet_list": [
-      { "name": "TH -4.5", "odds": 1.94 },
-      { "name": "Gentle +4.5", "odds": 1.8 },
-      { "name": "Over 20.5", "odds": 1.75 },
-      { "name": "Under 20.5", "odds": 1.99 }
+      { "name": "Trace -4.5", "odds": 1.89 },
+      { "name": "Titan +4.5", "odds": 1.85 },
+      { "name": "Over 20.5", "odds": 1.82 },
+      { "name": "Under 20.5", "odds": 1.92 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-06 03:00:00+0800",
-    "match_name": "TH vs Gentle Map3",
-    "team1": "TH",
-    "team2": "Gentle",
+    "time": "2024-07-06 17:00:00+0800",
+    "match_name": "Trace vs Titan Map3",
+    "team1": "Trace",
+    "team2": "Titan",
     "main_bet_list": [
-      { "name": "TH Winner", "odds": 1.24 },
-      { "name": "Gentle Winner", "odds": 3.63 }
+      { "name": "Trace Winner", "odds": 1.24 },
+      { "name": "Titan Winner", "odds": 3.63 }
     ],
     "more_bet_list": [
-      { "name": "TH -4.5", "odds": 1.94 },
-      { "name": "Gentle +4.5", "odds": 1.8 },
-      { "name": "Over 20.5", "odds": 1.75 },
-      { "name": "Under 20.5", "odds": 1.99 }
+      { "name": "Trace -4.5", "odds": 1.89 },
+      { "name": "Titan +4.5", "odds": 1.85 },
+      { "name": "Over 20.5", "odds": 1.82 },
+      { "name": "Under 20.5", "odds": 1.92 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-05 19:00:00+0800",
-    "match_name": "Gen.G vs GE Match",
-    "team1": "Gen.G",
-    "team2": "GE",
+    "time": "2024-07-06 19:00:00+0800",
+    "match_name": "Zeta vs Talon Match",
+    "team1": "Zeta",
+    "team2": "Talon",
     "main_bet_list": [
-      { "name": "Gen.G Winner", "odds": 1.03 },
-      { "name": "GE Winner", "odds": 8.69 }
+      { "name": "Zeta Winner", "odds": 5.16 },
+      { "name": "Talon Winner", "odds": 1.12 }
     ],
     "more_bet_list": [
-      { "name": "Gen.G -1.5", "odds": 1.35 },
-      { "name": "GE +1.5", "odds": 2.96 },
-      { "name": "Over 2.5", "odds": 3.22 },
-      { "name": "Under 2.5", "odds": 1.29 },
-      { "name": "Map score 2-0", "odds": 1.36 },
-      { "name": "Map score 2-1", "odds": 3.77 },
-      { "name": "Map score 0-2", "odds": 13.5 },
-      { "name": "Map score 1-2", "odds": 11.0 }
+      { "name": "Zeta +1.5", "odds": 2.19 },
+      { "name": "Talon -1.5", "odds": 1.62 },
+      { "name": "Over 2.5", "odds": 2.31 },
+      { "name": "Under 2.5", "odds": 1.56 },
+      { "name": "Map score 2-0", "odds": 10.09 },
+      { "name": "Map score 2-1", "odds": 7.66 },
+      { "name": "Map score 0-2", "odds": 1.63 },
+      { "name": "Map score 1-2", "odds": 3.17 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-05 19:00:00+0800",
-    "match_name": "Gen.G vs GE Map1",
-    "team1": "Gen.G",
-    "team2": "GE",
+    "time": "2024-07-06 19:00:00+0800",
+    "match_name": "Zeta vs Talon Map1",
+    "team1": "Zeta",
+    "team2": "Talon",
     "main_bet_list": [
-      { "name": "Gen.G Winner", "odds": 1.14 },
-      { "name": "GE Winner", "odds": 4.84 }
+      { "name": "Zeta Winner", "odds": 3.5 },
+      { "name": "Talon Winner", "odds": 1.26 }
     ],
     "more_bet_list": [
-      { "name": "Gen.G -6.5", "odds": 2.26 },
-      { "name": "GE +6.5", "odds": 1.55 },
-      { "name": "Gen.G -5.5", "odds": 1.94 },
-      { "name": "GE +5.5", "odds": 1.8 },
-      { "name": "Gen.G -4.5", "odds": 1.7 },
-      { "name": "GE +4.5", "odds": 2.06 },
-      { "name": "Over 19.5", "odds": 1.61 },
-      { "name": "Under 19.5", "odds": 2.2 },
-      { "name": "Over 20.5", "odds": 1.94 },
-      { "name": "Under 20.5", "odds": 1.8 },
-      { "name": "Over 21.5", "odds": 2.44 },
-      { "name": "Under 21.5", "odds": 1.47 }
+      { "name": "Zeta +3.5", "odds": 2.02 },
+      { "name": "Talon -3.5", "odds": 1.74 },
+      { "name": "Zeta +4.5", "odds": 1.75 },
+      { "name": "Talon -4.5", "odds": 1.99 },
+      { "name": "Zeta +5.5", "odds": 1.52 },
+      { "name": "Talon -5.5", "odds": 2.31 },
+      { "name": "Over 19.5", "odds": 1.45 },
+      { "name": "Under 19.5", "odds": 2.58 },
+      { "name": "Over 20.5", "odds": 1.70 },
+      { "name": "Under 20.5", "odds": 2.04 },
+      { "name": "Over 21.5", "odds": 2.08 },
+      { "name": "Under 21.5", "odds": 1.68 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-05 19:00:00+0800",
-    "match_name": "Gen.G vs GE Map2",
-    "team1": "Gen.G",
-    "team2": "GE",
+    "time": "2024-07-06 19:00:00+0800",
+    "match_name": "Zeta vs Talon Map2",
+    "team1": "Zeta",
+    "team2": "Talon",
     "main_bet_list": [
-      { "name": "Gen.G Winner", "odds": 1.14 },
-      { "name": "GE Winner", "odds": 4.84 }
+      { "name": "Zeta Winner", "odds": 3.5 },
+      { "name": "Talon Winner", "odds": 1.26 }
     ],
     "more_bet_list": [
-      { "name": "Gen.G -6.5", "odds": 2.26 },
-      { "name": "GE +6.5", "odds": 1.55 },
-      { "name": "Gen.G -5.5", "odds": 1.94 },
-      { "name": "GE +5.5", "odds": 1.8 },
-      { "name": "Gen.G -4.5", "odds": 1.7 },
-      { "name": "GE +4.5", "odds": 2.06 },
-      { "name": "Over 19.5", "odds": 1.61 },
-      { "name": "Under 19.5", "odds": 2.2 },
-      { "name": "Over 20.5", "odds": 1.94 },
-      { "name": "Under 20.5", "odds": 1.8 },
-      { "name": "Over 21.5", "odds": 2.44 },
-      { "name": "Under 21.5", "odds": 1.47 }
+      { "name": "Zeta +3.5", "odds": 2.02 },
+      { "name": "Talon -3.5", "odds": 1.74 },
+      { "name": "Zeta +4.5", "odds": 1.75 },
+      { "name": "Talon -4.5", "odds": 1.99 },
+      { "name": "Zeta +5.5", "odds": 1.52 },
+      { "name": "Talon -5.5", "odds": 2.31 },
+      { "name": "Over 19.5", "odds": 1.45 },
+      { "name": "Under 19.5", "odds": 2.58 },
+      { "name": "Over 20.5", "odds": 1.70 },
+      { "name": "Under 20.5", "odds": 2.04 },
+      { "name": "Over 21.5", "odds": 2.08 },
+      { "name": "Under 21.5", "odds": 1.68 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-05 19:00:00+0800",
-    "match_name": "Gen.G vs GE Map3",
-    "team1": "Gen.G",
-    "team2": "GE",
+    "time": "2024-07-06 19:00:00+0800",
+    "match_name": "Zeta vs Talon Map3",
+    "team1": "Zeta",
+    "team2": "Talon",
     "main_bet_list": [
-      { "name": "Gen.G Winner", "odds": 1.14 },
-      { "name": "GE Winner", "odds": 4.84 }
+      { "name": "Zeta Winner", "odds": 3.5 },
+      { "name": "Talon Winner", "odds": 1.26 }
     ],
     "more_bet_list": [
-      { "name": "Gen.G -6.5", "odds": 2.26 },
-      { "name": "GE +6.5", "odds": 1.55 },
-      { "name": "Gen.G -5.5", "odds": 1.94 },
-      { "name": "GE +5.5", "odds": 1.8 },
-      { "name": "Gen.G -4.5", "odds": 1.7 },
-      { "name": "GE +4.5", "odds": 2.06 },
-      { "name": "Over 19.5", "odds": 1.61 },
-      { "name": "Under 19.5", "odds": 2.2 },
-      { "name": "Over 20.5", "odds": 1.94 },
-      { "name": "Under 20.5", "odds": 1.8 },
-      { "name": "Over 21.5", "odds": 2.44 },
-      { "name": "Under 21.5", "odds": 1.47 }
+      { "name": "Zeta +3.5", "odds": 2.02 },
+      { "name": "Talon -3.5", "odds": 1.74 },
+      { "name": "Zeta +4.5", "odds": 1.75 },
+      { "name": "Talon -4.5", "odds": 1.99 },
+      { "name": "Zeta +5.5", "odds": 1.52 },
+      { "name": "Talon -5.5", "odds": 2.31 },
+      { "name": "Over 19.5", "odds": 1.45 },
+      { "name": "Under 19.5", "odds": 2.58 },
+      { "name": "Over 20.5", "odds": 1.70 },
+      { "name": "Under 20.5", "odds": 2.04 },
+      { "name": "Over 21.5", "odds": 2.08 },
+      { "name": "Under 21.5", "odds": 1.68 }
     ]
   },
 
