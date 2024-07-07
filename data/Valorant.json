@@ -1,98 +1,98 @@
 [
   {
     "type": "Valorant",
-    "time": "2024-07-07 05:00:00+0800",
-    "match_name": "G2 vs KRU Match",
-    "team1": "G2",
-    "team2": "KRU",
+    "time": "2024-07-07 16:00:00+0800",
+    "match_name": "Gen.G vs Secret Match",
+    "team1": "Gen.G",
+    "team2": "Secret",
     "main_bet_list": [
-      { "name": "G2 Winner", "odds": 1.49 },
-      { "name": "KRU Winner", "odds": 2.44 }
+      { "name": "Gen.G Winner", "odds": 1.31 },
+      { "name": "Secret Winner", "odds": 3.12 }
     ],
     "more_bet_list": [
-      { "name": "G2 -1.5", "odds": 2.42 },
-      { "name": "KRU +1.5", "odds": 1.50 },
-      { "name": "Over 2.5", "odds": 2.00 },
-      { "name": "Under 2.5", "odds": 1.76 },
-      { "name": "Map score 2-0", "odds": 2.44 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 4.22 },
-      { "name": "Map score 1-2", "odds": 3.94 }
+      { "name": "Gen.G -1.5", "odds": 2.16 },
+      { "name": "Secret +1.5", "odds": 1.62 },
+      { "name": "Over 2.5", "odds": 2.11 },
+      { "name": "Under 2.5", "odds": 1.68 },
+      { "name": "Map score 2-0", "odds": 2.07 },
+      { "name": "Map score 2-1", "odds": 3.00 },
+      { "name": "Map score 0-2", "odds": 5.76 },
+      { "name": "Map score 1-2", "odds": 4.70 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-07 05:00:00+0800",
-    "match_name": "G2 vs KRU Map1",
-    "team1": "G2",
-    "team2": "KRU",
+    "time": "2024-07-07 16:00:00+0800",
+    "match_name": "Gen.G vs Secret Map1",
+    "team1": "Gen.G",
+    "team2": "Secret",
     "main_bet_list": [
-      { "name": "G2 Winner", "odds": 1.59 },
-      { "name": "KRU Winner", "odds": 2.23 }
+      { "name": "Gen.G Winner", "odds": 1.50 },
+      { "name": "Secret Winner", "odds": 2.42 }
     ],
     "more_bet_list": [
-      { "name": "G2 -3.5", "odds": 2.19 },
-      { "name": "KRU +3.5", "odds": 1.60 },
-      { "name": "G2 -2.5", "odds": 1.89 },
-      { "name": "KRU +2.5", "odds": 1.85 },
-      { "name": "G2 +2.5", "odds": 1.44 },
-      { "name": "KRU -2.5", "odds": 2.61 },
-      { "name": "Over 20.5", "odds": 1.56 },
-      { "name": "Under 20.5", "odds": 2.31 },
-      { "name": "Over 21.5", "odds": 1.87 },
-      { "name": "Under 21.5", "odds": 1.87 },
-      { "name": "Over 22.5", "odds": 2.33 },
-      { "name": "Under 22.5", "odds": 1.51 }
+      { "name": "Gen.G -4.5", "odds": 2.29 },
+      { "name": "Secret +4.5", "odds": 1.53 },
+      { "name": "Gen.G -3.5", "odds": 1.97 },
+      { "name": "Secret +3.5", "odds": 1.77 },
+      { "name": "Gen.G -2.5", "odds": 1.73 },
+      { "name": "Secret +2.5", "odds": 2.03 },
+      { "name": "Over 20.5", "odds": 1.59 },
+      { "name": "Under 20.5", "odds": 2.23 },
+      { "name": "Over 21.5", "odds": 1.91 },
+      { "name": "Under 21.5", "odds": 1.83 },
+      { "name": "Over 22.5", "odds": 2.40 },
+      { "name": "Under 22.5", "odds": 1.47 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-07 05:00:00+0800",
-    "match_name": "G2 vs KRU Map2",
-    "team1": "G2",
-    "team2": "KRU",
+    "time": "2024-07-07 16:40:00+0800",
+    "match_name": "Gen.G vs Secret Map2",
+    "team1": "Gen.G",
+    "team2": "Secret",
     "main_bet_list": [
-      { "name": "G2 Winner", "odds": 1.59 },
-      { "name": "KRU Winner", "odds": 2.23 }
+      { "name": "Gen.G Winner", "odds": 1.50 },
+      { "name": "Secret Winner", "odds": 2.42 }
     ],
     "more_bet_list": [
-      { "name": "G2 -3.5", "odds": 2.19 },
-      { "name": "KRU +3.5", "odds": 1.60 },
-      { "name": "G2 -2.5", "odds": 1.89 },
-      { "name": "KRU +2.5", "odds": 1.85 },
-      { "name": "G2 +2.5", "odds": 1.44 },
-      { "name": "KRU -2.5", "odds": 2.61 },
-      { "name": "Over 20.5", "odds": 1.56 },
-      { "name": "Under 20.5", "odds": 2.31 },
-      { "name": "Over 21.5", "odds": 1.87 },
-      { "name": "Under 21.5", "odds": 1.87 },
-      { "name": "Over 22.5", "odds": 2.33 },
-      { "name": "Under 22.5", "odds": 1.51 }
+      { "name": "Gen.G -4.5", "odds": 2.29 },
+      { "name": "Secret +4.5", "odds": 1.53 },
+      { "name": "Gen.G -3.5", "odds": 1.97 },
+      { "name": "Secret +3.5", "odds": 1.77 },
+      { "name": "Gen.G -2.5", "odds": 1.73 },
+      { "name": "Secret +2.5", "odds": 2.03 },
+      { "name": "Over 20.5", "odds": 1.59 },
+      { "name": "Under 20.5", "odds": 2.23 },
+      { "name": "Over 21.5", "odds": 1.91 },
+      { "name": "Under 21.5", "odds": 1.83 },
+      { "name": "Over 22.5", "odds": 2.40 },
+      { "name": "Under 22.5", "odds": 1.47 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-07 05:40:00+0800",
-    "match_name": "G2 vs KRU Map3",
-    "team1": "G2",
-    "team2": "KRU",
+    "time": "2024-07-07 17:20:00+0800",
+    "match_name": "Gen.G vs Secret Map3",
+    "team1": "Gen.G",
+    "team2": "Secret",
     "main_bet_list": [
-      { "name": "G2 Winner", "odds": 1.59 },
-      { "name": "KRU Winner", "odds": 2.23 }
+      { "name": "Gen.G Winner", "odds": 1.50 },
+      { "name": "Secret Winner", "odds": 2.42 }
     ],
     "more_bet_list": [
-      { "name": "G2 -3.5", "odds": 2.19 },
-      { "name": "KRU +3.5", "odds": 1.60 },
-      { "name": "G2 -2.5", "odds": 1.89 },
-      { "name": "KRU +2.5", "odds": 1.85 },
-      { "name": "G2 +2.5", "odds": 1.44 },
-      { "name": "KRU -2.5", "odds": 2.61 },
-      { "name": "Over 20.5", "odds": 1.56 },
-      { "name": "Under 20.5", "odds": 2.31 },
-      { "name": "Over 21.5", "odds": 1.87 },
-      { "name": "Under 21.5", "odds": 1.87 },
-      { "name": "Over 22.5", "odds": 2.33 },
-      { "name": "Under 22.5", "odds": 1.51 }
+      { "name": "Gen.G -4.5", "odds": 2.29 },
+      { "name": "Secret +4.5", "odds": 1.53 },
+      { "name": "Gen.G -3.5", "odds": 1.97 },
+      { "name": "Secret +3.5", "odds": 1.77 },
+      { "name": "Gen.G -2.5", "odds": 1.73 },
+      { "name": "Secret +2.5", "odds": 2.03 },
+      { "name": "Over 20.5", "odds": 1.59 },
+      { "name": "Under 20.5", "odds": 2.23 },
+      { "name": "Over 21.5", "odds": 1.91 },
+      { "name": "Under 21.5", "odds": 1.83 },
+      { "name": "Over 22.5", "odds": 2.40 },
+      { "name": "Under 22.5", "odds": 1.47 }
     ]
   },
   {
@@ -147,101 +147,113 @@
   },
   {
     "type": "Valorant",
-    "time": "2024-07-07 08:00:00+0800",
-    "match_name": "Loud vs Leviathan Match",
-    "team1": "Loud",
-    "team2": "Leviathan",
+    "time": "2024-07-07 17:00:00+0800",
+    "match_name": "JD Gaming vs All Gamers Match",
+    "team1": "JD Gaming",
+    "team2": "All Gamers",
     "main_bet_list": [
-      { "name": "Loud Winner", "odds": 3.00 },
-      { "name": "Leviathan Winner", "odds": 1.34 }
+      { "name": "JD Gaming Winner", "odds": 1.67 },
+      { "name": "All Gamers Winner", "odds": 2.12 }
     ],
     "more_bet_list": [
-      { "name": "Loud +1.5", "odds": 1.56 },
-      { "name": "Leviathan -1.5", "odds": 2.31 },
-      { "name": "Over 2.5", "odds": 2.01 },
-      { "name": "Under 2.5", "odds": 1.75 },
-      { "name": "Map score 2-0", "odds": 4.22 },
-      { "name": "Map score 2-1", "odds": 4.03 },
-      { "name": "Map score 0-2", "odds": 2.40 },
-      { "name": "Map score 1-2", "odds": 3.32 }
+      { "name": "JD Gaming -1.5", "odds": 2.88 },
+      { "name": "All Gamers +1.5", "odds": 1.37 },
+      { "name": "Over 2.5", "odds": 1.87 },
+      { "name": "Under 2.5", "odds": 1.87 },
+      { "name": "Map score 2-0", "odds": 3.00 },
+      { "name": "Map score 2-1", "odds": 3.38 },
+      { "name": "Map score 0-2", "odds": 3.08 },
+      { "name": "Map score 1-2", "odds": 3.38 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-07 08:00:00+0800",
-    "match_name": "Loud vs Leviathan Map1",
-    "team1": "Loud",
-    "team2": "Leviathan",
+    "time": "2024-07-07 17:00:00+0800",
+    "match_name": "JD Gaming vs All Gamers Map1",
+    "team1": "JD Gaming",
+    "team2": "All Gamers",
     "main_bet_list": [
-      { "name": "Loud Winner", "odds": 2.29 },
-      { "name": "Leviathan Winner", "odds": 1.57 }
+      { "name": "JD Gaming Winner", "odds": 1.79 },
+      { "name": "All Gamers Winner", "odds": 1.95 }
     ],
     "more_bet_list": [
-      { "name": "Loud -2.5", "odds": 2.63 },
-      { "name": "Leviathan +2.5", "odds": 1.43 },
-      { "name": "Loud +2.5", "odds": 1.87 },
-      { "name": "Leviathan -2.5", "odds": 1.87 },
-      { "name": "Loud +3.5", "odds": 1.62 },
-      { "name": "Leviathan -3.5", "odds": 2.16 },
-      { "name": "Over 21.5", "odds": 1.91 },
-      { "name": "Under 21.5", "odds": 1.83 }
+      { "name": "JD Gaming -3.5", "odds": 2.40 },
+      { "name": "All Gamers +3.5", "odds": 1.47 },
+      { "name": "JD Gaming -2.5", "odds": 2.05 },
+      { "name": "All Gamers +2.5", "odds": 1.69 },
+      { "name": "JD Gaming +2.5", "odds": 1.52 },
+      { "name": "All Gamers -2.5", "odds": 2.38 },
+      { "name": "Over 20.5", "odds": 1.51 },
+      { "name": "Under 20.5", "odds": 2.40 },
+      { "name": "Over 21.5", "odds": 1.79 },
+      { "name": "Under 21.5", "odds": 1.95 },
+      { "name": "Over 22.5", "odds": 2.21 },
+      { "name": "Under 22.5", "odds": 1.58 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-07 08:30:00+0800",
-    "match_name": "Loud vs Leviathan Map2",
-    "team1": "Loud",
-    "team2": "Leviathan",
+    "time": "2024-07-07 17:30:00+0800",
+    "match_name": "JD Gaming vs All Gamers Map2",
+    "team1": "JD Gaming",
+    "team2": "All Gamers",
     "main_bet_list": [
-      { "name": "Loud Winner", "odds": 2.29 },
-      { "name": "Leviathan Winner", "odds": 1.57 }
+      { "name": "JD Gaming Winner", "odds": 1.79 },
+      { "name": "All Gamers Winner", "odds": 1.95 }
     ],
     "more_bet_list": [
-      { "name": "Loud -2.5", "odds": 2.63 },
-      { "name": "Leviathan +2.5", "odds": 1.43 },
-      { "name": "Loud +2.5", "odds": 1.87 },
-      { "name": "Leviathan -2.5", "odds": 1.87 },
-      { "name": "Loud +3.5", "odds": 1.62 },
-      { "name": "Leviathan -3.5", "odds": 2.16 },
-      { "name": "Over 21.5", "odds": 1.91 },
-      { "name": "Under 21.5", "odds": 1.83 }
+      { "name": "JD Gaming -3.5", "odds": 2.40 },
+      { "name": "All Gamers +3.5", "odds": 1.47 },
+      { "name": "JD Gaming -2.5", "odds": 2.05 },
+      { "name": "All Gamers +2.5", "odds": 1.69 },
+      { "name": "JD Gaming +2.5", "odds": 1.52 },
+      { "name": "All Gamers -2.5", "odds": 2.38 },
+      { "name": "Over 20.5", "odds": 1.51 },
+      { "name": "Under 20.5", "odds": 2.40 },
+      { "name": "Over 21.5", "odds": 1.79 },
+      { "name": "Under 21.5", "odds": 1.95 },
+      { "name": "Over 22.5", "odds": 2.21 },
+      { "name": "Under 22.5", "odds": 1.58 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-07 08:50:00+0800",
-    "match_name": "Loud vs Leviathan Map3",
-    "team1": "Loud",
-    "team2": "Leviathan",
+    "time": "2024-07-07 17:50:00+0800",
+    "match_name": "JD Gaming vs All Gamers Map3",
+    "team1": "JD Gaming",
+    "team2": "All Gamers",
     "main_bet_list": [
-      { "name": "Loud Winner", "odds": 2.29 },
-      { "name": "Leviathan Winner", "odds": 1.57 }
+      { "name": "JD Gaming Winner", "odds": 1.79 },
+      { "name": "All Gamers Winner", "odds": 1.95 }
     ],
     "more_bet_list": [
-      { "name": "Loud -2.5", "odds": 2.63 },
-      { "name": "Leviathan +2.5", "odds": 1.43 },
-      { "name": "Loud +2.5", "odds": 1.87 },
-      { "name": "Leviathan -2.5", "odds": 1.87 },
-      { "name": "Loud +3.5", "odds": 1.62 },
-      { "name": "Leviathan -3.5", "odds": 2.16 },
-      { "name": "Over 21.5", "odds": 1.91 },
-      { "name": "Under 21.5", "odds": 1.83 }
+      { "name": "JD Gaming -3.5", "odds": 2.40 },
+      { "name": "All Gamers +3.5", "odds": 1.47 },
+      { "name": "JD Gaming -2.5", "odds": 2.05 },
+      { "name": "All Gamers +2.5", "odds": 1.69 },
+      { "name": "JD Gaming +2.5", "odds": 1.52 },
+      { "name": "All Gamers -2.5", "odds": 2.38 },
+      { "name": "Over 20.5", "odds": 1.51 },
+      { "name": "Under 20.5", "odds": 2.40 },
+      { "name": "Over 21.5", "odds": 1.79 },
+      { "name": "Under 21.5", "odds": 1.95 },
+      { "name": "Over 22.5", "odds": 2.21 },
+      { "name": "Under 22.5", "odds": 1.58 }
     ]
   },
   {
     "type": "Valorant",
     "time": "2024-07-06 19:00:00+0800",
-    "match_name": "Zeta vs Talon Match",
-    "team1": "Zeta",
-    "team2": "Talon",
+    "match_name": "PRX vs Zeta Match",
+    "team1": "PRX",
+    "team2": "Zeta",
     "main_bet_list": [
-      { "name": "Zeta Winner", "odds": 5.16 },
-      { "name": "Talon Winner", "odds": 1.12 }
+      { "name": "PRX Winner", "odds": 5.16 },
+      { "name": "Zeta Winner", "odds": 1.12 }
     ],
     "more_bet_list": [
-      { "name": "Zeta +1.5", "odds": 2.19 },
-      { "name": "Talon -1.5", "odds": 1.62 },
+      { "name": "PRX +1.5", "odds": 2.19 },
+      { "name": "Zeta -1.5", "odds": 1.62 },
       { "name": "Over 2.5", "odds": 2.31 },
       { "name": "Under 2.5", "odds": 1.56 },
       { "name": "Map score 2-0", "odds": 10.09 },
@@ -252,150 +264,173 @@
   },
   {
     "type": "Valorant",
-    "time": "2024-07-06 19:00:00+0800",
-    "match_name": "Zeta vs Talon Map1",
-    "team1": "Zeta",
-    "team2": "Talon",
+    "time": "2024-07-07 19:00:00+0800",
+    "match_name": "PRX vs Zeta Map1",
+    "team1": "PRX",
+    "team2": "Zeta",
     "main_bet_list": [
-      { "name": "Zeta Winner", "odds": 3.5 },
-      { "name": "Talon Winner", "odds": 1.26 }
+      { "name": "PRX Winner", "odds": 1.17 },
+      { "name": "Zeta Winner", "odds": 4.44 }
     ],
     "more_bet_list": [
-      { "name": "Zeta +3.5", "odds": 2.02 },
-      { "name": "Talon -3.5", "odds": 1.74 },
-      { "name": "Zeta +4.5", "odds": 1.75 },
-      { "name": "Talon -4.5", "odds": 1.99 },
-      { "name": "Zeta +5.5", "odds": 1.52 },
-      { "name": "Talon -5.5", "odds": 2.31 },
-      { "name": "Over 19.5", "odds": 1.45 },
-      { "name": "Under 19.5", "odds": 2.58 },
-      { "name": "Over 20.5", "odds": 1.70 },
-      { "name": "Under 20.5", "odds": 2.04 },
-      { "name": "Over 21.5", "odds": 2.08 },
-      { "name": "Under 21.5", "odds": 1.68 }
+      { "name": "PRX -6.5", "odds": 2.02 },
+      { "name": "Zeta +6.5", "odds": 1.74 },
+      { "name": "PRX -5.5", "odds": 1.75 },
+      { "name": "Zeta +5.5", "odds": 1.99 },
+      { "name": "PRX -4.5", "odds": 1.57 },
+      { "name": "Zeta +4.5", "odds": 2.29 },
+      { "name": "Over 18.5", "odds": 1.56 },
+      { "name": "Under 18.5", "odds": 2.31 },
+      { "name": "Over 19.5", "odds": 1.87 },
+      { "name": "Under 19.5", "odds": 1.87 },
+      { "name": "Over 20.5", "odds": 2.33 },
+      { "name": "Under 20.5", "odds": 1.51 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-06 19:00:00+0800",
-    "match_name": "Zeta vs Talon Map2",
-    "team1": "Zeta",
-    "team2": "Talon",
+    "time": "2024-07-07 19:40:00+0800",
+    "match_name": "PRX vs Zeta Map2",
+    "team1": "PRX",
+    "team2": "Zeta",
     "main_bet_list": [
-      { "name": "Zeta Winner", "odds": 3.5 },
-      { "name": "Talon Winner", "odds": 1.26 }
+      { "name": "PRX Winner", "odds": 1.17 },
+      { "name": "Zeta Winner", "odds": 4.44 }
     ],
     "more_bet_list": [
-      { "name": "Zeta +3.5", "odds": 2.02 },
-      { "name": "Talon -3.5", "odds": 1.74 },
-      { "name": "Zeta +4.5", "odds": 1.75 },
-      { "name": "Talon -4.5", "odds": 1.99 },
-      { "name": "Zeta +5.5", "odds": 1.52 },
-      { "name": "Talon -5.5", "odds": 2.31 },
-      { "name": "Over 19.5", "odds": 1.45 },
-      { "name": "Under 19.5", "odds": 2.58 },
-      { "name": "Over 20.5", "odds": 1.70 },
-      { "name": "Under 20.5", "odds": 2.04 },
-      { "name": "Over 21.5", "odds": 2.08 },
-      { "name": "Under 21.5", "odds": 1.68 }
+      { "name": "PRX -6.5", "odds": 2.02 },
+      { "name": "Zeta +6.5", "odds": 1.74 },
+      { "name": "PRX -5.5", "odds": 1.76 },
+      { "name": "Zeta +5.5", "odds": 1.98 },
+      { "name": "PRX -4.5", "odds": 1.57 },
+      { "name": "Zeta +4.5", "odds": 2.29 },
+      { "name": "Over 18.5", "odds": 1.56 },
+      { "name": "Under 18.5", "odds": 2.31 },
+      { "name": "Over 19.5", "odds": 1.87 },
+      { "name": "Under 19.5", "odds": 1.87 },
+      { "name": "Over 20.5", "odds": 2.33 },
+      { "name": "Under 20.5", "odds": 1.51 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-06 19:00:00+0800",
-    "match_name": "Zeta vs Talon Map3",
-    "team1": "Zeta",
-    "team2": "Talon",
+    "time": "2024-07-07 20:20:00+0800",
+    "match_name": "PRX vs Zeta Map3",
+    "team1": "PRX",
+    "team2": "Zeta",
     "main_bet_list": [
-      { "name": "Zeta Winner", "odds": 3.5 },
-      { "name": "Talon Winner", "odds": 1.26 }
+      { "name": "PRX Winner", "odds": 1.17 },
+      { "name": "Zeta Winner", "odds": 4.44 }
     ],
     "more_bet_list": [
-      { "name": "Zeta +3.5", "odds": 2.02 },
-      { "name": "Talon -3.5", "odds": 1.74 },
-      { "name": "Zeta +4.5", "odds": 1.75 },
-      { "name": "Talon -4.5", "odds": 1.99 },
-      { "name": "Zeta +5.5", "odds": 1.52 },
-      { "name": "Talon -5.5", "odds": 2.31 },
-      { "name": "Over 19.5", "odds": 1.45 },
-      { "name": "Under 19.5", "odds": 2.58 },
-      { "name": "Over 20.5", "odds": 1.70 },
-      { "name": "Under 20.5", "odds": 2.04 },
-      { "name": "Over 21.5", "odds": 2.08 },
-      { "name": "Under 21.5", "odds": 1.68 }
-    ]
-  },
-
-  {
-    "type": "Valorant",
-    "time": "2024-07-05 19:00:00+0800",
-    "match_name": "DRG vs Wolves Match",
-    "team1": "DRG",
-    "team2": "Wolves",
-    "main_bet_list": [
-      { "name": "DRG Winner", "odds": 1.62 },
-      { "name": "Wolves Winner", "odds": 2.19 }
-    ],
-    "more_bet_list": [
-      { "name": "DRG -1.5", "odds": 2.72 },
-      { "name": "Wolves +1.5", "odds": 1.4 },
-      { "name": "Over 2.5", "odds": 1.92 },
-      { "name": "Under 2.5", "odds": 1.82 },
-      { "name": "Map score 2-0", "odds": 2.78 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 3.94 },
-      { "name": "Map score 1-2", "odds": 3.5 }
+      { "name": "PRX -6.5", "odds": 2.02 },
+      { "name": "Zeta +6.5", "odds": 1.74 },
+      { "name": "PRX -5.5", "odds": 1.76 },
+      { "name": "Zeta +5.5", "odds": 1.98 },
+      { "name": "PRX -4.5", "odds": 1.57 },
+      { "name": "Zeta +4.5", "odds": 2.29 },
+      { "name": "Over 18.5", "odds": 1.56 },
+      { "name": "Under 18.5", "odds": 2.31 },
+      { "name": "Over 19.5", "odds": 1.87 },
+      { "name": "Under 19.5", "odds": 1.87 },
+      { "name": "Over 20.5", "odds": 2.33 },
+      { "name": "Under 20.5", "odds": 1.51 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-05 19:00:00+0800",
-    "match_name": "DRG vs Wolves Map1",
-    "team1": "DRG",
-    "team2": "Wolves",
+    "time": "2024-07-07 20:00:00+0800",
+    "match_name": "Tyloo vs FPX Match",
+    "team1": "Tyloo",
+    "team2": "FPX",
     "main_bet_list": [
-      { "name": "DRG Winner", "odds": 1.72 },
-      { "name": "Wolves Winner", "odds": 2.04 }
+      { "name": "Tyloo Winner", "odds": 4.57 },
+      { "name": "FPX Winner", "odds": 1.14 }
     ],
     "more_bet_list": [
-      { "name": "DRG +2.5", "odds": 1.97 },
-      { "name": "Wolves -2.5", "odds": 1.77 },
-      { "name": "Over 21.5", "odds": 1.79 },
-      { "name": "Under 21.5", "odds": 1.95 }
+      { "name": "Tyloo +1.5", "odds": 1.99 },
+      { "name": "FPX -1.5", "odds": 1.75 },
+      { "name": "Over 2.5", "odds": 2.23 },
+      { "name": "Under 2.5", "odds": 1.59 },
+      { "name": "Map score 2-0", "odds": 7.66 },
+      { "name": "Map score 2-1", "odds": 6.55 },
+      { "name": "Map score 0-2", "odds": 1.76 },
+      { "name": "Map score 1-2", "odds": 3.38 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-05 20:00:00+0800",
-    "match_name": "DRG vs Wolves Map2",
-    "team1": "DRG",
-    "team2": "Wolves",
+    "time": "2024-07-07 20:00:00+0800",
+    "match_name": "Tyloo vs FPX Map1",
+    "team1": "Tyloo",
+    "team2": "FPX",
     "main_bet_list": [
-      { "name": "DRG Winner", "odds": 1.72 },
-      { "name": "Wolves Winner", "odds": 2.04 }
+      { "name": "Tyloo Winner", "odds": 3.22 },
+      { "name": "FPX Winner", "odds": 1.29 }
     ],
     "more_bet_list": [
-      { "name": "DRG +2.5", "odds": 1.97 },
-      { "name": "Wolves -2.5", "odds": 1.77 },
-      { "name": "Over 21.5", "odds": 1.79 },
-      { "name": "Under 21.5", "odds": 1.95 }
+      { "name": "Tyloo +3.5", "odds": 2.02 },
+      { "name": "FPX -3.5", "odds": 1.74 },
+      { "name": "Tyloo +4.5", "odds": 1.75 },
+      { "name": "FPX -4.5", "odds": 1.99 },
+      { "name": "Tyloo +5.5", "odds": 1.52 },
+      { "name": "FPX -5.5", "odds": 2.31 },
+      { "name": "Over 19.5", "odds": 1.48 },
+      { "name": "Under 19.5", "odds": 2.51 },
+      { "name": "Over 20.5", "odds": 1.75 },
+      { "name": "Under 20.5", "odds": 1.99 },
+      { "name": "Over 21.5", "odds": 2.16 },
+      { "name": "Under 21.5", "odds": 1.62 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-05 20:00:00+0800",
-    "match_name": "DRG vs Wolves Map3",
-    "team1": "DRG",
-    "team2": "Wolves",
+    "time": "2024-07-07 20:00:00+0800",
+    "match_name": "Tyloo vs FPX Map2",
+    "team1": "Tyloo",
+    "team2": "FPX",
     "main_bet_list": [
-      { "name": "DRG Winner", "odds": 1.72 },
-      { "name": "Wolves Winner", "odds": 2.04 }
+      { "name": "Tyloo Winner", "odds": 3.22 },
+      { "name": "FPX Winner", "odds": 1.29 }
     ],
     "more_bet_list": [
-      { "name": "DRG +2.5", "odds": 1.97 },
-      { "name": "Wolves -2.5", "odds": 1.77 },
-      { "name": "Over 21.5", "odds": 1.79 },
-      { "name": "Under 21.5", "odds": 1.95 }
+      { "name": "Tyloo +3.5", "odds": 2.02 },
+      { "name": "FPX -3.5", "odds": 1.74 },
+      { "name": "Tyloo +4.5", "odds": 1.75 },
+      { "name": "FPX -4.5", "odds": 1.99 },
+      { "name": "Tyloo +5.5", "odds": 1.52 },
+      { "name": "FPX -5.5", "odds": 2.31 },
+      { "name": "Over 19.5", "odds": 1.48 },
+      { "name": "Under 19.5", "odds": 2.51 },
+      { "name": "Over 20.5", "odds": 1.75 },
+      { "name": "Under 20.5", "odds": 1.99 },
+      { "name": "Over 21.5", "odds": 2.16 },
+      { "name": "Under 21.5", "odds": 1.62 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-07-07 20:00:00+0800",
+    "match_name": "Tyloo vs FPX Map3",
+    "team1": "Tyloo",
+    "team2": "FPX",
+    "main_bet_list": [
+      { "name": "Tyloo Winner", "odds": 3.22 },
+      { "name": "FPX Winner", "odds": 1.29 }
+    ],
+    "more_bet_list": [
+      { "name": "Tyloo +3.5", "odds": 2.02 },
+      { "name": "FPX -3.5", "odds": 1.74 },
+      { "name": "Tyloo +4.5", "odds": 1.75 },
+      { "name": "FPX -4.5", "odds": 1.99 },
+      { "name": "Tyloo +5.5", "odds": 1.52 },
+      { "name": "FPX -5.5", "odds": 2.31 },
+      { "name": "Over 19.5", "odds": 1.48 },
+      { "name": "Under 19.5", "odds": 2.51 },
+      { "name": "Over 20.5", "odds": 1.75 },
+      { "name": "Under 20.5", "odds": 1.99 },
+      { "name": "Over 21.5", "odds": 2.16 },
+      { "name": "Under 21.5", "odds": 1.62 }
     ]
   }
 ]
