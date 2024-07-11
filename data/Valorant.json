@@ -1,244 +1,194 @@
 [
   {
     "type": "Valorant",
-    "time": "2024-07-08 16:00:00+0800",
-    "match_name": "T1 vs Bleed Match",
-    "team1": "T1",
-    "team2": "Bleed",
+    "time": "2024-07-12 00:00:00+0800",
+    "match_name": "Navi vs GM Match",
+    "team1": "Navi",
+    "team2": "GM",
     "main_bet_list": [
-      { "name": "T1 Winner", "odds": 1.24 },
-      { "name": "Bleed Winner", "odds": 3.63 }
+      { "name": "Navi Winner", "odds": 1.54 },
+      { "name": "GM Winner", "odds": 2.35 }
     ],
     "more_bet_list": [
-      { "name": "T1 -1.5", "odds": 1.87 },
-      { "name": "Bleed +1.5", "odds": 1.87 },
-      { "name": "Over 2.5", "odds": 2.23 },
-      { "name": "Under 2.5", "odds": 1.59 },
-      { "name": "Map score 2-0", "odds": 1.83 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 6.88 },
-      { "name": "Map score 1-2", "odds": 5.16 }
+      { "name": "Navi -1.5", "odds": 2.56 },
+      { "name": "GM +1.5", "odds": 1.46 },
+      { "name": "Over 2.5", "odds": 1.99 },
+      { "name": "Under 2.5", "odds": 1.75 },
+      { "name": "Map score 2-0", "odds": 2.69 },
+      { "name": "Map score 2-1", "odds": 3.22 },
+      { "name": "Map score 0-2", "odds": 4.84 },
+      { "name": "Map score 1-2", "odds": 3.77 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-08 16:00:00+0800",
-    "match_name": "T1 vs Bleed Map1",
-    "team1": "T1",
-    "team2": "Bleed",
+    "time": "2024-07-12 00:00:00+0800",
+    "match_name": "Navi vs GM Map1",
+    "team1": "Navi",
+    "team2": "GM",
     "main_bet_list": [
-      { "name": "T1 Winner", "odds": 1.37 },
-      { "name": "Bleed Winner", "odds": 2.88 }
+      { "name": "Navi Winner", "odds": 1.64 },
+      { "name": "GM Winner", "odds": 2.16 }
     ],
     "more_bet_list": [
-      { "name": "T1 -5.5", "odds": 2.29 },
-      { "name": "Bleed +5.5", "odds": 1.53 },
-      { "name": "T1 -4.5", "odds": 1.97 },
-      { "name": "Bleed +4.5", "odds": 1.77 },
-      { "name": "T1 -3.5", "odds": 1.73 },
-      { "name": "Bleed +3.5", "odds": 2.03 },
-      { "name": "Over 19.5", "odds": 1.54 },
-      { "name": "Under 19.5", "odds": 2.35 },
-      { "name": "Over 20.5", "odds": 1.83 },
-      { "name": "Under 20.5", "odds": 1.91 },
-      { "name": "Over 21.5", "odds": 2.28 },
-      { "name": "Under 21.5", "odds": 1.54 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-07-08 17:08:00+0800",
-    "match_name": "T1 vs Bleed Map2",
-    "team1": "T1",
-    "team2": "Bleed",
-    "main_bet_list": [
-      { "name": "T1 Winner", "odds": 1.37 },
-      { "name": "Bleed Winner", "odds": 2.88 }
-    ],
-    "more_bet_list": [
-      { "name": "T1 -5.5", "odds": 2.29 },
-      { "name": "Bleed +5.5", "odds": 1.53 },
-      { "name": "T1 -4.5", "odds": 1.97 },
-      { "name": "Bleed +4.5", "odds": 1.77 },
-      { "name": "T1 -3.5", "odds": 1.73 },
-      { "name": "Bleed +3.5", "odds": 2.03 },
-      { "name": "Over 19.5", "odds": 1.54 },
-      { "name": "Under 19.5", "odds": 2.35 },
-      { "name": "Over 20.5", "odds": 1.83 },
-      { "name": "Under 20.5", "odds": 1.91 },
-      { "name": "Over 21.5", "odds": 2.28 },
-      { "name": "Under 21.5", "odds": 1.54 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-07-08 17:58:00+0800",
-    "match_name": "T1 vs Bleed Map3",
-    "team1": "T1",
-    "team2": "Bleed",
-    "main_bet_list": [
-      { "name": "T1 Winner", "odds": 1.37 },
-      { "name": "Bleed Winner", "odds": 2.88 }
-    ],
-    "more_bet_list": [
-      { "name": "T1 -5.5", "odds": 2.29 },
-      { "name": "Bleed +5.5", "odds": 1.53 },
-      { "name": "T1 -4.5", "odds": 1.97 },
-      { "name": "Bleed +4.5", "odds": 1.77 },
-      { "name": "T1 -3.5", "odds": 1.73 },
-      { "name": "Bleed +3.5", "odds": 2.03 },
-      { "name": "Over 19.5", "odds": 1.54 },
-      { "name": "Under 19.5", "odds": 2.35 },
-      { "name": "Over 20.5", "odds": 1.83 },
-      { "name": "Under 20.5", "odds": 1.91 },
-      { "name": "Over 21.5", "odds": 2.28 },
-      { "name": "Under 21.5", "odds": 1.54 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-06-08 18:05:00+0800",
-    "match_name": "TH vs G2 Map4",
-    "team1": "TH",
-    "team2": "G2",
-    "main_bet_list": [
-      { "name": "TH Winner", "odds": 1.88 },
-      { "name": "G2 Winner", "odds": 1.88 }
-    ],
-    "more_bet_list": [
-      { "name": "TH -3.5", "odds": 2.51 },
-      { "name": "G2 +3.5", "odds": 1.46 },
-      { "name": "TH -2.5", "odds": 2.13 },
-      { "name": "G2 +2.5", "odds": 1.64 },
-      { "name": "TH +2.5", "odds": 1.57 },
-      { "name": "G2 -2.5", "odds": 2.33 },
-      { "name": "Over 20.5", "odds": 1.55 },
-      { "name": "Under 20.5", "odds": 2.36 },
-      { "name": "Over 21.5", "odds": 1.85 },
+      { "name": "Navi -3.5", "odds": 2.26 },
+      { "name": "GM +3.5", "odds": 1.55 },
+      { "name": "Navi -2.5", "odds": 1.94 },
+      { "name": "GM +2.5", "odds": 1.8 },
+      { "name": "Navi +2.5", "odds": 1.47 },
+      { "name": "GM -2.5", "odds": 2.53 },
+      { "name": "Over 20.5", "odds": 1.54 },
+      { "name": "Under 20.5", "odds": 2.35 },
+      { "name": "Over 21.5", "odds": 1.83 },
       { "name": "Under 21.5", "odds": 1.91 },
-      { "name": "Over 22.5", "odds": 2.31 },
+      { "name": "Over 22.5", "odds": 2.28 },
       { "name": "Under 22.5", "odds": 1.54 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-06-08 18:00:00+0800",
-    "match_name": "TH vs G2 Map5",
-    "team1": "TH",
-    "team2": "G2",
+    "time": "2024-07-12 00:30:00+0800",
+    "match_name": "Navi vs GM Map2",
+    "team1": "Navi",
+    "team2": "GM",
     "main_bet_list": [
-      { "name": "TH Winner", "odds": 1.88 },
-      { "name": "G2 Winner", "odds": 1.88 }
+      { "name": "Navi Winner", "odds": 1.64 },
+      { "name": "GM Winner", "odds": 2.16 }
     ],
     "more_bet_list": [
-      { "name": "TH -3.5", "odds": 2.51 },
-      { "name": "G2 +3.5", "odds": 1.46 },
-      { "name": "TH -2.5", "odds": 2.13 },
-      { "name": "G2 +2.5", "odds": 1.64 },
-      { "name": "TH +2.5", "odds": 1.57 },
-      { "name": "G2 -2.5", "odds": 2.33 },
-      { "name": "Over 20.5", "odds": 1.53 },
-      { "name": "Under 20.5", "odds": 2.4 },
-      { "name": "Over 21.5", "odds": 1.82 },
-      { "name": "Under 21.5", "odds": 1.94 },
-      { "name": "Over 22.5", "odds": 2.26 },
-      { "name": "Under 22.5", "odds": 1.57 }
+      { "name": "Navi -3.5", "odds": 2.26 },
+      { "name": "GM +3.5", "odds": 1.55 },
+      { "name": "Navi -2.5", "odds": 1.94 },
+      { "name": "GM +2.5", "odds": 1.8 },
+      { "name": "Navi +2.5", "odds": 1.47 },
+      { "name": "GM -2.5", "odds": 2.53 },
+      { "name": "Over 20.5", "odds": 1.54 },
+      { "name": "Under 20.5", "odds": 2.35 },
+      { "name": "Over 21.5", "odds": 1.83 },
+      { "name": "Under 21.5", "odds": 1.91 },
+      { "name": "Over 22.5", "odds": 2.28 },
+      { "name": "Under 22.5", "odds": 1.54 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-07 17:00:00+0800",
-    "match_name": "JD Gaming vs All Gamers Match",
-    "team1": "JD Gaming",
-    "team2": "All Gamers",
+    "time": "2024-07-12 01:00:00+0800",
+    "match_name": "Navi vs GM Map3",
+    "team1": "Navi",
+    "team2": "GM",
     "main_bet_list": [
-      { "name": "JD Gaming Winner", "odds": 1.67 },
-      { "name": "All Gamers Winner", "odds": 2.12 }
+      { "name": "Navi Winner", "odds": 1.64 },
+      { "name": "GM Winner", "odds": 16.88 }
     ],
     "more_bet_list": [
-      { "name": "JD Gaming -1.5", "odds": 2.88 },
-      { "name": "All Gamers +1.5", "odds": 1.37 },
-      { "name": "Over 2.5", "odds": 1.87 },
-      { "name": "Under 2.5", "odds": 1.87 },
-      { "name": "Map score 2-0", "odds": 3.0 },
+      { "name": "Navi -3.5", "odds": 2.26 },
+      { "name": "GM +5.5", "odds": 5.53 },
+      { "name": "Navi -2.5", "odds": 1.94 },
+      { "name": "GM +4.5", "odds": 80.77 },
+      { "name": "Navi +2.5", "odds": 1.47 },
+      { "name": "GM +3.5", "odds": 53.03 },
+      { "name": "Over 20.5", "odds": 1.54 },
+      { "name": "Under 20.5", "odds": 2.35 },
+      { "name": "Over 21.5", "odds": 1.83 },
+      { "name": "Under 21.5", "odds": 1.91 },
+      { "name": "Over 22.5", "odds": 2.28 },
+      { "name": "Under 22.5", "odds": 1.54 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-07-12 03:00:00+0800",
+    "match_name": "Vitality vs KC Match",
+    "team1": "Vitality",
+    "team2": "KC",
+    "main_bet_list": [
+      { "name": "Vitality Winner", "odds": 1.72 },
+      { "name": "KC Winner", "odds": 2.04 }
+    ],
+    "more_bet_list": [
+      { "name": "Vitality -1.5", "odds": 3.04 },
+      { "name": "KC +1.5", "odds": 1.33 },
+      { "name": "Over 2.5", "odds": 1.9 },
+      { "name": "Under 2.5", "odds": 1.84 },
+      { "name": "Map score 2-0", "odds": 3.08 },
       { "name": "Map score 2-1", "odds": 3.38 },
-      { "name": "Map score 0-2", "odds": 3.08 },
+      { "name": "Map score 0-2", "odds": 3.77 },
       { "name": "Map score 1-2", "odds": 3.38 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-07 17:00:00+0800",
-    "match_name": "JD Gaming vs All Gamers Map1",
-    "team1": "JD Gaming",
-    "team2": "All Gamers",
+    "time": "2024-07-12 03:00:00+0800",
+    "match_name": "Vitality vs KC Map1",
+    "team1": "Vitality",
+    "team2": "KC",
     "main_bet_list": [
-      { "name": "JD Gaming Winner", "odds": 1.79 },
-      { "name": "All Gamers Winner", "odds": 1.95 }
+      { "name": "Vitality Winner", "odds": 1.79 },
+      { "name": "KC Winner", "odds": 1.95 }
     ],
     "more_bet_list": [
-      { "name": "JD Gaming -3.5", "odds": 2.4 },
-      { "name": "All Gamers +3.5", "odds": 1.47 },
-      { "name": "JD Gaming -2.5", "odds": 2.05 },
-      { "name": "All Gamers +2.5", "odds": 1.69 },
-      { "name": "JD Gaming +2.5", "odds": 1.52 },
-      { "name": "All Gamers -2.5", "odds": 2.38 },
-      { "name": "Over 20.5", "odds": 1.51 },
-      { "name": "Under 20.5", "odds": 2.4 },
-      { "name": "Over 21.5", "odds": 1.79 },
-      { "name": "Under 21.5", "odds": 1.95 },
-      { "name": "Over 22.5", "odds": 2.21 },
-      { "name": "Under 22.5", "odds": 1.58 }
+      { "name": "Vitality -3.5", "odds": 2.42 },
+      { "name": "KC +3.5", "odds": 1.48 },
+      { "name": "Vitality -2.5", "odds": 2.07 },
+      { "name": "KC +2.5", "odds": 1.67 },
+      { "name": "Vitality +2.5", "odds": 1.53 },
+      { "name": "KC -2.5", "odds": 2.36 },
+      { "name": "Over 20.5", "odds": 1.52 },
+      { "name": "Under 20.5", "odds": 2.38 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.94 },
+      { "name": "Over 22.5", "odds": 2.23 },
+      { "name": "Under 22.5", "odds": 1.57 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-07 17:30:00+0800",
-    "match_name": "JD Gaming vs All Gamers Map2",
-    "team1": "JD Gaming",
-    "team2": "All Gamers",
+    "time": "2024-07-12 03:30:00+0800",
+    "match_name": "Vitality vs KC Map2",
+    "team1": "Vitality",
+    "team2": "KC",
     "main_bet_list": [
-      { "name": "JD Gaming Winner", "odds": 1.79 },
-      { "name": "All Gamers Winner", "odds": 1.95 }
+      { "name": "Vitality Winner", "odds": 1.79 },
+      { "name": "KC Winner", "odds": 1.95 }
     ],
     "more_bet_list": [
-      { "name": "JD Gaming -3.5", "odds": 2.4 },
-      { "name": "All Gamers +3.5", "odds": 1.47 },
-      { "name": "JD Gaming -2.5", "odds": 2.05 },
-      { "name": "All Gamers +2.5", "odds": 1.69 },
-      { "name": "JD Gaming +2.5", "odds": 1.52 },
-      { "name": "All Gamers -2.5", "odds": 2.38 },
-      { "name": "Over 20.5", "odds": 1.51 },
-      { "name": "Under 20.5", "odds": 2.4 },
-      { "name": "Over 21.5", "odds": 1.79 },
-      { "name": "Under 21.5", "odds": 1.95 },
-      { "name": "Over 22.5", "odds": 2.21 },
-      { "name": "Under 22.5", "odds": 1.58 }
+      { "name": "Vitality -3.5", "odds": 2.42 },
+      { "name": "KC +3.5", "odds": 1.48 },
+      { "name": "Vitality -2.5", "odds": 2.07 },
+      { "name": "KC +2.5", "odds": 1.67 },
+      { "name": "Vitality +2.5", "odds": 1.53 },
+      { "name": "KC -2.5", "odds": 2.36 },
+      { "name": "Over 20.5", "odds": 1.52 },
+      { "name": "Under 20.5", "odds": 2.38 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.94 },
+      { "name": "Over 22.5", "odds": 2.23 },
+      { "name": "Under 22.5", "odds": 1.57 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-07 17:50:00+0800",
-    "match_name": "JD Gaming vs All Gamers Map3",
-    "team1": "JD Gaming",
-    "team2": "All Gamers",
+    "time": "2024-07-12 03:50:00+0800",
+    "match_name": "Vitality vs KC Map3",
+    "team1": "Vitality",
+    "team2": "KC",
     "main_bet_list": [
-      { "name": "JD Gaming Winner", "odds": 1.79 },
-      { "name": "All Gamers Winner", "odds": 1.95 }
+      { "name": "Vitality Winner", "odds": 1.79 },
+      { "name": "KC Winner", "odds": 1.95 }
     ],
     "more_bet_list": [
-      { "name": "JD Gaming -3.5", "odds": 2.4 },
-      { "name": "All Gamers +3.5", "odds": 1.47 },
-      { "name": "JD Gaming -2.5", "odds": 2.05 },
-      { "name": "All Gamers +2.5", "odds": 1.69 },
-      { "name": "JD Gaming +2.5", "odds": 1.52 },
-      { "name": "All Gamers -2.5", "odds": 2.38 },
-      { "name": "Over 20.5", "odds": 1.51 },
-      { "name": "Under 20.5", "odds": 2.4 },
-      { "name": "Over 21.5", "odds": 1.79 },
-      { "name": "Under 21.5", "odds": 1.95 },
-      { "name": "Over 22.5", "odds": 2.21 },
-      { "name": "Under 22.5", "odds": 1.58 }
+      { "name": "Vitality -3.5", "odds": 2.42 },
+      { "name": "KC +3.5", "odds": 1.48 },
+      { "name": "Vitality -2.5", "odds": 2.07 },
+      { "name": "KC +2.5", "odds": 1.67 },
+      { "name": "Vitality +2.5", "odds": 1.53 },
+      { "name": "KC -2.5", "odds": 2.36 },
+      { "name": "Over 20.5", "odds": 1.52 },
+      { "name": "Under 20.5", "odds": 2.38 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.94 },
+      { "name": "Over 22.5", "odds": 2.23 },
+      { "name": "Under 22.5", "odds": 1.57 }
     ]
   },
   {
