@@ -488,38 +488,38 @@
   {
     "type": "Dota2",
     "time": "2024-07-14 02:00:00+0800",
-    "match_name": "PSG Q vs BB Match",
+    "match_name": "PSG Q vs Mouz Match",
     "team1": "PSG Q",
-    "team2": "BB",
+    "team2": "Mouz",
     "main_bet_list": [
       { "name": "PSG Q Winner", "odds": 6.18 },
       { "name": "Draw", "odds": 2.00 },
-      { "name": "BB Winner", "odds": 2.09 }
+      { "name": "Mouz Winner", "odds": 2.09 }
     ],
     "more_bet_list": [
       { "name": "PSG Q -1.5", "odds": 5.00 },
-      { "name": "BB +1.5", "odds": 1.15 },
+      { "name": "Mouz +1.5", "odds": 1.15 },
       { "name": "PSG Q +1.5", "odds": 1.70 },
-      { "name": "BB -1.5", "odds": 2.08 }
+      { "name": "Mouz -1.5", "odds": 2.08 }
     ]
   },
   {
     "type": "Dota2",
     "time": "2024-07-14 02:00:00+0800",
-    "match_name": "PSG Q vs BB Map1",
+    "match_name": "PSG Q vs Mouz Map1",
     "team1": "PSG Q",
-    "team2": "BB",
+    "team2": "Mouz",
     "main_bet_list": [
       { "name": "PSG Q Winner", "odds": 2.36 },
-      { "name": "BB Winner", "odds": 1.55 }
+      { "name": "Mouz Winner", "odds": 1.55 }
     ],
     "more_bet_list": [
       { "name": "PSG Q Kills +7.5", "odds": 2.04 },
-      { "name": "BB Kills -7.5", "odds": 1.74 },
+      { "name": "Mouz Kills -7.5", "odds": 1.74 },
       { "name": "PSG Q Kills +8.5", "odds": 1.88 },
-      { "name": "BB Kills -8.5", "odds": 1.88 },
+      { "name": "Mouz Kills -8.5", "odds": 1.88 },
       { "name": "PSG Q Kills +9.5", "odds": 1.75 },
-      { "name": "BB Kills -9.5", "odds": 2.03 },
+      { "name": "Mouz Kills -9.5", "odds": 2.03 },
       { "name": "Total kills Over 42.5", "odds": 1.75 },
       { "name": "Total kills Under 42.5", "odds": 2.03 },
       { "name": "Total kills Over 43.5", "odds": 1.88 },
