@@ -235,136 +235,19 @@
   },
   {
     "type": "Dota2",
-    "time": "2024-07-16 20:30:00+0800",
-    "match_name": "Falcons vs Xtreme Match",
-    "team1": "Falcons",
-    "team2": "Xtreme",
-    "main_bet_list": [
-      { "name": "Falcons Winner", "odds": 1.45 },
-      { "name": "Xtreme Winner", "odds": 2.63 }
-    ],
-    "more_bet_list": [
-      { "name": "Falcons -1.5", "odds": 2.25 },
-      { "name": "Xtreme +1.5", "odds": 1.6 },
-      { "name": "Falcons +1.5", "odds": 1.15 },
-      { "name": "Xtreme -1.5", "odds": 5 },
-      { "name": "Over 2.5", "odds": 1.96 },
-      { "name": "Under 2.5", "odds": 1.8 },
-      { "name": "Map score 2-0", "odds": 2.35 },
-      { "name": "Map score 2-1", "odds": 3.32 },
-      { "name": "Map score 0-2", "odds": 4.44 },
-      { "name": "Map score 1-2", "odds": 3.77 }
-    ]
-  },
-  {
-    "type": "Dota2",
-    "time": "2024-07-16 20:30:00+0800",
-    "match_name": "Falcons vs Xtreme Map1",
-    "team1": "Falcons",
-    "team2": "Xtreme",
-    "main_bet_list": [
-      { "name": "Falcons Winner", "odds": 1.5 },
-      { "name": "Xtreme Winner", "odds": 2.47 }
-    ],
-    "more_bet_list": [
-      { "name": "Falcons Kills -9.5", "odds": 1.94 },
-      { "name": "Xtreme Kills +9.5", "odds": 1.82 },
-      { "name": "Falcons Kills -8.5", "odds": 1.8 },
-      { "name": "Xtreme Kills +8.5", "odds": 1.96 },
-      { "name": "Falcons Kills -7.5", "odds": 1.68 },
-      { "name": "Xtreme Kills +7.5", "odds": 2.13 },
-      { "name": "Total kills Over 42.5", "odds": 1.8 },
-      { "name": "Total kills Under 42.5", "odds": 1.96 },
-      { "name": "Total kills Over 43.5", "odds": 1.94 },
-      { "name": "Total kills Under 43.5", "odds": 1.82 },
-      { "name": "Total kills Over 44.5", "odds": 2.11 },
-      { "name": "Total kills Under 44.5", "odds": 1.68 },
-      { "name": "Total time Over 37", "odds": 1.55 },
-      { "name": "Total time Under 37", "odds": 2.26 },
-      { "name": "Total time Over 38", "odds": 1.7 },
-      { "name": "Total time Under 38", "odds": 2.06 },
-      { "name": "Total time Over 39", "odds": 1.85 },
-      { "name": "Total time Under 39", "odds": 1.91 }
-    ]
-  },
-  {
-    "type": "Dota2",
-    "time": "2024-07-16 21:00:00+0800",
-    "match_name": "Falcons vs Xtreme Map2",
-    "team1": "Falcons",
-    "team2": "Xtreme",
-    "main_bet_list": [
-      { "name": "Falcons Winner", "odds": 1.5 },
-      { "name": "Xtreme Winner", "odds": 2.47 }
-    ],
-    "more_bet_list": [
-      { "name": "Falcons Kills -9.5", "odds": 1.94 },
-      { "name": "Xtreme Kills +9.5", "odds": 1.82 },
-      { "name": "Falcons Kills -8.5", "odds": 1.8 },
-      { "name": "Xtreme Kills +8.5", "odds": 1.96 },
-      { "name": "Falcons Kills -7.5", "odds": 1.68 },
-      { "name": "Xtreme Kills +7.5", "odds": 2.13 },
-      { "name": "Total kills Over 42.5", "odds": 1.8 },
-      { "name": "Total kills Under 42.5", "odds": 1.96 },
-      { "name": "Total kills Over 43.5", "odds": 1.94 },
-      { "name": "Total kills Under 43.5", "odds": 1.82 },
-      { "name": "Total kills Over 44.5", "odds": 2.11 },
-      { "name": "Total kills Under 44.5", "odds": 1.68 },
-      { "name": "Total time Over 37", "odds": 1.55 },
-      { "name": "Total time Under 37", "odds": 2.26 },
-      { "name": "Total time Over 38", "odds": 1.7 },
-      { "name": "Total time Under 38", "odds": 2.06 },
-      { "name": "Total time Over 39", "odds": 1.85 },
-      { "name": "Total time Under 39", "odds": 1.91 }
-    ]
-  },
-
-  {
-    "type": "Dota2",
-    "time": "2024-07-16 21:30:00+0800",
-    "match_name": "Falcons vs Xtreme Map3",
-    "team1": "Falcons",
-    "team2": "Xtreme",
-    "main_bet_list": [
-      { "name": "Falcons Winner", "odds": 1.5 },
-      { "name": "Xtreme Winner", "odds": 2.47 }
-    ],
-    "more_bet_list": [
-      { "name": "Falcons Kills -9.5", "odds": 1.94 },
-      { "name": "Xtreme Kills +9.5", "odds": 1.82 },
-      { "name": "Falcons Kills -8.5", "odds": 1.8 },
-      { "name": "Xtreme Kills +8.5", "odds": 1.96 },
-      { "name": "Falcons Kills -7.5", "odds": 1.68 },
-      { "name": "Xtreme Kills +7.5", "odds": 2.13 },
-      { "name": "Total kills Over 42.5", "odds": 1.8 },
-      { "name": "Total kills Under 42.5", "odds": 1.96 },
-      { "name": "Total kills Over 43.5", "odds": 1.94 },
-      { "name": "Total kills Under 43.5", "odds": 1.82 },
-      { "name": "Total kills Over 44.5", "odds": 2.11 },
-      { "name": "Total kills Under 44.5", "odds": 1.68 },
-      { "name": "Total time Over 37", "odds": 1.55 },
-      { "name": "Total time Under 37", "odds": 2.26 },
-      { "name": "Total time Over 38", "odds": 1.7 },
-      { "name": "Total time Under 38", "odds": 2.06 },
-      { "name": "Total time Over 39", "odds": 1.85 },
-      { "name": "Total time Under 39", "odds": 1.91 }
-    ]
-  },
-  {
-    "type": "Dota2",
     "time": "2024-07-17 00:00:00+0800",
-    "match_name": "Spirit vs Liquid Match",
+    "match_name": "Spirit vs LGD Match",
     "team1": "Spirit",
-    "team2": "Liquid",
+    "team2": "LGD",
     "main_bet_list": [
       { "name": "Spirit Winner", "odds": 1.65 },
-      { "name": "Liquid Winner", "odds": 2.17 }
+      { "name": "LGD Winner", "odds": 2.17 }
     ],
     "more_bet_list": [
       { "name": "Spirit -1.5", "odds": 2.78 },
-      { "name": "Liquid +1.5", "odds": 1.4 },
+      { "name": "LGD +1.5", "odds": 1.4 },
       { "name": "Spirit +1.5", "odds": 1.2 },
-      { "name": "Liquid -1.5", "odds": 4.12 },
+      { "name": "LGD -1.5", "odds": 4.12 },
       { "name": "Over 2.5", "odds": 1.94 },
       { "name": "Under 2.5", "odds": 1.82 },
       { "name": "Map score 2-0", "odds": 2.81 },
@@ -376,20 +259,20 @@
   {
     "type": "Dota2",
     "time": "2024-07-17 00:00:00+0800",
-    "match_name": "Spirit vs Liquid Map1",
+    "match_name": "Spirit vs LGD Map1",
     "team1": "Spirit",
-    "team2": "Liquid",
+    "team2": "LGD",
     "main_bet_list": [
       { "name": "Spirit Winner", "odds": 1.7 },
-      { "name": "Liquid Winner", "odds": 2.08 }
+      { "name": "LGD Winner", "odds": 2.08 }
     ],
     "more_bet_list": [
       { "name": "Spirit Kills -5.5", "odds": 2.09 },
-      { "name": "Liquid Kills +5.5", "odds": 1.69 },
+      { "name": "LGD Kills +5.5", "odds": 1.69 },
       { "name": "Spirit Kills -4.5", "odds": 1.93 },
-      { "name": "Liquid Kills +4.5", "odds": 1.83 },
+      { "name": "LGD Kills +4.5", "odds": 1.83 },
       { "name": "Spirit Kills -3.5", "odds": 1.79 },
-      { "name": "Liquid Kills +3.5", "odds": 1.99 },
+      { "name": "LGD Kills +3.5", "odds": 1.99 },
       { "name": "Total kills Over 46.5", "odds": 1.75 },
       { "name": "Total kills Under 46.5", "odds": 2.03 },
       { "name": "Total kills Over 47.5", "odds": 1.88 },
@@ -407,20 +290,20 @@
   {
     "type": "Dota2",
     "time": "2024-07-17 00:00:00+0800",
-    "match_name": "Spirit vs Liquid Map2",
+    "match_name": "Spirit vs LGD Map2",
     "team1": "Spirit",
-    "team2": "Liquid",
+    "team2": "LGD",
     "main_bet_list": [
       { "name": "Spirit Winner", "odds": 1.7 },
-      { "name": "Liquid Winner", "odds": 2.08 }
+      { "name": "LGD Winner", "odds": 2.08 }
     ],
     "more_bet_list": [
       { "name": "Spirit Kills -5.5", "odds": 2.09 },
-      { "name": "Liquid Kills +5.5", "odds": 1.69 },
+      { "name": "LGD Kills +5.5", "odds": 1.69 },
       { "name": "Spirit Kills -4.5", "odds": 1.93 },
-      { "name": "Liquid Kills +4.5", "odds": 1.83 },
+      { "name": "LGD Kills +4.5", "odds": 1.83 },
       { "name": "Spirit Kills -3.5", "odds": 1.79 },
-      { "name": "Liquid Kills +3.5", "odds": 1.99 },
+      { "name": "LGD Kills +3.5", "odds": 1.99 },
       { "name": "Total kills Over 46.5", "odds": 1.75 },
       { "name": "Total kills Under 46.5", "odds": 2.03 },
       { "name": "Total kills Over 47.5", "odds": 1.88 },
@@ -439,20 +322,20 @@
   {
     "type": "Dota2",
     "time": "2024-07-17 00:00:00+0800",
-    "match_name": "Spirit vs Liquid Map3",
+    "match_name": "Spirit vs LGD Map3",
     "team1": "Spirit",
-    "team2": "Liquid",
+    "team2": "LGD",
     "main_bet_list": [
       { "name": "Spirit Winner", "odds": 1.7 },
-      { "name": "Liquid Winner", "odds": 2.08 }
+      { "name": "LGD Winner", "odds": 2.08 }
     ],
     "more_bet_list": [
       { "name": "Spirit Kills -5.5", "odds": 2.09 },
-      { "name": "Liquid Kills +5.5", "odds": 1.69 },
+      { "name": "LGD Kills +5.5", "odds": 1.69 },
       { "name": "Spirit Kills -4.5", "odds": 1.93 },
-      { "name": "Liquid Kills +4.5", "odds": 1.83 },
+      { "name": "LGD Kills +4.5", "odds": 1.83 },
       { "name": "Spirit Kills -3.5", "odds": 1.79 },
-      { "name": "Liquid Kills +3.5", "odds": 1.99 },
+      { "name": "LGD Kills +3.5", "odds": 1.99 },
       { "name": "Total kills Over 46.5", "odds": 1.75 },
       { "name": "Total kills Under 46.5", "odds": 2.03 },
       { "name": "Total kills Over 47.5", "odds": 1.88 },
