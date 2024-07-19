@@ -153,207 +153,265 @@
   },
   {
     "type": "Valorant",
-    "time": "2024-07-18 17:45:00+0800",
-    "match_name": "FPX vs Bilibili Match",
-    "team1": "FPX",
-    "team2": "Bilibili",
+    "time": "2024-07-20 00:00:00+0800",
+    "match_name": "Vit vs TH Match",
+    "team1": "Vit",
+    "team2": "TH",
     "main_bet_list": [
-      { "name": "FPX Winner", "odds": 1.91 },
-      { "name": "Bilibili Winner", "odds": 1.85 }
+      { "name": "Vit Winner", "odds": 2.61 },
+      { "name": "TH Winner", "odds": 1.46 }
     ],
     "more_bet_list": [
-      { "name": "Over 2.5", "odds": 1.91 },
-      { "name": "Under 2.5", "odds": 1.85 },
-      { "name": "Map score 2-0", "odds": 3.22 },
-      { "name": "Map score 2-1", "odds": 3.38 },
-      { "name": "Map score 0-2", "odds": 3.08 },
-      { "name": "Map score 1-2", "odds": 3.38 }
+      { "name": "Vit +1.5", "odds": 1.78 },
+      { "name": "TH -1.5", "odds": 2.0 },
+      { "name": "Vit +2.5", "odds": 1.17 },
+      { "name": "TH -2.5", "odds": 4.7 },
+      { "name": "Over 3.5", "odds": 1.35 },
+      { "name": "Under 3.5", "odds": 3.04 },
+      { "name": "Over 4.5", "odds": 2.72 },
+      { "name": "Under 4.5", "odds": 1.42 },
+      { "name": "Map score 3-0", "odds": 7.66 },
+      { "name": "Map score 3-1", "odds": 6.55 },
+      { "name": "Map score 3-2", "odds": 5.0 },
+      { "name": "Map score 0-3", "odds": 3.94 },
+      { "name": "Map score 1-3", "odds": 3.5 },
+      { "name": "Map score 2-3", "odds": 4.44 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-18 17:45:00+0800",
-    "match_name": "FPX vs Bilibili Map1",
-    "team1": "FPX",
-    "team2": "Bilibili",
+    "time": "2024-07-20 00:00:00+0800",
+    "match_name": "Vit vs TH Map1",
+    "team1": "Vit",
+    "team2": "TH",
     "main_bet_list": [
-      { "name": "FPX Winner", "odds": 1.88 },
-      { "name": "Bilibili Winner", "odds": 1.88 }
+      { "name": "Vit Winner", "odds": 2.25 },
+      { "name": "TH Winner", "odds": 1.6 }
     ],
     "more_bet_list": [
-      { "name": "FPX -2.5", "odds": 2.42 },
-      { "name": "Bilibili +2.5", "odds": 1.52 },
-      { "name": "FPX +2.5", "odds": 1.72 },
-      { "name": "Bilibili -2.5", "odds": 2.04 },
-      { "name": "FPX +3.5", "odds": 1.49 },
-      { "name": "Bilibili -3.5", "odds": 2.4 },
-      { "name": "Over 20.5", "odds": 1.62 },
-      { "name": "Under 20.5", "odds": 2.21 },
-      { "name": "Over 21.5", "odds": 1.96 },
-      { "name": "Under 21.5", "odds": 1.8 },
-      { "name": "Over 22.5", "odds": 2.49 },
-      { "name": "Under 22.5", "odds": 1.47 }
+      { "name": "Vit -2.5", "odds": 2.58 },
+      { "name": "TH +2.5", "odds": 1.47 },
+      { "name": "Vit +2.5", "odds": 1.82 },
+      { "name": "TH -2.5", "odds": 1.94 },
+      { "name": "Vit +3.5", "odds": 1.58 },
+      { "name": "TH -3.5", "odds": 2.25 },
+      { "name": "Over 20.5", "odds": 1.55 },
+      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Over 21.5", "odds": 1.85 },
+      { "name": "Under 21.5", "odds": 1.91 },
+      { "name": "Over 22.5", "odds": 2.31 },
+      { "name": "Under 22.5", "odds": 1.54 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-18 18:30:00+0800",
-    "match_name": "FPX vs Bilibili Map2",
-    "team1": "FPX",
-    "team2": "Bilibili",
+    "time": "2024-07-20 00:00:00+0800",
+    "match_name": "Vit vs TH Map2",
+    "team1": "Vit",
+    "team2": "TH",
     "main_bet_list": [
-      { "name": "FPX Winner", "odds": 1.88 },
-      { "name": "Bilibili Winner", "odds": 1.88 }
+      { "name": "Vit Winner", "odds": 2.25 },
+      { "name": "TH Winner", "odds": 1.6 }
     ],
     "more_bet_list": [
-      { "name": "FPX -2.5", "odds": 2.42 },
-      { "name": "Bilibili +2.5", "odds": 1.52 },
-      { "name": "FPX +2.5", "odds": 1.72 },
-      { "name": "Bilibili -2.5", "odds": 2.04 },
-      { "name": "FPX +3.5", "odds": 1.49 },
-      { "name": "Bilibili -3.5", "odds": 2.4 },
-      { "name": "Over 20.5", "odds": 1.62 },
-      { "name": "Under 20.5", "odds": 2.21 },
-      { "name": "Over 21.5", "odds": 1.96 },
-      { "name": "Under 21.5", "odds": 1.8 },
-      { "name": "Over 22.5", "odds": 2.49 },
-      { "name": "Under 22.5", "odds": 1.47 }
+      { "name": "Vit -2.5", "odds": 2.58 },
+      { "name": "TH +2.5", "odds": 1.47 },
+      { "name": "Vit +2.5", "odds": 1.82 },
+      { "name": "TH -2.5", "odds": 1.94 },
+      { "name": "Vit +3.5", "odds": 1.58 },
+      { "name": "TH -3.5", "odds": 2.25 },
+      { "name": "Over 20.5", "odds": 1.55 },
+      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Over 21.5", "odds": 1.85 },
+      { "name": "Under 21.5", "odds": 1.91 },
+      { "name": "Over 22.5", "odds": 2.31 },
+      { "name": "Under 22.5", "odds": 1.54 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-18 19:00:00+0800",
-    "match_name": "FPX vs Bilibili Map3",
-    "team1": "FPX",
-    "team2": "Bilibili",
+    "time": "2024-07-20 00:00:00+0800",
+    "match_name": "Vit vs TH Map3",
+    "team1": "Vit",
+    "team2": "TH",
     "main_bet_list": [
-      { "name": "FPX Winner", "odds": 1.88 },
-      { "name": "Bilibili Winner", "odds": 1.88 }
+      { "name": "Vit Winner", "odds": 2.25 },
+      { "name": "TH Winner", "odds": 1.6 }
     ],
     "more_bet_list": [
-      { "name": "FPX -2.5", "odds": 2.42 },
-      { "name": "Bilibili +2.5", "odds": 1.52 },
-      { "name": "FPX +2.5", "odds": 1.72 },
-      { "name": "Bilibili -2.5", "odds": 2.04 },
-      { "name": "FPX +3.5", "odds": 1.49 },
-      { "name": "Bilibili -3.5", "odds": 2.4 },
-      { "name": "Over 20.5", "odds": 1.62 },
-      { "name": "Under 20.5", "odds": 2.21 },
-      { "name": "Over 21.5", "odds": 1.96 },
-      { "name": "Under 21.5", "odds": 1.8 },
-      { "name": "Over 22.5", "odds": 2.49 },
-      { "name": "Under 22.5", "odds": 1.47 }
+      { "name": "Vit -2.5", "odds": 2.58 },
+      { "name": "TH +2.5", "odds": 1.47 },
+      { "name": "Vit +2.5", "odds": 1.82 },
+      { "name": "TH -2.5", "odds": 1.94 },
+      { "name": "Vit +3.5", "odds": 1.58 },
+      { "name": "TH -3.5", "odds": 2.25 },
+      { "name": "Over 20.5", "odds": 1.55 },
+      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Over 21.5", "odds": 1.85 },
+      { "name": "Under 21.5", "odds": 1.91 },
+      { "name": "Over 22.5", "odds": 2.31 },
+      { "name": "Under 22.5", "odds": 1.54 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-17 00:00:00+0800",
-    "match_name": "Vitality vs Fnatic Match",
-    "team1": "Vitality",
-    "team2": "Fnatic",
+    "time": "2024-07-20 00:00:00+0800",
+    "match_name": "Vit vs TH Map4",
+    "team1": "Vit",
+    "team2": "TH",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.35 },
-      { "name": "Fnatic Winner", "odds": 3.04 }
+      { "name": "Vit Winner", "odds": 2.25 },
+      { "name": "TH Winner", "odds": 1.6 }
     ],
     "more_bet_list": [
-      { "name": "Vitality -1.5", "odds": 2.08 },
-      { "name": "Fnatic +1.5", "odds": 1.7 },
-      { "name": "Over 2.5", "odds": 2.14 },
-      { "name": "Under 2.5", "odds": 1.67 },
-      { "name": "Map score 2-0", "odds": 2.17 },
-      { "name": "Map score 2-1", "odds": 2.96 },
-      { "name": "Map score 0-2", "odds": 6.26 },
-      { "name": "Map score 1-2", "odds": 5.16 }
+      { "name": "Vit -2.5", "odds": 2.58 },
+      { "name": "TH +2.5", "odds": 1.47 },
+      { "name": "Vit +2.5", "odds": 1.82 },
+      { "name": "TH -2.5", "odds": 1.94 },
+      { "name": "Vit +3.5", "odds": 1.58 },
+      { "name": "TH -3.5", "odds": 2.25 },
+      { "name": "Over 20.5", "odds": 1.55 },
+      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Over 21.5", "odds": 1.85 },
+      { "name": "Under 21.5", "odds": 1.91 },
+      { "name": "Over 22.5", "odds": 2.31 },
+      { "name": "Under 22.5", "odds": 1.54 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-17 00:00:00+0800",
-    "match_name": "Vitality vs Fnatic Map1",
-    "team1": "Vitality",
-    "team2": "Fnatic",
+    "time": "2024-07-20 00:00:00+0800",
+    "match_name": "Vit vs TH Map5",
+    "team1": "Vit",
+    "team2": "TH",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.45 },
-      { "name": "Fnatic Winner", "odds": 2.63 }
+      { "name": "Vit Winner", "odds": 2.25 },
+      { "name": "TH Winner", "odds": 1.6 }
     ],
     "more_bet_list": [
-      { "name": "Vitality -4.5", "odds": 2.07 },
-      { "name": "Fnatic +4.5", "odds": 1.71 },
-      { "name": "Vitality -3.5", "odds": 1.8 },
-      { "name": "Fnatic +3.5", "odds": 1.96 },
-      { "name": "Vitality -2.5", "odds": 1.6 },
-      { "name": "Fnatic +2.5", "odds": 2.25 },
-      { "name": "Over 20.5", "odds": 1.6 },
-      { "name": "Under 20.5", "odds": 2.25 },
-      { "name": "Over 21.5", "odds": 1.93 },
-      { "name": "Under 21.5", "odds": 1.83 },
-      { "name": "Over 22.5", "odds": 2.44 },
-      { "name": "Under 22.5", "odds": 1.49 }
+      { "name": "Vit -2.5", "odds": 2.58 },
+      { "name": "TH +2.5", "odds": 1.47 },
+      { "name": "Vit +2.5", "odds": 1.82 },
+      { "name": "TH -2.5", "odds": 1.94 },
+      { "name": "Vit +3.5", "odds": 1.58 },
+      { "name": "TH -3.5", "odds": 2.25 },
+      { "name": "Over 20.5", "odds": 1.55 },
+      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Over 21.5", "odds": 1.85 },
+      { "name": "Under 21.5", "odds": 1.91 },
+      { "name": "Over 22.5", "odds": 2.31 },
+      { "name": "Under 22.5", "odds": 1.54 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-17 00:00:00+0800",
-    "match_name": "Vitality vs Fnatic Map2",
-    "team1": "Vitality",
-    "team2": "Fnatic",
+    "time": "2024-07-20 05:00:00+0800",
+    "match_name": "Leviathan vs G2 Match",
+    "team1": "Leviathan",
+    "team2": "G2",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.45 },
-      { "name": "Fnatic Winner", "odds": 2.63 }
+      { "name": "Leviathan Winner", "odds": 1.58 },
+      { "name": "G2 Winner", "odds": 2.31 }
     ],
     "more_bet_list": [
-      { "name": "Vitality -4.5", "odds": 2.07 },
-      { "name": "Fnatic +4.5", "odds": 1.71 },
-      { "name": "Vitality -3.5", "odds": 1.8 },
-      { "name": "Fnatic +3.5", "odds": 1.96 },
-      { "name": "Vitality -2.5", "odds": 1.6 },
-      { "name": "Fnatic +2.5", "odds": 2.25 },
-      { "name": "Over 20.5", "odds": 1.6 },
-      { "name": "Under 20.5", "odds": 2.25 },
-      { "name": "Over 21.5", "odds": 1.93 },
-      { "name": "Under 21.5", "odds": 1.83 },
-      { "name": "Over 22.5", "odds": 2.44 },
-      { "name": "Under 22.5", "odds": 1.49 }
+      { "name": "Leviathan -1.5", "odds": 1.69 },
+      { "name": "G2 +1.5", "odds": 1.43 },
+      { "name": "Over 2.5", "odds": 1.96 },
+      { "name": "Under 2.5", "odds": 1.8 },
+      { "name": "Map score 2-0", "odds": 2.63 },
+      { "name": "Map score 2-1", "odds": 3.32 },
+      { "name": "Map score 0-2", "odds": 4.03 },
+      { "name": "Map score 1-2", "odds": 3.5 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-17 00:00:00+0800",
-    "match_name": "Vitality vs Fnatic Map3",
-    "team1": "Vitality",
-    "team2": "Fnatic",
+    "time": "2024-07-20 05:00:00+0800",
+    "match_name": "Leviathan vs G2 Map1",
+    "team1": "Leviathan",
+    "team2": "G2",
     "main_bet_list": [
-      { "name": "Vitality Winner", "odds": 1.45 },
-      { "name": "Fnatic Winner", "odds": 2.63 }
+      { "name": "Leviathan Winner", "odds": 1.7 },
+      { "name": "G2 Winner", "odds": 2.08 }
     ],
     "more_bet_list": [
-      { "name": "Vitality -4.5", "odds": 2.07 },
-      { "name": "Fnatic +4.5", "odds": 1.71 },
-      { "name": "Vitality -3.5", "odds": 1.8 },
-      { "name": "Fnatic +3.5", "odds": 1.96 },
-      { "name": "Vitality -2.5", "odds": 1.6 },
-      { "name": "Fnatic +2.5", "odds": 2.25 },
-      { "name": "Over 20.5", "odds": 1.6 },
-      { "name": "Under 20.5", "odds": 2.25 },
-      { "name": "Over 21.5", "odds": 1.93 },
-      { "name": "Under 21.5", "odds": 1.83 },
-      { "name": "Over 22.5", "odds": 2.44 },
-      { "name": "Under 22.5", "odds": 1.49 }
+      { "name": "Leviathan -3.5", "odds": 2.38 },
+      { "name": "G2 +3.5", "odds": 1.5 },
+      { "name": "Leviathan -2.5", "odds": 2.03 },
+      { "name": "G2 +2.5", "odds": 1.73 },
+      { "name": "Leviathan +2.5", "odds": 1.52 },
+      { "name": "G2 -2.5", "odds": 2.42 },
+      { "name": "Over 20.5", "odds": 1.52 },
+      { "name": "Under 20.5", "odds": 2.42 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.96 },
+      { "name": "Over 22.5", "odds": 2.23 },
+      { "name": "Under 22.5", "odds": 1.59 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-17 03:00:00+0800",
-    "match_name": "TH vs FUT Match",
-    "team1": "TH",
-    "team2": "FUT",
+    "time": "2024-07-20 05:00:00+0800",
+    "match_name": "Leviathan vs G2 Map2",
+    "team1": "Leviathan",
+    "team2": "G2",
     "main_bet_list": [
-      { "name": "TH Winner", "odds": 2.17 },
-      { "name": "FUT Winner", "odds": 1.65 }
+      { "name": "Leviathan Winner", "odds": 1.7 },
+      { "name": "G2 Winner", "odds": 2.08 }
     ],
     "more_bet_list": [
-      { "name": "TH +1.5", "odds": 1.4 },
-      { "name": "FUT -1.5", "odds": 2.78 },
+      { "name": "Leviathan -3.5", "odds": 2.38 },
+      { "name": "G2 +3.5", "odds": 1.5 },
+      { "name": "Leviathan -2.5", "odds": 2.03 },
+      { "name": "G2 +2.5", "odds": 1.73 },
+      { "name": "Leviathan +2.5", "odds": 1.52 },
+      { "name": "G2 -2.5", "odds": 2.42 },
+      { "name": "Over 20.5", "odds": 1.52 },
+      { "name": "Under 20.5", "odds": 2.42 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.96 },
+      { "name": "Over 22.5", "odds": 2.23 },
+      { "name": "Under 22.5", "odds": 1.59 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-07-20 05:00:00+0800",
+    "match_name": "Leviathan vs G2 Map3",
+    "team1": "Leviathan",
+    "team2": "G2",
+    "main_bet_list": [
+      { "name": "Leviathan Winner", "odds": 1.7 },
+      { "name": "G2 Winner", "odds": 2.08 }
+    ],
+    "more_bet_list": [
+      { "name": "Leviathan -3.5", "odds": 2.38 },
+      { "name": "G2 +3.5", "odds": 1.5 },
+      { "name": "Leviathan -2.5", "odds": 2.03 },
+      { "name": "G2 +2.5", "odds": 1.73 },
+      { "name": "Leviathan +2.5", "odds": 1.52 },
+      { "name": "G2 -2.5", "odds": 2.42 },
+      { "name": "Over 20.5", "odds": 1.52 },
+      { "name": "Under 20.5", "odds": 2.42 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.96 },
+      { "name": "Over 22.5", "odds": 2.23 },
+      { "name": "Under 22.5", "odds": 1.59 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-07-20 08:00:00+0800",
+    "match_name": "KRU vs 100T Match",
+    "team1": "KRU",
+    "team2": "100T",
+    "main_bet_list": [
+      { "name": "KRU Winner", "odds": 2.25 },
+      { "name": "100T Winner", "odds": 1.6 }
+    ],
+    "more_bet_list": [
+      { "name": "KRU +1.5", "odds": 1.43 },
+      { "name": "100T -1.5", "odds": 2.69 },
       { "name": "Over 2.5", "odds": 1.94 },
       { "name": "Under 2.5", "odds": 1.82 },
       { "name": "Map score 2-0", "odds": 4.22 },
@@ -364,77 +422,77 @@
   },
   {
     "type": "Valorant",
-    "time": "2024-07-17 03:00:00+0800",
-    "match_name": "TH vs FUT Map1",
-    "team1": "TH",
-    "team2": "FUT",
+    "time": "2024-07-20 08:00:00+0800",
+    "match_name": "KRU vs 100T Map1",
+    "team1": "KRU",
+    "team2": "100T",
     "main_bet_list": [
-      { "name": "TH Winner", "odds": 2.08 },
-      { "name": "FUT Winner", "odds": 1.7 }
+      { "name": "KRU Winner", "odds": 2.08 },
+      { "name": "100T Winner", "odds": 1.7 }
     ],
     "more_bet_list": [
-      { "name": "TH -2.5", "odds": 2.56 },
-      { "name": "FUT +2.5", "odds": 1.48 },
-      { "name": "TH +2.5", "odds": 1.81 },
-      { "name": "FUT -2.5", "odds": 1.95 },
-      { "name": "TH +3.5", "odds": 1.56 },
-      { "name": "FUT -3.5", "odds": 2.28 },
-      { "name": "Over 20.5", "odds": 1.56 },
-      { "name": "Under 20.5", "odds": 2.35 },
-      { "name": "Over 21.5", "odds": 1.86 },
-      { "name": "Under 21.5", "odds": 1.9 },
-      { "name": "Over 22.5", "odds": 2.33 },
-      { "name": "Under 22.5", "odds": 1.53 }
+      { "name": "KRU -2.5", "odds": 2.4 },
+      { "name": "100T +2.5", "odds": 1.53 },
+      { "name": "KRU +2.5", "odds": 1.7 },
+      { "name": "100T -2.5", "odds": 2.06 },
+      { "name": "KRU +3.5", "odds": 1.48 },
+      { "name": "100T -3.5", "odds": 2.42 },
+      { "name": "Over 20.5", "odds": 1.52 },
+      { "name": "Under 20.5", "odds": 2.42 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.96 },
+      { "name": "Over 22.5", "odds": 2.23 },
+      { "name": "Under 22.5", "odds": 1.59 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-17 03:00:00+0800",
-    "match_name": "TH vs FUT Map2",
-    "team1": "TH",
-    "team2": "FUT",
+    "time": "2024-07-20 08:00:00+0800",
+    "match_name": "KRU vs 100T Map2",
+    "team1": "KRU",
+    "team2": "100T",
     "main_bet_list": [
-      { "name": "TH Winner", "odds": 2.08 },
-      { "name": "FUT Winner", "odds": 1.7 }
+      { "name": "KRU Winner", "odds": 2.08 },
+      { "name": "100T Winner", "odds": 1.7 }
     ],
     "more_bet_list": [
-      { "name": "TH -2.5", "odds": 2.56 },
-      { "name": "FUT +2.5", "odds": 1.48 },
-      { "name": "TH +2.5", "odds": 1.81 },
-      { "name": "FUT -2.5", "odds": 1.95 },
-      { "name": "TH +3.5", "odds": 1.56 },
-      { "name": "FUT -3.5", "odds": 2.28 },
-      { "name": "Over 20.5", "odds": 1.56 },
-      { "name": "Under 20.5", "odds": 2.35 },
-      { "name": "Over 21.5", "odds": 1.86 },
-      { "name": "Under 21.5", "odds": 1.9 },
-      { "name": "Over 22.5", "odds": 2.33 },
-      { "name": "Under 22.5", "odds": 1.53 }
+      { "name": "KRU -2.5", "odds": 2.4 },
+      { "name": "100T +2.5", "odds": 1.53 },
+      { "name": "KRU +2.5", "odds": 1.7 },
+      { "name": "100T -2.5", "odds": 2.06 },
+      { "name": "KRU +3.5", "odds": 1.48 },
+      { "name": "100T -3.5", "odds": 2.42 },
+      { "name": "Over 20.5", "odds": 1.52 },
+      { "name": "Under 20.5", "odds": 2.42 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.96 },
+      { "name": "Over 22.5", "odds": 2.23 },
+      { "name": "Under 22.5", "odds": 1.59 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-17 03:00:00+0800",
-    "match_name": "TH vs FUT Map3",
-    "team1": "TH",
-    "team2": "FUT",
+    "time": "2024-07-20 08:00:00+0800",
+    "match_name": "KRU vs 100T Map3",
+    "team1": "KRU",
+    "team2": "100T",
     "main_bet_list": [
-      { "name": "TH Winner", "odds": 2.08 },
-      { "name": "FUT Winner", "odds": 1.7 }
+      { "name": "KRU Winner", "odds": 2.08 },
+      { "name": "100T Winner", "odds": 1.7 }
     ],
     "more_bet_list": [
-      { "name": "TH -2.5", "odds": 2.56 },
-      { "name": "FUT +2.5", "odds": 1.48 },
-      { "name": "TH +2.5", "odds": 1.81 },
-      { "name": "FUT -2.5", "odds": 1.95 },
-      { "name": "TH +3.5", "odds": 1.56 },
-      { "name": "FUT -3.5", "odds": 2.28 },
-      { "name": "Over 20.5", "odds": 1.56 },
-      { "name": "Under 20.5", "odds": 2.35 },
-      { "name": "Over 21.5", "odds": 1.86 },
-      { "name": "Under 21.5", "odds": 1.9 },
-      { "name": "Over 22.5", "odds": 2.33 },
-      { "name": "Under 22.5", "odds": 1.53 }
+      { "name": "KRU -2.5", "odds": 2.4 },
+      { "name": "100T +2.5", "odds": 1.53 },
+      { "name": "KRU +2.5", "odds": 1.7 },
+      { "name": "100T -2.5", "odds": 2.06 },
+      { "name": "KRU +3.5", "odds": 1.48 },
+      { "name": "100T -3.5", "odds": 2.42 },
+      { "name": "Over 20.5", "odds": 1.52 },
+      { "name": "Under 20.5", "odds": 2.42 },
+      { "name": "Over 21.5", "odds": 1.8 },
+      { "name": "Under 21.5", "odds": 1.96 },
+      { "name": "Over 22.5", "odds": 2.23 },
+      { "name": "Under 22.5", "odds": 1.59 }
     ]
   }
 ]
