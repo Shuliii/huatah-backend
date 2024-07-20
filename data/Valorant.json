@@ -1,306 +1,306 @@
 [
   {
     "type": "Valorant",
-    "time": "2024-07-19 16:00:00+0800",
-    "match_name": "Trace vs FPX Match",
-    "team1": "Trace",
-    "team2": "FPX",
+    "time": "2024-07-20 16:00:00+0800",
+    "match_name": "DRX vs PRX Match",
+    "team1": "DRX",
+    "team2": "PRX",
     "main_bet_list": [
-      { "name": "Trace Winner", "odds": 2.08 },
-      { "name": "FPX Winner", "odds": 1.7 }
+      { "name": "DRX Winner", "odds": 3.22 },
+      { "name": "PRX Winner", "odds": 1.29 }
     ],
     "more_bet_list": [
-      { "name": "Trace +1.5", "odds": 1.51 },
-      { "name": "FPX -1.5", "odds": 2.44 },
-      { "name": "Trace +2.5", "odds": 1.15 },
-      { "name": "FPX -2.5", "odds": 5.0 },
-      { "name": "Over 3.5", "odds": 1.3 },
-      { "name": "Under 3.5", "odds": 3.27 },
-      { "name": "Over 4.5", "odds": 2.47 },
-      { "name": "Under 4.5", "odds": 1.5 },
-      { "name": "Map score 3-0", "odds": 6.55 },
-      { "name": "Map score 3-1", "odds": 4.7 },
-      { "name": "Map score 3-2", "odds": 4.57 },
-      { "name": "Map score 0-3", "odds": 5.16 },
-      { "name": "Map score 1-3", "odds": 4.12 },
-      { "name": "Map score 2-3", "odds": 4.22 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-07-19 16:00:00+0800",
-    "match_name": "Trace vs FPX Map1",
-    "team1": "Trace",
-    "team2": "FPX",
-    "main_bet_list": [
-      { "name": "Trace Winner", "odds": 1.88 },
-      { "name": "FPX Winner", "odds": 1.88 }
-    ],
-    "more_bet_list": [
-      { "name": "Trace -2.5", "odds": 2.33 },
-      { "name": "FPX +2.5", "odds": 1.57 },
-      { "name": "Trace +2.5", "odds": 1.63 },
-      { "name": "FPX -2.5", "odds": 2.14 },
-      { "name": "Trace +3.5", "odds": 1.45 },
-      { "name": "FPX -3.5", "odds": 2.53 },
-      { "name": "Over 20.5", "odds": 1.52 },
-      { "name": "Under 20.5", "odds": 2.42 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.96 },
-      { "name": "Over 22.5", "odds": 2.23 },
-      { "name": "Under 22.5", "odds": 1.59 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-07-19 16:45:00+0800",
-    "match_name": "Trace vs FPX Map2",
-    "team1": "Trace",
-    "team2": "FPX",
-    "main_bet_list": [
-      { "name": "Trace Winner", "odds": 1.88 },
-      { "name": "FPX Winner", "odds": 1.88 }
-    ],
-    "more_bet_list": [
-      { "name": "Trace -2.5", "odds": 2.33 },
-      { "name": "FPX +2.5", "odds": 1.57 },
-      { "name": "Trace +2.5", "odds": 1.63 },
-      { "name": "FPX -2.5", "odds": 2.14 },
-      { "name": "Trace +3.5", "odds": 1.45 },
-      { "name": "FPX -3.5", "odds": 2.53 },
-      { "name": "Over 20.5", "odds": 1.52 },
-      { "name": "Under 20.5", "odds": 2.42 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.96 },
-      { "name": "Over 22.5", "odds": 2.23 },
-      { "name": "Under 22.5", "odds": 1.59 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-07-19 18:00:00+0800",
-    "match_name": "Trace vs FPX Map3",
-    "team1": "Trace",
-    "team2": "FPX",
-    "main_bet_list": [
-      { "name": "Trace Winner", "odds": 1.88 },
-      { "name": "FPX Winner", "odds": 1.88 }
-    ],
-    "more_bet_list": [
-      { "name": "Trace -2.5", "odds": 2.33 },
-      { "name": "FPX +2.5", "odds": 1.57 },
-      { "name": "Trace +2.5", "odds": 1.63 },
-      { "name": "FPX -2.5", "odds": 2.14 },
-      { "name": "Trace +3.5", "odds": 1.45 },
-      { "name": "FPX -3.5", "odds": 2.53 },
-      { "name": "Over 20.5", "odds": 1.52 },
-      { "name": "Under 20.5", "odds": 2.42 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.96 },
-      { "name": "Over 22.5", "odds": 2.23 },
-      { "name": "Under 22.5", "odds": 1.59 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-07-19 18:30:00+0800",
-    "match_name": "Trace vs FPX Map4",
-    "team1": "Trace",
-    "team2": "FPX",
-    "main_bet_list": [
-      { "name": "Trace Winner", "odds": 1.88 },
-      { "name": "FPX Winner", "odds": 1.88 }
-    ],
-    "more_bet_list": [
-      { "name": "Trace -2.5", "odds": 2.33 },
-      { "name": "FPX +2.5", "odds": 1.57 },
-      { "name": "Trace +2.5", "odds": 1.63 },
-      { "name": "FPX -2.5", "odds": 2.14 },
-      { "name": "Trace +3.5", "odds": 1.45 },
-      { "name": "FPX -3.5", "odds": 2.53 },
-      { "name": "Over 20.5", "odds": 1.52 },
-      { "name": "Under 20.5", "odds": 2.42 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.96 },
-      { "name": "Over 22.5", "odds": 2.23 },
-      { "name": "Under 22.5", "odds": 1.59 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-07-19 19:00:00+0800",
-    "match_name": "Trace vs FPX Map5",
-    "team1": "Trace",
-    "team2": "FPX",
-    "main_bet_list": [
-      { "name": "Trace Winner", "odds": 1.88 },
-      { "name": "FPX Winner", "odds": 1.88 }
-    ],
-    "more_bet_list": [
-      { "name": "Trace -2.5", "odds": 2.33 },
-      { "name": "FPX +2.5", "odds": 1.57 },
-      { "name": "Trace +2.5", "odds": 1.63 },
-      { "name": "FPX -2.5", "odds": 2.14 },
-      { "name": "Trace +3.5", "odds": 1.45 },
-      { "name": "FPX -3.5", "odds": 2.53 },
-      { "name": "Over 20.5", "odds": 1.52 },
-      { "name": "Under 20.5", "odds": 2.42 },
-      { "name": "Over 21.5", "odds": 1.8 },
-      { "name": "Under 21.5", "odds": 1.96 },
-      { "name": "Over 22.5", "odds": 2.23 },
-      { "name": "Under 22.5", "odds": 1.59 }
-    ]
-  },
-  {
-    "type": "Valorant",
-    "time": "2024-07-20 00:00:00+0800",
-    "match_name": "Vit vs TH Match",
-    "team1": "Vit",
-    "team2": "TH",
-    "main_bet_list": [
-      { "name": "Vit Winner", "odds": 2.61 },
-      { "name": "TH Winner", "odds": 1.46 }
-    ],
-    "more_bet_list": [
-      { "name": "Vit +1.5", "odds": 1.78 },
-      { "name": "TH -1.5", "odds": 2.0 },
-      { "name": "Vit +2.5", "odds": 1.17 },
-      { "name": "TH -2.5", "odds": 4.7 },
-      { "name": "Over 3.5", "odds": 1.35 },
-      { "name": "Under 3.5", "odds": 3.04 },
-      { "name": "Over 4.5", "odds": 2.72 },
-      { "name": "Under 4.5", "odds": 1.42 },
-      { "name": "Map score 3-0", "odds": 7.66 },
-      { "name": "Map score 3-1", "odds": 6.55 },
-      { "name": "Map score 3-2", "odds": 5.0 },
-      { "name": "Map score 0-3", "odds": 3.94 },
-      { "name": "Map score 1-3", "odds": 3.5 },
+      { "name": "DRX +1.5", "odds": 2.14 },
+      { "name": "PRX -1.5", "odds": 1.65 },
+      { "name": "DRX +2.5", "odds": 1.32 },
+      { "name": "PRX -2.5", "odds": 3.08 },
+      { "name": "Over 3.5", "odds": 1.49 },
+      { "name": "Under 3.5", "odds": 2.44 },
+      { "name": "Over 4.5", "odds": 3.00 },
+      { "name": "Under 4.5", "odds": 1.34 },
+      { "name": "Map score 3-0", "odds": 8.69 },
+      { "name": "Map score 3-1", "odds": 7.25 },
+      { "name": "Map score 3-2", "odds": 6.55 },
+      { "name": "Map score 0-3", "odds": 3.12 },
+      { "name": "Map score 1-3", "odds": 3.22 },
       { "name": "Map score 2-3", "odds": 4.44 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-20 00:00:00+0800",
-    "match_name": "Vit vs TH Map1",
-    "team1": "Vit",
-    "team2": "TH",
+    "time": "2024-07-20 16:00:00+0800",
+    "match_name": "DRX vs PRX Map1",
+    "team1": "DRX",
+    "team2": "PRX",
     "main_bet_list": [
-      { "name": "Vit Winner", "odds": 2.25 },
-      { "name": "TH Winner", "odds": 1.6 }
+      { "name": "DRX Winner", "odds": 2.44 },
+      { "name": "PRX Winner", "odds": 1.49 }
     ],
     "more_bet_list": [
-      { "name": "Vit -2.5", "odds": 2.58 },
-      { "name": "TH +2.5", "odds": 1.47 },
-      { "name": "Vit +2.5", "odds": 1.82 },
-      { "name": "TH -2.5", "odds": 1.94 },
-      { "name": "Vit +3.5", "odds": 1.58 },
-      { "name": "TH -3.5", "odds": 2.25 },
-      { "name": "Over 20.5", "odds": 1.55 },
-      { "name": "Under 20.5", "odds": 2.36 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.91 },
-      { "name": "Over 22.5", "odds": 2.31 },
-      { "name": "Under 22.5", "odds": 1.54 }
+      { "name": "DRX +2.5", "odds": 2.17 },
+      { "name": "PRX -2.5", "odds": 1.63 },
+      { "name": "DRX +3.5", "odds": 1.90 },
+      { "name": "PRX -3.5", "odds": 1.84 },
+      { "name": "DRX +4.5", "odds": 1.65 },
+      { "name": "PRX -4.5", "odds": 2.12 },
+      { "name": "Over 20.5", "odds": 1.61 },
+      { "name": "Under 20.5", "odds": 2.20 },
+      { "name": "Over 21.5", "odds": 1.95 },
+      { "name": "Under 21.5", "odds": 1.79 },
+      { "name": "Over 22.5", "odds": 2.49 },
+      { "name": "Under 22.5", "odds": 1.46 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-20 00:00:00+0800",
-    "match_name": "Vit vs TH Map2",
-    "team1": "Vit",
-    "team2": "TH",
+    "time": "2024-07-20 16:45:00+0800",
+    "match_name": "DRX vs PRX Map2",
+    "team1": "DRX",
+    "team2": "PRX",
     "main_bet_list": [
-      { "name": "Vit Winner", "odds": 2.25 },
-      { "name": "TH Winner", "odds": 1.6 }
+      { "name": "DRX Winner", "odds": 2.44 },
+      { "name": "PRX Winner", "odds": 1.49 }
     ],
     "more_bet_list": [
-      { "name": "Vit -2.5", "odds": 2.58 },
-      { "name": "TH +2.5", "odds": 1.47 },
-      { "name": "Vit +2.5", "odds": 1.82 },
-      { "name": "TH -2.5", "odds": 1.94 },
-      { "name": "Vit +3.5", "odds": 1.58 },
-      { "name": "TH -3.5", "odds": 2.25 },
-      { "name": "Over 20.5", "odds": 1.55 },
-      { "name": "Under 20.5", "odds": 2.36 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.91 },
-      { "name": "Over 22.5", "odds": 2.31 },
-      { "name": "Under 22.5", "odds": 1.54 }
+      { "name": "DRX +2.5", "odds": 2.17 },
+      { "name": "PRX -2.5", "odds": 1.63 },
+      { "name": "DRX +3.5", "odds": 1.90 },
+      { "name": "PRX -3.5", "odds": 1.84 },
+      { "name": "DRX +4.5", "odds": 1.65 },
+      { "name": "PRX -4.5", "odds": 2.12 },
+      { "name": "Over 20.5", "odds": 1.61 },
+      { "name": "Under 20.5", "odds": 2.20 },
+      { "name": "Over 21.5", "odds": 1.95 },
+      { "name": "Under 21.5", "odds": 1.79 },
+      { "name": "Over 22.5", "odds": 2.49 },
+      { "name": "Under 22.5", "odds": 1.46 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-20 00:00:00+0800",
-    "match_name": "Vit vs TH Map3",
-    "team1": "Vit",
-    "team2": "TH",
+    "time": "2024-07-20 18:00:00+0800",
+    "match_name": "DRX vs PRX Map3",
+    "team1": "DRX",
+    "team2": "PRX",
     "main_bet_list": [
-      { "name": "Vit Winner", "odds": 2.25 },
-      { "name": "TH Winner", "odds": 1.6 }
+      { "name": "DRX Winner", "odds": 2.44 },
+      { "name": "PRX Winner", "odds": 1.49 }
     ],
     "more_bet_list": [
-      { "name": "Vit -2.5", "odds": 2.58 },
-      { "name": "TH +2.5", "odds": 1.47 },
-      { "name": "Vit +2.5", "odds": 1.82 },
-      { "name": "TH -2.5", "odds": 1.94 },
-      { "name": "Vit +3.5", "odds": 1.58 },
-      { "name": "TH -3.5", "odds": 2.25 },
-      { "name": "Over 20.5", "odds": 1.55 },
-      { "name": "Under 20.5", "odds": 2.36 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.91 },
-      { "name": "Over 22.5", "odds": 2.31 },
-      { "name": "Under 22.5", "odds": 1.54 }
+      { "name": "DRX +2.5", "odds": 2.17 },
+      { "name": "PRX -2.5", "odds": 1.63 },
+      { "name": "DRX +3.5", "odds": 1.90 },
+      { "name": "PRX -3.5", "odds": 1.84 },
+      { "name": "DRX +4.5", "odds": 1.65 },
+      { "name": "PRX -4.5", "odds": 2.12 },
+      { "name": "Over 20.5", "odds": 1.61 },
+      { "name": "Under 20.5", "odds": 2.20 },
+      { "name": "Over 21.5", "odds": 1.95 },
+      { "name": "Under 21.5", "odds": 1.79 },
+      { "name": "Over 22.5", "odds": 2.49 },
+      { "name": "Under 22.5", "odds": 1.46 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-20 00:00:00+0800",
-    "match_name": "Vit vs TH Map4",
-    "team1": "Vit",
-    "team2": "TH",
+    "time": "2024-07-20 18:30:00+0800",
+    "match_name": "DRX vs PRX Map4",
+    "team1": "DRX",
+    "team2": "PRX",
     "main_bet_list": [
-      { "name": "Vit Winner", "odds": 2.25 },
-      { "name": "TH Winner", "odds": 1.6 }
+      { "name": "DRX Winner", "odds": 2.44 },
+      { "name": "PRX Winner", "odds": 1.49 }
     ],
     "more_bet_list": [
-      { "name": "Vit -2.5", "odds": 2.58 },
-      { "name": "TH +2.5", "odds": 1.47 },
-      { "name": "Vit +2.5", "odds": 1.82 },
-      { "name": "TH -2.5", "odds": 1.94 },
-      { "name": "Vit +3.5", "odds": 1.58 },
-      { "name": "TH -3.5", "odds": 2.25 },
-      { "name": "Over 20.5", "odds": 1.55 },
-      { "name": "Under 20.5", "odds": 2.36 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.91 },
-      { "name": "Over 22.5", "odds": 2.31 },
-      { "name": "Under 22.5", "odds": 1.54 }
+      { "name": "DRX +2.5", "odds": 2.17 },
+      { "name": "PRX -2.5", "odds": 1.63 },
+      { "name": "DRX +3.5", "odds": 1.90 },
+      { "name": "PRX -3.5", "odds": 1.84 },
+      { "name": "DRX +4.5", "odds": 1.65 },
+      { "name": "PRX -4.5", "odds": 2.12 },
+      { "name": "Over 20.5", "odds": 1.61 },
+      { "name": "Under 20.5", "odds": 2.20 },
+      { "name": "Over 21.5", "odds": 1.95 },
+      { "name": "Under 21.5", "odds": 1.79 },
+      { "name": "Over 22.5", "odds": 2.49 },
+      { "name": "Under 22.5", "odds": 1.46 }
     ]
   },
   {
     "type": "Valorant",
-    "time": "2024-07-20 00:00:00+0800",
-    "match_name": "Vit vs TH Map5",
-    "team1": "Vit",
-    "team2": "TH",
+    "time": "2024-07-20 19:00:00+0800",
+    "match_name": "DRX vs PRX Map5",
+    "team1": "DRX",
+    "team2": "PRX",
     "main_bet_list": [
-      { "name": "Vit Winner", "odds": 2.25 },
-      { "name": "TH Winner", "odds": 1.6 }
+      { "name": "DRX Winner", "odds": 2.44 },
+      { "name": "PRX Winner", "odds": 1.49 }
     ],
     "more_bet_list": [
-      { "name": "Vit -2.5", "odds": 2.58 },
-      { "name": "TH +2.5", "odds": 1.47 },
-      { "name": "Vit +2.5", "odds": 1.82 },
-      { "name": "TH -2.5", "odds": 1.94 },
-      { "name": "Vit +3.5", "odds": 1.58 },
-      { "name": "TH -3.5", "odds": 2.25 },
+      { "name": "DRX +2.5", "odds": 2.17 },
+      { "name": "PRX -2.5", "odds": 1.63 },
+      { "name": "DRX +3.5", "odds": 1.90 },
+      { "name": "PRX -3.5", "odds": 1.84 },
+      { "name": "DRX +4.5", "odds": 1.65 },
+      { "name": "PRX -4.5", "odds": 2.12 },
+      { "name": "Over 20.5", "odds": 1.61 },
+      { "name": "Under 20.5", "odds": 2.20 },
+      { "name": "Over 21.5", "odds": 1.95 },
+      { "name": "Under 21.5", "odds": 1.79 },
+      { "name": "Over 22.5", "odds": 2.49 },
+      { "name": "Under 22.5", "odds": 1.46 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-07-20 16:30:00+0800",
+    "match_name": "FPX vs EDG Match",
+    "team1": "FPX",
+    "team2": "EDG",
+    "main_bet_list": [
+      { "name": "FPX Winner", "odds": 2.63 },
+      { "name": "EDG Winner", "odds": 1.45 }
+    ],
+    "more_bet_list": [
+      { "name": "FPX +1.5", "odds": 1.87 },
+      { "name": "EDG -1.5", "odds": 1.91 },
+      { "name": "FPX +2.5", "odds": 1.21 },
+      { "name": "EDG -2.5", "odds": 4.03 },
+      { "name": "Over 3.5", "odds": 1.40 },
+      { "name": "Under 3.5", "odds": 2.78 },
+      { "name": "Over 4.5", "odds": 2.72 },
+      { "name": "Under 4.5", "odds": 1.42 },
+      { "name": "Map score 3-0", "odds": 7.25 },
+      { "name": "Map score 3-1", "odds": 6.26 },
+      { "name": "Map score 3-2", "odds": 4.7 },
+      { "name": "Map score 0-3", "odds": 3.56 },
+      { "name": "Map score 1-3", "odds": 3.56 },
+      { "name": "Map score 2-3", "odds": 4.44 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-07-20 16:30:00+0800",
+    "match_name": "FPX vs EDG Map1",
+    "team1": "FPX",
+    "team2": "EDG",
+    "main_bet_list": [
+      { "name": "FPX Winner", "odds": 2.25 },
+      { "name": "EDG Winner", "odds": 1.6 }
+    ],
+    "more_bet_list": [
+      { "name": "FPX -2.5", "odds": 2.69 },
+      { "name": "EDG +2.5", "odds": 1.43 },
+      { "name": "FPX +2.5", "odds": 1.91 },
+      { "name": "EDG -2.5", "odds": 1.85 },
+      { "name": "FPX +3.5", "odds": 1.66 },
+      { "name": "EDG -3.5", "odds": 2.13 },
       { "name": "Over 20.5", "odds": 1.55 },
       { "name": "Under 20.5", "odds": 2.36 },
-      { "name": "Over 21.5", "odds": 1.85 },
-      { "name": "Under 21.5", "odds": 1.91 },
-      { "name": "Over 22.5", "odds": 2.31 },
-      { "name": "Under 22.5", "odds": 1.54 }
+      { "name": "Over 21.5", "odds": 1.84 },
+      { "name": "Under 21.5", "odds": 1.92 },
+      { "name": "Over 22.5", "odds": 2.29 },
+      { "name": "Under 22.5", "odds": 1.55 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-07-20 17:00:00+0800",
+    "match_name": "FPX vs EDG Map2",
+    "team1": "FPX",
+    "team2": "EDG",
+    "main_bet_list": [
+      { "name": "FPX Winner", "odds": 2.25 },
+      { "name": "EDG Winner", "odds": 1.6 }
+    ],
+    "more_bet_list": [
+      { "name": "FPX -2.5", "odds": 2.69 },
+      { "name": "EDG +2.5", "odds": 1.43 },
+      { "name": "FPX +2.5", "odds": 1.91 },
+      { "name": "EDG -2.5", "odds": 1.85 },
+      { "name": "FPX +3.5", "odds": 1.66 },
+      { "name": "EDG -3.5", "odds": 2.13 },
+      { "name": "Over 20.5", "odds": 1.55 },
+      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Over 21.5", "odds": 1.84 },
+      { "name": "Under 21.5", "odds": 1.92 },
+      { "name": "Over 22.5", "odds": 2.29 },
+      { "name": "Under 22.5", "odds": 1.55 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-07-20 17:30:00+0800",
+    "match_name": "FPX vs EDG Map3",
+    "team1": "FPX",
+    "team2": "EDG",
+    "main_bet_list": [
+      { "name": "FPX Winner", "odds": 2.25 },
+      { "name": "EDG Winner", "odds": 1.6 }
+    ],
+    "more_bet_list": [
+      { "name": "FPX -2.5", "odds": 2.69 },
+      { "name": "EDG +2.5", "odds": 1.43 },
+      { "name": "FPX +2.5", "odds": 1.91 },
+      { "name": "EDG -2.5", "odds": 1.85 },
+      { "name": "FPX +3.5", "odds": 1.66 },
+      { "name": "EDG -3.5", "odds": 2.13 },
+      { "name": "Over 20.5", "odds": 1.55 },
+      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Over 21.5", "odds": 1.84 },
+      { "name": "Under 21.5", "odds": 1.92 },
+      { "name": "Over 22.5", "odds": 2.29 },
+      { "name": "Under 22.5", "odds": 1.55 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-07-20 18:00:00+0800",
+    "match_name": "FPX vs EDG Map4",
+    "team1": "FPX",
+    "team2": "EDG",
+    "main_bet_list": [
+      { "name": "FPX Winner", "odds": 2.25 },
+      { "name": "EDG Winner", "odds": 1.6 }
+    ],
+    "more_bet_list": [
+      { "name": "FPX -2.5", "odds": 2.69 },
+      { "name": "EDG +2.5", "odds": 1.43 },
+      { "name": "FPX +2.5", "odds": 1.91 },
+      { "name": "EDG -2.5", "odds": 1.85 },
+      { "name": "FPX +3.5", "odds": 1.66 },
+      { "name": "EDG -3.5", "odds": 2.13 },
+      { "name": "Over 20.5", "odds": 1.55 },
+      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Over 21.5", "odds": 1.84 },
+      { "name": "Under 21.5", "odds": 1.92 },
+      { "name": "Over 22.5", "odds": 2.29 },
+      { "name": "Under 22.5", "odds": 1.55 }
+    ]
+  },
+  {
+    "type": "Valorant",
+    "time": "2024-07-20 18:30:00+0800",
+    "match_name": "FPX vs EDG Map5",
+    "team1": "FPX",
+    "team2": "EDG",
+    "main_bet_list": [
+      { "name": "FPX Winner", "odds": 2.25 },
+      { "name": "EDG Winner", "odds": 1.6 }
+    ],
+    "more_bet_list": [
+      { "name": "FPX -2.5", "odds": 2.69 },
+      { "name": "EDG +2.5", "odds": 1.43 },
+      { "name": "FPX +2.5", "odds": 1.91 },
+      { "name": "EDG -2.5", "odds": 1.85 },
+      { "name": "FPX +3.5", "odds": 1.66 },
+      { "name": "EDG -3.5", "odds": 2.13 },
+      { "name": "Over 20.5", "odds": 1.55 },
+      { "name": "Under 20.5", "odds": 2.36 },
+      { "name": "Over 21.5", "odds": 1.84 },
+      { "name": "Under 21.5", "odds": 1.92 },
+      { "name": "Over 22.5", "odds": 2.29 },
+      { "name": "Under 22.5", "odds": 1.55 }
     ]
   },
   {
